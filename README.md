@@ -126,4 +126,4 @@ You may share, adapt, and reuse the material, including for educational purposes
 ## 🤝 Author
 
 Developed as part of the tactical training and research environment.  
-Original author: Cypher Intelligence
+Original author: Cypher Intelligence by Yokran
