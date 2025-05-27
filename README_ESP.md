@@ -126,4 +126,4 @@ Puedes compartir, adaptar y reutilizar el material, incluso en entornos formativ
 ## 🤝 Autoría
 
 Desarrollado como parte del entorno de formación e investigación táctica.  
-Autor original: Cypher Intelligence
+Autor original: Cypher Intelligence by Yokran
