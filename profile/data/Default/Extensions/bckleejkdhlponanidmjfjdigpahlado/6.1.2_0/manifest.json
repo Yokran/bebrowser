@@ -1,0 +1,41 @@
+{
+   "action": {
+      "default_icon": "./assets/icon-128.png",
+      "default_popup": "./dist/popup/InsFo/index.html"
+   },
+   "background": {
+      "service_worker": "./dist/background/index.mjs"
+   },
+   "content_scripts": [ {
+      "js": [ "dist/contentScripts/index.global.js" ],
+      "matches": [ "https://www.instagram.com/*ext=Fo&uuid=*", "https://www.listmore.info/*/insfo*", "https://www.instagram.com/accounts/*", "https://www.instagram.com/challenge/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Export Instagram Follower/Following/Comment/Tag/Location and Analyze.",
+   "differential_fingerprint": "1.55b8baed5ad1e71761e0f76308cecf77259462df1023ca831a7df08ce97d32ff",
+   "icons": {
+      "128": "assets/icon-128.png",
+      "16": "assets/icon-16.png",
+      "48": "assets/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApdvTEFMqiloH28y09X33q1Nn44olSGP1qgj7C2ozoA7Sm7mH3UYx4IAdhY3NWnbSK40jAuJINHv7w9EQaMxBsFB5VmkC4mKYEz8c3illoiBM9cHHDH+J5s+zWgJ2MYsOjHe6V7bzvwvmRpG5L8JICO/H/SejxhPvNA5OpnW1opdHzSBtUH3uzQ5OUH9F+qD+22Y45Dzi9a3f+knBL2/7GmwKDWDxS3gUZ3tloIrZgohx8btdzqIoMlZ7yXcVpL2Gel/8kGdhkwGcWyKaF7CeCtbeFUdfhG3+GjIC0csHakGqllUoF7RFF3OaqhyOEKl1sCcJbuOIvm1VZE4mTFxTWwIDAQAB",
+   "manifest_version": 3,
+   "name": "InsFo - IG follower export & analysis tool",
+   "oauth2": {
+      "client_id": "139709177625-32vl44l4m2lfihrga1muig1doak5bt1g.apps.googleusercontent.com",
+      "scopes": [ "openid", "email", "profile" ]
+   },
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "./dist/options/index.html"
+   },
+   "permissions": [ "identity", "activeTab", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.1.2",
+   "web_accessible_resources": [ {
+      "matches": [ "https://www.instagram.com/*", "https://www.listmore.info/*" ],
+      "resources": [ "dist/contentScripts/style.css", "dist/injectButtonScripts/style.css", "assets/*" ]
+   } ]
+}

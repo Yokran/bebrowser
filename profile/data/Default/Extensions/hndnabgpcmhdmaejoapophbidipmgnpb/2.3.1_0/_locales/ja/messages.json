@@ -1,0 +1,238 @@
+{
+   "already_have_a_token": {
+      "message": "すでにトークンをお持ちですか？"
+   },
+   "basic": {
+      "message": "基本"
+   },
+   "basic_profile_desc": {
+      "message": "ID、プロフィール画像、ユーザー名、フルネーム、認証状態を含む基本プロフィール"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "chrome_extension_description": {
+      "message": "Growmanを使用して、フォロワー/フォロー中、ロケーション、ハッシュタグに基づいてInstagramからメールアドレスを抽出できます。"
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG メール抽出ツール"
+   },
+   "click_here": {
+      "message": "こちらをクリック"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "continue": {
+      "message": "続行"
+   },
+   "continue_button": {
+      "message": "続行"
+   },
+   "continue_from_history": {
+      "message": "中断した箇所から続行しますか？"
+   },
+   "copy": {
+      "message": "コピー"
+   },
+   "detailed": {
+      "message": "詳細"
+   },
+   "detailed_profile_desc": {
+      "message": "プロフィール文、フォロワー数、メールアドレスなどを含む詳細プロフィール"
+   },
+   "eg_username": {
+      "message": "例：tottori または https://www.instagram.com/tottori/"
+   },
+   "email_extraction_tip": {
+      "message": "ヒント：メールアドレスの抽出結果を改善するには、ターゲット層に関連するハッシュタグで検索してみてください。"
+   },
+   "export_followers_of": {
+      "message": "フォロワーを抽出："
+   },
+   "export_followings_of": {
+      "message": "フォロー中を抽出："
+   },
+   "export_to_excel": {
+      "message": "$count$件の$type$をExcelにエクスポート",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "エクスポート中..."
+   },
+   "exporting_status": {
+      "message": "エクスポート中"
+   },
+   "extract": {
+      "message": "抽出"
+   },
+   "extract_by_hashtag": {
+      "message": "ハッシュタグで抽出"
+   },
+   "extract_by_location": {
+      "message": "ロケーションで抽出"
+   },
+   "feature_detailed_profile": {
+      "message": "詳細プロフィール"
+   },
+   "feature_export_followers": {
+      "message": "フォロワーリストのエクスポート"
+   },
+   "feature_export_followings": {
+      "message": "フォロー中リストのエクスポート"
+   },
+   "feature_free_amount": {
+      "message": "500件までのプロフィール抽出"
+   },
+   "feature_unlimited_export": {
+      "message": "無制限の抽出"
+   },
+   "feature_unsubscribe": {
+      "message": "いつでも簡単に解約可能"
+   },
+   "followers_label": {
+      "message": "フォロワー"
+   },
+   "following_label": {
+      "message": "フォロー中"
+   },
+   "found_extraction_from": {
+      "message": "保存された抽出データが見つかりました："
+   },
+   "free": {
+      "message": "無料"
+   },
+   "go": {
+      "message": "開始"
+   },
+   "hashtag_placeholder": {
+      "message": "ハッシュタグを入力してください（例：hypercars）"
+   },
+   "history": {
+      "message": "抽出履歴"
+   },
+   "history_found": {
+      "message": "履歴が見つかりました"
+   },
+   "history_notice": {
+      "message": "拡張機能は最近の抽出の進捗状況を保存します。履歴データはローカルに保存され、拡張機能をアンインストールすると失われます。"
+   },
+   "interval_risk_notice": {
+      "message": "待機間隔を長くすることで、Instagramに検出されるリスクが減少します"
+   },
+   "invalid_location_url": {
+      "message": "無効なロケーションURL"
+   },
+   "invalid_token_format": {
+      "message": "無効なトークン形式"
+   },
+   "items_extracted": {
+      "message": "件抽出済み"
+   },
+   "limit_max_number": {
+      "message": "最大抽出数を制限"
+   },
+   "location_example": {
+      "message": "例：https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "ロケーションURLを貼り付けてください"
+   },
+   "me": {
+      "message": "自分"
+   },
+   "my_token": {
+      "message": "マイトークン："
+   },
+   "no_history": {
+      "message": "抽出履歴はありません"
+   },
+   "not_public": {
+      "message": "非公開"
+   },
+   "paste_your_token": {
+      "message": "トークンを貼り付けてください"
+   },
+   "pause_button": {
+      "message": "一時停止"
+   },
+   "please_sign_in": {
+      "message": "Instagramにログインして再試行してください"
+   },
+   "posts_label": {
+      "message": "投稿"
+   },
+   "private": {
+      "message": "プライベート"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "PROユーザー"
+   },
+   "profile": {
+      "message": "プロフィール"
+   },
+   "progress": {
+      "message": "進捗："
+   },
+   "required": {
+      "message": "必須"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "short_interval_risk_notice": {
+      "message": "注意：短いリクエスト間隔はアカウント制限のリスクを大幅に増加させます。アカウントの安全性を確保するため、より長い間隔の使用を推奨します。"
+   },
+   "start_new": {
+      "message": "新規開始"
+   },
+   "subscription_canceled": {
+      "message": "サブスクリプションは正常にキャンセルされ、自動更新は停止されました。現在の請求期間中はPRO機能を引き続きご利用いただけます。"
+   },
+   "target": {
+      "message": "対象："
+   },
+   "to_unsubscribe": {
+      "message": "して解約"
+   },
+   "type": {
+      "message": "タイプ："
+   },
+   "unsubscribe_confirm_content": {
+      "message": "解約後、次の請求期間での自動更新は行われません。現在の請求期間が終了するまでPro機能をご利用いただけます。"
+   },
+   "unsubscribe_confirm_no": {
+      "message": "キャンセル"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "解約の確認"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "確認"
+   },
+   "upgrade_to_pro": {
+      "message": "PROにアップグレード"
+   },
+   "upgrade_to_pro_button": {
+      "message": "PROにアップグレード"
+   },
+   "verified": {
+      "message": "認証済み"
+   },
+   "wait_interval": {
+      "message": "待機間隔"
+   },
+   "wait_interval_seconds": {
+      "message": "待機間隔（秒）"
+   }
+}

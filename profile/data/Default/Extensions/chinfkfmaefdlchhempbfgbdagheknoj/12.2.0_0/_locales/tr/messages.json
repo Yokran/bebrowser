@@ -1,0 +1,333 @@
+{
+   "aLittle": {
+      "message": "Biraz"
+   },
+   "aLot": {
+      "message": "A lot"
+   },
+   "aTon": {
+      "message": "A ton"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + Yukarı/Aşağı Ok"
+   },
+   "alternateDesigns": {
+      "message": "Alternatif tasarımlar"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "Görünen mesafe"
+   },
+   "arrowOnly": {
+      "message": "Sadece oklar"
+   },
+   "authorsSettings": {
+      "message": "Önerilen ayarlar"
+   },
+   "barelyAny": {
+      "message": "Barely any"
+   },
+   "black": {
+      "message": "Siyah"
+   },
+   "blue": {
+      "message": "Mavi"
+   },
+   "bottomCenter": {
+      "message": "Orta alt"
+   },
+   "bottomLeft": {
+      "message": "Sol alt"
+   },
+   "bottomRight": {
+      "message": "Sağ alt"
+   },
+   "browserActionPageTitle": {
+      "message": "Aktif sekme ayarları | Scroll To Top Button"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "Sekmeyi yeniden yükle"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "Bu alan adı için STTB'yi devre dışı bırak"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "Bu URL için STTB'yi devre dışı bırak"
+   },
+   "browserActionSttbEnabled": {
+      "message": "STTB'yi etkinleştir"
+   },
+   "browserActionTitle": {
+      "message": "Aktif sekme ayarları"
+   },
+   "buttonDesign": {
+      "message": "Buton tasarımı"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "Piksel olarak buton yüksekliği"
+   },
+   "buttonLocation": {
+      "message": "Buton konumu"
+   },
+   "buttonMode": {
+      "message": "Buton modu"
+   },
+   "buttonSettings": {
+      "message": "Buton ayarları"
+   },
+   "buttonSize": {
+      "message": "Buton boyutu"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "$LENGTH$x$WIDTH$ piksel",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "Piksel olarak buton genişliği"
+   },
+   "centerLeft": {
+      "message": "Sol orta"
+   },
+   "centerRight": {
+      "message": "Sağ orta"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "colors": {
+      "message": "Renkler"
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "İçerik (sağ tık) menüsü"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Özelleştirmeme izin ver..."
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Çift oklar"
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "fast": {
+      "message": "Hızlı"
+   },
+   "faster": {
+      "message": "Daha hızlı"
+   },
+   "fastest": {
+      "message": "En hızlı (anında)"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Üst &amp; alt arasında döndür"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "Döndürme mesafesi"
+   },
+   "green": {
+      "message": "Yeşil"
+   },
+   "grey": {
+      "message": "Gri"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">Çeviriye yardım edin\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "Home &amp; End keys controlled by"
+   },
+   "invisible": {
+      "message": "Görünmez"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Sadece klavye"
+   },
+   "keyboardSettings": {
+      "message": "Klavye ayarları"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Klavye kısayolları"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "Otomatik (tarayıcı varsayılanı)"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "Uzantı, tarayıcıda varsayılan olarak seçilen dili destekliyorsa, onu kullanın. Aksi halde, İngilizce (Amerika Birleşik Devletleri) kullanın."
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Çekçe - čeština"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "İngilizce (Amerika Birleşik Devletleri) - English (United States)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Galiçyaca - galego"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Felemenkçe - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Lehçe - polski"
+   },
+   "language_ru": {
+      "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Rusça - русский"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Çince (Çin) - 中文（中国）"
+   },
+   "medium": {
+      "message": "Orta"
+   },
+   "moreThanAverage": {
+      "message": "Ortalamadan fazla"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "Etkin olmayan buton saydamlığı"
+   },
+   "off": {
+      "message": "Kapalı"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">Ana sayfa\u003C/a>"
+   },
+   "on": {
+      "message": "Açık"
+   },
+   "opaque": {
+      "message": "Donuk"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "İşletim sistemi"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Seçenekler | Scroll To Top Button"
+   },
+   "optionsSaved": {
+      "message": "Seçenekler kaydedildi."
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Scroll To Top Button Seçenekleri"
+   },
+   "orange": {
+      "message": "Turuncu"
+   },
+   "otherSettings": {
+      "message": "Diğer ayarlar"
+   },
+   "pink": {
+      "message": "Pembe"
+   },
+   "pixelDesign": {
+      "message": "Piksel tasarım"
+   },
+   "purple": {
+      "message": "Mor"
+   },
+   "red": {
+      "message": "Kırmızı"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">Sürüm notları\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "Varsayılana sıfırla"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "scrollDownSpeed": {
+      "message": "Aşağı kaydırma hızı"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Milisaniye olarak aşağı kaydırma hızı"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Sadece yukarı kaydır"
+   },
+   "scrollUpSpeed": {
+      "message": "Yukarı kaydırma hızı"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Milisaniye olarak yukarı kaydırma hızı"
+   },
+   "slow": {
+      "message": "Yavaş"
+   },
+   "slower": {
+      "message": "Daha yavaş"
+   },
+   "slowest": {
+      "message": "En yavaş"
+   },
+   "topCenter": {
+      "message": "Orta üst"
+   },
+   "topLeft": {
+      "message": "Sol üst"
+   },
+   "topRight": {
+      "message": "Sağ üst"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "Translated by \u003Ca href=\"https://www.transifex.com/user/profile/E.Tas/\" target=\"_blank\" id=\"translatorLink\">Eren Tas\u003C/a>"
+   },
+   "transparent": {
+      "message": "Saydam"
+   },
+   "tumblerBlue": {
+      "message": "Tumblr mavisi"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "Dil"
+   },
+   "yellow": {
+      "message": "Sarı"
+   }
+}

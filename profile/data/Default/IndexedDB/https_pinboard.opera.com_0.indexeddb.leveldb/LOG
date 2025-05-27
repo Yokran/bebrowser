@@ -1,0 +1,6 @@
+2025/03/26-08:24:36.690 6850 Creating DB G:\OSINTOMATICO\BEBROWSER_LAB\02.Config\profile\data\Default\IndexedDB\https_pinboard.opera.com_0.indexeddb.leveldb since it was missing.
+2025/03/26-08:24:36.732 6850 Reusing MANIFEST G:\OSINTOMATICO\BEBROWSER_LAB\02.Config\profile\data\Default\IndexedDB\https_pinboard.opera.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/26-08:24:47.839 38c4 Level-0 table #5: started
+2025/03/26-08:24:47.864 38c4 Level-0 table #5: 2198 bytes OK
+2025/03/26-08:24:47.871 38c4 Delete type=0 #3
+2025/03/26-08:24:47.879 38c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

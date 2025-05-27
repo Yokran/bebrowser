@@ -1,0 +1,2234 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Okurken ve yazarken dünyanın en isabetli çevirilerini sağlayan DeepL Çeviri ile çevir."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL: Yapay zeka çeviri aracı ve yazma asistanı"
+   },
+   "autologin_notification_content": {
+      "message": "Translate and improve text right in your browser with all the benefits of your plan."
+   },
+   "autologin_notification_title": {
+      "message": "You're logged in to the DeepL extension"
+   },
+   "config_tab_click_icon": {
+      "message": "\u003Cstrong>DeepL simgesine\u003C/strong> tıkla"
+   },
+   "config_tab_customize_link": {
+      "message": "Kısayolu özelleştir"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "DeepL Translator’ı etkinleştirmek için yöneticine danış."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "DeepL Write’ı etkinleştirmek için yöneticine danış."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "Seçilen kısmı çevir"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepL logosu"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "Bitti"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "Dili algıla"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "Maalesef metnini çeviremedik. Lütfen daha sonra tekrar dene."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "Maalesef metnini iyileştiremedik. Lütfen daha sonra tekrar dene."
+   },
+   "error_message_internet_connection": {
+      "message": "İnternet bağlantısında bir sorun var. Lütfen tekrar dene."
+   },
+   "error_message_please_login": {
+      "message": "Bu metni çevirmek için lütfen tekrar giriş yap. "
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "Hesabındaki kullanım limitine ulaştın."
+   },
+   "error_message_session_expired": {
+      "message": "Oturumunun süresi doldu. Lütfen tekrar giriş yap."
+   },
+   "error_message_technical_issue": {
+      "message": "Maalesef bilinen bir teknik sorun nedeniyle metnini çeviremedik. Bu sorunu en kısa zamanda gidermeye çalışıyoruz."
+   },
+   "error_message_text_not_recognized_error": {
+      "description": "Error if the screen capture and text detection feature is used, but no text is detected in the captured portion of the screen",
+      "message": "The captured screen doesn't contain any text to translate. Please try again."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "Maalesef metnini çeviremedik. Bağlı olduğun ağ, sunucularımıza çok fazla istek gönderiyor."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "Dili değiştir"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "Metin çevir"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "DeepL for Chrome uzantısı ile tarayıcınızdan hiç çıkmadan DeepL'un rakipsiz çeviri kalitesinin keyfini çıkarabilirsiniz.\n\nChrome'da okurken veya yazarken zahmetsizce ve anında çeviri yapabileceksiniz. Eğer bir DeepL Pro kullanıcısıysanız, bu web sayfalarının tamamını içerir. \nÜcretsiz bir kullanıcıysanız, bu özelliği sizin için de yayınlamak için çalışıyoruz. O zamana kadar, herhangi bir metni seçebilirsiniz ve DeepL simgesi görünecektir. Seçiminizi çevirmek için simgeye tıklayın. Daha da hızlı çeviri yapmak istiyorsanız, Chrome'da DeepL ile hem okumak hem de yazmak için ayarlardan kendi kısayollarınızı oluşturun.\n\nArtık dil engeli nedeniyle web'deki herhangi bir bilgiyi kaçırma konusunda endişelenmenize gerek yok. \n\nBugün çevirmeye başlamak için Chrome için DeepL adresini ücretsiz indirin.\n\nOkurken tercüme edin\nArtık e-postaları, makaleleri veya web sitelerini atlamak zorunda kalmayacaksınız. Chrome'da gezindiğiniz içeriği seçtiğiniz dilde, orijinal bağlamında görüntüleyebilirsiniz. \n\nYazınızı tercüme edin\nİster sosyal medya gönderisi, ister sohbet mesajı veya e-posta yazıyor olun, kendi kelimelerinizi yazdıktan hemen sonra çevirebilirsiniz. Bu, artık başka bir dilde iletişim kurmak için kopyalamanıza, yapıştırmanıza, yeniden yazmanıza veya Chrome'dan ayrılmanıza gerek olmadığı anlamına gelir.\n\nTam sayfa çeviriler\nEğer DeepL Pro kullanıcısıysanız, tek bir tıklamayla tüm web sayfalarını istediğiniz dile çevirebilirsiniz. İşleri daha da kolaylaştırmak için, sorunsuz bir tarama deneyimi için belirli dillerdeki tüm web sitelerinin otomatik olarak çevrilmesini seçebilirsiniz. Bu özelliği ücretsiz kullanıcılar için de yayınlamak için çalışıyoruz. \n\nDeepL Pro giriş \nDeepL Pro kullanıcıları uzantı aracılığıyla hesaplarına giriş yapabilirler.\n\nKısayollar\nÇeviriyi daha hızlı ve kolay hale getirmek için basit kısayolları kullanın. Ayarlardan kendi kısayollarınızı ayarlayabilirsiniz.\n\nBenzersiz doğruluk\nKullandığınız web sitesi veya uygulamada mümkün olan en iyi çevirileri aldığınızdan emin olabilirsiniz. DeepL çevirileri sürekli olarak rakiplerinden daha iyi performans gösterir ve büyük teknoloji şirketlerinin çevirilerinden üç kat daha doğru olduğu kanıtlanmıştır.\n\nMilyonlarca kullanıcı tarafından sevildi\nDünya çapında milyonlarca insan iletişimlerini geliştirmek için her gün DeepL adresini kullanıyor.\n\n27 dil arasından seçim yapın\nUzantıda bulunan dillerin bir listesi için Yardım Merkezimizdeki şu makaleye göz atın: https://support.deepl.com/hc/en-us/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "Okurken ve yazarken dünyanın en isabetli çevirilerini sağlayan DeepL Çeviri ile tercüme et."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL Çeviri: Okurken ve yazarken çevir"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "\u003CfeedbackLink>Görüşlerini paylaşarak\u003C/feedbackLink> Firefox için DeepL uzantısını tamamlamamıza yardımcı ol"
+   },
+   "firefox_browser_permissions_popup_body": {
+      "message": "Allow your Firefox browser to give DeepL access to the websites you visit."
+   },
+   "firefox_browser_permissions_popup_button": {
+      "message": "Manage permissions"
+   },
+   "firefox_browser_permissions_popup_title": {
+      "message": "Firefox needs your permission"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "İzin ver ve devam et"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>Firefox için DeepL’i kullanmak istiyorsan \u003Cstrong>internette gezinirken çevirmek veya iyileştirmek istediğin metinlere erişmemiz ve bunları işlememiz için\u003C/strong> bize izin vermen gerekiyor. Yalnızca tam sayfa çeviri özelliğini açtığında tüm web sayfalarının içeriğini işlememize izin vermiş olursun.\u003C/p>\n\u003Cp>Hesabını kullanarak Firefox için DeepL’e giriş yaptığında sana planın kapsamında erişilebilen özellikleri sunmak için gereken kişisel verilerini işleyeceğiz.\u003C/p>\n\u003Cp>Ayrıca DeepL Firefox uzantısının tarayıcında düzgün çalıştığından emin olmak, dolandırmaya yönelik davranışları tespit etmek ve önlemek için teknik, cihaz ve kullanım verilerini de topluyoruz.\u003C/p> \n\u003Cp>Politikalarımız hakkında daha fazla bilgi için:\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "Reddet ve kaldır"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "Gizlilik Politikası"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>Hükümler ve Koşullar\u003C/termsLink> - DeepL (Pro) hesabı olmayan kullanıcılar için\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL senden izin istiyor"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "Kısayollar nasıl yönetilir"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "Dil algılanıyor…"
+   },
+   "full_page_translation_auto_translate": {
+      "message": "Sayfaları otomatik olarak bu dile çevir"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "Şu dilden otomatik çevrildi:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "Karakter limitini aştığı için bu sayfayı çeviremiyoruz."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "Tam sayfa çeviri özelliği şu anda kullanılamıyor. Bu sorunu mümkün olan en kısa sürede gidermeye çalışıyoruz."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "Görünüşe göre bir yandan da Google Translate kullanıyorsun. Uzantımızın düzgün çalışabilmesi için Google Translate’i devre dışı bırak."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "Her zaman çevir:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "Hayır, teşekkürler"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "Çevirme:"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "Bu web sitesini çevirme"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "Bu site çevrilsin mi?"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "Çevir"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "Değiştir"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "Şu dilden çeviri yapılmamasını seçtin:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "Değiştir"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "Şunun çevrilmemesini seçtin:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "Bu web sitesinden herhangi bir veri alamadık. Mümkünse sayfayı yeniden yükle."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "Çeviri yapılıyor"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "İptal"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "Kaydet"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "Bitti"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "Ayarlar"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "Otomatik olarak çevir"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "Bu dilden asla çevirme"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "Bu siteleri asla çevirme"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "Sayfa çevir"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "Hedef dil"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "Yazarken çevir"
+   },
+   "full_page_translation_show_original": {
+      "message": "Orijinali göster"
+   },
+   "full_page_translation_target_label": {
+      "message": "Sayfanın çeviri yönü"
+   },
+   "full_page_translation_translate_button": {
+      "message": "Sayfayı çevir"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "Sözlükçelerini yükleyemedik."
+   },
+   "glossary_failed_try_again": {
+      "message": "Tekrar dene"
+   },
+   "glossary_label": {
+      "message": "Sözlükçe"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "İlk sözlükçeni oluştur"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "Bir sözlükçe seç ve içerdiği çeviri kurallarını okuduğun ve yazdığın metinlere otomatik olarak uygula."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "DeepL Pro hesabın var mı? \u003CloginLink>Giriş yap\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "Anahtar kelime ve ifadelerin nasıl çevrileceğine dair kurallar koymak mı istiyorsun? Bir DeepL Pro deneme planıyla \u003Cstrong>Sözlükçe özelliğini 30 gün ücretsiz\u003C/strong> dene."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "Şu anda hiç sözlükçe yok. Anahtar kelime ve ifadelerin nasıl çevrileceğine dair kurallar koymak için ilk sözlükçeni oluştur."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "Daha fazla"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "Ücretsiz dene"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "Tek seferde yalnızca \u003Cstrong>1.500 karaktere kadar\u003C/strong> çevirebilirsin.\nLimitini artırmak için \u003Cstrong>bir DeepL hesabı oluştur.\u003C/strong>"
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "Giriş"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "Ücretsiz kaydol"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "Karakter limitin var"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "Tek seferde yalnızca \u003Cstrong>5.000 karaktere kadar\u003C/strong> çevirebilirsin.\nSınırsız kullanım için \u003Cstrong>DeepL Pro’yu 30 gün boyunca ücretsiz dene.\u003C/strong>"
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Pro’yu ücretsiz dene"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "Sınırsız kullanım için DeepL Pro’yu dene"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "5.000 karakterden daha fazla çevirmek için DeepL Pro’ya abone ol."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "Şimdi değil"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "Kullanım limitine ulaştın"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "Değişiklikleri kabul et"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "Metin çevir veya iyileştir"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "İyileştir"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "İyileştir"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "Hataları düzeltip yazını mükemmel hale getiriyoruz.\nSadece İngilizce ve Almanca için geçerli."
+   },
+   "gmail_compose_translate_button": {
+      "message": "Çevir"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "Kaynak:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "Çevir"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "Hedef:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "Eski haline döndür"
+   },
+   "gmail_forwarding_link": {
+      "message": "Gmail için DeepL’i ücretsiz indir"
+   },
+   "gmail_forwarding_title": {
+      "message": "Bu e-posta Gmail için DeepL’le çevrilmiştir."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(algılandı)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "E-postaları tek tıkla çevir"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "Farklı dillerde e-posta yaz"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "Kaleme aldığın metinleri hızlıca iyileştir ve hatasız e-postalar yaz"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "5.000 karakterden daha fazla çevirmek için DeepL Pro’ya abone ol."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "Kullanım limitine ulaştın"
+   },
+   "gmail_onboarding_title": {
+      "message": "Gmail için DeepL’e hoş geldin!"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "Gmail için DeepL’i aç/kapat"
+   },
+   "gmail_reading_forward_button": {
+      "message": "Çevrilmiş e-postayı yönlendir"
+   },
+   "gmail_reading_translate_button": {
+      "message": "E-postayı çevir"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "Orijinali göster"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "Daha az metin seç veya DeepL Pro ile sınırsız çevirinin keyfini çıkar."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "Daha az metin seç veya DeepL Pro ile sınırsız metin iyileştirmenin keyfini çıkar."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "Ücretsiz kullanıcı olarak tek seferde 2000 karaktere kadar iyileştirme yapabilirsin"
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "Ücretsiz kullanıcı olarak tek seferde en fazla 5000 karakter çevirebilirsin"
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "DeepL’i \u003Cb>doğrudan Microsoft 365\u003C/b>’te kullan"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "Hemen keşfet "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "Seçilen metni DeepL ile çevir"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "Metni seçip DeepL simgesine tıklaman yeterli!"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "Okuma için DeepL simgesini göster"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "Seçilen metni şu dile çevir:"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "Diğer ayarlar"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "Tamam"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "Simgeyi kapat"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "Okuma için DeepL’i kapat"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Hayır, kapatma"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "Her zaman, tüm sitelerde"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "Sadece bu sitede"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "Okuma"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "Şu dile çevirmek için sağ tıkla:"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "Daha fazla"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "Kapat"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Gelişmiş mod penceresini açmak için simgelere tıkla. Düzenlemeler yap, eski ve yeni versiyonları karşılaştır."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "DeepL’le metin çevir ve iyileştir"
+   },
+   "input_selection_alternatives_label": {
+      "message": "Alternatifler"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "Daha fazla"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "Çeviri tonunu seç"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "Alternatiflere bak"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "Çevir"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "Çevir"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "Anında çeviri ve daha güzel yazılar"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "İkisi de burada. Simgeye tıklayıp çevirmeye veya yazmaya başla!"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "Yazma için DeepL simgesini göster"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "Diğer ayarlar"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "Her seferinde sor"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "Varsayılan olarak bu dile çevir"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "Tamam"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "Simgeyi kapat"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "Yazma için DeepL’i kapat"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Hayır, kapatma"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "Her zaman, tüm sitelerde"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "Sadece bu sitede"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "Yazma"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "Yazdıklarını şu dile çevir:"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "Hedef dili değiştir"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "Kapat"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "DeepL Write’ı etkinleştirmek için yöneticine danış."
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "Metin iyileştir. Almanca ve İngilizcede kullanılabilir."
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "Metin iyileştir"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "Hedef dili seç"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "Ayarlar"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "Çevir"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "Metin çevir…"
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "Hedef dil…"
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "Kapat"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "Hedef dil:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "Hedef dil:"
+   },
+   "layout_header_settings_icon": {
+      "message": "Ayarlara git"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Translator"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "Giriş"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "Ücretsiz kaydol"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "Tek seferde 1.500 karakterden daha fazla çevirmek için \u003Cstrong>ücretsiz\u003C/strong> bir DeepL hesabı oluştur!"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "Karakter limitini artırmak için kaydol"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "Tek seferde 5.000 karakterden daha fazla çevirmek için ücretli \u003Cstrong>DeepL Translator\u003C/strong> planını 30 gün boyunca ücretsiz dene!"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "Karakter limiti olmadan çeviri yap"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "Tek seferde 5.000 karakterden daha fazla çevirmek için ücretli bir DeepL Translator planına abone ol."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "Ücretsiz dene"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "Translator’ı yükselt"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "Write Pro’ya yükselt"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "Tek seferde yalnızca 2.000 karakter iyileştirebilirsin. \u003Cstrong>DeepL Write Pro\u003C/strong>’yla tüm metni mükemmelleştir."
+   },
+   "limit_popup_write_title": {
+      "message": "Karakter limiti olmadan metin iyileştir"
+   },
+   "link_get_pro_license": {
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "link_try_deepl": {
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "DeepL ile çevir"
+   },
+   "login_error_default_message": {
+      "message": "Giriş yapılamadı."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "DeepL Pro’ya giriş yap"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "Write Pro’yu ücretsiz dene"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "Sayfa çevir"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "Giriş"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>Pro kullanıcısı olarak\u003C/strong> tek tıkla tam sayfa çeviri yapabilirsin."
+   },
+   "login_widget_try_pro_label": {
+      "message": "Pro hesabın yok mu? \u003CtryOutLink>Ücretsiz dene\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "Pro’ya yükselt"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>Tek tıkla \u003Cstrong>tam sayfa çeviri\u003C/strong>\u003C/li>\n\u003Cli>\u003Cstrong>Limitsiz\u003C/strong> çeviri\u003C/li>\n\u003Cli>\u003Cstrong>Maksimum veri güvenliği\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "\u003Cstrong>DeepL Pro\u003C/strong>’yla 30 gün boyunca premium özelliklerini ücretsiz kullan!"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "Kolay kullanım"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "Simge ayarlarına git"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "Dinamik DeepL simgesini göster"
+   },
+   "main_popup_info_box_translator": {
+      "message": "Maksimum veri güvenliği sunan bir \u003Cstrong>DeepL Pro planı\u003C/strong> kullanıyorsun."
+   },
+   "main_popup_info_box_write": {
+      "message": "Maksimum veri güvenliği sunan bir \u003Cstrong>Write Pro planı\u003C/strong> kullanıyorsun."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "Ücretsiz dene"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "Sayfanın tamamını çevir"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "Seçilen metni şu dile çevir:"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "Yazdıklarını şu dile çevir:"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "DeepL Write Pro’yla \u003Cstrong>sınırsız metin iyileştir\u003C/strong> ve \u003Cstrong>maksimum veri güvenliğiyle\u003C/strong> çalış."
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "Write Pro’ya yükselt"
+   },
+   "main_popup_write_target_language": {
+      "message": "Şu dilde yazını iyileştir:"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "DeepL Pro’ya giriş yap"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "Çıkış"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "Menü"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "Ayarlar"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "Ayarlar"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "Geri bildirim"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Microsoft 365’te DeepL ile çeviri yap ve yaz"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "Detaylı Bilgi Al"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "Outlook, Word ve PowerPoint eklentilerimiz, tekrar tekrar uğraşmana gerek kalmadan yazdıklarını çevirir ve iyileştirir."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "DeepL ile tek seferde $limit$ karakterden daha fazla çevirmek için \u003Cstrong>ücretsiz\u003C/strong> kaydol!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "Karakter limitini artırmak için kaydol"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "Giriş"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "Ücretsiz kaydol"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "DeepL ile tek seferde $limit$ karakterden daha fazla çevirmek için Pro planlarından birine abone ol, \u003Cstrong>30 gün ücretsiz dene!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "DeepL Pro’ya geç, karakter limitini artır"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "Pro’yu ücretsiz dene"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "Okuma için DeepL simgesi artık gösterilmeyecek. Bunu $linkToSettings$ kısmında değiştirebilirsin",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "Okuma için DeepL simgesi artık $currentWebsite$ sitesinde gösterilmeyecek. Bunu $linkToSettings$ kısmında değiştirebilirsin",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "ayarlar"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "Yazma simgesini kapattın. Bunu $linkToSettings$ kısmında değiştirebilirsin",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "Yazma simgesi artık $currentWebsite$ sitesinde gösterilmeyecek. Bunu $linkToSettings$ kısmında değiştirebilirsin",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "ayarlar"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Kendine özel çeviri kısayolu belirlemek için $settings$ kısmına git",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "ayarlar"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "Hesabın başarıyla oluşturuldu!"
+   },
+   "onboarding_back_button": {
+      "message": "Geri"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "Bazı sayfalarda DeepL uzantısını kullanmak istemiyor musun? Hiç sorun değil. Ayarlara gidip nerede kullanacağını kendin seç."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "Belirli sayfalarda kapat"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "Tek tıkla web sayfalarını baştan sona istediğin dile çevir. "
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "Ücretsiz dene"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "Ayrıca web çeviri aracında ve uygulamalarda ek özellikler:"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "Tam dosya çevirisi"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "Sözlükçe (tüm dillerde mevcut değil)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "Resmi/günlük ton"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "30 gün ücretsiz. İstediğin zaman iptal et."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "ve daha fazlası"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "Tam sayfa çeviri"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "Seçtiğin metni DeepL simgesine tıklayarak veya bir kısayola basarak çevirebilirsin."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "Seçilen metni çevir"
+   },
+   "onboarding_input_translation_description": {
+      "message": "Yazdıklarını binlerce platformda DeepL simgesine tıklayarak veya bir kısayola basarak çevirebilirsin."
+   },
+   "onboarding_input_translation_title": {
+      "message": "Yazdıklarını tek tıkla çevir"
+   },
+   "onboarding_last_step_description": {
+      "message": "Binlerce kişi DeepL’in çeviri kalitesiyle internette gezinmenin tadını çıkarıyor. Sen de onlara katıl!"
+   },
+   "onboarding_last_step_title": {
+      "message": "Hemen bugün dene!"
+   },
+   "onboarding_next_button": {
+      "message": "Sonraki"
+   },
+   "onboarding_pin_extension": {
+      "message": "Anında erişim için DeepL uzantısını buraya sabitle"
+   },
+   "onboarding_promotion_body": {
+      "message": "DeepL tarayıcı uzantısı dünyanın en popüler üretkenlik araçlarında kullanılacak biçimde tasarlanmıştır. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "DeepL’i iş akışına sorunsuz bir şekilde entegre etmek için \u003Cstrong>en çok kullandığın aracı seç\u003C/strong>."
+   },
+   "onboarding_promotion_header": {
+      "message": "Favori araçlarında daha iyi çevir ve yaz"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "Gmail’de dene"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "Google Dokümanlar’da dene"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "Google Slides’ta dene"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "Tüm entegrasyonları gör"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "Yeni DeepL hesabına giriş yaptın."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "Başka sekmeye geçmene gerek kalmadan güvenle çeviri yap ve iletişim kur."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "Eklentiyi al"
+   },
+   "onboarding_signup_body": {
+      "message": "DeepL uzantısını en verimli şekilde kullanmak için ücretsiz bir DeepL hesabı oluştur!"
+   },
+   "onboarding_signup_cta": {
+      "message": "Ücretsiz kaydol"
+   },
+   "onboarding_signup_header": {
+      "message": "Kaydolma zamanı"
+   },
+   "onboarding_signup_login_option": {
+      "message": "Hesabın var mı? \u003CloginLink>Giriş yap\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "Atla"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "Hesabına giriş yaptın!"
+   },
+   "onboarding_title_free": {
+      "message": "Ücretsiz"
+   },
+   "onboarding_title_pro": {
+      "message": "PRO kullanıcılarına özel"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Kendin yazdığın veya karşına çıkan metinleri çevirmek için DeepL simgesine tıkla veya bir kısayola bas. Binlerce farklı platformda kullanabilirsin."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Okuduğun ve yazdığın metinleri çevir"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "DeepL simgesine basarak metindeki hataları gider, cümleleri farklı biçimde ifade et, tarzını ve tonunu hedef kitlene ve amaçlarına uyarla."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "İngilizce, Almanca, Fransızca, İspanyolca ve daha birçok dilde kullanılabilir."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Güvenle yaz"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "İzinleri yönet"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Ziyaret ettiğin web sitelerine yönelik Firefox’un DeepL’e erişim vermesine izin ver."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox senden izin istiyor"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Your employer requires you to log in to DeepL Pro for a more secure experience."
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Hesabına giriş yap"
+   },
+   "position_options_bottom": {
+      "message": "Altta"
+   },
+   "position_options_left": {
+      "message": "Solda"
+   },
+   "position_options_right": {
+      "message": "Sağda"
+   },
+   "position_options_top": {
+      "message": "Üstte"
+   },
+   "reading_config_tab_description": {
+      "message": "Seçilen metni şu dile çevir:"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "Okuma için DeepL simgesini göster"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "Farenin \u003Cstrong>sağ tuşuna tıkla\u003C/strong>"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "Şu \u003Cstrong>kısayolu\u003C/strong> kullan:"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "Okuma"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "Yaptığın kurulum"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "Yazma"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "Metin alanına yerleştir"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "Ayarlarda bu pencere devre dışı bırakılabilir"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "Uzantı ayarlarından bu pencereyi istediğin zaman etkinleştirebilir veya devre dışı bırakabilirsin."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "Gelişmiş moda her zaman ihtiyacın yok mu?"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "DeepL’le metin iyileştir"
+   },
+   "right_click_menu_capture_and_translate": {
+      "description": "right-click DeepL context menu, allows users to select a portion of their screen and trigger a translation for any text within the selection",
+      "message": "Translate via screen capture"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "DeepL ile çevir"
+   },
+   "segmentation_survey_button": {
+      "message": "Kısa bir ankete katıl"
+   },
+   "segmentation_survey_copy": {
+      "message": "Birkaç soru cevaplayarak DeepL’i daha da geliştirmemize yardım et."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "Dil seç"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "İngilizce (Birleşik Krallık)"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "İngilizce (ABD)"
+   },
+   "selected_languages_PT_BR": {
+      "message": "Portekizce (Brezilya)"
+   },
+   "selected_languages_PT_PT": {
+      "message": "Portekizce"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "Çeviri ve iyileştirme için gelişmiş mod penceresini göster"
+   },
+   "settings_aknowledgements": {
+      "message": "Kullanım bildirimi"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "Çok yakında"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "Net ve isabetli yazılar yaz ve bunları kolaylıkla çevir."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Google Dokümanlar’da dene"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "E-postaları kolayca çevir ve yazdıklarını saniyeler içinde iyileştir."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Gmail’de dene"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "Farklı dillerde kusursuz sunumlar oluştur ve çalışmanı gönül rahatlığıyla tanıt."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Google Slides’ta dene"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "Potansiyel işverenler ve çalışanlarda en iyi izlenimi bırak."
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "LinkedIn’de dene"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "Okuduğun ve yazdığın tweet’leri hareket halindeyken çevir."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "X’te dene"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X (eski adıyla Twitter)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "Mesajları çevirerek birçok dilde anında iletişim kur."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "WhatsApp’ta dene"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "Bağlantıda kalmak için diğer kullanıcıların yorumlarını çevir."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "YouTube’da dene"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "Dinamik DeepL simgesini göster"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Bu dilden her zaman otomatik çevir"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Tam sayfaları otomatik olarak şu dile çevir"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "Tam sayfa çeviri penceresini bu sitelerde asla gösterme"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "Tam sayfa çeviri penceresini bu diller için asla gösterme"
+   },
+   "settings_fpt_lang_select": {
+      "message": "Web sitelerini şu dile çevir"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Bu dilden asla otomatik çevirme"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "Bu siteleri asla otomatik çevirme"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "Henüz herhangi bir site eklemedin."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "Hariç tutmak istediğin sitede okuma ve yazma simgelerini kullanarak site ekleyebilirsin."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "Tam sayfa çeviri penceresini göster"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "Bir web sayfasının tamamını çevirmek mümkün olduğunda gösterilen açılır pencere"
+   },
+   "settings_fpt_reset": {
+      "message": "Tam sayfa çeviri penceresi ayarlarını sıfırla"
+   },
+   "settings_fpt_reset_button": {
+      "message": "Tümünü sıfırla"
+   },
+   "settings_language_selector_empty": {
+      "message": "Dil"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "Dil ekle"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "Tam sayfa çeviri"
+   },
+   "settings_menu_reading": {
+      "message": "Okuma"
+   },
+   "settings_menu_writing": {
+      "message": "Yazma"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "Entegrasyonlar"
+   },
+   "settings_navigation_general_settings": {
+      "message": "Genel ayarlar"
+   },
+   "settings_reading_adjust_position": {
+      "message": "Pencere konumu"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "Varsayılan konum"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Seçilen metni her zaman şu dile çevir:"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "Okuma için DeepL simgesini bu sitelerde asla gösterme"
+   },
+   "settings_reading_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Henüz herhangi bir site eklemedin. Hariç tutmak istediğin sitede okuma ve yazma simgelerini kullanarak site ekleyebilirsin."
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "Metin seçtiğinde simge ortaya çıkar"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "Okuma için DeepL simgesini her zaman göster"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "Kısayolu değiştir"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "Kısayol yardımıyla okurken çevir"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "Kısayollar"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Kısayolları ayarla"
+   },
+   "settings_title": {
+      "message": "Ayarlar"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Yazdıklarını her zaman şu dile çevir:"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "Yazma için DeepL simgesini bu sitelerde asla gösterme"
+   },
+   "settings_writing_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Henüz herhangi bir site eklemedin. Hariç tutmak istediğin sitede okuma ve yazma simgelerini kullanarak site ekleyebilirsin."
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "Yazı yazdığında simge ortaya çıkar"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "Yazma için DeepL simgesini her zaman göster"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "Başka bir kısayol ayarla"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "Kısayolu değiştir"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "Kısayol yardımıyla okurken çevir"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "Hedef dili değiştirmek için bu kısayolu kullan"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "Yazdıklarını çevirmek için bu kısayolu kullan"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "Yazma için DeepL simgesini her zaman göster"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "Yazı yazdığında ortaya çıkan simge"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "Çevirmek için yaz."
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "Metnin çevirisi aşağıda görüntülenir."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "Ankete katıl"
+   },
+   "sidepanel_survey_content": {
+      "message": "Bu anketi tamamlamak sadece 2 dakikanı alır."
+   },
+   "sidepanel_survey_header": {
+      "message": "Güncellemeler hakkında geri bildirim"
+   },
+   "supported_languages_AR": {
+      "message": "Arapça"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "Bulgarca"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "Çekçe"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "Danca"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "Almanca"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "Yunanca"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "İngilizce"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "İngilizce (İngiltere)"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "İngilizce (ABD)"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "İspanyolca"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "Estonca"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "Fince"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "Fransızca"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "Macarca"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "Endonezyaca"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "İtalyanca"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "Japonca"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "Korece"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "Litvanca"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "Letonca"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "Norveççe (bokmål)"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "Felemenkçe"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "Lehçe"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "Portekizce"
+   },
+   "supported_languages_PT_BR": {
+      "message": "Portekizce (Brezilya Portekizcesi)"
+   },
+   "supported_languages_PT_PT": {
+      "message": "Portekizce"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "Rumence"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "Rusça"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "Slovakça"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "Slovence"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "İsveççe"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "Türkçe"
+   },
+   "supported_languages_UK": {
+      "message": "Ukraynaca"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "Çince (basitleştirilmiş)"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "Çince (geleneksel)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "Lütfen seç"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "Ankete git"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "Görüşlerini duymak isteriz"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "Bu anketi tamamlamak sadece 2 dakikanı alır."
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "OFF"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "ON"
+   },
+   "test_split_translation": {
+      "message": "Tam sayfa çeviri için DeepL Pro’ya \u003CloginLink>giriş yap\u003C/loginLink> \u003CtryLink>veya ücretsiz dene\u003C/tryLink>"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "Kapat"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "Aç"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "Yükselt"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "DeepL Translator’ın ücretsiz sürümü sınırlıdır"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "Çevirilerin tamamen şifrelenir"
+   },
+   "tooltip_write_free_limited": {
+      "message": "DeepL Write’ın ücretsiz sürümü sınırlıdır"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "Metinlerin tamamen şifrelenir"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "DeepL Çeviri henüz bu dili desteklemiyor."
+   },
+   "twitter_web_alternatives_link": {
+      "message": "DeepL.com’da aç"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "DeepL ile çevir"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "Cümlenin tamamı"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "Kelime"
+   },
+   "ui_alternatives_title": {
+      "message": "Alternatifler"
+   },
+   "ui_auto_translate_label": {
+      "message": "Otomatik çevir"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "Ziyaret ettiğin $sourceLang$ sayfalar otomatik olarak çevrilecek.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "\u003CdeeplLink>DeepL.com\u003C/deeplLink>’da tam belge çevirisi yap"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "otomatik"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "Resmi"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "Günlük"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "Geri"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "Bunu artık gösterme"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "Tamam"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "Tam sayfa çeviri penceresini gösterme:"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "Sadece bu sitede"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "Her zaman, tüm sitelerde"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "Sadece bu dil için"
+   },
+   "ui_fpt_translate_button": {
+      "message": "Sayfayı çevir"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "Tam sayfa çeviri"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "Seçilen metni iyileştir"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "Metni seç ve tıkla."
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Google Dokümanlar’da\u003Cbr> isabetli çeviri yap"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "Bağlama göre \u003Cstrong>anlamları incele\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>Metni\u003C/strong> çevirisiyle değiştir, \u003C/strong>format aynı kalsın\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "Sesli okuma ve sözlük ile \u003Cstrong>kendini daima geliştir\u003C/strong>"
+   },
+   "ui_gdocs_replace": {
+      "message": "Değiştir"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "Belge içinde değiştir"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "Seçili metnin yerine bu çeviriyi yerleştir"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "Google Dokümanlar için DeepL’i aç/kapat"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "DeepL ile çevir"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "Seçilen metni çevir"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "DeepL’i kapat"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Google Dokümanlar için DeepL’e hoş geldin"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Seçtiğin metni\u003C/strong> tek tıkla çevir"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Yazdığın yazıları düzelterek\u003C/strong> net ve hatasız belgeler oluştur"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Alternatifleri\u003C/strong> kullanarak farklı ifade biçimlerini keşfet"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "Belge içinde değiştir"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "Kapat"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "Yazdıkların iyileştirildi:"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "Yazdıkların iyileştiriliyor…"
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "Değişiklikleri kabul et"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "İki dakikanı ayırıp görüşlerini sunabilirsen çok memnun oluruz. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "Ankete başla"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "DeepL hakkında ne düşünüyorsun?"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "Tek seferde yalnızca 1.500 karaktere kadar çevirebilirsin. Limitini artırmak için bir DeepL hesabı oluştur."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "Giriş yap"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "Ücretsiz kaydol"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "Karakter limitin var"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "Tek seferde yalnızca 5.000 karaktere kadar çevirebilirsin. Sınırsız kullanım için DeepL Pro’yu 30 gün boyunca ücretsiz dene. "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Pro’yu ücretsiz dene"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "Sınırsız kullanım için DeepL Pro’yu dene"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "BETA"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "Google Slides için DeepL’e hoş geldin"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "Seçili metni veya slaytların tamamını anında çevir"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "Kusursuz sunumlar için metnini kontrol et ve iyileştir"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "Eski haline döndür"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "Google Slides için DeepL’i aç/kapat"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "Çevir"
+   },
+   "ui_gslides_translate_from": {
+      "message": "Kaynak:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "Hedef:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Bu sayede slayta yeni eklediğin herhangi bir görsel, video veya ses kaybolmaz."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "İlk olarak çevirmek veya iyileştirmek istediğin metni seç."
+   },
+   "ui_gslides_write_cta": {
+      "message": "İyileştir"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "Hataları düzeltip yazını mükemmel hale getiriyoruz. Sadece İngilizce ve Almanca için geçerli. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "\u003Cspan>Gmail ve Google Dokümanlar’da\u003C/span> daha hızlı çeviri yap ve yazdıklarını anında iyileştir."
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "Entegrasyonları göster"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "Bir daha gösterme"
+   },
+   "ui_hub_tip_badge": {
+      "message": "Öneri"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "Seçilen metni çevir"
+   },
+   "ui_inline_translation_copied": {
+      "message": "Çeviri kopyalandı"
+   },
+   "ui_inline_translation_copy": {
+      "message": "Panoya kopyala"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "Sözlük"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "Dinle"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "Dinlemeyi bırak"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "Yeni halini dinle"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "Kaynağı dinle"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "Çeviriyi dinle"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "“\u003Cstrong>$originalSnippet$\u003C/strong>” için veri bulunamadı.",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "Sözlük verileri yüklenemedi. Tekrar dene."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "DeepL.com’da alternatiflere bak"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "DeepL.com’da aç"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "Diğer özellikleri dene"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(algılandı)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "Desteklenmeyen dil"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "Sözlük terimlerini görmek için kelimeleri tek tek çevir."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "Bu dil çifti için sözlük bulunamadı."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "Yazdıklarını tek tıkla çevir"
+   },
+   "ui_login_body": {
+      "message": "Tam sayfa çeviri için DeepL Pro’ya \u003CloginLink>giriş yap\u003C/loginLink> \u003CtryLink>veya ücretsiz dene\u003C/tryLink>"
+   },
+   "ui_login_header": {
+      "message": "Bu sayfa çevrilsin mi? \u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "$sourceLang$ dilinden asla çevirme",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "Bu siteyi asla çevirme"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "\u003CsettingsLink>Ayarlara\u003C/settingsLink> giderek bu seçeneği değiştirebilirsin."
+   },
+   "ui_notice_no_translate_language": {
+      "message": "\u003Cstrong>$sourceLang$\u003C/strong> dilinden çeviri yapılmamasını seçtin.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "\u003Cstrong>$website$\u003C/strong> sitesinin çevrilmemesini seçtin.",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "\u003Cstrong>$website$\u003C/strong> sitesinin çevrilmemesini ve \u003Cstrong>$sourceLang$\u003C/strong> dilinden çeviri yapılmamasını seçtin.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "Tam sayfa çeviri penceresinin gösterilmemesini seçtin. Ayarlara giderek bu seçeneği değiştirebilirsin."
+   },
+   "ui_read_more": {
+      "message": "Daha fazla oku"
+   },
+   "ui_share_button": {
+      "message": "Kopyala"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "Kopyalandı"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "Bağlantıyı kopyala"
+   },
+   "ui_share_error": {
+      "message": "Metin kopyalanırken bir hata oluştu."
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "Geri bildirim gönder"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "Kopyalandı! Şimdi paylaşabilirsin!"
+   },
+   "ui_share_title": {
+      "message": "DeepL’i arkadaşlarınla paylaş"
+   },
+   "ui_target_language_select": {
+      "message": "Hangi dile çevirmek istiyorsun?"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "Bildirdiğin için teşekkürler"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "1 dakikalık anketimize katılarak gelişmemize yardım eder misin? "
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "Ankete başla"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "İki dakikanı ayırıp görüşlerini sunabilirsen çok memnun oluruz."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "DeepL hakkında ne düşünüyorsun?"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "İyi değil"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "Mükemmel"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "Chrome için DeepL uzantısıyla ilgili görüşlerini merak ediyoruz."
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "Edge için DeepL uzantısıyla ilgili görüşlerini merak ediyoruz."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "Firefox için DeepL uzantısıyla ilgili görüşlerini merak ediyoruz."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "Deneyimin nasıldı?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "Deneyimin nasıldı?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "Deneyimin nasıldı?"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "Bir yorum bırak"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "Teşekkürler. Bunu duyduğumuza çok sevindik!"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Chrome Web Mağazası’nda geri bildirim paylaşmak ister misin?"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Edge Eklentileri Mağazası’nda geri bildirim paylaşmak ister misin?"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "Bize bir yorum bırakmak ister misin?"
+   },
+   "ui_translated_automatically": {
+      "message": "\u003Cstrong>$sourceLang$\u003C/strong> dilinden çevrildi",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "Ücretsiz dene"
+   },
+   "ui_widget_feature_free": {
+      "message": "ÜCRETSİZ"
+   },
+   "ui_widget_feature_pro": {
+      "message": "PRO kullanıcılarına özel"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "Yazışmayı çevir"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "Çeviriyi durdur"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "Mevcut dil, alıcının dilinden farklı. Yine de gönderilsin mi?"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "Çevir"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(algılandı)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "Bu bileti çevir"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "DeepL, şu dile çevir:"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL henüz senin dilinden çeviri yapamıyor"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "Senin dilin eklendiği anda sana haber vereceğiz."
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "Tamam"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "DeepL’i kapat"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "DeepL’i aç"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "Zendesk için DeepL’e hoş geldin!"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "Anadilin nedir?"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "Bu uzantı \u003Cstrong>sınırlı bir süre için ücretsizdir\u003C/strong>. Uzantıyı dene ve \u003CloginLink>görüşlerini paylaş\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "Biletlerini birden\u003Cbr> fazla dilde yönet"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>Mesajları veya yazışmaların tamamını\u003C/strong> anında çevir"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "Müşterinin kullandığı dilde \u003Cstrong>cevap ver\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "Daima \u003Cstrong>doğal ve profesyonel iletişim kur\u003C/strong>"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "Gönderenin dili"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "Anketimize katılarak DeepL’in ürün stratejisini şekillendirmeye yardımcı ol."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "Daha sonra hatırlat"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "Ankete katıl"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "Hesabındaki kullanım limitine ulaştın. Limitini artırmak için \u003CdeeplSupportLink>DeepL Destek\u003C/deeplSupportLink> ile iletişime geç."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "Maalesef kullandığın plan bu özelliği içermiyor."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "Ücretsiz kullanım limitine ulaştın. Çevirmeye devam etmek mi istiyorsun?"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "Sohbetini şu dile çevir:"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "Ayarlar"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "Sohbeti çevir"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "Mesajını şu dile çevir:"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "DeepL.com’da alternatiflere bak"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "Ayarlar"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "Çevir"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Write henüz bu dili desteklemiyor."
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Write henüz bu dili desteklemiyor"
+   },
+   "write_see_language_supported": {
+      "message": "Desteklenen dilleri gör"
+   },
+   "write_style_options_button_label": {
+      "message": "Tarzlar"
+   },
+   "write_style_options_cta_apply": {
+      "message": "Uygula"
+   },
+   "write_style_options_cta_reset": {
+      "message": "Sıfırla"
+   },
+   "write_style_options_description_style": {
+      "message": "Metnin hedef kitlene ve amaçlarına göre düzenlenir"
+   },
+   "write_style_options_description_tone": {
+      "message": "Seçtiğin ton metne uygulanır"
+   },
+   "write_style_options_headline_style": {
+      "message": "Bir yazı tarzı seç"
+   },
+   "write_style_options_headline_tone": {
+      "message": "Bir ton seç"
+   },
+   "writing_config_tab_description": {
+      "message": "Yazdıklarını şu dile çevir:"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "Dil seç"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "Yazma için DeepL simgesini göster"
+   },
+   "writing_style_academic": {
+      "message": "Akademik"
+   },
+   "writing_style_business": {
+      "message": "Kurumsal"
+   },
+   "writing_style_casual": {
+      "message": "Samimi"
+   },
+   "writing_style_simple": {
+      "message": "Normal"
+   },
+   "writing_tone_confident": {
+      "message": "Kendinden emin"
+   },
+   "writing_tone_diplomatic": {
+      "message": "Diplomatik"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "Hevesli"
+   },
+   "writing_tone_friendly": {
+      "message": "Dostane"
+   },
+   "youtube_alternatives_link": {
+      "message": "DeepL.com’da aç"
+   },
+   "youtube_translate_comment_link": {
+      "message": "DeepL ile çevir"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "Kaldır"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "Sözlükçe"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "Sınırsız çeviri için DeepL Pro Advanced’i 30 gün ücretsiz dene."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "DeepL’in ücretsiz bir sürümünü kullanıyorsun"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "Sınırsız çeviri için DeepL Pro Advanced veya Ultimate planına geç."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "Kullandığın plan Zendesk’te sınırsız çeviriyi içermiyor"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "Çevirmeye devam etmek için \u003Cstrong>DeepL Pro Advanced’e kaydol\u003C/strong> ve 30 gün ücretsiz kullan."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "DeepL’in ücretsiz bir sürümünü kullanıyorsun "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "Ücretsiz çeviri limitine ulaştın."
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "Çevirmeye devam etmek için \u003Cstrong>DeepL Pro Advanced veya Ultimate planına geç\u003C/strong>.\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "Kullandığın plan Zendesk’te sınırsız çeviriyi içermiyor"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "Hesabına uygun herhangi bir sözlükçe bulamadık."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "Sözlükçeler DeepL Pro kullanıcılarına özeldir."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "Biletleri anında çevir\u003Cstrong> - $translationLimit$ çeviriye kadar ücretsiz\u003C/strong>",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "Daima \u003Cstrong>doğal ve profesyonel iletişim kur\u003C/strong>"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "Müşterinin kullandığı dilde \u003Cstrong>cevap ver\u003C/strong>"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "Bilet okurken ve oluştururken çalışmanı saniyeler içinde çevir."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL kullanıma hazır"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "Eklentiyi kaldırıp yerine tamamen entegre bir uzantı getirdik."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "Ücretsiz indir"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "Daha iyi bir çeviri deneyimi"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "Sınırsız çeviri için DeepL Pro Advanced’i 30 gün ücretsiz dene."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "$remainingTranslations$ çeviri hakkın kaldı",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "Zendesk için DeepL’i aç/kapat"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>Kalan çeviri hakkı:\u003C/strong> $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "Pro Advanced’i ücretsiz dene"
+   },
+   "zendesk_try_pro_link": {
+      "message": "DeepL Pro’yu ücretsiz dene"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "Zaten \u003Cstrong>Pro Advanced veya Ultimate\u003C/strong> abonesi misin? \u003CloginLink>Hesabına giriş yap\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "Planını yükselt"
+   }
+}

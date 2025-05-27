@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Descrizione dell'app",
+      "message": "Aggiunge controlli audio a WhatsApp Web. Ascolta quelle lunghe registrazioni in poco tempo."
+   },
+   "appName": {
+      "description": "Titolo dell'estensione",
+      "message": "Zapp: WhatsApp Velocità Audio e Volume"
+   }
+}

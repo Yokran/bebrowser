@@ -1,0 +1,380 @@
+<!--Single file both for Chromium and FX-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <script src="scripts/fsCaptureList.js"></script>
+
+    
+
+  
+  <title></title>
+
+  <link rel="stylesheet" href="css/fspopup.css" type="text/css" />
+
+  <style>
+
+    ::placeholder { 
+      color: #ccc;
+      opacity: 1; 
+    }
+
+    @media (min-width:850px)  {
+      #form {
+        justify-content: center;
+      }
+
+      #buttons {
+        text-align: center !important;
+        margin: 30px 0 10px 0 !important;
+      }
+    }
+
+    body {
+      background-color: hsl(210, 36%, 33%);
+      /* background-color: hsl(210, 33%, 40%); */
+      color: hsl(210, 33%, 95%);
+      overflow: visible;
+      text-align: left;
+      border: #8097ae 1px solid;
+    }
+
+    button {
+      background-color: #eee;
+    }
+
+    button:hover {
+      background-color: #fff;
+    }
+
+    button:active {
+      background-color: #ddd;
+    }
+
+    #form {
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      /* width: 100%; */
+      padding: 10px;
+    }
+
+    #left {
+      width: 30em;
+      display: flex; 
+      flex-direction: column;
+      gap: 30px;
+    }
+
+    div#left > div:first-child {flex-grow: 1}
+
+    #right {
+      width: 24em;
+    }
+
+    textarea {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 4px;
+      height: 100%;
+      white-space: pre;
+      overflow-y: scroll;
+    }
+
+    #advanced {
+      margin-top: 20px;
+    }
+
+    label:first-child, div.checkbox:first-child {
+      margin-top: 0px;
+    }
+
+    div.checkbox
+    {
+      margin-top: 20px;
+      margin-bottom: 5px;
+    }
+
+    input, select, textarea, button {
+      outline: none;
+    }
+
+    input, select { padding: 2px}
+
+    input:focus, select:focus, textarea:focus, button:focus {
+      outline: #ccc solid 0.5px;
+    }
+
+    label {
+      display: block;
+      margin-top: 20px;
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+
+    select {
+      font-size: 13px !important;
+      
+    }
+
+    textarea {
+      font-size: 12px !important;
+    }
+
+    /* select {
+      width: 100%;
+    } */
+
+    .comment {
+      font-style: italic;
+    }
+
+    .collapsible {
+      cursor: pointer;
+      width: 100%;
+      outline: none;
+    }
+
+    label.active + div {
+      display: block !important;
+    }
+
+    .collapsible:before {
+      content: '[+]';
+      margin-right: 5px;
+      font-family: sans-serif;
+      font-family: sans-serif;
+      vertical-align: text-bottom;
+    }
+
+    .active:before {
+      content: "[\2212]";
+      font-family: sans-serif;
+    }
+
+    .active,
+    .collapsible:hover {
+      color: #fff;
+    }
+
+
+
+    .content {
+      box-sizing: border-box;
+      /* width: 100%; */
+      margin-left: 7px;
+      border-left: 1px hsl(210, 33%, 95%) solid;
+      padding: 10px 10px 10px 20px;
+      display: none;
+      /* max-height: 0; */
+      overflow: hidden;
+      /* transition: max-height 0.2s ease-out; */
+    }
+
+    #buttons {
+      text-align: right;
+      margin: 10px;
+    }
+
+    #btnStart {
+      width: 10em;
+      text-align: center;
+    }
+
+    button:hover {
+      filter: brightness(1.1); 
+    }
+
+    button:active {
+      filter: brightness(0.9) !important;
+    }
+
+    button:disabled {
+      filter: brightness(1) !important;
+      cursor:default;
+      pointer-events: none;
+    }
+
+    #liteWarning {
+      margin-top:3px;
+    }
+
+    #advanced {font-size: 13px;}
+
+    input[type="checkbox"] {
+      margin: 0;
+      padding: 0;
+    }
+
+    div.checkbox label {
+      display: inline;
+      margin-left: 2px;
+      vertical-align: top;
+    }
+
+    #total {
+      position: relative;
+    }
+
+    #totalValue {
+      position: absolute; top: -36px; right:25px; color: #888;
+      background-color: #fff;
+      padding: 4px;
+      border: #666 solid 1px;
+      border-radius: 4px;
+    }
+
+    .shiftedY {
+      top: -50px !important;
+    }
+
+    #liteWarning {display: none; font-style: italic;}
+
+    #lnkTryPro {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+    #sleepModeWarning {
+      padding:5px;
+      background-color: #547fab;
+      /* font-weight: bold; */
+      font-style: italic;
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      display: none;
+    }
+
+    #sleepModeWarning > span:first-child {
+      font-style: normal;
+      font-size:36px;
+      color: #cfcf9b;
+      padding-left: 5px;
+    }
+
+    #prefBatchURLs:focus + div#total {
+      display: none;
+    }
+
+    #btnConfigurePDF {
+      max-width: 6em;
+      padding: 2px 8px;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    div.iconTools {
+      height: 16px;
+      width: 16px;
+      background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABAUlEQVR4nOWVQQrCMBBFn661ot5C96I30F2h2KV6Ak9Tt+rSI7kTFMEDqDutBEYoMYkGIyh+GCjtn//LTGYC/4IBcARyCfXcD2mwLIjfYxFKvA1sDAbqXctXrARkwApIgRlwNYjf4yqcVHIy0bBi4hDLX4yxTbwC7AMYHIDIZDB1JG2BBKhKxMDawVdaD+gBJ4t4w8CvyzedrzS6tjJ1gLOWkDh6NtS4Z9FwojhQuZTEhkjjqlxCGtR8DUwlih381KdEtiavpaE6msDOp8nPjulQah7Jn+98j+nHBw0Z83cNRjhQ1pZdBlwcYhfhFJed0vBCK+S6tmFhMJjzS1cmX4sbSsHWENa8dO8AAAAASUVORK5CYII=");
+      background-size: contain;
+    }
+
+    #divOutputFormat {
+      display:flex; 
+      align-items: center; 
+    }
+
+    .fxPaddingDisabled {
+      padding: revert !important;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div>
+  <div id="form">
+    <div id="left">
+      <div>
+        <label for="prefBatchURLs"><span data-i18n="popup_label_specify_urls">Specify URLs to capture</span>:</label>
+        <textarea autofocus id="prefBatchURLs">
+        </textarea>
+        <div id="total">
+          <div id="totalValue">
+            <b><span data-i18n="label_total">Total</span>:</b> <span id="totalURLs">0</span>
+          </div>
+        </div>
+      </div>
+      <div id="sleepModeWarning"><span>&#x26A0;</span> <span data-i18n="popup_label_long_batch">For long-term batches please make sure your computer doesn't fall asleep - this will break the batch.</span></div>
+    </div>
+    <div id="right">
+      <label for="prefBatchFormat"><span data-i18n="popup_label_how_to_save_captures">Select how to save the captures</span>:</label>
+      
+      <div id="divOutputFormat">
+      <select id="prefBatchFormat">
+        <option data-i18n="captured_save_as_image" value="image">Save as Image</option>
+        <option data-i18n="action_save_pdf" value="pdf" selected>Save as PDF</option>
+      </select>
+      <!-- <a href="#" class="button" id="lnkSetupPDF" rel="command"><span data-i18n="action_configure_PDF_label">Configure</span>...</a> -->
+      <button id="btnConfigurePDF" data-title-i18n="options_button_pdf_settings_caption" title="PDF settings">
+        <div class="iconTools"></div>  
+      </button>
+
+      </div>
+
+      <label for="prefBatchMode"><span data-i18n="popup_label_specify_mode">Specify mode</span>:</label>
+      <select id="prefBatchMode">
+        <option data-i18n="action_capture_entire_lite" id="modeEntire" value="entire" selected>Capture entire page</option>
+        <option data-i18n="action_capture_visible_lite" value="visible">Capture visible part</option>
+      </select>
+      <div id="liteWarning">
+        <small><b>*</b> <span data-i18n="popup_label_only_visible_part_available">_The Lite version is limited to capturing only visible part of the page.</span>
+        <a href="#" id="lnkTryPro" rel="command"><span data-i18n="action_install_native">Advanced functions</span>...</a></small>
+      </div>
+
+      <input type="checkbox" id="prefBatchAdvancedFeaturesShown" hidden>
+
+      <label id="advanced" class="collapsible"><span data-i18n="popup_label_additional_options">Additional options</span></label>
+      <div id="additional" class="content">
+        <div class="checkbox">
+        <input type="checkbox" id="prefBatchCreateFolder" checked>
+        <label for="prefBatchCreateFolder"><span data-i18n="popup_label_create_separate_folder">Create a separate folder for this batch</span></label>
+        </div>
+
+        <div class="checkbox">
+        <input type="checkbox" id="prefBatchOpenFolder" checked>
+        <label for="prefBatchOpenFolder"><span data-i18n="popup_label_show_files_in_folder">Show files in folder upon completion</span></label>
+        </div>
+
+        <label for="prefBatchTimeout"><span data-i18n="popup_label_max_time_to_wait">Maximum time to wait until page is loaded</span>:</label>
+        <select id="prefBatchTimeout">
+          <option data-i18n="popup_label_10_seconds" value="10">10 seconds</option>
+          <option data-i18n="popup_label_30_seconds" value="30" selected>30 seconds</option>
+          <option data-i18n="popup_label_60_seconds" value="60">60 seconds</option>
+          <option data-i18n="popup_label_unlimited" value="0">Unlimited</option>
+        </select>
+
+        <label for="prefBatchDelay"><span data-i18n="popup_label_when_loaded">When loaded, wait to allow it to render completely</span>:</label>
+        <select id="prefBatchDelay">
+          <option data-i18n="popup_label_do_not_wait" value="0">Do not wait</option>
+          <option data-i18n="popup_label_5_seconds" value="5" selected>5 seconds</option>
+          <option data-i18n="popup_label_10_seconds" value="10">10 seconds</option>
+          <option data-i18n="popup_label_30_seconds" value="30">30 seconds</option>
+          <option data-i18n="popup_label_60_seconds" value="60">60 seconds</option>
+        </select>
+
+        <label for="prefBatchScrollSpeed"><span data-i18n="popup_label_override_scrolling_speed">Override scrolling speed</span>:</label>
+        <select id="prefBatchScrollSpeed">
+          <option value="100">100%</option>
+          <option value="75">75%</option>
+          <option value="50" selected>50%</option>
+          <option value="25">25%</option>
+          <option value="10">10%</option>
+          <option value="5">5%</option>
+          <option value="1">1%</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div id="buttons">
+    <button id="btnStart"><span data-i18n="label_start">Start</span></button>
+  </div>
+
+</body>
+
+</html>

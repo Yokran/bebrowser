@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles/material.min.css" />
+  <link href="styles/options.css" rel="stylesheet">
+  <link href="styles/cs.css" rel="stylesheet">
+  <title>Options</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Copyfish Options</h1>
+
+    <div class="inner-wrapper">
+      <div class="status-text">Settings saved successfully. Changes will be visible after the next conversion.</div>
+      <span class="EnginesType">OCR Engine</span>
+      <div class="OcrEngine">
+        <tr>
+          <td>
+            <label class="mdl-radio mdl-js-radio  mdl-js-ripple-effect" for="OcrSpace">
+              <input type="radio" id="OcrSpace" name="OCR" class="mdl-radio__button" value="OcrSpace">
+              <span class="mdl-radio__label">OCR Engine 1
+                (<a class="options-link" target="_blank" href="https://ocr.space/rd/copyfish?help=ocr1">more
+                languages</a>)
+              </span>
+            </label>
+          </td>
+
+          <td>
+            <label class="mdl-radio mdl-js-radio  mdl-js-ripple-effect" for="OcrSpaceSecond">
+              <input type="radio" id="OcrSpaceSecond" name="OCR" class="mdl-radio__button" value="OcrSpaceSecond">
+              <span class="mdl-radio__label">OCR Engine 2
+                (better <a class="options-link" target="_blank"
+                href="https://ocr.space/rd/copyfish?help=ocr2">alphanumeric OCR</a>)</span>
+              </label>
+            </td>
+
+            <td>
+              <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="OcrLocal">
+                <input type="radio" id="OcrLocal" name="OCR" class="mdl-radio__button" value="OcrLocal">
+                <span class="mdl-radio__label">XModule Local OCR (<a class="options-link" target="_blank"
+                  href="https://ocr.space/rd/copyfish?help=xmodule-ocr">Install Link</a>)</span>
+                </label>
+              </td>
+
+            </tr>
+          </div>
+
+            <div class="mdl-grid options-container input-language">
+              <div class="mdl-cell mdl-cell--5-col label">
+                <label>Input Language (OCR Language)</label>
+              </div>
+              <div class="mdl-cell mdl-cell--7-col">
+                <select id="input-lang" name="inputlang">
+                </select>
+              </div>
+            </div>
+            <div class="mdl-grid options-container input-language-quickselect">
+              <div class="mdl-cell mdl-cell--5-col label">
+                <label>Input Language Quickselect</label>
+              </div>
+              <div class="mdl-cell mdl-cell--2-col">
+                <select id="input-lang-1" name="inputlang" class="lang-quickselect">
+                  <option value="none" selected="selected">None</option>
+                </select>
+              </div>
+              <div class="mdl-cell mdl-cell--2-col">
+                <select id="input-lang-2" name="inputlang" class="lang-quickselect">
+                  <option value="none" selected="selected">None</option>
+                </select>
+              </div>
+              <div class="mdl-cell mdl-cell--2-col">
+                <select id="input-lang-3" name="inputlang" class="lang-quickselect">
+                  <option value="none" selected="selected">None</option>
+                </select>
+              </div>
+            </div>
+
+  
+
+
+
+    <div class="mdl-grid options-container font-size-options">
+      <div class="mdl-cell mdl-cell--5-col label">
+        <label>Text Box Font Size</label>
+      </div>
+      <div class="mdl-cell mdl-cell--7-col">
+        <select id="ocr-fontsize" name="outputlang">
+          <option value="48px">48 px</option>
+          <option value="42px">42 px</option>
+          <option value="36px">36 px</option>
+          <option value="32px">32 px</option>
+          <option value="28px">28 px</option>
+          <option value="24px">24 px</option>
+          <option value="20px">20 px</option>
+          <option value="18px">18 px</option>
+          <option value="16px" selected>16 px</option>
+          <option value="14px">14 px</option>
+          <option value="12px">12 px</option>
+        </select>
+      </div>
+    </div>
+    <div class="mdl-grid options-container translate-options">
+      <div class="mdl-cell mdl-cell--5-col label">
+        <label title="Support popup dictionaries">Support popup dictionaries <br />
+          <a target="_blank" href="https://ocr.space/rd/copyfish?help=pdic" class="tip">Tip: How to use Copyfish with
+          translator extensions</a>
+        </label>
+      </div>
+      <div class="mdl-cell mdl-cell--7-col">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect popup-dicts" for="switch-popup-dicts">
+          <input type="checkbox" id="switch-popup-dicts" class="mdl-switch__input" checked />
+          <span class="mdl-switch__label"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="mdl-grid options-container translate-options">
+      <div class="mdl-cell mdl-cell--5-col label">
+        <label title="Use Table OCR">Use Table OCR</label>
+      </div>
+      <div class="mdl-cell mdl-cell--7-col">
+        <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect table-ocr" for="switch-table-ocr">
+          <input type="checkbox" id="switch-table-ocr" class="mdl-switch__input" />
+          <span class="mdl-switch__label"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="copy-auto-container">
+      <h2>Copy text to clipboard</h2>
+      <div class="mdl-grid options-container copy-auto-text">
+        <div class="mdl-cell mdl-cell--5-col label">
+          <label title="Copy automatically">Copy automatically <br />
+          </label>
+        </div>
+        <div class="mdl-cell mdl-cell--7-col">
+          <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect copy-auto" for="switch-copy-auto">
+            <input type="checkbox" id="switch-copy-auto" class="mdl-switch__input" checked />
+            <span class="mdl-switch__label"></span>
+          </label>
+        </div>
+      </div>
+
+      </div>
+      <div class="file-access-status">
+        <h2>OCR Local Images and PDFs</h2>
+        <div class="file-access-main">
+          <p>With Copyfish you can also OCR local images and PDF. You only need to drag and drop them into your browser,
+            and then use Copyfish on it. For this to work, you need to allow Copyfish access to file URLs. You do this
+          in Chrome extension settings for Copyfish.</p>
+
+          <div class="file-access-status-error">
+            <span>Currently access to file URLs is not enabled. <a target="_blank"
+              href="https://ocr.space/rd/copyfish?help=fileurl">Show me how to change this</a> </span>
+            </div>
+
+            <div class="file-access-status-done">
+              <span>Access to file URLs is enabled.</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="xmodule-item" id="xmodule-item-local">
+          <div class="mdl-grid subtitle">
+            <h2>LOCAL OCR Processing</h2>
+          </div>
+
+          <div class="file-access-main">
+            <p>In order to  <a target="_blank"
+                href="https://ocr.space/rd/copyfish?help=xmodule-ocr">use local OCR</a> you need to install the latest XModules. Local OCR is currently available for Windows and Mac, but <span
+              style="color: red;">not</span> yet for Linux.</span>
+            </p>
+          </div>
+
+          
+
+          <div class="xmodule-title">
+            <span><b>Status:</b> </span>
+
+            <button id="check-update-fileaccess-local" type="button" class="ant-btn ant-btn-primary"><span>Test it</span>
+            </button>
+
+          </div>
+
+          <div class="xmodule-status"><label>Status:&nbsp;</label>
+            <div class="status-box local_fileaccess_module-span"><span style="color: red;">Not Installed</span>
+              <a target="_blank" href="https://ocr.space/rd/copyfish?help=download">Download it</a>
+              &nbsp;
+              <span style="color: red;">Disabled</span>
+            </div>
+          </div>
+
+
+
+        </div>
+        <div class="xmodule-item" id="xmodule-item">
+          <div class="mdl-grid subtitle">
+            <h2>Desktop OCR</h2>
+          </div>
+
+          <div class="file-access-main">
+            <p>Copyfish can grab text from anything on your the desktop with the help
+              of a <b><span style="color: green;">free</span></b> additional local helper app. This app is called
+              "XModule" (X like in in eXtension) and is available for Windows, Mac and Linux. The helper app is <span
+              style="color: red;">not</span> required if you (only) want to use Copyfish with standard website content
+              (<a href="https://ocr.space/rd/copyfish?help=desktop" target="_blank">More Info</a>).
+            </br></br>
+            Note: When Copyfish fails to grab text from a website it will try to use Desktop OCR instead. And if Desktop
+            OCR
+            is not installed, it will open this settings page. But again, if you do not need Desktop OCR there is no
+            need to install the XModule app.
+
+          </p>
+        </div>
+
+        <div class="mdl-grid mdl-cell--10-col options-container translate-options">
+          <div class="mdl-cell label mdl-cell mdl-cell--6-col">
+            <label title="Use Table OCR"><strong>Always use Desktop OCR</strong></label>
+          </div>
+          <div class="mdl-cell mdl-cell--5-col">
+            <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect usedesktop-ocr" for="switch-usedesktop-ocr">
+              <input type="checkbox" id="switch-usedesktop-ocr" class="mdl-switch__input" />
+              <span class="mdl-switch__label"></span>
+            </label>
+          </div>
+        </div>
+
+        <div class="xmodule-title">
+          <span><b>File Access Status:</b> </span>
+
+          <button id="check-update-fileaccess" type="button" class="ant-btn ant-btn-primary"><span>Test it</span>
+          </button>
+
+        </div>
+
+        <div class="xmodule-status"><label>Status:&nbsp;</label>
+          <div class="status-box fileaccess_module-span"><span style="color: red;">Not Installed</span>
+            <a target="_blank" href="https://ocr.space/rd/copyfish?help=download">Download it</a>
+            &nbsp;
+            <span style="color: red;">Disabled</span>
+          </div>
+        </div>
+
+        <div class="xmodule-title">
+          <span><b>Desktop Screenshot Status:</b> </span>
+
+          <button id="check-update-xmodule" type="button" class="ant-btn ant-btn-primary"><span>Test it</span>
+          </button>
+
+        </div>
+
+        <div class="xmodule-status"><label>Status:&nbsp;</label>
+          <div class="status-box xmodule-span"><span style="color: red;">Not Installed</span>
+            <a target="_blank" href="https://ocr.space/rd/copyfish?help=download">Download it</a>
+            &nbsp;
+            <span style="color: red;">Disabled</span>
+            <a href="#">Enable</a>
+          </div>
+          <div id="xmodule-shutter">
+            Error: External Shutter program not found
+          </div>
+        </div>
+
+      </div>
+      <div class="mdl-grid subtitle">
+        <h2>Global Keyboard Shortcuts</h2>
+      </div>
+      <p style="text-align: center;">Click <a href="#" id="manage-shortcuts">here</a> to change the shortcuts.</p>
+
+     <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col">
+        </div>
+      </div>
+	  
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col">
+          <div class="subscription">
+            <div class="text">🐟 Copyfish User Forum</div>
+            <div><center>
+                        <a target="_blank" href="https://ocr.space/rd/copyfish?help=forum">Meet developers and users in the OCR forum.</a>
+            &nbsp;
+		</center>
+          </div>
+        </div>
+      </div>
+	  
+      <div class="mdl-grid">
+        <div class="mdl-cell mdl-cell--12-col">
+          <div class="subscription">
+            <div class="text">👉 Need image/OCR-based browser automation?</div>
+            <div><center>
+                        <a target="_blank" href="https://ocr.space/rd/copyfish?help=getrpa">Get the Ui.Vision Extension for Chrome/Edge/Firefox.</br>It is Free, Open-Source & from the same developers as Copyfish!</a>
+            &nbsp;
+		</center>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdl-grid options-container buttons">
+        <!--   <div class="mdl-cell mdl-cell--3-col label"></div>
+            <div class="mdl-cell mdl-cell--5-col button-cell">
+             <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent btn btn-reset" title="Reset">Reset</button> -->
+             <!-- <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent btn btn-save" title="Save">Save</button> -->
+             <!--</div>-->
+             <div class="mdl-cell mdl-cell--5-col label">
+          
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script src="scripts/jquery.min.js"></script>
+      <script src="scripts/material.min.js"></script>
+      <script src="scripts/genlib.js"></script>
+      <script src="scripts/overlay.js"></script>
+      <script src="scripts/options.js"></script>
+    </body>
+
+    </html>

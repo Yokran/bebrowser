@@ -1,0 +1,357 @@
+{
+   "aLittle": {
+      "message": "Малко"
+   },
+   "aLot": {
+      "message": "Голямо"
+   },
+   "aTon": {
+      "message": "Огромно"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + Нагоре/Надолу стрелки"
+   },
+   "alternateDesigns": {
+      "message": "Алтернативни дизайни"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "Разстояние до появяване на бутоните"
+   },
+   "arrowOnly": {
+      "message": "Само стрелки"
+   },
+   "authorsSettings": {
+      "message": "Авторски настройки"
+   },
+   "barelyAny": {
+      "message": "Едва ли"
+   },
+   "black": {
+      "message": "Черен"
+   },
+   "blue": {
+      "message": "Син"
+   },
+   "bottomCenter": {
+      "message": "Долу в центъра"
+   },
+   "bottomLeft": {
+      "message": "Долу вляво"
+   },
+   "bottomRight": {
+      "message": "Долу вдясно"
+   },
+   "browserActionPageTitle": {
+      "message": "Настройки на активните раздели | Scroll To Top Button"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "Обнови раздела"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "Деактивирай STTB за този домейн"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "Деактивирай STTB за този URL адрес"
+   },
+   "browserActionSttbEnabled": {
+      "message": "Включи Scroll To Top Button (STTB)"
+   },
+   "browserActionTitle": {
+      "message": "Настройки на активните раздели"
+   },
+   "buttonDesign": {
+      "message": "Дизайн на бутоните"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "Височина на бутона в пиксели"
+   },
+   "buttonLocation": {
+      "message": "Разположение на бутоните"
+   },
+   "buttonMode": {
+      "message": "Режим на бутоните"
+   },
+   "buttonSettings": {
+      "message": "Настройки на бутоните"
+   },
+   "buttonSize": {
+      "message": "Размер на бутоните"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "$LENGTH$x$WIDTH$ пиксели",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "Ширина на бутона в пиксели"
+   },
+   "centerLeft": {
+      "message": "Център вляво"
+   },
+   "centerRight": {
+      "message": "Център вдясно"
+   },
+   "clickthroughKeys": {
+      "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element.",
+      "message": "Кликнете върху елемента зад бутона"
+   },
+   "clickthroughKeysTooltip": {
+      "description": "The tooltip that explains the “clickthrough keys” option in detail.",
+      "message": "Преди може би сте искали да кликнете върху елемента под/зад бутона, но бутонът е блокирал пътя и няма как да го премахнете.\n\nСега можете да задържите определен бутон на клавиатурата, да преместите курсора върху бутона и бутонът ще изчезне. Сега спокойно може да кликнете върху по-рано недостъпният елемент."
+   },
+   "close": {
+      "message": "Затвори"
+   },
+   "colors": {
+      "message": "Цвят"
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Контекст меню (десен клик)"
+   },
+   "ctrlKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) key + Click button.",
+      "message": "Ctrl (Control) + Клик"
+   },
+   "ctrlKeyOrShiftKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button.",
+      "message": "Ctrl/Shift + Клик"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Нека аз посоча..."
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Двойни стрелки"
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "fast": {
+      "message": "Бързо"
+   },
+   "faster": {
+      "message": "По-бързо"
+   },
+   "fastest": {
+      "message": "Най-бързо (незабавно)"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Превключване в средата"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "Разстояние до превключването"
+   },
+   "green": {
+      "message": "Зелен"
+   },
+   "grey": {
+      "message": "Сив"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">Помогнете с превода\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "Контрол на клавишите Home &amp; End"
+   },
+   "invisible": {
+      "message": "Невидим"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Само клавиатура"
+   },
+   "keyboardSettings": {
+      "message": "Настройки на клавиатурата"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Бързи клавиши"
+   },
+   "language_bg": {
+      "description": "Language option: bg (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Български"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "Автоматично (като в браузъра)"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "Ако разширението поддържа езика, който е избран по подразбиране в браузъра, използвайте го. В противен случай използвайте English (United States)."
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Чешки - čeština"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Английски (САЩ) - English (United States)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Галисийски - galego"
+   },
+   "language_ja": {
+      "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Japanese - 日本語"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Нидерландски - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Полски - polski"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Турски - Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Китайски (Китай) - 中文（中国）"
+   },
+   "medium": {
+      "message": "Среден"
+   },
+   "moreThanAverage": {
+      "message": "Повече от средното"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "Стил на неактивните бутони"
+   },
+   "off": {
+      "message": "Изключeно"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">Домашна страница\u003C/a>"
+   },
+   "on": {
+      "message": "Включено"
+   },
+   "opaque": {
+      "message": "Непрозрачен"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Операциона система"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Опции | Scroll To Top Button"
+   },
+   "optionsSaved": {
+      "message": "Опциите са запазени."
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Опции Scroll To Top Button"
+   },
+   "orange": {
+      "message": "Оранжев"
+   },
+   "otherSettings": {
+      "message": "Други настройки"
+   },
+   "pink": {
+      "message": "Розов"
+   },
+   "pixelDesign": {
+      "message": "Пикселен дизайн"
+   },
+   "purple": {
+      "message": "Виолетов"
+   },
+   "red": {
+      "message": "Червен"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">История на версиите\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "Възстановяване на настройките"
+   },
+   "save": {
+      "message": "Запазване"
+   },
+   "scrollDownSpeed": {
+      "message": "Скорост на превъртане надолу"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Скорост на превъртане надолу в милисекунди"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Превъртане само нагоре"
+   },
+   "scrollUpSpeed": {
+      "message": "Скорост на превъртане нагоре"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Скорост на превъртане нагоре в милисекунди"
+   },
+   "shiftKey": {
+      "description": "Shift key + Click button.",
+      "message": "Shift + Клик"
+   },
+   "slow": {
+      "message": "Бавно"
+   },
+   "slower": {
+      "message": "По-бавно"
+   },
+   "slowest": {
+      "message": "Най-бавно"
+   },
+   "topCenter": {
+      "message": "Горе в центъра"
+   },
+   "topLeft": {
+      "message": "Горе вляво"
+   },
+   "topRight": {
+      "message": "Горе вдясно"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "Превод: \u003Ca href=\"https://www.transifex.com/user/profile/ozzy1bg/\" target=\"_blank\" id=\"translatorLink\">Валери Владимиров (ozzy1bg)\u003C/a>"
+   },
+   "transparent": {
+      "message": "Прозрачен"
+   },
+   "tumblerBlue": {
+      "message": "Син (Tumblr)"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "Език"
+   },
+   "yellow": {
+      "message": "Жълт"
+   }
+}

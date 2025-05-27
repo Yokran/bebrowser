@@ -1,0 +1,10 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st1{fill:none;stroke:#2B4EA2;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}</style>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_4">
+   <path id="svg_1" d="m22.5,34.45c0,15.2 17.4,48.3 27.5,48.3c9.9,0 27.5,-33.2 27.5,-48.3s-12.3,-27.5 -27.5,-27.5s-27.5,12.3 -27.5,27.5z" class="st1"/>
+   <path id="svg_2" d="m62.1,31.75c1,8 -5.7,14.6 -13.6,13.6c-5.4,-0.7 -9.8,-5.1 -10.5,-10.5c-1,-8 5.7,-14.6 13.6,-13.6c5.4,0.8 9.8,5.1 10.5,10.5z" class="st1"/>
+  </g>
+ </g>
+</svg>

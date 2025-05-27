@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Description of the app",
+      "message": "Add audio controls to WhatsApp Web. Listen to those long recordings in no time."
+   },
+   "appName": {
+      "description": "Title of the extension",
+      "message": "Zapp: WhatsApp Audio Speed and Volume"
+   }
+}

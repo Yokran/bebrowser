@@ -1,0 +1,38 @@
+{
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/extension.css" ],
+      "js": [ "js/extension.js" ],
+      "matches": [ "*://*.instagram.com/*" ]
+   }, {
+      "js": [ "js/inject.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "js": [ "js/options_listener_inject.js" ],
+      "matches": [ "*://*.instagram.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Download photos, videos and Reels from Instagram.",
+   "host_permissions": [ "*://*.instagram.com/*", "*://*.cdninstagram.com/*", "*://*.cdninstagram.net/*", "*://*.fbcdn.net/*" ],
+   "icons": {
+      "512": "icons/igdl2.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs9OUiuwNv6DlAJNdwbowT6T+fcHHPQbI4nmWoyoiYDtGAqgo7T6mgP29DbI69bzXJUJmmJuXefUDmdP8s1bFWgxX8RMIISPDuGQAACD3LvhAq7YQSwV8PHZsev2yDQPdQW2iI4h+4kAXRLOwFvV+HAkKW+eMuJEpoodhTfTMc4xdklzlmViyjoA9bhRggVMJ9tX/eHSWHQ2g8j/83dcuADrvXJL8HcO7a+d+/FLNXUpPOzkNlWFiWr6U+soyhMBuGjYHw+l+0Mx20zbo/z1wj5Kghpvo6cORu8RH0AA57+3pB0z0tiDYD9VJVL4I5NLw0xCHWQM0GV+5LKrjEBP+hwIDAQAB",
+   "manifest_version": 3,
+   "name": "Turbo Downloader for Instagram",
+   "options_page": "options.html",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.12.15",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "icons/download_all_black.svg", "icons/download_all_white.svg", "icons/download_black.svg", "icons/download_white.svg", "icons/close_black_24dp.svg", "icons/igdl2.png" ]
+   }, {
+      "matches": [ "*://*.instagram.com/*" ],
+      "resources": [ "js/options.js", "css/options.css" ]
+   } ]
+}

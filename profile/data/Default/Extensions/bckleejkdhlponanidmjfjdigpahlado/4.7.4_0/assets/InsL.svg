@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>InsL</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="256" height="256" rx="36"></rect>
+    </defs>
+    <g id="InsL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#FCD813" xlink:href="#path-1"></use>
+        <path d="M-2.27373675e-13,0 L105,0 L105,23 C105,42.882251 88.882251,59 69,59 L-2.27373675e-13,59 L-2.27373675e-13,59 L-2.27373675e-13,0 Z" id="Rectangle" fill="#AF30BC" mask="url(#mask-2)"></path>
+        <text mask="url(#mask-2)" font-family="PingFangSC-Semibold, PingFang SC" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="17.31" y="43">InsL</tspan>
+        </text>
+        <g id="Group-6" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+            <g transform="translate(98.000000, 121.000000)">
+                <polyline id="Path-4" points="0 41 29.5 55 59 41"></polyline>
+                <line x1="29.5" y1="0.319277108" x2="29.5" y2="52.3614458" id="Line-3" stroke-dasharray="10,20"></line>
+            </g>
+        </g>
+        <path d="M163.183886,78.556212 C179.386471,76.3174402 194.599917,80.8724798 206.913496,91.5798369 C219.424903,102.463713 225.422465,116.804769 223.71439,131.847594 C222.025616,146.709595 213.186087,161.386467 198.310396,174.323985 C194.160836,177.936157 183.005274,187.687731 166.995692,201.697277 C159.796687,208.00028 152.134476,214.70368 144.414364,221.47166 L136.906555,228.041594 L133.924661,230.65493 C130.356484,233.78169 124.638852,233.78169 121.070675,230.65493 L95.1503981,207.922784 L89.6739436,203.135257 C78.6792299,193.530022 67.6828951,183.926265 56.6849396,174.323985 C41.8092485,161.386467 32.9745453,146.7139 31.2857707,131.847594 C29.5776959,116.804769 35.5704329,102.463713 48.0866647,91.5798369 C60.4002436,80.8724798 75.6136895,76.3217455 91.8162747,78.556212 C103.840349,80.2137642 116.038126,85.5566795 127.502493,94.0855393 C138.971684,85.5609848 151.164637,80.2137642 163.188711,78.556212 L163.183886,78.556212 Z" id="Path" stroke="#000000" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+    </g>
+</svg>

@@ -1,0 +1,2205 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "세계 최고 수준의 정확성을 자랑하는 DeepL 번역으로 읽거나 쓰면서 번역해 보세요."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL: AI 번역기 및 작문 도우미"
+   },
+   "config_tab_click_icon": {
+      "message": "\u003Cstrong>DeepL 아이콘\u003C/strong> 클릭"
+   },
+   "config_tab_customize_link": {
+      "message": "단축키 설정"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "DeepL 번역기를 활성화하려면 관리자에 문의하세요."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "DeepL Write를 활성화하려면 관리자에 문의하세요."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "선택한 텍스트 번역"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepL 로고"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "완료"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "언어 감지"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "텍스트를 번역할 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "텍스트를 개선할 수 없습니다. 나중에 다시 시도하세요."
+   },
+   "error_message_internet_connection": {
+      "message": "인터넷 연결 상태를 확인한 후 다시 시도하세요."
+   },
+   "error_message_please_login": {
+      "message": "이 텍스트를 번역하려면 다시 로그인하세요. "
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "이용 중인 계정의 사용 한도에 도달하였습니다."
+   },
+   "error_message_session_expired": {
+      "message": "세션이 만료되었습니다. 다시 로그인해 주세요."
+   },
+   "error_message_technical_issue": {
+      "message": "죄송합니다. 기술적 문제가 발생하여 텍스트를 번역할 수 없습니다. 최대한 빨리 문제를 해결할 수 있도록 노력하겠습니다."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "텍스트를 번역할 수 없습니다. 이용 중인 네트워크에서 당사 서버로 너무 많은 요청을 보내고 있습니다."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "언어 변경"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "텍스트 번역"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "DeepL의 Firefox 확장 프로그램을 사용하면 브라우저에서 바로 탁월한 품질의 DeepL 번역을 이용할 수 있습니다.\n\nFirefox에서 텍스트를 읽거나 쓰면서 쉽게 번역할 수 있습니다. DeepL Pro 버전의 경우 전체 웹 페이지 번역 기능이 포함되어 있으며, \n무료 버전에서도 이 기능을 사용할 수 있도록 준비하고 있습니다. 그때까지는 텍스트를 선택하면 DeepL 아이콘이 표시되며, 해당 아이콘을 클릭하면 번역이 제공됩니다. 설정 화면에서 나만의 단축키를 지정하여 Firefox에서 읽고 쓰면서 더 빠르게 번역할 수 있습니다.\n\n이제 더 이상 언어 장벽으로 인해 웹상의 정보를 놓칠 일이 없습니다. \n\n지금 바로 Firefox용 DeepL을 다운로드하여 무료로 번역해 보세요.\n\n열람 중인 페이지 번역\n더 이상 외국어로 작성된 이메일, 기사, 웹사이트를 건너뛰지 않아도 됩니다. Firefox에서 탐색 중인 콘텐츠를 선택한 언어로 본래의 맥락에서 볼 수 있습니다. \n\n쓰면서 번역\nSNS 게시물, 채팅 메시지 또는 이메일 등 입력하는 즉시 바로 번역할 수 있습니다. 즉, 다른 언어로 소통하기 위해 Firefox를 일시적으로 닫거나, 복사, 붙여넣기 또는 재입력할 필요가 없습니다.\n\n전체 페이지 번역\nDeepL Pro 사용자의 경우, 클릭 한 번이면 전체 웹 페이지를 원하는 언어로 번역할 수 있습니다. 모든 웹사이트를 특정 언어로 자동 번역하도록 설정해 두면 더욱 편리하게 페이지를 탐색할 수 있습니다. 무료 버전에서도 이 기능을 사용할 수 있도록 준비하고 있습니다. \n\nDeepL Pro 로그인 \nDeepL Pro 사용자는 확장 프로그램을 통해 계정에 로그인할 수 있습니다.\n\n단축키\n간단한 단축키를 사용해 더욱 빠르고 쉽게 번역할 수 있습니다. 설정 화면에서 나만의 단축키를 지정할 수 있습니다.\n\n탁월한 정확성\n사용 중인 웹사이트나 애플리케이션에서 높은 정확도로 번역할 수 있습니다. DeepL은 경쟁사 대비 훨씬 정확한 번역을 제공합니다. 주요 기술 대기업 서비스와의 블라인드 테스트에서 3배 높은 점수를 받았습니다.\n\n수백만 사용자의 선택\n전 세계 수백만 명이 매일 DeepL을 사용하여 더욱 원활하게 소통하고 있습니다.\n\n30개 이상의 언어 지원\n확장 프로그램에서 지원하는 언어 목록은 고객센터의 이 글(https://support.deepl.com/hc/en-us/articles/4407573562386-Languages-in-the-browser-extension)을 참조하세요.\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "세계 최고 수준의 정확성을 자랑하는 DeepL 번역으로 읽거나 쓰면서 번역해 보세요."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL 번역: 외국어 읽기 & 쓰기"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "\u003CfeedbackLink>DeepL Firefox 확장 프로그램을 완성할 수 있도록 소중한 의견 부탁드립니다.\u003C/feedbackLink>"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "동의하고 계속하기"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>Firefox용 DeepL을 사용하려면\u003Cstrong> DeepL이 브라우저에서 번역 또는 교정할 텍스트에 접근하여 처리할 수 있도록 권한을 부여해야 합니다\u003C/strong>. 전체 페이지 번역이 활성화된 경우에만 당사가 전체 웹 페이지의 콘텐츠를 처리할 수 있습니다.\u003C/p>\n\u003Cp>이용자의 계정으로 Firefox용 DeepL에 로그인하면 당사는 이용 중인 플랜에 포함된 기능을 제공하는 데 필요한 개인정보를 처리합니다.\u003C/p>\n\u003Cp>또한 기술, 기기 및 사용량 데이터를 수집하여 이용자의 브라우저에서 DeepL Firefox 확장 프로그램이 제대로 실행되는지 확인하고 부정 사용 여부를 탐지 및 방지합니다.\u003C/p> \n\u003Cp>당사 정책에 대한 자세한 내용은 다음 페이지에서 확인할 수 있습니다.\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "거부하고 제거하기"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "개인정보 처리방침"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "DeepL (Pro) 계정이 없는 고객을 위한 \u003CtermsLink>서비스 약관\u003C/termsLink>\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL은 귀하의 권한이 필요합니다"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "단축키 관리 방법"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "언어 감지 중..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "페이지를 이 언어로 자동 번역"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "자동 번역된 출발 언어:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "글자 수 한도를 초과하여 이 페이지를 번역할 수 없습니다."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "죄송합니다. 현재 전체 페이지 번역을 사용할 수 없습니다. 최대한 빨리 문제를 해결할 수 있도록 노력하겠습니다."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "현재 Google 번역이 활성화 상태인 것으로 보입니다. DeepL 확장 프로그램이 제대로 작동할 수 있도록 이를 비활성화해 주세요."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "항상 번역:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "아니요, 괜찮습니다"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "번역하지 않는 출발 언어:"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "이 웹사이트를 번역하지 않음"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "이 사이트를 번역할까요?"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "번역"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "변경"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "번역하지 않는 출발 언어:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "변경"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "번역하지 않는 사이트:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "이 웹사이트에서 어떠한 데이터도 찾지 못했습니다. 이 페이지를 새로고침해 보세요."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "번역 중"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "취소"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "저장"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "완료"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "설정"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "자동 번역할 출발 언어"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "번역하지 않는 출발 언어"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "번역하지 않는 사이트"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "페이지 번역"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "도착 언어"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "쓰면서 번역"
+   },
+   "full_page_translation_show_original": {
+      "message": "원본 보기"
+   },
+   "full_page_translation_target_label": {
+      "message": "출발 언어 및 도착 언어"
+   },
+   "full_page_translation_translate_button": {
+      "message": "페이지 번역"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "용어집을 로드할 수 없습니다."
+   },
+   "glossary_failed_try_again": {
+      "message": "다시 시도"
+   },
+   "glossary_label": {
+      "message": "용어집"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "첫 번째 용어집 만들기"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "용어집을 선택하면 해당 번역 규칙이 읽고 쓰는 텍스트에 자동으로 적용됩니다."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "이미 DeepL Pro를 구독 중인가요? \u003CloginLink>로그인\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "핵심 단어 및 구문에 대한 번역 규칙을 설정하고 싶으신가요? DeepL Pro 체험 플랜으로 \u003Cstrong>용어집을 30일간 무료로 사용\u003C/strong>해 보세요."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "아직 용어집이 없습니다. 첫 번째 용어집을 생성하여 핵심 단어 및 구문에 대한 번역 규칙을 설정해 보세요."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "자세히 보기"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "무료 체험"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "한 번에 \u003Cstrong>최대 1,500자\u003C/strong>까지만 번역할 수 있습니다.\n\u003Cstrong>DeepL 계정 생성 시\u003C/strong> 한도를 늘릴 수 있습니다."
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "로그인"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "무료 회원가입"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "글자 수 한도를 늘려보세요"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "한 번에 \u003Cstrong>최대 5,000자\u003C/strong>까지만 번역할 수 있습니다.\n\u003Cstrong>DeepL Pro를 30일간 무료로 체험해 보세요.\u003C/strong> 글자 수 제한 없이 이용할 수 있습니다."
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Pro 무료 체험"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "DeepL Pro로 무제한 번역을 경험해 보세요"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "5,000자 이상의 텍스트를 번역하려면 DeepL Pro를 구독하세요."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "지금 안 함"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "사용 한도에 도달하였습니다"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "DeepL Pro 무료 체험"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "변경 적용"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "텍스트 번역 또는 개선"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "개선"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "개선"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "실수를 교정하고 글쓰기를 완성합니다.\n현재 영어 및 독일어만 지원됩니다."
+   },
+   "gmail_compose_translate_button": {
+      "message": "번역"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "출발 언어:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "번역"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "도착 언어:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "원문으로 되돌리기"
+   },
+   "gmail_forwarding_link": {
+      "message": "Gmail용 DeepL 무료 다운로드"
+   },
+   "gmail_forwarding_title": {
+      "message": "이 이메일은 Gmail용 DeepL로 번역되었습니다."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(감지됨)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "클릭 한 번으로 이메일 번역"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "다른 언어로 이메일 작성"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "작성한 글을 다듬고 오류 없이 더 빠르게 이메일을 작성하세요."
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "5,000자 이상의 텍스트를 번역하려면 DeepL Pro를 구독하세요."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "DeepL Pro 무료 체험"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "사용 한도에 도달하였습니다"
+   },
+   "gmail_onboarding_title": {
+      "message": "Gmail용 DeepL에 오신 것을 환영합니다!"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "Gmail용 DeepL 활성화/비활성화"
+   },
+   "gmail_reading_forward_button": {
+      "message": "번역된 이메일 전달"
+   },
+   "gmail_reading_translate_button": {
+      "message": "이메일 번역"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "원본 보기"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "텍스트 분량을 줄이거나 DeepL Pro로 마음껏 번역해 보세요."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "텍스트 분량을 줄이거나 DeepL Pro로 글자 수 제한 없이 교정해 보세요."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "무료 사용자의 경우 한 번에 2,000자까지 개선할 수 있습니다."
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "무료 사용자는 한 달에 5,000자까지 번역할 수 있습니다."
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "\u003Cb>Microsoft 365에서 바로\u003C/b> DeepL을 사용하세요"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "자세히 보기 "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "선택한 텍스트를 DeepL로 번역"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "텍스트를 선택한 후 DeepL 아이콘을 클릭하여 간편하게 번역하세요!"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "DeepL 읽기 아이콘 표시"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "선택한 텍스트를 다음 언어로 번역"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "기타 설정"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "확인"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "아이콘 끄기"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "DeepL 읽기 아이콘 끄기"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "끄기 취소"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "항상 모든 사이트에서"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "이 사이트에서만"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "읽기"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "우클릭하여 다음 언어로 번역"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "자세히 보기"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "끄기"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "아이콘을 클릭하여 고급 모드 창을 엽니다. 이 창에서 변경 사항을 적용하고 버전을 비교할 수 있습니다."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "DeepL로 페이지 번역하고 개선하기"
+   },
+   "input_selection_alternatives_label": {
+      "message": "대안"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "자세히 보기"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "번역 어조 선택하기"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "대안 보기"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "번역"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "번역"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "빠른 텍스트 번역 및 최적화"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "DeepL 아이콘을 클릭하고 원하는 작업을 선택하세요!"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "DeepL 쓰기 아이콘 표시"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "기타 설정"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "매번 언어를 수동으로 선택"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "항상 다음 언어로 번역"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "확인"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "아이콘 끄기"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "DeepL 쓰기 아이콘 끄기"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "끄기 취소"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "항상 모든 사이트에서"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "이 사이트에서만"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "쓰기"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "입력 내용을 다음 언어로 번역"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "도착 언어 변경"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "끄기"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "DeepL Write를 활성화하려면 관리자에 문의하세요."
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "텍스트 개선. 독일어 및 영어 지원"
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "텍스트 개선"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "도착 언어 선택"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "설정"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "번역"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "텍스트 번역..."
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "다음으로 번역..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "끄기"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "도착 언어:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "도착 언어:"
+   },
+   "layout_header_settings_icon": {
+      "message": "설정으로 이동"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "번역기"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "로그인"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "무료 회원가입"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "한 번에 1,500자 이상을 번역하려면 \u003Cstrong>무료\u003C/strong>로 DeepL 계정을 생성하세요!"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "회원가입 시 글자 수 한도가 늘어납니다"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "한 번에 5,000자 이상을 번역하려면 \u003Cstrong>DeepL 번역기\u003C/strong> 유료 플랜을 30일 동안 무료로 사용해 보세요!"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "무제한 텍스트 번역"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "한 번에 5,000자 이상을 번역하려면 DeepL 번역기 유료 플랜을 구독하세요."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "무료 체험"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "번역기 업그레이드"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "Write Pro로 업그레이드"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "한 번에 2,000자만 다듬을 수 있습니다. \u003Cstrong>DeepL Write Pro\u003C/strong>로 텍스트의 완성도를 높일 수 있습니다."
+   },
+   "limit_popup_write_title": {
+      "message": "무제한 텍스트 개선"
+   },
+   "link_get_pro_license": {
+      "message": "DeepL Pro 무료 체험"
+   },
+   "link_try_deepl": {
+      "message": "DeepL Pro 무료 체험"
+   },
+   "login_error_default_message": {
+      "message": "로그인에 실패했습니다."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "DeepL Pro 로그인"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "DeepL Pro 무료 체험"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "Write Pro 무료 체험"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "페이지 번역"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "로그인"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>Pro 사용자\u003C/strong>의 경우, 클릭 한 번에 전체 페이지를 번역할 수 있습니다."
+   },
+   "login_widget_try_pro_label": {
+      "message": "아직 Pro에 가입하지 않으셨나요? \u003CtryOutLink>무료로 체험해 보세요\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "Pro로 업그레이드"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "클릭 한 번으로 \u003Cli>\u003Cstrong>전체 페이지 번역\u003C/strong> \u003C/li>\n\u003Cli>\u003Cstrong>무제한\u003C/strong> 번역\u003C/li>\n\u003Cli>\u003Cstrong>최고 수준의 데이터 보안\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "30일간 무료로 \u003Cstrong>DeepL Pro\u003C/strong>의 프리미엄 기능을 즐기세요!"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "간편한 사용법"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "아이콘 설정 관리"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "DeepL 플로팅 아이콘 표시하기"
+   },
+   "main_popup_info_box_translator": {
+      "message": "최고 수준의 데이터 보안을 보장하는 \u003Cstrong>DeepL Pro 플랜\u003C/strong>을 이용 중입니다."
+   },
+   "main_popup_info_box_write": {
+      "message": "최고 수준의 데이터 보안을 보장하는 \u003Cstrong>Write Pro 플랜\u003C/strong>을 이용 중입니다."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "무료 체험 시작"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "전체 웹페이지 번역"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "선택한 텍스트를 다음 언어로 번역"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "입력 내용을 다음 언어로 번역"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "DeepL Write Pro를 통해 \u003Cstrong>철저한 데이터 보안\u003C/strong>을 바탕으로 \u003Cstrong>글자 수 제한 없이 텍스트를 개선\u003C/strong>할 수 있습니다."
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "Write Pro로 업그레이드"
+   },
+   "main_popup_write_target_language": {
+      "message": "다음 언어로 글쓰기 개선"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "DeepL Pro 로그인"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "로그아웃"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "메뉴"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "설정"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "설정"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "피드백 공유"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "DeepL Pro 무료 체험"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Microsoft 365에서 DeepL로 번역 및 쓰기"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "자세히 보기"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "Outlook, Word, PowerPoint용 DeepL 추가 기능을 사용하면 앱 전환 없이 글을 번역하고 다듬을 수 있습니다."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "한 번에 $limit$자 이상을 번역하려면 \u003Cstrong>무료\u003C/strong>로 계정을 생성해 보세요!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "회원가입 시 글자 수 한도가 늘어납니다"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "로그인"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "무료 회원가입"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "Pro 플랜을 구독하면 한 번에 $limit$자 이상을 번역할 수 있습니다. \u003Cstrong>30일 동안 무료로 사용해 보세요!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "DeepL Pro 구독 시 글자 수 한도가 늘어납니다"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "Pro 무료체험"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "DeepL 읽기 아이콘이 비활성화되었습니다. $linkToSettings$에서 해당 설정을 변경할 수 있습니다",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "DeepL 읽기 아이콘이 $currentWebsite$에서 비활성화되었습니다. $linkToSettings$에서 해당 설정을 변경할 수 있습니다",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "설정"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "현재 쓰기 아이콘이 비활성화 상태입니다. $linkToSettings$에서 해당 설정을 변경할 수 있습니다",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "현재 쓰기 아이콘이 $currentWebsite$에서 비활성화 상태입니다. $linkToSettings$에서 해당 설정을 변경할 수 있습니다",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "설정"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "$settings$에서 텍스트 번역 단축키를 직접 설정하세요",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "설정"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "계정 생성이 완료되었습니다!"
+   },
+   "onboarding_back_button": {
+      "message": "뒤로"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "특정 페이지에서 DeepL 확장 프로그램을 끄고 싶으신가요? 문제없습니다! 설정에서 부분적으로 비활성화할 수 있습니다."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "특정 페이지 비활성화"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "클릭 한 번이면 전체 웹 페이지를 원하는 언어로 번역할 수 있습니다. "
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "무료 체험"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "또한 웹 번역기와 앱에서 더 많은 기능이 제공됩니다."
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "전체 파일 번역"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "용어집(일부 언어만 지원)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "격식/비격식 전환"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "30일 무료 체험. 언제든지 취소 가능."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "기타 등등"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "전체 페이지 번역"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "DeepL 아이콘을 클릭하거나 단축키를 활성화하여 선택한 텍스트를 번역할 수 있습니다."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "선택한 텍스트 번역"
+   },
+   "onboarding_input_translation_description": {
+      "message": "DeepL 아이콘을 클릭하거나 단축키를 활성화하여 수천 개의 플랫폼에서 입력 내용을 번역할 수 있습니다."
+   },
+   "onboarding_input_translation_title": {
+      "message": "클릭 한 번에 쓰면서 번역"
+   },
+   "onboarding_last_step_description": {
+      "message": "이미 수천 명의 사용자가 웹페이지를 탐색하면서 고품질의 DeepL의 번역을 경험하고 있습니다."
+   },
+   "onboarding_last_step_title": {
+      "message": "지금 바로 사용해 보세요!"
+   },
+   "onboarding_next_button": {
+      "message": "다음"
+   },
+   "onboarding_pin_extension": {
+      "message": "여기에 DeepL 확장 프로그램을 고정해 두면 편리하게 액세스할 수 있습니다"
+   },
+   "onboarding_promotion_body": {
+      "message": "DeepL 브라우저 확장 프로그램은 가장 널리 사용되는 생산성 도구와 높은 호환성을 자랑합니다. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>평소에 즐겨 찾는 도구\u003C/strong>에 DeepL을 통합하여 작업 흐름을 최적화할 수 있습니다."
+   },
+   "onboarding_promotion_header": {
+      "message": "즐겨 찾는 도구에서 번역 및 텍스트 최적화"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "Gmail에서 사용해 보기"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "Google Docs에서 사용해 보기"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "Google Slides에서 사용해 보기"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "모든 통합 옵션 보기"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "새 DeepL 계정에 로그인했습니다."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "열람 중인 브라우저 탭에서 바로 정확한 번역과 자신있는 소통이 가능합니다."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "애드인 설치하기"
+   },
+   "onboarding_signup_body": {
+      "message": "DeepL에 무료 가입하여 DeepL 확장 프로그램을 최대한 활용해 보세요!"
+   },
+   "onboarding_signup_cta": {
+      "message": "무료 회원가입"
+   },
+   "onboarding_signup_header": {
+      "message": "아직 계정이 없으신가요?"
+   },
+   "onboarding_signup_login_option": {
+      "message": "이미 계정이 있으신가요? \u003CloginLink>로그인\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "건너뛰기"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "로그인되었습니다!"
+   },
+   "onboarding_title_free": {
+      "message": "무료"
+   },
+   "onboarding_title_pro": {
+      "message": "PRO로 사용 가능"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "DeepL 아이콘을 클릭하거나 단축키를 눌러 손쉽게 텍스트를 번역하세요. 다양한 플랫폼에서 작동합니다."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "읽고 쓰면서 번역하기"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "동일한 DeepL 아이콘을 눌러 텍스트를 수정하거나 표현을 바꾸고 문체와 어조를 독자와 목표에 맞게 조정할 수 있습니다."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "영어, 독일어, 프랑스어, 스페인어 등 다양한 언어로 이용 가능합니다."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "글쓰기에 자신감 더하기"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "권한 관리"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox 브라우저에서 방문하는 사이트에 대한 DeepL의 액세스를 허용합니다."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox는 귀하의 권한이 필요합니다"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "귀하가 소속된 회사의 요구에 따라 더 안전한 환경에서 번역할 수 있는 DeepL Pro에 로그인해야 합니다."
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "계정 로그인"
+   },
+   "position_options_bottom": {
+      "message": "하단"
+   },
+   "position_options_left": {
+      "message": "좌측"
+   },
+   "position_options_right": {
+      "message": "우측"
+   },
+   "position_options_top": {
+      "message": "상단"
+   },
+   "reading_config_tab_description": {
+      "message": "선택한 텍스트를 다음 언어로 번역"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "DeepL 읽기 아이콘 표시"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "마우스 \u003Cstrong>우클릭\u003C/strong>"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "\u003Cstrong>단축키\u003C/strong> 사용"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "읽기"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "설정"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "쓰기"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "입력란에서 바꾸기"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "설정에서 이 창을 비활성화"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "확장 프로그램 설정에서 언제든지 이 창을 활성화/비활성화할 수 있습니다."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "고급 모드를 자주 사용하지 않으시나요?"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "DeepL로 텍스트 개선하기"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "DeepL로 번역"
+   },
+   "segmentation_survey_button": {
+      "message": "설문조사 참여"
+   },
+   "segmentation_survey_copy": {
+      "message": "DeepL을 더욱 개선할 수 있도록 간단한 설문에 응답해 주세요."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "언어를 선택하세요"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "영어(영국)"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "영어(미국)"
+   },
+   "selected_languages_PT_BR": {
+      "message": "포르투갈어(브라질)"
+   },
+   "selected_languages_PT_PT": {
+      "message": "포르투갈어"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "페이지 내 번역/개선을 위한 고급 모드 창 표시"
+   },
+   "settings_aknowledgements": {
+      "message": "라이선스 정보"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "출시 예정"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "문서를 명확하게 작성하고 편리하게 번역하세요."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Google Docs에서 사용해 보기"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "이메일을 간편하게 번역하고 글쓰기를 빠르게 개선하세요."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Gmail에서 사용해 보기"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "다른 언어로 완벽한 덱을 만들어 자신감 있게 발표하세요."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Google Slides에서 사용해 보기"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "구직, 구인자에 최고의 인상을 남기세요."
+   },
+   "settings_customizations_twitter_content": {
+      "message": "트윗을 읽고 쓰면서 즉시 번역해 보세요."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "X에서 사용해 보기"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X(구 Twitter)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "메시지를 번역하여 여러 언어로 자유롭게 소통하세요."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "WhatsApp에서 사용해 보기"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "다른 사용자의 댓글을 번역하여 더 원활하게 소통하세요."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "YouTube에서 사용해 보기"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "DeepL 플로팅 아이콘 표시하기"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "다음 언어는 항상 자동 번역"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "전체 페이지를 항상 다음 언어로 번역"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "다음 웹사이트에서는 전체 페이지 번역 팝업창을 표시하지 않습니다"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "다음 언어는 전체 페이지 번역 팝업창을 표시하지 않습니다"
+   },
+   "settings_fpt_lang_select": {
+      "message": "웹사이트를 다음 언어로 번역"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "자동 번역하지 않는 출발 언어"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "자동 번역하지 않는 사이트"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "아직 추가한 사이트가 없습니다."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "자동 번역을 원하지 않는 사이트에서 읽기 및 쓰기 아이콘을 클릭하여 해당 사이트를 이 목록에 추가할 수 있습니다."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "전체 페이지 번역 팝업창 표시"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "웹페이지 전체 번역 기능을 사용할 수 있을 때 팝업창을 표시합니다"
+   },
+   "settings_fpt_reset": {
+      "message": "전체 페이지 번역 팝업창 초기화"
+   },
+   "settings_fpt_reset_button": {
+      "message": "모두 초기화"
+   },
+   "settings_language_selector_empty": {
+      "message": "언어"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "언어 추가"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "전체 페이지 번역"
+   },
+   "settings_menu_reading": {
+      "message": "읽기"
+   },
+   "settings_menu_writing": {
+      "message": "쓰기"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "통합"
+   },
+   "settings_navigation_general_settings": {
+      "message": "일반 설정"
+   },
+   "settings_reading_adjust_position": {
+      "message": "창 위치"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "기본 위치"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "선택한 텍스트를 항상 다음 언어로 번역"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "다음 사이트에서는 DeepL 아이콘을 표시하지 않습니다"
+   },
+   "settings_reading_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "아직 추가한 사이트가 없습니다. 자동 번역을 원하지 않는 사이트에서 읽기 및 쓰기 아이콘을 클릭하여 해당 사이트를 이 목록에 추가할 수 있습니다."
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "텍스트를 선택하면 아이콘이 표시됩니다"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "항상 DeepL 읽기 아이콘 표시"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "단축키 변경"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "단축키를 사용하여 읽으면서 번역하세요"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "단축키"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "단축키 설정으로 이동"
+   },
+   "settings_title": {
+      "message": "설정"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "항상 입력한 내용을 다음 언어로 번역"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "다음 사이트에서는 DeepL 쓰기 아이콘을 표시하지 않습니다"
+   },
+   "settings_writing_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "아직 추가한 사이트가 없습니다. 자동 번역을 원하지 않는 사이트에서 읽기 및 쓰기 아이콘을 클릭하여 해당 사이트를 이 목록에 추가할 수 있습니다."
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "텍스트를 입력하면 아이콘이 표시됩니다"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "항상 DeepL 쓰기 아이콘 표시하기"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "다른 단축키 설정"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "단축키 변경"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "단축키를 사용하여 읽으면서 번역하세요"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "이 단축키를 사용하여 도착 언어를 변경하세요"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "이 단축키를 사용하여 쓰면서 번역하세요"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "항상 DeepL 쓰기 아이콘 표시"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "텍스트를 입력하면 표시되는 아이콘입니다"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "번역할 내용을 입력하세요."
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "번역 결과는 아래에 표시됩니다."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "설문조사 시작"
+   },
+   "sidepanel_survey_content": {
+      "message": "설문조사는 약 2분 정도 소요됩니다."
+   },
+   "sidepanel_survey_header": {
+      "message": "업데이트에 대한 소중한 의견을 들려주세요"
+   },
+   "supported_languages_AR": {
+      "message": "아랍어"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "불가리아어"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "체코어"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "덴마크어"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "독일어"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "그리스어"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "English"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "영어(영국)"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "영어(미국)"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "스페인어"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "에스토니아어"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "핀란드어"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "프랑스어"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "헝가리어"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "인도네시아어"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "이탈리아어"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "일본어"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "한국어"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "리투아니아어"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "라트비아어"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "노르웨이어(보크몰)"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "네덜란드어"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "폴란드어"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "포르투갈어"
+   },
+   "supported_languages_PT_BR": {
+      "message": "포르투갈어(브라질)"
+   },
+   "supported_languages_PT_PT": {
+      "message": "포르투갈어"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "루마니아어"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "러시아어"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "슬로바키아어"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "슬로베니아어"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "스웨덴어"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "터키어"
+   },
+   "supported_languages_UK": {
+      "message": "우크라이나어"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "중국어(간체)"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "중국어(번체)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "선택하세요"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "설문조사 시작"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "여러분의 소중한 의견을 들려주세요"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "설문조사는 약 2분 정도 소요됩니다"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "OFF"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "ON"
+   },
+   "test_split_translation": {
+      "message": "전체 페이지를 번역하려면 DeepL Pro에 \u003CloginLink>로그인\u003C/loginLink>하거나 \u003CtryLink>무료로 체험\u003C/tryLink>해 보세요"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "토글 끄기"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "토글 켜기"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "업그레이드"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "DeepL 번역기의 무료 버전에는 글자 수 한도가 있습니다"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "번역이 완전히 암호화됩니다"
+   },
+   "tooltip_write_free_limited": {
+      "message": "DeepL Write의 무료 버전에는 글자 수 한도가 있습니다"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "텍스트가 완전히 암호화됩니다"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "DeepL 번역에서 아직 해당 언어를 지원하지 않습니다."
+   },
+   "twitter_web_alternatives_link": {
+      "message": "DeepL.com에서 열기"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "DeepL로 번역"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "전체 문장"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "단어"
+   },
+   "ui_alternatives_title": {
+      "message": "대안"
+   },
+   "ui_auto_translate_label": {
+      "message": "자동 번역하기"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "$sourceLang$로 된 페이지를 방문할 때마다 자동으로 번역합니다",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "\u003CdeeplLink>DeepL.com\u003C/deeplLink>에서 전체 문서 번역"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "자동"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "격식"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "비격식"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "뒤로"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "다시 표시하지 않음"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "확인"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "전체 페이지 번역 팝업창을 표시하지 않습니다"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "이 사이트에서만"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "항상 모든 사이트에서"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "이 언어 쌍의 경우만"
+   },
+   "ui_fpt_translate_button": {
+      "message": "페이지 번역"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "전체 페이지 번역"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "선택한 텍스트 개선"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "텍스트를 선택한 후 클릭하세요."
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Google Docs에서 \u003Cbr>정확하게 번역하세요"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "문맥에 맞는 \u003Cstrong>의미 확인\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>모든 서식을 유지\u003C/strong>하면서 텍스트를 번역문으로 \u003C/strong>교체\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>발음과 사전 기능\u003C/strong>으로 외국어 학습"
+   },
+   "ui_gdocs_replace": {
+      "message": "바꾸기"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "문서에서 바꾸기"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "선택한 텍스트를 이 번역으로 바꿉니다"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "Google Docs용 DeepL 활성화"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "DeepL로 번역"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "선택한 텍스트 번역"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "DeepL 끄기"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Google Docs용 DeepL에 오신 것을 환영합니다!"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "클릭 한 번에 \u003Cstrong>선택한 텍스트 번역\u003C/strong>"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "명확하고 오류 없는 문서 작성을 위한 \u003Cstrong>텍스트 다듬기\u003C/strong>"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>대안\u003C/strong>을 참고하여 완벽한 표현 찾기"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "문서에서 바꾸기"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "무시"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "텍스트를 다듬었습니다"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "텍스트 개선 중..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "변경 적용"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "2분 정도 시간을 내어 소중한 의견을 들려주세요. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "설문조사 시작"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "DeepL이 마음에 드셨나요?"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "한 번에 최대 1,500자까지만 번역할 수 있습니다. DeepL 계정 생성 시 한도를 늘릴 수 있습니다."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "로그인"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "무료 회원가입"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "글자 수 한도를 늘려보세요"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "한 번에 최대 5,000자까지만 번역할 수 있습니다. DeepL Pro를 30일간 무료로 체험해 보세요. 글자 수 제한 없이 이용할 수 있습니다. "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Pro 무료 체험"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "DeepL Pro로 무제한 번역을 경험해 보세요"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "BETA"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "Google Slides용 DeepL에 오신 것을 환영합니다!"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "선택한 텍스트 및 전체 슬라이드 즉시 번역"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "완벽한 프레젠테이션을 위한 텍스트 점검 및 개선"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "원문으로 되돌리기"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "Google Slides용 DeepL 활성화"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "번역"
+   },
+   "ui_gslides_translate_from": {
+      "message": "출발 언어:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "도착 언어:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "텍스트를 선택하지 않으면 최근에 추가한 이미지, 동영상 또는 오디오 파일이 손실될 수 있습니다."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "먼저 번역 또는 개선하려는 텍스트를 선택하세요."
+   },
+   "ui_gslides_write_cta": {
+      "message": "개선"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "실수를 교정하고 글쓰기를 완성합니다. 현재 영어 및 독일어만 지원됩니다. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "\u003Cspan>Gmail 및 Google Docs\u003C/span>에서 더 빠르게 번역하고 텍스트를 순식간에 다듬어 보세요."
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "통합 보기"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "다시 표시하지 않음"
+   },
+   "ui_hub_tip_badge": {
+      "message": "팁"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "선택한 텍스트 번역"
+   },
+   "ui_inline_translation_copied": {
+      "message": "번역 복사됨"
+   },
+   "ui_inline_translation_copy": {
+      "message": "클립보드에 복사하기"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "사전"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "듣기"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "듣는 중..."
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "새 버전 듣기"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "원본 듣기"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "번역 듣기"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "'\u003Cstrong>$originalSnippet$\u003C/strong>'에 대한 항목을 찾을 수 없습니다.",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "사전 항목을 불러올 수 없습니다. 다시 시도하세요."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "DeepL.com에서 대안 보기"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "DeepL.com에서 열기"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "더 많은 기능 사용해 보기"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(감지됨)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "지원하지 않는 언어"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "단어를 하나씩 번역하면 사전 항목이 표시됩니다."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "이 언어 쌍은 사전 기능을 지원하지 않습니다."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "클릭 한 번에 쓰면서 번역"
+   },
+   "ui_login_body": {
+      "message": "전체 페이지를 번역하려면 DeepL Pro에 \u003CloginLink>로그인\u003C/loginLink>하거나 \u003CtryLink>무료로 체험\u003C/tryLink>해 보세요"
+   },
+   "ui_login_header": {
+      "message": "이 페이지를 번역할까요? \u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "$sourceLang$는 번역하지 않음",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "이 사이트는 번역하지 않음"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "이 옵션은 \u003CsettingsLink>설정\u003C/settingsLink>에서 변경할 수 있습니다"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "번역하지 않는 출발 언어: \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "번역하지 않는 사이트: \u003Cstrong>$website$\u003C/strong>",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "\u003Cstrong>$website$\u003C/strong> 및 \u003Cstrong>$sourceLang$\u003C/strong>는 번역하지 않도록 설정했습니다.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "전체 페이지 번역 팝업창을 표시하지 않도록 설정했습니다. 이 옵션은 설정에서 변경할 수 있습니다."
+   },
+   "ui_read_more": {
+      "message": "자세히 보기"
+   },
+   "ui_share_button": {
+      "message": "복사"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "복사됨"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "링크 복사"
+   },
+   "ui_share_error": {
+      "message": "텍스트 복사 중 오류가 발생했습니다."
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "소중한 의견을 들려주세요"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "복사되었습니다! 이제 공유하세요!"
+   },
+   "ui_share_title": {
+      "message": "DeepL을 친구와 공유"
+   },
+   "ui_target_language_select": {
+      "message": "어떤 언어로 번역하고 싶으신가요?"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "소중한 의견 감사합니다"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "서비스 개선을 위한 1분 설문조사에 참여해 주세요 "
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "설문조사 시작"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "2분 정도 시간을 내어 소중한 의견을 들려주세요."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "DeepL이 마음에 드셨나요?"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "별로예요"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "좋아요"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "DeepL Chrome 확장 프로그램에 대한 소중한 의견 부탁드립니다."
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "Edge용 DeepL 확장 프로그램에 대한 소중한 의견 부탁드립니다."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "DeepL Firefox 확장 프로그램에 대한 소중한 의견 부탁드립니다."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "프로그램이 마음에 드셨나요?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "프로그램이 마음에 드셨나요?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "프로그램이 마음에 드셨나요?"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "리뷰 작성"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "소중한 의견 감사드립니다!"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Chrome 웹 스토어에서 피드백을 공유하시겠습니까?"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Edge 애드온에 의견을 공유하시겠습니까?"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "리뷰를 남기시겠습니까?"
+   },
+   "ui_translated_automatically": {
+      "message": "\u003Cstrong>$sourceLang$\u003C/strong>에서 번역됨",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "무료 체험"
+   },
+   "ui_widget_feature_free": {
+      "message": "무료"
+   },
+   "ui_widget_feature_pro": {
+      "message": "PRO로 사용 가능"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "스레드 번역"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "번역 중지"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "받는 사람의 언어와 일치하지 않습니다. 그럼에도 제출하시겠습니까?"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "번역"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(감지됨)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "이 티켓 번역"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "다음 언어로 번역"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL이 지원하지 않는 언어입니다"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "해당 언어가 추가되면 바로 알려드리겠습니다."
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "확인"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "DeepL 끄기"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "DeepL 켜기"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "Zendesk용 DeepL에 오신 것을 환영합니다!"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "기본 언어가 무엇인가요?"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "이 확장 프로그램은 \u003Cstrong>일시적으로 무료\u003C/strong> 제공됩니다. 사용해 보시고 \u003CloginLink>피드백을 공유해 주세요\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "티켓을 여러 언어로 관리\u003Cbr>하세요"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>메시지 또는 전체 스레드\u003C/strong> 즉시 번역"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "고객 언어로 \u003Cstrong>답변\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "매번 \u003Cstrong>자연스럽고 전문적인\u003C/strong> 대응"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "발송인 언어"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "설문조사에 참여하여 DeepL의 제품 전략 수립에 도움을 주세요."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "나중에 알림"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "설문조사 참여"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "이용 중인 계정의 사용 한도에 도달하였습니다. 한도를 늘리려면 \u003CdeeplSupportLink>DeepL 지원팀\u003C/deeplSupportLink>에 문의하세요."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "죄송합니다. 구독 중인 플랜에 해당 기능이 포함되어 있지 않습니다."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "무료 사용 한도에 도달하였습니다 \u003Cstrong>계속 번역하고 싶으신가요?\u003C/strong>"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "채팅을 다음 언어로 번역"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "설정"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "채팅 번역"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "메시지를 다음 언어로 번역"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "DeepL.com에서 대안 보기"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "설정"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "번역"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Write에서 아직 해당 언어를 지원하지 않습니다."
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Write에서 해당 언어를 지원하지 않습니다."
+   },
+   "write_see_language_supported": {
+      "message": "지원 언어 보기"
+   },
+   "write_style_options_button_label": {
+      "message": "스타일"
+   },
+   "write_style_options_cta_apply": {
+      "message": "적용"
+   },
+   "write_style_options_cta_reset": {
+      "message": "초기화"
+   },
+   "write_style_options_description_style": {
+      "message": "독자와 목적에 맞게 텍스트를 맞춤 조정합니다."
+   },
+   "write_style_options_description_tone": {
+      "message": "선택한 어조로 텍스트를 다시 작성합니다."
+   },
+   "write_style_options_headline_style": {
+      "message": "문체 설정"
+   },
+   "write_style_options_headline_tone": {
+      "message": "어조 설정"
+   },
+   "writing_config_tab_description": {
+      "message": "입력 내용을 다음 언어로 번역"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "선택하세요"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "DeepL 쓰기 아이콘 표시"
+   },
+   "writing_style_academic": {
+      "message": "학술"
+   },
+   "writing_style_business": {
+      "message": "비즈니스"
+   },
+   "writing_style_casual": {
+      "message": "캐주얼"
+   },
+   "writing_style_simple": {
+      "message": "일반"
+   },
+   "writing_tone_confident": {
+      "message": "자신있는"
+   },
+   "writing_tone_diplomatic": {
+      "message": "외교적인"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "열정적인"
+   },
+   "writing_tone_friendly": {
+      "message": "친밀한"
+   },
+   "youtube_alternatives_link": {
+      "message": "DeepL.com에서 열기"
+   },
+   "youtube_translate_comment_link": {
+      "message": "DeepL로 번역"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "삭제"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "용어집"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "DeepL Pro Advanced로 무제한 번역을 경험해 보세요. 30일간 무료로 체험할 수 있습니다."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "현재 DeepL 무료 버전을 이용 중입니다."
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "글자 수 제한 없이 번역하려면 DeepL Pro Advanced 또는 Ultimate를 구독하세요."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "이용 중인 플랜에는 Zendesk용 무제한 번역이 포함되어 있지 않습니다."
+   },
+   "zendesk_limit_reached_content": {
+      "message": "번역을 계속하려면 \u003Cstrong>DeepL Pro Advanced에 가입\u003C/strong>하세요. 30일간 무료로 체험할 수 있습니다."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "현재 DeepL 무료 버전을 이용 중입니다. "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "무료 번역 한도에 도달하였습니다"
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "번역을 계속하려면 \u003Cstrong>DeepL Pro Advanced 또는 Ultimate에 가입\u003C/strong>하세요.\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "이용 중인 플랜에는 Zendesk용 무제한 번역이 포함되어 있지 않습니다."
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "내 계정에서 이용할 수 있는 용어집을 찾을 수 없습니다."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "용어집은 DeepL Pro 구독자만 이용할 수 있습니다."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "티켓 즉시 번역\u003Cstrong>—최대 $translationLimit$건까지 무료\u003C/strong>",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "매번 \u003Cstrong>자연스럽고 전문적인\u003C/strong> 대응"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "고객 언어로 \u003Cstrong>답변\u003C/strong>"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "티켓을 읽고 쓰면서 즉시 번역하세요."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL이 준비를 마쳤습니다"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "플러그인을 완전히 통합된 확장 프로그램으로 교체했습니다."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "무료 다운로드"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "더 나은 번역 경험"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "DeepL Pro Advanced로 무제한 번역을 경험해 보세요. 30일간 무료로 체험할 수 있습니다."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "번역할 수 있는 티켓이 $remainingTranslation$건 남았습니다",
+      "placeholders": {
+         "remainingTranslation": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "Zendesk용 DeepL 활성화"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>남은 번역 횟수:\u003C/strong> $remainingTranslation$건",
+      "placeholders": {
+         "remainingTranslation": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "Pro Advanced 무료 체험"
+   },
+   "zendesk_try_pro_link": {
+      "message": "DeepL Pro 무료 체험"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "이미 \u003Cstrong>Pro Advanced 또는 Ultimate\u003C/strong> 플랜을 구독 중인가요? \u003CloginLink>로그인하기\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "플랜 업그레이드"
+   }
+}

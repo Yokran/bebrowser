@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "관련"
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "URL 목록 캡처"
+   },
+   "action_capture_browser": {
+      "message": "캡춰 (브라우져 창) 후"
+   },
+   "action_capture_entire": {
+      "message": "캡춰 (전체 웹 스크롤) 후"
+   },
+   "action_capture_entire_lite": {
+      "message": "캡춰 (전체 웹 스크롤)"
+   },
+   "action_capture_selection": {
+      "message": "캡춰 (영역 지정) 후"
+   },
+   "action_capture_selection_lite": {
+      "message": "캡춰 (영역 지정)"
+   },
+   "action_capture_stop": {
+      "message": "캡처 중지"
+   },
+   "action_capture_stop_short": {
+      "message": "중지"
+   },
+   "action_capture_tabs": {
+      "message": "캡춰 - 모든 탭  후"
+   },
+   "action_capture_visible": {
+      "message": "캡춰 (현재 화면) 후"
+   },
+   "action_capture_visible_lite": {
+      "message": "캡춰 (현재 화면)"
+   },
+   "action_copy": {
+      "message": "클립보드로 복사"
+   },
+   "action_edit": {
+      "message": "편집"
+   },
+   "action_email": {
+      "message": "E-Mail"
+   },
+   "action_enter_license": {
+      "message": "라이선스 입력"
+   },
+   "action_external": {
+      "message": "열기 - 외부 편집기"
+   },
+   "action_install_native": {
+      "message": "체험하기"
+   },
+   "action_license_info": {
+      "message": "제품키 정보"
+   },
+   "action_micsellaneous": {
+      "message": "기타 사항"
+   },
+   "action_ok": {
+      "message": "확인"
+   },
+   "action_onenote": {
+      "message": "보내기 - OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "열기 (클립보드에서)"
+   },
+   "action_open_file": {
+      "message": "열기"
+   },
+   "action_options": {
+      "message": "옵션"
+   },
+   "action_print": {
+      "message": "인쇄"
+   },
+   "action_register": {
+      "message": "제품 등록"
+   },
+   "action_resume": {
+      "message": "재시작"
+   },
+   "action_save": {
+      "message": "저장"
+   },
+   "action_save_pdf": {
+      "message": "저장 (PDF)"
+   },
+   "action_save_pdf_single": {
+      "message": "저장 - PDF 싱글"
+   },
+   "action_show": {
+      "message": "보여주다..."
+   },
+   "action_support": {
+      "message": "제품 지원 (Support)"
+   },
+   "action_switch_pro": {
+      "message": "Pro 버젼 전환하기 (FireShot Pro)"
+   },
+   "action_switch_pro_tabs": {
+      "message": "활성화 하기 (FireShot Pro)"
+   },
+   "action_upload": {
+      "message": "업로드"
+   },
+   "action_view_demo": {
+      "message": "데모 보기 (Demo)"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "권한을 부여해 주셔서 감사합니다! 신중하게 처리하겠습니다."
+   },
+   "application_description": {
+      "message": "캡춰 (전체 웹) 편집 및 저장 (PDF/JPEG/GIF/PNG) 업로드, 인쇄 보내기 OneNote, 클립보드 혹은 E-mail."
+   },
+   "application_title": {
+      "message": "캡춰 (전체 웹 스크롤) - FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "FireShot 배치 모드"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "캡처 페이지"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "페이지가 렌더링되기를 기다리는 중..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "다음 페이지"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "작업 중단"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "의"
+   },
+   "button_dismiss": {
+      "message": "이해됨"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "평생 라이선스 및 30일 환불 보장"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "FireShot Pro 구매"
+   },
+   "captured_ads_feature_1": {
+      "message": "고급 캡처 기능"
+   },
+   "captured_ads_feature_2": {
+      "message": "스크린샷 편집"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "텍스트 검색 가능한 PDF,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "머리글 및 바닥글"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "FireShot Lite와 FireShot Pro 비교..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "더 많은 프리미엄 기능"
+   },
+   "captured_ads_title": {
+      "message": "광고를 제거하다"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "PRO가 되어 적극적으로 개발에 기여"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "이 확장의"
+   },
+   "captured_beta_disabled": {
+      "message": "고맙습니다. 모든 베타 기능이 비활성화되었습니다."
+   },
+   "captured_button_continue": {
+      "message": "잇다"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "10 일 무료 평가판"
+   },
+   "captured_button_no_credit_card": {
+      "message": "신용 카드가 필요하지 않습니다"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "나는 싫어"
+   },
+   "captured_button_rate_later": {
+      "message": "나중에"
+   },
+   "captured_button_rate_like": {
+      "message": "나는 그것을 좋아한다"
+   },
+   "captured_buy_pro_button": {
+      "message": "Pro 버전 구입"
+   },
+   "captured_can_switch_back": {
+      "message": "언제든지 Lite로 다시 전환할 수 있습니다."
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "사용자 정의 페이지 크기"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "직접 링크"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "텍스트 선택 비활성화"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "페이지로 분할"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "텍스트 검색 가능"
+   },
+   "captured_copy_clipboard": {
+      "message": "클립보드로 복사"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "도움"
+   },
+   "captured_error_pdf": {
+      "message": "죄송합니다. PDF 생성 중 예기치 않은 오류가 발생했습니다."
+   },
+   "captured_exit_beta_program": {
+      "message": "참가자 프로그램 종료"
+   },
+   "captured_follow_the_instructions": {
+      "message": "지침에 따라 고급 기능을 설치하십시오."
+   },
+   "captured_get_free_button": {
+      "message": "무료 버전으로 계속하기"
+   },
+   "captured_how_to_copy": {
+      "message": "스크린샷을 클립보드에 복사하는 방법"
+   },
+   "captured_information": {
+      "message": "정보"
+   },
+   "captured_label_actions": {
+      "message": "행위"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "고급 기능 미리보기"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "이 페이지는 설치된 고급 기능으로 더 잘 캡처할 수 있습니다."
+   },
+   "captured_label_limited_functionality": {
+      "message": "브라우저 제한으로 인해 이 페이지의 일부만 저장할 수 있습니다. FireShot Pro를 사용하여 전체 페이지를 PDF로 저장할 수 있습니다."
+   },
+   "captured_label_new": {
+      "message": "새로운"
+   },
+   "captured_label_participate_beta": {
+      "message": "FireShot Pro Insider 프로그램에 참여"
+   },
+   "captured_label_progress_sign": {
+      "message": "거의 준비"
+   },
+   "captured_label_remove_adv": {
+      "message": "광고 제거"
+   },
+   "captured_label_try_enchancements": {
+      "message": "테스트 기간 동안 무료로 제공합니다. 다음 개선 사항을 시도하십시오."
+   },
+   "captured_label_using_beta_version": {
+      "message": "내부자 버전의 FireShot Pro 기능: 고급 스크린샷 기능 및 PDF 기능(페이지 설정, 머리글/바닥글/워터마크, 직접 링크 및 검색 가능한 텍스트)을 사용하고 있습니다."
+   },
+   "captured_li_1": {
+      "message": "직접 링크로 텍스트 검색 가능한 PDF 만들기"
+   },
+   "captured_li_2": {
+      "message": "사용자 정의 머리글, 바닥글, 워터마크 추가"
+   },
+   "captured_li_3": {
+      "message": "페이지 크기, 다중 페이지 옵션 사용자 정의"
+   },
+   "captured_li_4": {
+      "message": "고급 캡처: 복잡한 콘텐츠, 개체 선택"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "FireShot 받기"
+   },
+   "captured_link_read_more": {
+      "message": "더 많은 것을 읽으십시오"
+   },
+   "captured_link_report_problem": {
+      "message": "문제 신고"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "이용약관 보기"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "추가 기능을 사용하려면 Pro로 업그레이드"
+   },
+   "captured_print": {
+      "message": "인쇄"
+   },
+   "captured_print_button": {
+      "message": "인쇄"
+   },
+   "captured_purchase_license": {
+      "message": "라이선스 구매"
+   },
+   "captured_rate_button": {
+      "message": "FireShot을 평가하세요."
+   },
+   "captured_rate_line1": {
+      "message": "FireShot 개발에는 많은 개인적인 시간이 필요합니다."
+   },
+   "captured_rate_line2": {
+      "message": "그 시간은 가족이나 휴식에 보낼 수 있습니다"
+   },
+   "captured_rate_line3": {
+      "message": "우리의 노력에 감사 드리며 FireShot을 평가 해주시겠습니까?"
+   },
+   "captured_rate_line4": {
+      "message": "이것은 사람들이 FireShot을 더 빨리 발견하는 데 도움이 될 것입니다."
+   },
+   "captured_rate_question": {
+      "message": "FireShot을 좋아하든 싫어하든 공유해 주시겠습니까?"
+   },
+   "captured_recommend_us": {
+      "message": "FireShot 추천하기"
+   },
+   "captured_report_problem": {
+      "message": "문제 신고"
+   },
+   "captured_save_as_image": {
+      "message": "저장 - 이미지"
+   },
+   "captured_save_as_image_button": {
+      "message": "저장 - 이미지"
+   },
+   "captured_save_as_pdf": {
+      "message": "저장 - PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "스크린샷 저장"
+   },
+   "captured_saving_options": {
+      "message": "사용자 설정"
+   },
+   "captured_setup_hotkeys": {
+      "message": "파일 이름 템플릿 설정 ..."
+   },
+   "captured_step1_right_click": {
+      "message": "이미지를 마우스 오른쪽 버튼으로 클릭"
+   },
+   "captured_step2_copy": {
+      "message": "팝업 메뉴에서 '이미지 복사'를 선택합니다."
+   },
+   "captured_success": {
+      "message": "성공"
+   },
+   "captured_upgrade_features_list": {
+      "message": "주석 달기, 인쇄 및 저장 개선, 편집, 업로드, 전자 메일 또는 OneNote로 보내기 또는 다른 프로그램으로 내보내기를위한 고급 기능 가져 오기"
+   },
+   "captured_upgrade_link_1": {
+      "message": "화면 캡춰, 주석달기, 인쇄, 저장, 편집, 업로드, 보내기 (E-Mail / OneNote / 외부 편집기)"
+   },
+   "captured_upgrade_link_2": {
+      "message": "업그레이드 FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "FireShot 제품을 보유하고 있는 경우"
+   },
+   "captured_upgrade_link_4": {
+      "message": "되돌릴 수 있는가요?"
+   },
+   "collapse": {
+      "message": "무너짐"
+   },
+   "enable_checkbox": {
+      "message": "가능"
+   },
+   "history_banner_line1": {
+      "message": "계속하려면 기록에서 불필요한 캡처를 제거하여 공간을 확보하세요."
+   },
+   "history_banner_line2": {
+      "message": "사용자의 편의를 위해 FireShot은 스토리지 크기를 줄이는 데 가장 큰 영향을 미치는 항목을 미리 선택해 두었습니다."
+   },
+   "history_banner_title": {
+      "message": "저장소 크기가 할당량을 초과했습니다."
+   },
+   "history_btn_delete_selected": {
+      "message": "선택한 항목 삭제"
+   },
+   "history_button_select_all": {
+      "message": "모두 선택/선택 취소"
+   },
+   "history_clear_filter_button": {
+      "message": "필터 지우기"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "선택한 항목을 삭제하시겠습니까? 이 작업은 실행 취소할 수 없습니다."
+   },
+   "history_filter_text": {
+      "message": "필터"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite는 지난 7일간의 기록을 제공합니다. 전체 기록은 FireShot Pro에서 사용할 수 있습니다."
+   },
+   "infinite_mode_warning": {
+      "message": "무한 스크롤 모드가 감지되었습니다. 필요할 때 FireShot을 중지하십시오."
+   },
+   "label_processing": {
+      "message": "처리 중 ..."
+   },
+   "label_start": {
+      "message": "스타트"
+   },
+   "label_total": {
+      "message": "합계"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "이 브라우저의 라이선스를 비활성화하시겠습니까?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "라이선스 정보"
+   },
+   "licensing_popup_registered_to": {
+      "message": "등록되어있는"
+   },
+   "licensing_popup_remove_key": {
+      "message": "이 브라우저에서 라이선스 제거"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "무한 스크롤 페이지 허용"
+   },
+   "options_api_hint": {
+      "message": "JavaScript를 사용하여 FireShot을 시작하고 구성합니다."
+   },
+   "options_button_apply": {
+      "message": "적용"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "PDF 저장 옵션 구성"
+   },
+   "options_button_save_close": {
+      "message": "저장 후 닫기"
+   },
+   "options_button_setup": {
+      "message": "클릭 (설정)"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "'모든 탭 캡처' 명령은 페이지의 보이는 부분만 캡처합니다."
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "페이지를 가져올 수 있는 최대 시간:"
+   },
+   "options_history_confirm_erase": {
+      "message": "삭제 내역을 확인해 주세요. 이 작업은 취소할 수 없습니다."
+   },
+   "options_history_delete_all": {
+      "message": "모든 기록 삭제..."
+   },
+   "options_label_and": {
+      "message": "후"
+   },
+   "options_label_capturing": {
+      "message": "화면 캡춰"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "저장 후 탭 닫기"
+   },
+   "options_label_customize_saving": {
+      "message": "저장 설정"
+   },
+   "options_label_default_filename_template": {
+      "message": "기본 화일명 형식"
+   },
+   "options_label_default_folder": {
+      "message": "기본 저장 폴더"
+   },
+   "options_label_default_folder_hint": {
+      "message": "지정한 디렉토리에 화일, 혹은 서브폴더가 존재합니다.\n경로가 지정되지 않거나 정확하지 않은 폴더명은 에러를 유발합니다."
+   },
+   "options_label_editor_options": {
+      "message": "편집 옵션"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FireShot을 메뉴에 추가하기"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "FireShot이 중단되면 자동으로 오류를 보고하여 FireShot을 개선할 수 있습니다."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "FireShot 개선에 도움이 되도록 익명의 사용 데이터를 Google Analytics로 전송"
+   },
+   "options_label_file_saving": {
+      "message": "절약"
+   },
+   "options_label_file_settings": {
+      "message": "화일 세팅"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot 옵션"
+   },
+   "options_label_history": {
+      "message": "역사"
+   },
+   "options_label_hotkey": {
+      "message": "단축키"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "다시 하기"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "'Save as' 숨기기"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "저장 후 폴더 보기"
+   },
+   "options_label_pdf_settings": {
+      "message": "PDF 설정"
+   },
+   "options_label_save_image_as": {
+      "message": "저장 (다른 이름으로)"
+   },
+   "options_label_specify_editor_options": {
+      "message": "편집 및 저장 옵션, 화일이름, 타잎 등"
+   },
+   "options_label_specify_hotkey": {
+      "message": "단축키 지정"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "리사이즈 및 소리 지정"
+   },
+   "options_label_template_day": {
+      "message": "일"
+   },
+   "options_label_template_hour": {
+      "message": "시"
+   },
+   "options_label_template_limit_1": {
+      "message": "화일명 길이 제한"
+   },
+   "options_label_template_limit_2": {
+      "message": "글자"
+   },
+   "options_label_template_minutes": {
+      "message": "분"
+   },
+   "options_label_template_month": {
+      "message": "월"
+   },
+   "options_label_template_pad_1": {
+      "message": "패드 넘버"
+   },
+   "options_label_template_pad_2": {
+      "message": "자릿수"
+   },
+   "options_label_template_seconds": {
+      "message": "초"
+   },
+   "options_label_template_title": {
+      "message": "웹페이지 제목"
+   },
+   "options_label_template_url": {
+      "message": "웹페이지 주소"
+   },
+   "options_label_template_website": {
+      "message": "도메인 이름"
+   },
+   "options_label_template_year": {
+      "message": "년도"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "FireShot이 업데이트되면 알림을 받습니다."
+   },
+   "options_link_filename_template_settings": {
+      "message": "화일명 설정 보기"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "화일명 설정 감추기"
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "소스 탭 옆에 있는 스크린샷 탭 열기"
+   },
+   "options_option_history_180": {
+      "message": "6개월"
+   },
+   "options_option_history_30": {
+      "message": "30일"
+   },
+   "options_option_history_365": {
+      "message": "연도"
+   },
+   "options_option_history_7": {
+      "message": "주"
+   },
+   "options_option_history_90": {
+      "message": "3 개월"
+   },
+   "options_option_history_all": {
+      "message": "영원히"
+   },
+   "options_page_delay_screenshot": {
+      "message": "스크린샷을 찍기 전에 지연합니다:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "FireShot을 실행할 때 Alt 키를 길게 눌러 이 모드를 활성화합니다."
+   },
+   "options_page_scrolling_speed": {
+      "message": "페이지 스크롤 속도 변경 :"
+   },
+   "options_retain_history": {
+      "message": "캡처한 스크린샷을 기록에 저장하는 기간"
+   },
+   "pdf_dialog_align": {
+      "message": "맞추다"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "배경색"
+   },
+   "pdf_dialog_bottom": {
+      "message": "바닥"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "하단 중앙"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "왼쪽 하단"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "오른쪽 하단"
+   },
+   "pdf_dialog_cancel": {
+      "message": "취소"
+   },
+   "pdf_dialog_center": {
+      "message": "센터"
+   },
+   "pdf_dialog_centered": {
+      "message": "중심"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "템플릿을 구성하려면 클릭하십시오."
+   },
+   "pdf_dialog_color": {
+      "message": "색깔"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "템플릿 구성"
+   },
+   "pdf_dialog_confirm": {
+      "message": "확인"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "텍스트 선택 및 검색 가능한 PDF 만들기"
+   },
+   "pdf_dialog_defaults": {
+      "message": "기본값으로 복원"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "스마트 페이지 나누기 활성화"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "웹 링크 활성화"
+   },
+   "pdf_dialog_extras": {
+      "message": "추가 기능"
+   },
+   "pdf_dialog_font": {
+      "message": "세례반"
+   },
+   "pdf_dialog_footers": {
+      "message": "바닥글"
+   },
+   "pdf_dialog_frame": {
+      "message": "틀"
+   },
+   "pdf_dialog_headers": {
+      "message": "헤더"
+   },
+   "pdf_dialog_height": {
+      "message": "신장"
+   },
+   "pdf_dialog_inches": {
+      "message": "신장"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "다음과 같은 사전 정의된 값을 사용할 수 있습니다(삽입하려면 클릭)."
+   },
+   "pdf_dialog_left": {
+      "message": "왼쪽"
+   },
+   "pdf_dialog_margin": {
+      "message": "여유"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "여백(픽셀)"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "중간 왼쪽"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "중간 오른쪽"
+   },
+   "pdf_dialog_month_name": {
+      "message": "월 이름"
+   },
+   "pdf_dialog_opacity": {
+      "message": "불투명"
+   },
+   "pdf_dialog_orientation": {
+      "message": "정위"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "경치"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "초상화"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF 페이지 번호"
+   },
+   "pdf_dialog_page_size": {
+      "message": "페이지 크기"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "자동"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "사용자 정의 너비 및 높이"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "사용자 정의 너비"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "페이징 옵션"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "고르다"
+   },
+   "pdf_dialog_placement": {
+      "message": "놓기"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "템플릿을 지정하십시오"
+   },
+   "pdf_dialog_position": {
+      "message": "위치"
+   },
+   "pdf_dialog_right": {
+      "message": "권리"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "스크린샷 높이"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "스크린샷 너비"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "바닥글 템플릿 설정"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "바닥글 스타일 설정"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "헤더 템플릿 설정"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "헤더 스타일 설정"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "워터마크 템플릿 설정"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "워터마크 스타일 설정"
+   },
+   "pdf_dialog_size": {
+      "message": "크기"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "글꼴 스타일 지정"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "긴 스크린샷을 페이지로 분할"
+   },
+   "pdf_dialog_style": {
+      "message": "스타일"
+   },
+   "pdf_dialog_template": {
+      "message": "주형"
+   },
+   "pdf_dialog_text": {
+      "message": "본문"
+   },
+   "pdf_dialog_top": {
+      "message": "상단"
+   },
+   "pdf_dialog_top_center": {
+      "message": "탑 센터"
+   },
+   "pdf_dialog_top_left": {
+      "message": "왼쪽 상단"
+   },
+   "pdf_dialog_top_right": {
+      "message": "오른쪽 상단"
+   },
+   "pdf_dialog_units": {
+      "message": "단위"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "워터마크"
+   },
+   "pdf_dialog_weekday": {
+      "message": "주일"
+   },
+   "pdf_dialog_width": {
+      "message": "폭"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "페이지 크기는 캡처에 완전히 맞도록 설정됩니다."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "페이지 높이는 캡처에 완전히 맞도록 설정됩니다."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "페이지 너비는 페이지 전체에 맞게 설정되고 페이지 높이는 A4 형식 비율에 따라 설정됩니다."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "결과 문서가 2페이지로 구성되고 마지막 페이지가 50% 이상 비어 있으면 페이지가 모두 결합됩니다."
+   },
+   "popup_action_required": {
+      "message": "필요한 조치"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 초"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 초"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 초"
+   },
+   "popup_label_60_seconds": {
+      "message": "60초"
+   },
+   "popup_label_additional_options": {
+      "message": "추가 옵션"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "이 작업을 위한 별도의 폴더 만들기"
+   },
+   "popup_label_do_not_wait": {
+      "message": "기다리지 마"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "캡처 저장 방법 선택"
+   },
+   "popup_label_long_batch": {
+      "message": "장기 작업의 경우 컴퓨터가 잠자지 않는지 확인하십시오. 이렇게 하면 작업이 중단됩니다."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "페이지가 로드될 때까지 대기하는 최대 시간"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "Lite 버전은 페이지의 보이는 부분만 캡처하는 것으로 제한됩니다."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "스크롤 속도 재정의"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "완료 시 폴더에 파일 표시"
+   },
+   "popup_label_specify_mode": {
+      "message": "모드 지정"
+   },
+   "popup_label_specify_urls": {
+      "message": "캡처할 URL 지정"
+   },
+   "popup_label_unlimited": {
+      "message": "제한 없음"
+   },
+   "popup_label_when_loaded": {
+      "message": "로드되면 완전히 렌더링될 때까지 기다립니다."
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "더 알아보기"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "더 나은 캡처 경험을 제공하려면 FireShot에 추가 권한이 필요합니다."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "기본적으로 이 페이지를 캡처하라는 이 요청을 무시해도 되지만 일부 페이지 요소가 잘못 캡처될 수 있습니다."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "FireShot이 추가 권한을 요청하는 이유와 경험에 미치는 영향."
+   },
+   "promo_enable_history": {
+      "message": "기록에 액세스하기"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "$key$를 길게 눌러 특정 HTML 요소를 캡처합니다.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "$key$를 누른 상태에서 이 영역을 클릭하면 이 요소를 완전히 캡처할 수 있습니다.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "이 지점부터 페이지 끝까지 캡처하려면 클릭하세요."
+   },
+   "selection_from_top_to_this_point": {
+      "message": "페이지 시작부터 이 지점까지 캡처하려면 클릭하세요"
+   },
+   "selection_hint": {
+      "message": "힌트:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "스크롤하여 캡처합니다:"
+   },
+   "title_suppress_warning": {
+      "message": "10일 동안 이 경고 표시 안 함"
+   },
+   "void": {
+      "message": ""
+   }
+}

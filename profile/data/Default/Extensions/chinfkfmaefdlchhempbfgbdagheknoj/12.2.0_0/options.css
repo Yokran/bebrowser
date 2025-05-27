@@ -1,0 +1,946 @@
+/* Caption */
+
+/* Text */
+
+/* Call-to-action (link, button) */
+
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+  color: #383838;
+}
+
+body {
+  font-size: inherit;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  margin: 0;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+/* Wait for dynamic page content */
+
+.waitingForJs {
+  overflow: hidden;
+}
+
+.waitingForJs > * {
+  opacity: 0;
+}
+
+.waitingForJsMessageContainer {
+  display: none;
+}
+
+.waitingForJs .waitingForJsMessageContainer {
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+  opacity: initial;
+}
+
+/* Generic */
+
+* {
+  position: relative;
+}
+
+.pwVisuallyHidden {
+  position: absolute !important;
+  height: .1rem;
+  width: .1rem;
+  overflow: hidden;
+  clip: rect( .1rem, .1rem, .1rem, .1rem );
+}
+
+.pwText {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwText {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwText {
+        font-size: 1.2em;
+      }
+    }
+
+.pwText {
+  line-height: 1.2;
+  margin: 0 0 1em;
+}
+
+.pwCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwCta {
+        font-size: 1.2em;
+      }
+    }
+
+.pwCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+}
+
+.pwTextualCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwTextualCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwTextualCta {
+        font-size: 1.2em;
+      }
+    }
+
+.pwTextualCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  text-decoration: none;
+}
+
+.pwTextualCta:hover {
+    text-decoration: underline;
+  }
+
+.pwTextualCta {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+label[data-i18n-tooltip]::after,
+.pwFormGroupCaptionLink[data-i18n-tooltip]::after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: -3rem;
+  margin: auto;
+  width: 3rem;
+  height: 100%;
+  background: url( /shared/images/info-icon.svg ) center center / 1.6rem no-repeat;
+}
+
+/* Form */
+
+.pwFormGroup {
+  margin: 0 0 2rem;
+  padding: .5rem 1.5rem;
+  border: .1rem solid #ddd;
+}
+
+.pwFormGroupCaption {
+  font-size: 1.9em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwFormGroupCaption {
+      font-size: 1.6em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwFormGroupCaption {
+        font-size: 1.4em;
+      }
+    }
+
+.pwFormGroupCaption {
+  position: sticky;
+  z-index: 1;
+  top: 0;
+  margin: 0 0 1rem;
+  padding: 1rem;
+  background-color: #fff;
+  font-weight: 500;
+}
+
+.pwFormGroupCaptionLink {
+  text-decoration: none;
+}
+
+.pwFormGroupCaptionLink:hover {
+    text-decoration: underline;
+  }
+
+.pwFormGroupCaptionLink {
+  color: inherit;
+}
+
+.pwFormRow {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+.pwFormRow .pwFormRow {
+  flex-basis: 100%;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
+.pwFormRowText {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwFormRowText {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwFormRowText {
+        font-size: 1.2em;
+      }
+    }
+
+.pwInput,
+.pwSelect {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .pwInput, .pwSelect {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .pwInput, .pwSelect {
+        font-size: 1.2em;
+      }
+    }
+
+.pwInput,
+.pwSelect {
+  -webkit-appearance: none;
+  font-family: inherit;
+  line-height: 2.5;
+  margin: 0 .1rem 0 0;
+  padding-bottom: .1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  background-image: linear-gradient( #ededed, #ededed 38%, #dedede );
+  background-position: right center;
+  background-repeat: no-repeat;
+  border: .1rem solid rgba( 0, 0, 0, .25 );
+  border-image: initial;
+  border-radius: .2rem;
+  box-shadow: rgba( 0, 0, 0, .08 ) 0 .1rem 0, rgba( 255, 255, 255, .75 ) 0 .1rem .2rem inset;
+  color: #444;
+  text-shadow: #f0f0f0 0 .1rem 0;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+
+.pwInput[type="number"] {
+  padding-right: 0;
+}
+
+.pwSelect {
+  padding-right: 2.5rem;
+  background-image: url( /global/img/dropdown-arrow-1x.png ), linear-gradient( #ededed, #ededed 38%, #dedede );
+  background-image:  url( /global/img/dropdown-arrow-1x.png );
+}
+
+@media (min-resolution: 192dpi) {
+
+.pwSelect {
+  background-image:  url( /global/img/dropdown-arrow-2x.png );
+}
+}
+
+.pwSelect {
+  background-image: -webkit-image-set( url( /global/img/dropdown-arrow-1x.png ) 1x, url( /global/img/dropdown-arrow-2x.png ) 2x ), linear-gradient( #ededed, #ededed 38%, #dedede );
+  background-image:  url( /global/img/dropdown-arrow-1x.png );
+}
+
+@media (min-resolution: 192dpi) {
+
+.pwSelect {
+  background-image:  url( /global/img/dropdown-arrow-2x.png );
+}
+}
+
+.pwSelect {
+  background-image: -webkit-image-set( url( /global/img/dropdown-arrow-1x.png ) 1x, url( /global/img/dropdown-arrow-2x.png ) 2x ), linear-gradient( #ededed, #ededed 38%, #dedede );
+  background-image: image-set( url( /global/img/dropdown-arrow-1x.png ) 1x, url( /global/img/dropdown-arrow-2x.png ) 2x ), linear-gradient( #ededed, #ededed 38%, #dedede );
+}
+
+.pwFormControls {
+  position: sticky;
+  z-index: 1;
+  bottom: 0;
+  padding: 2rem 1.6rem;
+  background-color: #fff;
+}
+
+/* High-priority message that shows up over everything else on the page */
+
+body {
+  margin: 0 auto;
+  padding: 0 2rem 3rem;
+  max-width: 70rem;
+}
+
+[data-takeover-active="true"] {
+  overflow: hidden;
+}
+
+/* Message banner */
+
+.messageBanner {
+  margin: 0;
+  padding: 1rem;
+  background-color: #f7f7f7;
+}
+
+.top.messageBanner {
+    margin-bottom: 1rem;
+    border-bottom: .1rem dashed #ccc;
+  }
+
+.bottom.messageBanner {
+    margin-top: 1rem;
+    border-top: .1rem dashed #ccc;
+  }
+
+.messageBanner .pwText {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .messageBanner .pwText {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .messageBanner .pwText {
+        font-size: 1.2em;
+      }
+    }
+
+.messageBanner .pwText {
+  line-height: 1.3;
+  margin: 0;
+  text-align: right;
+}
+
+/* @todo Refactor language files to avoid tag names. */
+
+.messageBanner a {
+  text-decoration: none;
+}
+
+.messageBanner a:hover {
+    text-decoration: underline;
+  }
+
+.messageBanner a {
+  color: #0c63fb;
+}
+
+/* Version 9 upgrade message */
+
+#hadVersion8InstalledBeforeMessageContainer {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  padding: 4rem 2rem;
+  max-width: 70rem;
+  background-color: #fff;
+  overflow: auto;
+}
+
+#hadVersion8InstalledBeforeMessage {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    #hadVersion8InstalledBeforeMessage {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      #hadVersion8InstalledBeforeMessage {
+        font-size: 1.2em;
+      }
+    }
+
+#hadVersion8InstalledBeforeMessage {
+  line-height: 1.2;
+  margin: 0 0 1em;
+  margin-top: 1.5rem;
+  white-space: pre-line;
+}
+
+#hadVersion8InstalledBeforeMessage [data-context="expertModes"] {
+  font-weight: 700;
+}
+
+#hadVersion8InstalledBeforeMessage [data-context="otherModes"] {
+  font-style: italic;
+}
+
+#hadVersion8InstalledBeforeMessageAcknowledgmentCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    #hadVersion8InstalledBeforeMessageAcknowledgmentCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      #hadVersion8InstalledBeforeMessageAcknowledgmentCta {
+        font-size: 1.2em;
+      }
+    }
+
+#hadVersion8InstalledBeforeMessageAcknowledgmentCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  margin-top: 3rem;
+}
+
+#hadVersion8InstalledBeforeMessageRemovalCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    #hadVersion8InstalledBeforeMessageRemovalCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      #hadVersion8InstalledBeforeMessageRemovalCta {
+        font-size: 1.2em;
+      }
+    }
+
+#hadVersion8InstalledBeforeMessageRemovalCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  text-decoration: none;
+}
+
+#hadVersion8InstalledBeforeMessageRemovalCta:hover {
+    text-decoration: underline;
+  }
+
+#hadVersion8InstalledBeforeMessageRemovalCta {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.4em;
+  margin-top: 1.5rem;
+}
+
+/* Feedback call-to-actions */
+
+#feedbackCtasContainer {
+  position: fixed;
+  z-index: 1;
+  right: 2rem;
+}
+
+.feedbackCta {
+  font-size: 1.4em
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .feedbackCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .feedbackCta {
+        font-size: 1.2em;
+      }
+    }
+
+.feedbackCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  font-size: 2em;
+  display: inline-block;
+  padding: 1rem;
+  text-decoration: none;
+  text-shadow: .1rem .1rem #000
+}
+
+.feedbackCta:hover {
+    transform: scale( 1.2 );
+  }
+
+/* Settings form */
+
+#settingsForm {
+  margin: 2rem 0;
+}
+
+.optionsChanger,
+input.optionsChanger {
+  margin-left: 3rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  max-width: 35rem;
+}
+
+.optionsChanger.custom {
+  width: 10rem;
+}
+
+.optionsChanger:invalid {
+  border-color: #f00;
+}
+
+/* Button mode */
+
+#buttonModeContainer {
+  align-items: flex-start;
+}
+
+#buttonModeGroups {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+[for="buttonMode"] {
+  display: flex;
+  align-items: center;
+  height: 3.5rem;
+}
+
+.buttonModeGroupCaption {
+  font-size: 1.4em;
+  font-weight: 700;
+}
+
+.buttonModeGroup:first-child .buttonModeGroupCaption {
+  margin-top: 0;
+}
+
+.buttonModeGroupDescription {
+  font-size: 1.4em;
+  margin-bottom: 0;
+  white-space: pre-line;
+}
+
+.buttonModeDemoCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .buttonModeDemoCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .buttonModeDemoCta {
+        font-size: 1.2em;
+      }
+    }
+
+.buttonModeDemoCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  text-decoration: none;
+}
+
+.buttonModeDemoCta:hover {
+    text-decoration: underline;
+  }
+
+.buttonModeDemoCta {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.3em;
+}
+
+.buttonModeGroupItemsList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.buttonModeGroupItemLabel {
+  display: flex;
+  align-items: center;
+}
+
+.buttonModeGroupItemsList .optionsChanger {
+  margin-top: 0;
+}
+
+.buttonModeGroupItemText {
+  font-size: 1.4em;
+  margin-left: 1rem;
+  padding: .5rem 0;
+}
+
+#disableExpertButtonModesCta {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    #disableExpertButtonModesCta {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      #disableExpertButtonModesCta {
+        font-size: 1.2em;
+      }
+    }
+
+#disableExpertButtonModesCta {
+  font-family: inherit;
+  flex-shrink: 0;
+  line-height: 2.5;
+  text-decoration: none;
+}
+
+#disableExpertButtonModesCta:hover {
+    text-decoration: underline;
+  }
+
+#disableExpertButtonModesCta {
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#disableExpertButtonModesCta:hover {
+    text-decoration: underline;
+  }
+
+#disableExpertButtonModesCta {
+  font-size: 1.4em;
+  color: #15c;
+}
+
+/* Other specific ones */
+
+[data-i18n="uiLanguage"]::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: .5rem;
+  width: 2rem;
+  height: 2rem;
+  background: url( /options/img/switch-language.svg ) center / contain no-repeat;
+}
+
+#settingsOverrideCtasContainer .pwCta {
+  margin-right: 1.5rem;
+}
+
+#settingsForm .pwFormControls {
+  display: flex;
+  align-items: baseline;
+}
+
+#saveSettings {
+  display: flex;
+}
+
+#status {
+  line-height: 2;
+  margin: 0 0 0 1.5rem;
+}
+
+/* Permissions and privacy information */
+
+#permissionsPrivacyDetailsContainer {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  padding: 4rem 2rem;
+  max-width: 70rem;
+  background-color: #fff;
+  overflow: auto;
+}
+
+.permissionsPrivacyDetails {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .permissionsPrivacyDetails {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .permissionsPrivacyDetails {
+        font-size: 1.2em;
+      }
+    }
+
+.permissionsPrivacyDetails {
+  line-height: 1.2;
+  margin: 0 0 1em;
+  font-size: 1.8em;
+  line-height: 1.4;
+  margin-bottom: 2rem;
+  white-space: pre-line;
+}
+
+[data-i18n="privacyDetails"] {
+  font-weight: 700;
+}
+
+/* Secondary information */
+
+#waysToSupportDevelopmentContainer {
+  margin-bottom: 3rem;
+}
+
+.secondaryInfoContainer::before {
+  content: '';
+  position: absolute;
+  top: -1.7rem;
+  right: 0;
+  left: 0;
+  height: .1rem;
+  border-top: .1rem dashed #ccc;
+}
+
+/* Links */
+
+.linksMessage {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .linksMessage {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .linksMessage {
+        font-size: 1.2em;
+      }
+    }
+
+.linksMessage {
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+
+.links {
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+
+@media ( max-width: 30em /* Up to 480px */ ) {
+
+    .links {
+      margin-right: 2rem;
+      margin-left: 2rem;
+    }
+  }
+
+.links {
+  line-height: 2rem;
+  padding-left: .5rem;
+}
+
+.linkWrapper {
+  font-size: 1.4em;
+}
+
+@media ( max-width: 40em /* Up to 640px */ ) {
+
+    .linkWrapper {
+      font-size: 1.3em;
+    }
+  }
+
+@media ( max-width: 40em  ) and ( max-width: 30em  ) {
+
+      .linkWrapper {
+        font-size: 1.2em;
+      }
+    }
+
+.linkWrapper {
+  line-height: 1.2;
+  margin-bottom: .5rem;
+}
+
+/* @todo Refactor language files to avoid tag names. */
+
+.linkWrapper a {
+  text-decoration: none;
+}
+
+.linkWrapper a:hover {
+    text-decoration: underline;
+  }
+
+.linkWrapper a {
+  color: #15c;
+}
+
+/* Version and license info */
+
+#versionAndLicenseContainer {
+    margin-top: 3rem;
+}
+
+#versionAndLicenseText {
+    font-size: 1.4em;
+}
+
+@media ( max-width: 30em /* Up to 480px */ ) {
+
+  /* Settings */
+
+  .optionsChanger,
+  input.optionsChanger {
+    max-width: 22rem;
+  }
+
+  #settingsOverrideCtasContainer .pwCta {
+    margin-right: .5rem;
+  }
+}
+
+#exportedSettingsDialog {
+  padding: 3rem;
+  min-width: 40rem;
+  max-width: 60rem;
+}
+
+#exportedSettingsDialog[open] {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+}
+
+#exportedSettingsDialog::-webkit-backdrop {
+  background-color: rgba( 0, 0, 0, .5 );
+}
+
+#exportedSettingsDialog::backdrop {
+  background-color: rgba( 0, 0, 0, .5 );
+}
+
+#exportedSettingsTitle {
+  font-size: 1.9em;
+}
+
+#exportedSettingsPreviewText {
+  margin: 0 0 2rem;
+  padding: 1rem;
+  border-width: .1rem;
+  width: calc( 100% - 2 * 0 - 2 * 1rem - 2 * .1rem );
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+#exportedSettingsStatusText {
+  margin: 0;
+}
+
+#exportedSettingsDialog .pwCta {
+  margin-top: 2rem;
+}
+
+@media ( max-width: 30em /* Up to 480px */ ) {
+
+  #exportedSettingsTitle {
+    font-size: 1.6em;
+  }
+
+  #exportedSettingsDialog {
+    position: fixed;
+    min-width: 90%;
+  }
+}
+

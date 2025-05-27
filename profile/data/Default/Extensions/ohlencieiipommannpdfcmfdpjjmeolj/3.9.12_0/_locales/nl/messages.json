@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Pas je instellingen aan om je ervaring te verbeteren."
+   },
+   "affected_page": {
+      "message": "Getroffen pagina"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly kan zijn geblokkeerd door een andere extensie die je hebt geïnstalleerd, zoals een ad blocker. Schakel je andere extensies tijdelijk uit en probeer opnieuw een PDF te maken."
+   },
+   "cancel": {
+      "message": "Annuleren"
+   },
+   "capture_screenshot_manually": {
+      "message": "Gebruik onze Screenshot-functie om deze pagina vast te leggen en deze vervolgens te exporteren als een afbeelding of PDF."
+   },
+   "capturing": {
+      "message": "Vastleggen"
+   },
+   "capturing_desc": {
+      "message": "Screenshot vastgelegd…"
+   },
+   "choose_paper_size": {
+      "message": "Kies uw voorkeursformaat voor PDF's."
+   },
+   "compress_pdf": {
+      "message": "PDF comprimeren"
+   },
+   "contact_us": {
+      "message": "Neem contact met ons op:"
+   },
+   "convert_pdf": {
+      "message": "PDF converteren"
+   },
+   "current_view_screenshot": {
+      "message": "Screenshot"
+   },
+   "default_button": {
+      "message": "Standaardknop"
+   },
+   "default_mode": {
+      "message": "Standaardmodus"
+   },
+   "default_mode_checkbox": {
+      "message": "Toon deze opties niet opnieuw. Schakel ze opnieuw in Instellingen."
+   },
+   "default_mode_desc": {
+      "message": "Kies de actie die automatisch wordt geselecteerd wanneer u op de knop klikt."
+   },
+   "delete": {
+      "message": "Klik om te verwijderen"
+   },
+   "dialog_close": {
+      "message": "Sluiten"
+   },
+   "dialog_text": {
+      "message": "Verzenden naar uw printer."
+   },
+   "dialog_text_btn": {
+      "message": "Opnieuw verzenden"
+   },
+   "dialog_title": {
+      "message": "Uw pagina wordt afgedrukt"
+   },
+   "dont_show_again": {
+      "message": "Toon dit niet opnieuw."
+   },
+   "edit_pdf": {
+      "message": "PDF bewerken"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_article_sent": {
+      "message": "heeft u een artikel gestuurd"
+   },
+   "email_from": {
+      "message": "Van"
+   },
+   "email_message": {
+      "message": "Bericht"
+   },
+   "email_product_sent_message": {
+      "message": "Uw e-mailbericht is verzonden. U kunt de pagina sluiten."
+   },
+   "email_send": {
+      "message": "Verzenden"
+   },
+   "email_sent_message": {
+      "message": "Uw e-mailbericht is verzonden"
+   },
+   "email_title": {
+      "message": "E-mail deze pagina"
+   },
+   "email_to": {
+      "message": "Aan"
+   },
+   "full_page_screenshot": {
+      "message": "Volledige pagina"
+   },
+   "get_pro": {
+      "message": "Krijg Pro-versie"
+   },
+   "got_it": {
+      "message": "Begrepen"
+   },
+   "image": {
+      "message": "Foto"
+   },
+   "image_size_pref": {
+      "message": "Voorkeur voor afbeeldingsgrootte"
+   },
+   "image_size_pref_desc": {
+      "message": "Stel de afbeeldingsgrootte in bij het bekijken van pagina’s met de extensie."
+   },
+   "images": {
+      "message": "Afbeeldingen"
+   },
+   "lang_display_name": {
+      "message": "Nederlands (Dutch)"
+   },
+   "language_setting": {
+      "message": "Taal"
+   },
+   "language_setting_desc": {
+      "message": "Selecteer uw voorkeurstaal."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Inloggen"
+   },
+   "margin": {
+      "message": "Marge"
+   },
+   "no": {
+      "message": "Nee"
+   },
+   "off": {
+      "message": "Uit"
+   },
+   "other_tools": {
+      "message": "Hulpmiddelen"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Deze pagina blokkeert PrintFriendly"
+   },
+   "page_size": {
+      "message": "Paginagrootte"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Download uw PDF"
+   },
+   "pdf_generation_error": {
+      "message": "PDF-generatiefout"
+   },
+   "pdf_head": {
+      "message": "Uw PDF wordt gegenereerd"
+   },
+   "pdf_paper_size": {
+      "message": "PDF-papierformaat"
+   },
+   "print": {
+      "message": "Afdrukken"
+   },
+   "print_pdf": {
+      "message": "Afdrukken en PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Verwijder advertenties en navigatie. Goed voor artikelen en tekstpagina's."
+   },
+   "printer_friendly_page": {
+      "message": "Printervriendelijke pagina"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Is de printervriendelijke versie niet wat u verwachtte? Probeer een schermafbeelding te maken."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly-pagina"
+   },
+   "pro_alert": {
+      "message": "Pro-functie"
+   },
+   "reach_out_for_support": {
+      "message": "Voor meer details of ondersteuning, neem contact met ons op via"
+   },
+   "read_more": {
+      "message": "Lees meer"
+   },
+   "remove_ads_description": {
+      "message": "Verwijder advertenties en navigatie van webpagina's. Werkt goed met artikelen en tekstgerichte pagina's."
+   },
+   "remove_images": {
+      "message": "Afbeeldingen verwijderen"
+   },
+   "report": {
+      "message": "Rapporteer"
+   },
+   "resolve_issue": {
+      "message": "en we zullen u helpen het probleem op te lossen."
+   },
+   "save_as_image": {
+      "message": "Opslaan als afbeelding"
+   },
+   "save_as_pdf": {
+      "message": "Opslaan als PDF"
+   },
+   "save_changes": {
+      "message": "Opslaan"
+   },
+   "screenshot": {
+      "message": "Schermafbeelding"
+   },
+   "screenshot_image_format": {
+      "message": "Afbeeldingsformaat schermafbeelding"
+   },
+   "screenshot_ready_soon": {
+      "message": "Uw schermafbeelding is zo klaar."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly werkt op de meeste websites en maakt het gemakkelijk om schonere, printervriendelijke pagina's en schermafbeeldingen te maken. Bepaalde pagina's—zoals browserinstellingen, extensiewinkels en andere beperkte gebieden—zijn echter vanwege browserbeleid niet toegankelijk. Neem contact met ons op als u vragen heeft."
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "settings_saved": {
+      "message": "Je instellingen zijn opgeslagen."
+   },
+   "show_screenshot_message": {
+      "message": "Screenshotbericht weergeven in de printervriendelijke weergave"
+   },
+   "something_went_wrong": {
+      "message": "Er ging iets mis"
+   },
+   "still_does_not_work": {
+      "message": "Als het nog steeds niet werkt, neem dan contact met ons op via"
+   },
+   "stop_capturing": {
+      "message": "Stop vastleggen"
+   },
+   "strict_security_settings": {
+      "message": "Het spijt ons, maar deze pagina heeft strikte beveiligingsinstellingen (Content Security Policy) die ons verhinderen een PrintFriendly-versie van de pagina te maken."
+   },
+   "style": {
+      "message": "Stijl"
+   },
+   "take_screenshot": {
+      "message": "Maak een screenshot:"
+   },
+   "text_size_pref": {
+      "message": "Voorkeur voor tekstgrootte"
+   },
+   "text_size_pref_desc": {
+      "message": "Stel de tekstgrootte in bij het bekijken van pagina’s met de extensie."
+   },
+   "timed_out_pdf": {
+      "message": "Het kan zijn dat PrintFriendly was verlopen tijdens het genereren van de PDF. Het bestand was mogelijk te groot voor ons systeem om te verwerken."
+   },
+   "txt_size": {
+      "message": "Tekstgrootte"
+   },
+   "unable_to_generate_pdf": {
+      "message": "We konden geen PDF genereren voor deze pagina."
+   },
+   "undo": {
+      "message": "Herstel"
+   },
+   "what_you_can_do": {
+      "message": "Wat u kunt doen"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

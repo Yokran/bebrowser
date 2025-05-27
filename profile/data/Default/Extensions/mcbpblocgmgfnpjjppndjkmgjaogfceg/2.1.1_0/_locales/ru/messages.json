@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "О программе..."
+   },
+   "action_api": {
+      "message": "Автоматизация FireShot"
+   },
+   "action_batch": {
+      "message": "Захватить список веб-адресов"
+   },
+   "action_capture_browser": {
+      "message": "Захватить Окно браузера и"
+   },
+   "action_capture_entire": {
+      "message": "Захватить Всю страницу и"
+   },
+   "action_capture_entire_lite": {
+      "message": "Захватить Всю страницу"
+   },
+   "action_capture_selection": {
+      "message": "Захватить Элемент / Регион и"
+   },
+   "action_capture_selection_lite": {
+      "message": "Захватить Регион"
+   },
+   "action_capture_stop": {
+      "message": "Завершить захват"
+   },
+   "action_capture_stop_short": {
+      "message": "Стоп"
+   },
+   "action_capture_tabs": {
+      "message": "Захватить все вкладки и"
+   },
+   "action_capture_visible": {
+      "message": "Захватить Видимую область и"
+   },
+   "action_capture_visible_lite": {
+      "message": "Захватить Видимую область"
+   },
+   "action_copy": {
+      "message": "Поместить в Буфер обмена"
+   },
+   "action_edit": {
+      "message": "Редактировать"
+   },
+   "action_email": {
+      "message": "Отправить по E-Mail"
+   },
+   "action_enter_license": {
+      "message": "Ввести лицензионную информацию"
+   },
+   "action_external": {
+      "message": "Открыть в другой программе"
+   },
+   "action_install_native": {
+      "message": "Попробовать FireShot Pro"
+   },
+   "action_license_info": {
+      "message": "Лицензионная информация..."
+   },
+   "action_micsellaneous": {
+      "message": "Разное"
+   },
+   "action_ok": {
+      "message": "OK"
+   },
+   "action_onenote": {
+      "message": "Отправить в OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Открыть из Буфера Обмена"
+   },
+   "action_open_file": {
+      "message": "Открыть файл"
+   },
+   "action_options": {
+      "message": "Настройки"
+   },
+   "action_print": {
+      "message": "Распечатать"
+   },
+   "action_register": {
+      "message": "Зарегистрировать"
+   },
+   "action_resume": {
+      "message": "Продолжить редактирование"
+   },
+   "action_save": {
+      "message": "Сохранить"
+   },
+   "action_save_pdf": {
+      "message": "Сохранить в PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Сохранить в один документ PDF"
+   },
+   "action_show": {
+      "message": "Показать..."
+   },
+   "action_support": {
+      "message": "Поддержка"
+   },
+   "action_switch_pro": {
+      "message": "Переключиться в режим Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Активировать режим Pro для продолжения ..."
+   },
+   "action_upload": {
+      "message": "Опубликовать в Интернет"
+   },
+   "action_view_demo": {
+      "message": "Посмотреть демо"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "Спасибо за предоставленные разрешения! Мы будем обращаться с ними очень осторожно."
+   },
+   "application_description": {
+      "message": "Делайте скриншоты, редактируйте их и сохраняйте в PDF/JPEG/GIF/PNG/BMP; печатайте, отправляйте в Clipboard, Photoshop или по e-mail"
+   },
+   "application_title": {
+      "message": "FireShot - скриншоты страниц и аннотации"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "Пакетный режим FireShot"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "захват страницы"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "ждем, когда страница будет отображена..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "Следующая страница"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "Прервать задачу"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "из"
+   },
+   "button_dismiss": {
+      "message": "Понятно"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "Пожизненная лицензия и 30-дневная гарантия возврата денег"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "Купить FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "Расширенные функции захвата"
+   },
+   "captured_ads_feature_2": {
+      "message": "Редактирование скриншотов"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "PDF-файлы с возможностью текстового поиска,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "верхние и нижние колонтитулы"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "сравнить FireShot Lite и FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "больше Pro-функций"
+   },
+   "captured_ads_title": {
+      "message": "Убрать рекламу"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "Станьте PRO и активно участвуйте в развитии"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "этого расширения"
+   },
+   "captured_beta_disabled": {
+      "message": "Спасибо за то, что попробовали! Все расширенные функции были отключены."
+   },
+   "captured_button_continue": {
+      "message": "Продолжить"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Бесплатная 10-дневная пробная версия"
+   },
+   "captured_button_no_credit_card": {
+      "message": "Кредитная карта не требуется"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "Мне не нравится"
+   },
+   "captured_button_rate_later": {
+      "message": "Может быть позже"
+   },
+   "captured_button_rate_like": {
+      "message": "Мне нравится"
+   },
+   "captured_buy_pro_button": {
+      "message": "Купить Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "Вы можете вернуться к обычной версии в любой момент"
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Пользовательский размер страницы"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Прямые ссылки"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Отключить выделение текста"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Разделить на страницы"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "С возможностью поиска по тексту"
+   },
+   "captured_copy_clipboard": {
+      "message": "Копировать"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Узнать как..."
+   },
+   "captured_error_pdf": {
+      "message": "Извините, во время создания PDF произошла непредвиденная ошибка"
+   },
+   "captured_exit_beta_program": {
+      "message": "Выйти из Инсайдерской Программы"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Следуйте инструкциям по установке дополнительных функций."
+   },
+   "captured_get_free_button": {
+      "message": "Попробовать"
+   },
+   "captured_how_to_copy": {
+      "message": "Как скопировать снимок в буфер обмена"
+   },
+   "captured_information": {
+      "message": "Информация"
+   },
+   "captured_label_actions": {
+      "message": "Действия"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "Предпросмотр улучшенной версии"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Эта страница захватывается лучше с установленными расширенными функциями."
+   },
+   "captured_label_limited_functionality": {
+      "message": "Только небольшая часть этой страницы может быть сохранена из-за ограничений браузера. Вы можете использовать FireShot Pro для сохранения всей страницы в PDF."
+   },
+   "captured_label_new": {
+      "message": "новинка"
+   },
+   "captured_label_participate_beta": {
+      "message": "Участвовать в Инсайдерской Программе"
+   },
+   "captured_label_progress_sign": {
+      "message": "Почти готово"
+   },
+   "captured_label_remove_adv": {
+      "message": "Убрать рекламу"
+   },
+   "captured_label_try_enchancements": {
+      "message": "В течение периода тестирования, это полностью бесплатно. Попробуйте следующие улучшения"
+   },
+   "captured_label_using_beta_version": {
+      "message": "Вы используете Инсайдер-версию FireShot Pro: улучшенные возможности захвата и сохранения в PDF (настройка страницы, заголовки/футеры/водяные знаки, прямые ссылки и поддержка текста)."
+   },
+   "captured_li_1": {
+      "message": "Создавайте PDF с возможностями поиска по тексту и прямыми веб-ссылками"
+   },
+   "captured_li_2": {
+      "message": "Добавляйте в PDF настраиваемые заголовки, футеры и водяные знаки"
+   },
+   "captured_li_3": {
+      "message": "Настраивайте размер страницы и мультистраничный режим"
+   },
+   "captured_li_4": {
+      "message": "Улучшенный захват: выбор элементов на странице, комплексный контент"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Установить FireShot для"
+   },
+   "captured_link_read_more": {
+      "message": "узнать больше"
+   },
+   "captured_link_report_problem": {
+      "message": "Сообщить от проблеме"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "Смотреть условия"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Перейдите на версию Pro, чтобы включить дополнительные функции"
+   },
+   "captured_print": {
+      "message": "Распечатать"
+   },
+   "captured_print_button": {
+      "message": "Распечатать"
+   },
+   "captured_purchase_license": {
+      "message": "Купить лицензию"
+   },
+   "captured_rate_button": {
+      "message": "Оценить FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "Разработка FireShot требует много личного времени"
+   },
+   "captured_rate_line2": {
+      "message": "Это время можно потратить на семью или отдых"
+   },
+   "captured_rate_line3": {
+      "message": "В знак признательности за наши усилия не могли бы вы оценить FireShot?"
+   },
+   "captured_rate_line4": {
+      "message": "Это поможет людям быстрее находить FireShot."
+   },
+   "captured_rate_question": {
+      "message": "Не могли бы вы поделиться с нами, нравится вам FireShot или нет?"
+   },
+   "captured_recommend_us": {
+      "message": "Порекомендовать FireShot"
+   },
+   "captured_report_problem": {
+      "message": "Сообщить о проблеме"
+   },
+   "captured_save_as_image": {
+      "message": "Сохранить как изображение"
+   },
+   "captured_save_as_image_button": {
+      "message": "Сохранить"
+   },
+   "captured_save_as_pdf": {
+      "message": "Сохранить в PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Сохранить Скриншот"
+   },
+   "captured_saving_options": {
+      "message": "настройки сохранения"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Настроить шаблон имени файла ..."
+   },
+   "captured_step1_right_click": {
+      "message": "Щелкните правой кнопкой мыши по изображению"
+   },
+   "captured_step2_copy": {
+      "message": "Выберите \"Копировать изображение\" во всплывающем меню"
+   },
+   "captured_success": {
+      "message": "Готово"
+   },
+   "captured_upgrade_features_list": {
+      "message": "получить расширенные возможности для аннотаций, печати и лучшего сохранения, редактирования, загрузки, отправки по электронной почте или в OneNote, или экспорта в другую программу"
+   },
+   "captured_upgrade_link_1": {
+      "message": "PDF с поддержкой текста. Улучшенный захват, Аннотации и графический Редактор, Печать и Сохранение, Выкладывание в Сеть, отправка по E-Mail и в OneNote, экспорт в другие редакторы."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Улучшить до FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Кажется, я использовал другую версию FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Как вернуть её назад?"
+   },
+   "collapse": {
+      "message": "Свернуть"
+   },
+   "enable_checkbox": {
+      "message": "Включить"
+   },
+   "history_banner_line1": {
+      "message": "Чтобы продолжить, освободите немного места, удалив ненужные записи из Истории."
+   },
+   "history_banner_line2": {
+      "message": "Для вашего удобства FireShot предварительно отобрал элементы, которые окажут наиболее значительное влияние на уменьшение размера хранилища."
+   },
+   "history_banner_title": {
+      "message": "Размер хранилища превысил максимальную квоту."
+   },
+   "history_btn_delete_selected": {
+      "message": "Удалить выбранное"
+   },
+   "history_button_select_all": {
+      "message": "Выбрать/отменить выбор"
+   },
+   "history_clear_filter_button": {
+      "message": "Очистить фильтр"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "Удалить выбранные элементы? Отменить эту операцию будет нельзя."
+   },
+   "history_filter_text": {
+      "message": "Фильтр"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite предоставляет историю за последние 7 дней. Полная история доступна в FireShot Pro."
+   },
+   "infinite_mode_warning": {
+      "message": "Обнаружен режим бесконечной прокрутки. Остановите FireShot, когда это необходимо."
+   },
+   "label_processing": {
+      "message": "Обрабатываем..."
+   },
+   "label_start": {
+      "message": "Старт"
+   },
+   "label_total": {
+      "message": "Всего"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "Вы действительно хотите деактивировать лицензию на этом браузере?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "Лицензионная информация"
+   },
+   "licensing_popup_registered_to": {
+      "message": "Зарегистрировано на"
+   },
+   "licensing_popup_remove_key": {
+      "message": "Удалить лицензию с этого браузера"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Разрешить бесконечную прокрутку страниц"
+   },
+   "options_api_hint": {
+      "message": "Запуск и настройка FireShot с помощью JavaScript."
+   },
+   "options_button_apply": {
+      "message": "Применить"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "Настройка параметров сохранения в PDF"
+   },
+   "options_button_save_close": {
+      "message": "Сохранить и закрыть"
+   },
+   "options_button_setup": {
+      "message": "Настроить"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "Команда 'Захватить все вкладки' захватывает только видимую часть страницы"
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "Максимальное время, разрешенное для захвата страницы:"
+   },
+   "options_history_confirm_erase": {
+      "message": "Пожалуйста, подтвердите удаление истории. Вы не можете отменить эту операцию."
+   },
+   "options_history_delete_all": {
+      "message": "Очистить всю историю..."
+   },
+   "options_label_and": {
+      "message": "и"
+   },
+   "options_label_capturing": {
+      "message": "Захват"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Закрывать вкладку после сохранения"
+   },
+   "options_label_customize_saving": {
+      "message": "Дополнительные опции при сохранении"
+   },
+   "options_label_default_filename_template": {
+      "message": "Шаблон имени файла:"
+   },
+   "options_label_default_folder": {
+      "message": "Папка сохранения по умолчанию"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Относительный путь в папке 'Загрузки', в который будет предлагаться сохранение по умолчанию.\nМожет содержать вложенные папки. Абсолютные пути, пустые пути и пути, содержащие обратные ссылки «..», будут игнорироваться."
+   },
+   "options_label_editor_options": {
+      "message": "Настройки Редактора"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Интегрироваться в контекстное меню"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "Если произошёл сбой, автоматически сообщать об ошибках, чтобы сделать FireShot лучше."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "Отправлять анонимную статистику в Google Analytics, чтобы улучшить FireShot"
+   },
+   "options_label_file_saving": {
+      "message": "Сохранение"
+   },
+   "options_label_file_settings": {
+      "message": "Настройки имени файла"
+   },
+   "options_label_fireshot_options": {
+      "message": "Настройки FireShot"
+   },
+   "options_label_history": {
+      "message": "История"
+   },
+   "options_label_hotkey": {
+      "message": "Горячие клавиши"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Последнее действие"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Не показывать диалог сохранения"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Открывать файл в папке после сохранения"
+   },
+   "options_label_pdf_settings": {
+      "message": "Параметры PDF"
+   },
+   "options_label_save_image_as": {
+      "message": "Сохранять изображение как:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Настройки редактора и опций сохранения, именования файлов, стилей и прочие настройки"
+   },
+   "options_label_specify_hotkey": {
+      "message": "Горячая клавиша запуска FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Настройки ресайзинга по умолчанию, звука"
+   },
+   "options_label_template_day": {
+      "message": "День"
+   },
+   "options_label_template_hour": {
+      "message": "Час"
+   },
+   "options_label_template_limit_1": {
+      "message": "Ограничить длину имени файла до"
+   },
+   "options_label_template_limit_2": {
+      "message": "символов"
+   },
+   "options_label_template_minutes": {
+      "message": "Минуты"
+   },
+   "options_label_template_month": {
+      "message": "Месяц"
+   },
+   "options_label_template_pad_1": {
+      "message": "Выравнивать число"
+   },
+   "options_label_template_pad_2": {
+      "message": "нулями"
+   },
+   "options_label_template_seconds": {
+      "message": "Секунды"
+   },
+   "options_label_template_title": {
+      "message": "Заголовок Страницы"
+   },
+   "options_label_template_url": {
+      "message": "URL Страницы"
+   },
+   "options_label_template_website": {
+      "message": "Доменное имя"
+   },
+   "options_label_template_year": {
+      "message": "Год"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "Сообщать мне, когда FireShot обновится."
+   },
+   "options_link_filename_template_settings": {
+      "message": "Показать настройки шаблона имени файла..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Спрятать настройки шаблона..."
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "Открыть вкладку скриншота рядом с исходной вкладкой"
+   },
+   "options_option_history_180": {
+      "message": "6 месяцев"
+   },
+   "options_option_history_30": {
+      "message": "30 дней"
+   },
+   "options_option_history_365": {
+      "message": "Год"
+   },
+   "options_option_history_7": {
+      "message": "Неделя"
+   },
+   "options_option_history_90": {
+      "message": "3 месяца"
+   },
+   "options_option_history_all": {
+      "message": "Навсегда"
+   },
+   "options_page_delay_screenshot": {
+      "message": "Задержка перед скриншотом:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "Активируйте этот режим, удерживая клавишу Alt при запуске FireShot."
+   },
+   "options_page_scrolling_speed": {
+      "message": "Изменить скорость прокрутки страницы:"
+   },
+   "options_retain_history": {
+      "message": "Период сохранения снятых скриншотов в истории"
+   },
+   "pdf_dialog_align": {
+      "message": "Выравнивание"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "Задний фон"
+   },
+   "pdf_dialog_bottom": {
+      "message": "Снизу"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "Снизу посередине"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "Снизу слева"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "Снизу справа"
+   },
+   "pdf_dialog_cancel": {
+      "message": "Отмена"
+   },
+   "pdf_dialog_center": {
+      "message": "По центру"
+   },
+   "pdf_dialog_centered": {
+      "message": "По центру"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "Нажмите, чтобы задать шаблон"
+   },
+   "pdf_dialog_color": {
+      "message": "Цвет"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "Задать шаблон"
+   },
+   "pdf_dialog_confirm": {
+      "message": "Подтвердить"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "Сделать текст в PDF доступным для поиска"
+   },
+   "pdf_dialog_defaults": {
+      "message": "Значения по умолчанию"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "Умная разбивка (не бить строки и изображения)"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "Разрешить веб-ссылки"
+   },
+   "pdf_dialog_extras": {
+      "message": "Дополнительно"
+   },
+   "pdf_dialog_font": {
+      "message": "Шрифт"
+   },
+   "pdf_dialog_footers": {
+      "message": "Футеры"
+   },
+   "pdf_dialog_frame": {
+      "message": "Рамка"
+   },
+   "pdf_dialog_headers": {
+      "message": "Заголовки"
+   },
+   "pdf_dialog_height": {
+      "message": "Высота"
+   },
+   "pdf_dialog_inches": {
+      "message": "дюймы"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "Следующие предустановленные значения могут быть использованы (щелкните, чтобы добавить)"
+   },
+   "pdf_dialog_left": {
+      "message": "Слева"
+   },
+   "pdf_dialog_margin": {
+      "message": "Отступ"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "Отступ в пикселях"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "Посередине слева"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "Посередине справа"
+   },
+   "pdf_dialog_month_name": {
+      "message": "Название месяца"
+   },
+   "pdf_dialog_opacity": {
+      "message": "Прозрачность"
+   },
+   "pdf_dialog_orientation": {
+      "message": "Ориентация"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "Горизонтально"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "Портрет"
+   },
+   "pdf_dialog_page_number": {
+      "message": "Номер страницы PDF"
+   },
+   "pdf_dialog_page_size": {
+      "message": "Размер страницы"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "Авто"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "Задать ширину и высоту"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "Задать ширину"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "Настройка страниц"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "Выбрать"
+   },
+   "pdf_dialog_placement": {
+      "message": "Положение"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "Укажите шаблон"
+   },
+   "pdf_dialog_position": {
+      "message": "Позиция"
+   },
+   "pdf_dialog_right": {
+      "message": "Справа"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "высота скриншота"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "ширина скриншота"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "Задать шаблон футера"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "Задать стиль футера"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "Задать шаблон заголовка"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "Задать стиль заговолка"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "Задать шаблон водяного знака"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "Задать стиль водяного знака"
+   },
+   "pdf_dialog_size": {
+      "message": "Размер"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "Укажите стиль шрифта"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "Разбивать длинные скриншоты на страницы"
+   },
+   "pdf_dialog_style": {
+      "message": "Стиль"
+   },
+   "pdf_dialog_template": {
+      "message": "Шаблон"
+   },
+   "pdf_dialog_text": {
+      "message": "Текст"
+   },
+   "pdf_dialog_top": {
+      "message": "Сверху"
+   },
+   "pdf_dialog_top_center": {
+      "message": "Сверху посередине"
+   },
+   "pdf_dialog_top_left": {
+      "message": "Сверху слева"
+   },
+   "pdf_dialog_top_right": {
+      "message": "Сверху справа"
+   },
+   "pdf_dialog_units": {
+      "message": "Единицы"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "Вод. знаки"
+   },
+   "pdf_dialog_weekday": {
+      "message": "День недели"
+   },
+   "pdf_dialog_width": {
+      "message": "Ширина"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "Размер будет выбран автоматически, чтобы поместилась вся страница."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "Высота страницы страницы будет выбрана автоматически, чтобы вместить все содержимое."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "Ширина страницы будет вмещать содержимое полностью, и высота страницы будет выбрана в соответствии с пропорциями формата А4."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "Если в конечном документе будет 2 страницы, и вторая страница пуста на 50% и более, страницы будут объединены."
+   },
+   "popup_action_required": {
+      "message": "Требуется подтверждение"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 секунд"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 секунд"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 секунд"
+   },
+   "popup_label_60_seconds": {
+      "message": "60 секунд"
+   },
+   "popup_label_additional_options": {
+      "message": "Дополнительно"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "Создать отдельную папку для этой задачи"
+   },
+   "popup_label_do_not_wait": {
+      "message": "Не ждать"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "Как сохранить скриншоты"
+   },
+   "popup_label_long_batch": {
+      "message": "При длительных задачах пожалуйста, убедитесь, что ваш компьютер не переходит в режим сна - это приведет к сбою задачи."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "Максимальное время ожидания загрузки страницы"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "В версии Lite доступен захват только видимой части страницы."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "Задать скорость прокрутки"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "Показать файлы в папке после завершения работы"
+   },
+   "popup_label_specify_mode": {
+      "message": "Укажите режим захвата"
+   },
+   "popup_label_specify_urls": {
+      "message": "Укажите веб-адреса для захвата"
+   },
+   "popup_label_unlimited": {
+      "message": "Без ограничения по времени"
+   },
+   "popup_label_when_loaded": {
+      "message": "После загрузки подождать, чтобы дать странице отрисоваться"
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "Узнать больше"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "Чтобы лучше захватить эту страницу, программе требуется получить дополнительные полномочия."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "Можно проигнорировать этот запрос, и страница будет захвачена обычным способом, но часть элементов на скриншоте может отсутстовать или отображаться не полностью."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "почему FireShot требуются дополнительные полномочия."
+   },
+   "promo_enable_history": {
+      "message": "Получите полный доступ к истории"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "Удерживайте $key$ для захвата определённого элемента страницы.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "Удерживайте $key$ и щелкните в этой области, чтобы полностью захватить этот элемент",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "Нажмите, чтобы захватить от этой точки до конца страницы"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "Нажмите, чтобы захватить от начала страницы до этой точки"
+   },
+   "selection_hint": {
+      "message": "ПОДСКАЗКА:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "Захват с прокруткой:"
+   },
+   "title_suppress_warning": {
+      "message": "Отключить это предупреждение на 10 дней"
+   },
+   "void": {
+      "message": ""
+   }
+}

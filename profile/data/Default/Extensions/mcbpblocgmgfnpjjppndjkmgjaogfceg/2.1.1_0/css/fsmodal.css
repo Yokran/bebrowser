@@ -1,0 +1,50 @@
+body:has(dialog[open]) {
+    overflow: hidden;
+}
+
+dialog {
+    outline: none;
+}
+
+dialog::backdrop {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    animation: myFadeOut 0.5s ease normal;
+}
+
+dialog[open] {
+    animation: myFadeIn 0.5s ease normal;
+}
+
+#modalPromo {
+    padding: 0;
+    border-radius: 10px;
+    border: 0;
+    background-clip: padding-box;
+}
+
+#modalPromo >iframe {
+    border: 0;
+    width: 600px;
+    height: 500px
+}
+
+@keyframes myFadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes myFadeOut {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 0.6;
+    }
+}

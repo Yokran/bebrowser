@@ -1,0 +1,232 @@
+{
+   "already_have_a_token": {
+      "message": "已有令牌？"
+   },
+   "basic": {
+      "message": "基礎"
+   },
+   "basic_profile_desc": {
+      "message": "基礎資料包括ID、頭像、用戶名、全名和認證狀態。"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "chrome_extension_description": {
+      "message": "Growman可以幫助你從Instagram的關注者/關注中、地點和話題標籤中提取電子郵件地址。"
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG電子郵件提取器"
+   },
+   "click_here": {
+      "message": "點擊這裡"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "continue": {
+      "message": "繼續"
+   },
+   "continue_button": {
+      "message": "繼續"
+   },
+   "continue_from_history": {
+      "message": "是否要從上次中斷的地方繼續？"
+   },
+   "copy": {
+      "message": "複製"
+   },
+   "detailed": {
+      "message": "詳細"
+   },
+   "detailed_profile_desc": {
+      "message": "詳細資料包括簡介、關注者數量、電子郵件地址等。"
+   },
+   "eg_username": {
+      "message": "例如：tottori 或 https://www.instagram.com/tottori/"
+   },
+   "export_followers_of": {
+      "message": "提取以下用戶的關注者"
+   },
+   "export_followings_of": {
+      "message": "提取以下用戶的關注"
+   },
+   "export_to_excel": {
+      "message": "導出 $count$ 個$type$到Excel",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "導出中..."
+   },
+   "exporting_status": {
+      "message": "導出中"
+   },
+   "extract": {
+      "message": "提取"
+   },
+   "extract_by_hashtag": {
+      "message": "按話題標籤提取"
+   },
+   "extract_by_location": {
+      "message": "按地點提取"
+   },
+   "feature_detailed_profile": {
+      "message": "詳細資料"
+   },
+   "feature_export_followers": {
+      "message": "導出關注者列表"
+   },
+   "feature_export_followings": {
+      "message": "導出關注列表"
+   },
+   "feature_free_amount": {
+      "message": "最多導出500個資料"
+   },
+   "feature_unlimited_export": {
+      "message": "無限導出"
+   },
+   "feature_unsubscribe": {
+      "message": "隨時輕鬆取消訂閱"
+   },
+   "followers_label": {
+      "message": "關注者"
+   },
+   "following_label": {
+      "message": "關注"
+   },
+   "found_extraction_from": {
+      "message": "發現一個保存的提取記錄，來自"
+   },
+   "free": {
+      "message": "免費版"
+   },
+   "go": {
+      "message": "開始"
+   },
+   "hashtag_placeholder": {
+      "message": "在此輸入話題標籤，例如：hypercars"
+   },
+   "history": {
+      "message": "提取歷史"
+   },
+   "history_found": {
+      "message": "發現歷史記錄"
+   },
+   "history_notice": {
+      "message": "擴展程序會保存最近的提取進度。所有歷史數據都存儲在本地，卸載擴展程序後將丟失。"
+   },
+   "interval_risk_notice": {
+      "message": "更長的間隔可以降低被Instagram檢測的風險"
+   },
+   "invalid_location_url": {
+      "message": "無效的地點URL"
+   },
+   "invalid_token_format": {
+      "message": "無效的令牌格式"
+   },
+   "items_extracted": {
+      "message": "項已提取"
+   },
+   "limit_max_number": {
+      "message": "限制最大提取數量"
+   },
+   "location_example": {
+      "message": "例如：https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "在此貼上地點URL"
+   },
+   "me": {
+      "message": "我"
+   },
+   "my_token": {
+      "message": "我的令牌："
+   },
+   "no_history": {
+      "message": "暫無提取歷史。"
+   },
+   "not_public": {
+      "message": "非公開"
+   },
+   "paste_your_token": {
+      "message": "在此貼上您的令牌"
+   },
+   "pause_button": {
+      "message": "暫停"
+   },
+   "please_sign_in": {
+      "message": "請登錄Instagram後重試。"
+   },
+   "posts_label": {
+      "message": "帖子"
+   },
+   "private": {
+      "message": "私密"
+   },
+   "pro": {
+      "message": "專業版"
+   },
+   "pro_user": {
+      "message": "專業版用戶"
+   },
+   "profile": {
+      "message": "資料"
+   },
+   "progress": {
+      "message": "進度："
+   },
+   "required": {
+      "message": "必填"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "start_new": {
+      "message": "重新開始"
+   },
+   "subscription_canceled": {
+      "message": "您的訂閱已成功取消，不會再自動續費。當前計費週期內的專業版功能不受影響。"
+   },
+   "target": {
+      "message": "目標："
+   },
+   "to_unsubscribe": {
+      "message": "取消訂閱。"
+   },
+   "type": {
+      "message": "類型："
+   },
+   "unsubscribe_confirm_content": {
+      "message": "取消訂閱後，您的賬號將不會在下一個計費週期自動續費。當前計費週期內的專業版功能仍然有效。"
+   },
+   "unsubscribe_confirm_no": {
+      "message": "暫不取消"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "確認取消訂閱"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "確認取消"
+   },
+   "upgrade_to_pro": {
+      "message": "升級到專業版"
+   },
+   "upgrade_to_pro_button": {
+      "message": "升級到專業版"
+   },
+   "verified": {
+      "message": "已認證"
+   },
+   "wait_interval": {
+      "message": "等待間隔"
+   },
+   "wait_interval_seconds": {
+      "message": "等待間隔（秒）"
+   }
+}

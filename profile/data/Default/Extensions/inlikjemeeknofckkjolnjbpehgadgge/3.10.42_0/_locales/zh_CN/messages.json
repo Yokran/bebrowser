@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "监控网页或源以获取变更。在侦测到变更时接收短信或电子邮件通知。"
+   },
+   "extName": {
+      "message": "Distill Web Monitor"
+   }
+}

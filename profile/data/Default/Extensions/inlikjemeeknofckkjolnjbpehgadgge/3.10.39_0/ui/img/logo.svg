@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <linearGradient id="brand-logo-with-name-navbar-a" x1="23.162%" x2="50%" y1="0%" y2="50%">
+      <stop offset="0%"/>
+      <stop offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <circle cx="21" cy="21" r="21" fill="#DEE7EE" fill-rule="nonzero" stroke="#DEE7EE" stroke-linecap="square" stroke-linejoin="round"/>
+    <g fill-rule="nonzero" transform="translate(6 6)">
+      <path fill="#00B5FF" d="M13.7339446,29.7472593 C19.9481263,29.7472593 24.9857159,24.7835721 24.9857159,18.6605537 C24.9857159,12.5375352 20.4940598,7.04431754 20.4940598,2.44575937 C9.9240691,2.7103496 2.48217333,12.5375352 2.48217333,18.6605537 C2.48217333,24.7835721 7.51976294,29.7472593 13.7339446,29.7472593 Z" transform="rotate(-10 13.734 16.097)"/>
+    </g>
+  </g>
+</svg>

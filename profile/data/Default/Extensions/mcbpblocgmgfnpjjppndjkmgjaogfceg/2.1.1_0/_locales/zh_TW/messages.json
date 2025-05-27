@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "關於..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "捕獲 URL 列表"
+   },
+   "action_capture_browser": {
+      "message": "擷取瀏覽器視窗並"
+   },
+   "action_capture_entire": {
+      "message": "擷取整個頁面並"
+   },
+   "action_capture_entire_lite": {
+      "message": "擷取整個頁面"
+   },
+   "action_capture_selection": {
+      "message": "擷取選擇的區域並"
+   },
+   "action_capture_selection_lite": {
+      "message": "擷取選擇的區域"
+   },
+   "action_capture_stop": {
+      "message": "停止捕捉"
+   },
+   "action_capture_stop_short": {
+      "message": "停止"
+   },
+   "action_capture_tabs": {
+      "message": "擷取所有分頁並"
+   },
+   "action_capture_visible": {
+      "message": "擷取可見部分並"
+   },
+   "action_capture_visible_lite": {
+      "message": "擷取可見部分"
+   },
+   "action_copy": {
+      "message": "複製到剪貼簿"
+   },
+   "action_edit": {
+      "message": "編輯"
+   },
+   "action_email": {
+      "message": "以電子郵件寄送"
+   },
+   "action_enter_license": {
+      "message": "輸入授權碼"
+   },
+   "action_external": {
+      "message": "用外部編輯器開啟"
+   },
+   "action_install_native": {
+      "message": "試用進階功能"
+   },
+   "action_license_info": {
+      "message": "授權資訊..."
+   },
+   "action_micsellaneous": {
+      "message": "雜項"
+   },
+   "action_ok": {
+      "message": "确定"
+   },
+   "action_onenote": {
+      "message": "傳送至 OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "開啟剪貼簿中的圖檔"
+   },
+   "action_open_file": {
+      "message": "開啟檔案並編輯"
+   },
+   "action_options": {
+      "message": "選項"
+   },
+   "action_print": {
+      "message": "列印"
+   },
+   "action_register": {
+      "message": "註冊"
+   },
+   "action_resume": {
+      "message": "繼續編輯"
+   },
+   "action_save": {
+      "message": "儲存"
+   },
+   "action_save_pdf": {
+      "message": "另存為 PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "儲存為單一 PDF"
+   },
+   "action_show": {
+      "message": "展示..."
+   },
+   "action_support": {
+      "message": "支援"
+   },
+   "action_switch_pro": {
+      "message": "切換至 Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "正在啟動 Pro 的功能..."
+   },
+   "action_upload": {
+      "message": "上傳"
+   },
+   "action_view_demo": {
+      "message": "觀看示範"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "感謝您授予權限！我們會小心處理它們。"
+   },
+   "application_description": {
+      "message": "捕捉完整網頁擷圖。擷取，編輯並儲存為 PDF/JPEG/GIF/PNG/BMP ，上傳，列印，傳送至 OneNote 、複製至剪貼簿或以電子郵件寄送。"
+   },
+   "application_title": {
+      "message": "捕捉網頁擷圖 - FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "FireShot 批處理模式"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "抓取頁面"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "等待頁面呈現..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "下一頁"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "中止任務"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "的"
+   },
+   "button_dismiss": {
+      "message": "明白了"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "終身許可和 30 天退款保證"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "購買 FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "高級捕捉功能"
+   },
+   "captured_ads_feature_2": {
+      "message": "編輯截圖"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "可文本搜索的 PDF，"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "頁眉和頁腳"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "比較 FireShot Lite 和 FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "更多高級功能"
+   },
+   "captured_ads_title": {
+      "message": "移除廣告"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "成為 PRO 並積極為開發做出貢獻"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "這個擴展"
+   },
+   "captured_beta_disabled": {
+      "message": "謝謝你。所有測試版功能均已禁用。"
+   },
+   "captured_button_continue": {
+      "message": "繼續"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "免費10天試用"
+   },
+   "captured_button_no_credit_card": {
+      "message": "無需信用卡"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "我不喜歡"
+   },
+   "captured_button_rate_later": {
+      "message": "也許以後"
+   },
+   "captured_button_rate_like": {
+      "message": "我喜歡"
+   },
+   "captured_buy_pro_button": {
+      "message": "購買 Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "您可以隨時切換回 Lite。"
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "自定義頁面尺寸"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "直接連結"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "禁用文字選擇"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "拆分到頁面"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "可搜尋文字"
+   },
+   "captured_copy_clipboard": {
+      "message": "複製到剪貼簿"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "學習如何進行..."
+   },
+   "captured_error_pdf": {
+      "message": "抱歉，PDF 創建過程中出現意外錯誤"
+   },
+   "captured_exit_beta_program": {
+      "message": "退出 Insider 程序"
+   },
+   "captured_follow_the_instructions": {
+      "message": "請按照說明安裝高級功能"
+   },
+   "captured_get_free_button": {
+      "message": "免費試用"
+   },
+   "captured_how_to_copy": {
+      "message": "如何將屏幕截圖複製到剪貼板"
+   },
+   "captured_information": {
+      "message": "信息"
+   },
+   "captured_label_actions": {
+      "message": "動作"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "高級功能預覽"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "通過安裝高級功能可以更好地捕獲此頁面。"
+   },
+   "captured_label_limited_functionality": {
+      "message": "由於瀏覽器的限制，此頁面只能保存一小部分。您可以使用 FireShot Pro 將整個頁面保存為 PDF。"
+   },
+   "captured_label_new": {
+      "message": "新"
+   },
+   "captured_label_participate_beta": {
+      "message": "加入 FireShot Pro Insider 計劃"
+   },
+   "captured_label_progress_sign": {
+      "message": "馬上就好了"
+   },
+   "captured_label_remove_adv": {
+      "message": "去除廣告"
+   },
+   "captured_label_try_enchancements": {
+      "message": "在測試期間，我們免費提供。嘗試以下增強功能"
+   },
+   "captured_label_using_beta_version": {
+      "message": "您正在使用 Insider 版本的 FireShot Pro 功能：高級屏幕截圖功能和 PDF 功能（頁面設置、頁眉/頁腳/水印、直接鏈接和可搜索文本）。"
+   },
+   "captured_li_1": {
+      "message": "使用直接鏈接創建可文本搜索的 PDF"
+   },
+   "captured_li_2": {
+      "message": "添加自定義頁眉、頁腳、水印"
+   },
+   "captured_li_3": {
+      "message": "自定義頁面大小，多頁選項"
+   },
+   "captured_li_4": {
+      "message": "高級捕捉：複雜內容、對象選擇"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "獲得FireShot"
+   },
+   "captured_link_read_more": {
+      "message": "閱讀更多"
+   },
+   "captured_link_report_problem": {
+      "message": "報告問題"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "查看條款和條件"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "升級到Pro以啟用其他功能"
+   },
+   "captured_print": {
+      "message": "列印"
+   },
+   "captured_print_button": {
+      "message": "列印"
+   },
+   "captured_purchase_license": {
+      "message": "購買許可證"
+   },
+   "captured_rate_button": {
+      "message": "評價FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "FireShot開發需要大量個人時間"
+   },
+   "captured_rate_line2": {
+      "message": "那段時間可以花在家庭或休息上"
+   },
+   "captured_rate_line3": {
+      "message": "為了感謝我們的努力，您是否願意對FireShot進行評分？"
+   },
+   "captured_rate_line4": {
+      "message": "這將幫助人們更快地發現FireShot"
+   },
+   "captured_rate_question": {
+      "message": "您能否與我們分享，無論您是否喜歡FireShot？"
+   },
+   "captured_recommend_us": {
+      "message": "推薦 FireShot"
+   },
+   "captured_report_problem": {
+      "message": "報告問題"
+   },
+   "captured_save_as_image": {
+      "message": "儲存為圖片"
+   },
+   "captured_save_as_image_button": {
+      "message": "儲存為圖片"
+   },
+   "captured_save_as_pdf": {
+      "message": "儲存為 PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "儲存擷圖"
+   },
+   "captured_saving_options": {
+      "message": "自訂"
+   },
+   "captured_setup_hotkeys": {
+      "message": "設置文件名模板..."
+   },
+   "captured_step1_right_click": {
+      "message": "右鍵單擊圖像"
+   },
+   "captured_step2_copy": {
+      "message": "從彈出菜單中選擇“複製圖像”"
+   },
+   "captured_success": {
+      "message": "成功"
+   },
+   "captured_upgrade_features_list": {
+      "message": "獲得高級功能以進行註釋，更好地打印和保存，編輯，上傳，發送到電子郵件或OneNote或導出到另一個程序"
+   },
+   "captured_upgrade_link_1": {
+      "message": "擷取，加入註解，以更好的方式列印和儲存，編輯，上傳，傳送至電子郵件 / OneNote 中，或者匯出到另一個程式。"
+   },
+   "captured_upgrade_link_2": {
+      "message": "升級到 FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "我原本使用的是另一個版本的 FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "我可以找回它嗎？"
+   },
+   "collapse": {
+      "message": "坍塌"
+   },
+   "enable_checkbox": {
+      "message": "啟用"
+   },
+   "history_banner_line1": {
+      "message": "要繼續，請透過從歷史記錄中刪除不必要的捕獲來釋放一些空間。"
+   },
+   "history_banner_line2": {
+      "message": "為了您的方便，FireShot 預先選擇了對減少儲存大小影響最顯著的項目。"
+   },
+   "history_banner_title": {
+      "message": "儲存大小已超出其配額。"
+   },
+   "history_btn_delete_selected": {
+      "message": "刪除所選"
+   },
+   "history_button_select_all": {
+      "message": "全選/取消全選"
+   },
+   "history_clear_filter_button": {
+      "message": "清除過濾器"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "刪除選定的項目？您無法撤銷此操作。"
+   },
+   "history_filter_text": {
+      "message": "篩選"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite 提供過去 7 天的歷史記錄。 FireShot Pro 中提供了完整的歷史記錄。"
+   },
+   "infinite_mode_warning": {
+      "message": "檢測到無限滾動模式。需要時停止 FireShot。"
+   },
+   "label_processing": {
+      "message": "處理中..."
+   },
+   "label_start": {
+      "message": "開始"
+   },
+   "label_total": {
+      "message": "總"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "您真的要停用此瀏覽器的許可證嗎？"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "許可信息"
+   },
+   "licensing_popup_registered_to": {
+      "message": "登記在"
+   },
+   "licensing_popup_remove_key": {
+      "message": "從此瀏覽器中刪除許可證"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "允許無限滾動頁面"
+   },
+   "options_api_hint": {
+      "message": "使用 JavaScript 啟動並配置 FireShot。"
+   },
+   "options_button_apply": {
+      "message": "套用"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "配置 PDF 保存選項"
+   },
+   "options_button_save_close": {
+      "message": "儲存並關閉"
+   },
+   "options_button_setup": {
+      "message": "點選以設定"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "“捕獲所有選項卡”命令僅捕獲頁面的可見部分"
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "允許抓取頁面的最長時間："
+   },
+   "options_history_confirm_erase": {
+      "message": "請確認刪除歷史記錄。您無法復原此操作。"
+   },
+   "options_history_delete_all": {
+      "message": "移除所有歷史紀錄..."
+   },
+   "options_label_and": {
+      "message": "和"
+   },
+   "options_label_capturing": {
+      "message": "擷取"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "儲存後關閉分頁"
+   },
+   "options_label_customize_saving": {
+      "message": "自訂儲存程序"
+   },
+   "options_label_default_filename_template": {
+      "message": "預設檔案命名方式："
+   },
+   "options_label_default_folder": {
+      "message": "預設輸出資料夾"
+   },
+   "options_label_default_folder_hint": {
+      "message": "以「下載」資料夾為起點、用於存放檔案的相對路徑，可能包含子目錄。\n絕對路徑、空路徑、含指向上層«..»的路徑會導致錯誤。"
+   },
+   "options_label_editor_options": {
+      "message": "編輯器選項"
+   },
+   "options_label_enable_context_menu": {
+      "message": "將 FireShot 加入快顯功能表"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "當 FireShot 發生故障時，自動報告錯誤以協助改善 FireShot。"
+   },
+   "options_label_enable_google_analytics": {
+      "message": "向 Google Analytics 發送匿名使用數據以幫助改進 FireShot"
+   },
+   "options_label_file_saving": {
+      "message": "保存"
+   },
+   "options_label_file_settings": {
+      "message": "檔案設定"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot 選項"
+   },
+   "options_label_history": {
+      "message": "歷史"
+   },
+   "options_label_hotkey": {
+      "message": "快捷鍵"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "最後使用的功能"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "不顯示「另存新檔」對話框"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "儲存後開啟資料夾以顯示下載的檔案"
+   },
+   "options_label_pdf_settings": {
+      "message": "PDF 設置"
+   },
+   "options_label_save_image_as": {
+      "message": "圖片另存為："
+   },
+   "options_label_specify_editor_options": {
+      "message": "指定編輯器和儲存的選項、檔案命名的偏好、樣式等"
+   },
+   "options_label_specify_hotkey": {
+      "message": "指定用於啟動 FireShot 的組合鍵："
+   },
+   "options_label_specify_resizing_options": {
+      "message": "指定大小調整選項和音效。"
+   },
+   "options_label_template_day": {
+      "message": "日"
+   },
+   "options_label_template_hour": {
+      "message": "時"
+   },
+   "options_label_template_limit_1": {
+      "message": "檔名長度上限"
+   },
+   "options_label_template_limit_2": {
+      "message": "字元"
+   },
+   "options_label_template_minutes": {
+      "message": "分"
+   },
+   "options_label_template_month": {
+      "message": "月"
+   },
+   "options_label_template_pad_1": {
+      "message": "數字左端補"
+   },
+   "options_label_template_pad_2": {
+      "message": "個零"
+   },
+   "options_label_template_seconds": {
+      "message": "秒"
+   },
+   "options_label_template_title": {
+      "message": "頁面標題"
+   },
+   "options_label_template_url": {
+      "message": "頁面URL"
+   },
+   "options_label_template_website": {
+      "message": "域名"
+   },
+   "options_label_template_year": {
+      "message": "年"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "FireShot 更新時通知我。"
+   },
+   "options_link_filename_template_settings": {
+      "message": "顯示檔案命名方式設定..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "隱藏檔案命名方式設定..."
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "打開源選項卡旁邊的屏幕截圖選項卡"
+   },
+   "options_option_history_180": {
+      "message": "6個月"
+   },
+   "options_option_history_30": {
+      "message": "30天"
+   },
+   "options_option_history_365": {
+      "message": "年"
+   },
+   "options_option_history_7": {
+      "message": "周"
+   },
+   "options_option_history_90": {
+      "message": "3個月"
+   },
+   "options_option_history_all": {
+      "message": "永遠"
+   },
+   "options_page_delay_screenshot": {
+      "message": "截圖前的延遲："
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "啟動 FireShot 時按住 Alt 鍵即可啟動此模式。"
+   },
+   "options_page_scrolling_speed": {
+      "message": "更改頁面滾動速度："
+   },
+   "options_retain_history": {
+      "message": "在歷史記錄中儲存捕獲的螢幕截圖的時間"
+   },
+   "pdf_dialog_align": {
+      "message": "對齊"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "背景顏色"
+   },
+   "pdf_dialog_bottom": {
+      "message": "底部"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "底部中心"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "左下方"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "右下角"
+   },
+   "pdf_dialog_cancel": {
+      "message": "取消"
+   },
+   "pdf_dialog_center": {
+      "message": "中央"
+   },
+   "pdf_dialog_centered": {
+      "message": "居中"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "點擊配置模板"
+   },
+   "pdf_dialog_color": {
+      "message": "顏色"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "配置模板"
+   },
+   "pdf_dialog_confirm": {
+      "message": "確認"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "創建可選擇文本和可搜索的 PDF"
+   },
+   "pdf_dialog_defaults": {
+      "message": "恢復默認值"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "啟用智能分頁符"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "啟用網頁鏈接"
+   },
+   "pdf_dialog_extras": {
+      "message": "附加功能"
+   },
+   "pdf_dialog_font": {
+      "message": "字形"
+   },
+   "pdf_dialog_footers": {
+      "message": "頁腳"
+   },
+   "pdf_dialog_frame": {
+      "message": "幀"
+   },
+   "pdf_dialog_headers": {
+      "message": "標頭"
+   },
+   "pdf_dialog_height": {
+      "message": "高度"
+   },
+   "pdf_dialog_inches": {
+      "message": "英制"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "可以使用以下預定義值（單擊以插入）"
+   },
+   "pdf_dialog_left": {
+      "message": "剩下"
+   },
+   "pdf_dialog_margin": {
+      "message": "餘量"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "以像素為單位的邊距"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "中左"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "中右"
+   },
+   "pdf_dialog_month_name": {
+      "message": "月份名稱"
+   },
+   "pdf_dialog_opacity": {
+      "message": "不透明度"
+   },
+   "pdf_dialog_orientation": {
+      "message": "取向"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "景觀"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "肖像"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF 頁碼"
+   },
+   "pdf_dialog_page_size": {
+      "message": "頁面大小"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "汽車"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "自定義寬度和高度"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "自定義寬度"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "分頁選項"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "選擇"
+   },
+   "pdf_dialog_placement": {
+      "message": "放置"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "請指定模板"
+   },
+   "pdf_dialog_position": {
+      "message": "位置"
+   },
+   "pdf_dialog_right": {
+      "message": "對"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "截圖高度"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "屏幕截圖寬度"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "設置頁腳模板"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "設置頁腳樣式"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "設置標題模板"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "設置標題樣式"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "設置水印模板"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "設置水印樣式"
+   },
+   "pdf_dialog_size": {
+      "message": "尺寸"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "指定字體樣式"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "將長屏幕截圖拆分為頁面"
+   },
+   "pdf_dialog_style": {
+      "message": "樣式"
+   },
+   "pdf_dialog_template": {
+      "message": "模板"
+   },
+   "pdf_dialog_text": {
+      "message": "文本"
+   },
+   "pdf_dialog_top": {
+      "message": "最佳"
+   },
+   "pdf_dialog_top_center": {
+      "message": "頂級中心"
+   },
+   "pdf_dialog_top_left": {
+      "message": "左上方"
+   },
+   "pdf_dialog_top_right": {
+      "message": "右上"
+   },
+   "pdf_dialog_units": {
+      "message": "單位"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "水印"
+   },
+   "pdf_dialog_weekday": {
+      "message": "平日"
+   },
+   "pdf_dialog_width": {
+      "message": "寬度"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "頁面大小將設置為完全適合捕獲。"
+   },
+   "pdf_page_size_warning_2": {
+      "message": "頁面高度將設置為完全適合捕獲。"
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "頁面寬度將設置為完全適合頁面，頁面高度將根據 A4 格式比例設置。"
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "如果生成的文檔包含 2 頁，並且最後一頁為 50% 或更多，則這些頁面將被合併在一起。"
+   },
+   "popup_action_required": {
+      "message": "需要採取的行動"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 秒"
+   },
+   "popup_label_30_seconds": {
+      "message": "30秒"
+   },
+   "popup_label_5_seconds": {
+      "message": "5秒"
+   },
+   "popup_label_60_seconds": {
+      "message": "60秒"
+   },
+   "popup_label_additional_options": {
+      "message": "其他選項"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "為此任務創建一個單獨的文件夾"
+   },
+   "popup_label_do_not_wait": {
+      "message": "不要等"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "選擇如何保存捕獲"
+   },
+   "popup_label_long_batch": {
+      "message": "對於長期任務，請確保您的計算機不會休眠 - 這會中斷任務。"
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "等待頁面加載的最長時間"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "Lite 版本僅限於捕獲頁面的可見部分。"
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "覆蓋滾動速度"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "完成後顯示文件夾中的文件"
+   },
+   "popup_label_specify_mode": {
+      "message": "指定模式"
+   },
+   "popup_label_specify_urls": {
+      "message": "指定要捕獲的 URL"
+   },
+   "popup_label_unlimited": {
+      "message": "不限"
+   },
+   "popup_label_when_loaded": {
+      "message": "加載後，等待它完全呈現"
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "學到更多"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "為了提供更好的捕捉體驗，FireShot 需要額外的權限。"
+   },
+   "popup_tabs_permission_line2": {
+      "message": "默認忽略這個抓取這個頁面的請求是可以的，但是有些頁面元素可能抓取錯誤。"
+   },
+   "popup_tabs_permission_line3": {
+      "message": "為什麼 FireShot 要求額外的權限以及它如何影響您的體驗。"
+   },
+   "promo_enable_history": {
+      "message": "訪問歷史記錄"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "按住 $key$ 以捕捉特定的 HTML 元素。",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "按住 $key$ 並按下此區域以完全捕獲此元素",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "點擊以捕獲從該點到頁面末尾的內容"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "點擊以捕獲從頁面開始到此時的內容"
+   },
+   "selection_hint": {
+      "message": "暗示："
+   },
+   "selection_scroll_and_capture": {
+      "message": "滾動捕獲："
+   },
+   "title_suppress_warning": {
+      "message": "將此警告禁止顯示 10 天"
+   },
+   "void": {
+      "message": ""
+   }
+}

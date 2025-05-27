@@ -1,0 +1,57 @@
+{
+   "black": {
+      "message": "Sort"
+   },
+   "blue": {
+      "message": "Blå"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "Genindlæs"
+   },
+   "buttonDesign": {
+      "message": "Knappens design"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "Knappens højde i pixel"
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "Knappens bredde i pixel"
+   },
+   "close": {
+      "message": "Luk"
+   },
+   "colors": {
+      "message": "Farver"
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "green": {
+      "message": "Grøn"
+   },
+   "grey": {
+      "message": "Grå"
+   },
+   "orange": {
+      "message": "Orange"
+   },
+   "pink": {
+      "message": "Lyserød"
+   },
+   "red": {
+      "message": "Rød"
+   },
+   "save": {
+      "message": "Gem"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "Translated by \u003Ca href=\"https://www.transifex.com/user/profile/Roslund/\" target=\"_blank\" id=\"translatorLink\">Torben Roslund\u003C/a>"
+   },
+   "yellow": {
+      "message": "Gul"
+   }
+}

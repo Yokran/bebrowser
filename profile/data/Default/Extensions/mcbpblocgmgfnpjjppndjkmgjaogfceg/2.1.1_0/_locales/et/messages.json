@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Teave..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Hõiva brauseri aken ja"
+   },
+   "action_capture_entire": {
+      "message": "Hõiva kogu leht ja"
+   },
+   "action_capture_entire_lite": {
+      "message": "Hõiva kogu leht"
+   },
+   "action_capture_selection": {
+      "message": "Hõiva valik / element ja"
+   },
+   "action_capture_selection_lite": {
+      "message": "Hõiva valik"
+   },
+   "action_capture_tabs": {
+      "message": "Hõiva kõik vahekaardid ja"
+   },
+   "action_capture_visible": {
+      "message": "Hõiva nähtav osa ja"
+   },
+   "action_capture_visible_lite": {
+      "message": "Hõiva nähtav osa"
+   },
+   "action_copy": {
+      "message": "Kopeeri lõikelauale"
+   },
+   "action_edit": {
+      "message": "Redigeeri"
+   },
+   "action_email": {
+      "message": "E-post"
+   },
+   "action_enter_license": {
+      "message": "Sisesta litsentsi info"
+   },
+   "action_external": {
+      "message": "Ava välises redaktoris"
+   },
+   "action_install_native": {
+      "message": "Proovi edasijõudnute funktsioone"
+   },
+   "action_license_info": {
+      "message": "Litsentseerimise info..."
+   },
+   "action_micsellaneous": {
+      "message": "Mitmesugust"
+   },
+   "action_onenote": {
+      "message": "Saada OneNote'i"
+   },
+   "action_open_clipboard": {
+      "message": "Ava lõikelaualt"
+   },
+   "action_open_file": {
+      "message": "Ava fail"
+   },
+   "action_options": {
+      "message": "Suvandid"
+   },
+   "action_print": {
+      "message": "Prindi"
+   },
+   "action_register": {
+      "message": "Registreeru"
+   },
+   "action_resume": {
+      "message": "Jätka redigeerimist"
+   },
+   "action_save": {
+      "message": "Salvesta"
+   },
+   "action_save_pdf": {
+      "message": "Salvesta kui PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Salvesta kui üksik PDF"
+   },
+   "action_support": {
+      "message": "Tugi"
+   },
+   "action_switch_pro": {
+      "message": "Vaheta Pro'ks"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Jätkamiseks aktiveeri Pro funktsioonid..."
+   },
+   "action_upload": {
+      "message": "Laadi üles"
+   },
+   "action_view_demo": {
+      "message": "Vaata demot"
+   },
+   "application_description": {
+      "message": "Tee TERVEST veebilehest kuvatõmmised. Hõiva, muuda ja salvesta need PDF/JPEG/GIF/PNG formaati, laadi üles, prindi, saada OneNote'i, lõikelauale või meilile."
+   },
+   "application_title": {
+      "message": "Tee Veebilehest Täielikud Kuvatõmmised - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Osta Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopeeri lõikelauale"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Õpi kuidas..."
+   },
+   "captured_get_free_button": {
+      "message": "Proovi tasuta"
+   },
+   "captured_print": {
+      "message": "Prindi"
+   },
+   "captured_print_button": {
+      "message": "Prindi"
+   },
+   "captured_recommend_us": {
+      "message": "Soovita FireShot'ti"
+   },
+   "captured_save_as_image": {
+      "message": "Salvesta pildina"
+   },
+   "captured_save_as_image_button": {
+      "message": "Salvesta pildina"
+   },
+   "captured_save_as_pdf": {
+      "message": "Salvesta PDF-ks"
+   },
+   "captured_save_panel_title": {
+      "message": "Salvesta kuvatõmmis"
+   },
+   "captured_saving_options": {
+      "message": "kohanda"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Häälesta kiirklahvid ja faili sätted..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Hõiva, lisa märkmeid, prindi ja salvesta paremini, redigeeri, laadi üles, saada meilile / OneNote'i või ekspordi teise programmi."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Täienda FireShot Pro'ks"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Kasutasin teist FireShot'i versiooni"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Kas saaksin selle tagasi?"
+   },
+   "enable_checkbox": {
+      "message": "Luba"
+   },
+   "options_button_apply": {
+      "message": "Rakenda"
+   },
+   "options_button_save_close": {
+      "message": "Salvesta ja sule"
+   },
+   "options_button_setup": {
+      "message": "Vajuta häälestamiseks"
+   },
+   "options_label_and": {
+      "message": "ja"
+   },
+   "options_label_capturing": {
+      "message": "Hõivamine"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Sulge vahekaart pärast salvestamist"
+   },
+   "options_label_customize_saving": {
+      "message": "Kohanda salvestusprotsessi"
+   },
+   "options_label_default_filename_template": {
+      "message": "Failinime vaikimisi mall:"
+   },
+   "options_label_default_folder": {
+      "message": "Vaikimisi väljundkaust"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Failitee, mis on seotud allalaaditavate failide kataloogiga, sisaldab salvestatud faili, mis võib sisaldada alamkatalooge. Absoluutteed, tühjad teed ja Back-viiteid sisaldavad teed \"..\" põhjustavad tõrke."
+   },
+   "options_label_editor_options": {
+      "message": "Toimetaja valikud"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integreeri FireShot kontekstmenüüsse"
+   },
+   "options_label_file_settings": {
+      "message": "Faili sätted"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot suvandid"
+   },
+   "options_label_hotkey": {
+      "message": "Kiirklahvid"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Viimati kasutatud tegevus"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Ära näita \"Salvesta kui\" dialoogiakent"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Näita allalaaditud faili selle kaustas pärast salvestamist "
+   },
+   "options_label_save_image_as": {
+      "message": "Salvesta pilt kui:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Määratle redaktori ja salvestamise valikud, faili nime eelistused, stiilid jne."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Määra FireShot'i käivitamise klahvikombinatsioon:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Määratle suuruse muutmise valikud ja helid."
+   },
+   "options_label_template_day": {
+      "message": "Päev"
+   },
+   "options_label_template_hour": {
+      "message": "Tund"
+   },
+   "options_label_template_limit_1": {
+      "message": "Piira failinime pikkus"
+   },
+   "options_label_template_limit_2": {
+      "message": "tähemärgiga"
+   },
+   "options_label_template_minutes": {
+      "message": "Minutid"
+   },
+   "options_label_template_month": {
+      "message": "Kuu"
+   },
+   "options_label_template_pad_1": {
+      "message": "??????"
+   },
+   "options_label_template_pad_2": {
+      "message": "nullid"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekundid"
+   },
+   "options_label_template_title": {
+      "message": "Lehekülje pealkiri"
+   },
+   "options_label_template_url": {
+      "message": "Lehekülje URL"
+   },
+   "options_label_template_website": {
+      "message": "Domeeni nimi"
+   },
+   "options_label_template_year": {
+      "message": "Aasta"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Näita failinime malli sätteid..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Peida failinime malli sätted..."
+   }
+}

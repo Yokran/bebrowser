@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "Om..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "Optag en liste over URL'er"
+   },
+   "action_capture_browser": {
+      "message": "Marker browser vindue og"
+   },
+   "action_capture_entire": {
+      "message": "Marker hele siden og"
+   },
+   "action_capture_entire_lite": {
+      "message": "Marker hele siden"
+   },
+   "action_capture_selection": {
+      "message": "Marker udsnit / del og"
+   },
+   "action_capture_selection_lite": {
+      "message": "Marker udsnit"
+   },
+   "action_capture_stop": {
+      "message": "Stop med at fange"
+   },
+   "action_capture_stop_short": {
+      "message": "Stop"
+   },
+   "action_capture_tabs": {
+      "message": "Marker alle faner og"
+   },
+   "action_capture_visible": {
+      "message": "Marker synlig del og"
+   },
+   "action_capture_visible_lite": {
+      "message": "Marker synlig del"
+   },
+   "action_copy": {
+      "message": "Kopier til skrivebord"
+   },
+   "action_edit": {
+      "message": "Rediger"
+   },
+   "action_email": {
+      "message": "E-Mail"
+   },
+   "action_enter_license": {
+      "message": "Skriv licens information"
+   },
+   "action_external": {
+      "message": "Åben i ekstern editor"
+   },
+   "action_install_native": {
+      "message": "Prøv avancerede muligheder"
+   },
+   "action_license_info": {
+      "message": "Licens information..."
+   },
+   "action_micsellaneous": {
+      "message": "Diverse"
+   },
+   "action_ok": {
+      "message": "OK"
+   },
+   "action_onenote": {
+      "message": "Send til OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Åben fra skrivebord"
+   },
+   "action_open_file": {
+      "message": "Åben fil"
+   },
+   "action_options": {
+      "message": "Muligheder"
+   },
+   "action_print": {
+      "message": "Print"
+   },
+   "action_register": {
+      "message": "Tilmeld"
+   },
+   "action_resume": {
+      "message": "Genoptag redigering"
+   },
+   "action_save": {
+      "message": "Gem"
+   },
+   "action_save_pdf": {
+      "message": "Gem som PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Gem som en PDF"
+   },
+   "action_show": {
+      "message": "Vis..."
+   },
+   "action_support": {
+      "message": "Hjælp"
+   },
+   "action_switch_pro": {
+      "message": "Skift til Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktiver Pro indstillinger for at fortsætte..."
+   },
+   "action_upload": {
+      "message": "Upload"
+   },
+   "action_view_demo": {
+      "message": "Se demo"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "Tak for tilladelserne! Vi vil behandle dem med omhu."
+   },
+   "application_description": {
+      "message": "Tag fuldstændige webside skærmbilleder. Capture, edit og gem dem som PDF/JPEG/GIF/PNG, upload, print, send til OneNote, klippebord og email "
+   },
+   "application_title": {
+      "message": "Tag fuldstændige skærmbillede med FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "FireShot batch-tilstand"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "side med side med hætter"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "venter på, at siden bliver gengivet..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "Næste side"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "Afbryde opgave"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "På"
+   },
+   "button_dismiss": {
+      "message": "Forstået"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "Livsvarig licens og 30 dages pengene tilbage garanti"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "Køb FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "Avancerede optagelsesfunktioner"
+   },
+   "captured_ads_feature_2": {
+      "message": "Rediger skærmbilleder"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "PDF-filer, der kan søges i tekst,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "overskrifter og sidefødder"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "sammenligne FireShot Lite og FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "flere premium-funktioner"
+   },
+   "captured_ads_title": {
+      "message": "Fjern annoncer"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "Bliv PRO og bidrag aktivt til udviklingen"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "af denne udvidelse"
+   },
+   "captured_beta_disabled": {
+      "message": "Tak. Alle beta-funktioner er blevet deaktiveret."
+   },
+   "captured_button_continue": {
+      "message": "Blive ved"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Gratis prøveperiode på 10 dage"
+   },
+   "captured_button_no_credit_card": {
+      "message": "Intet kreditkort kræves"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "Jeg kan ikke lide det"
+   },
+   "captured_button_rate_later": {
+      "message": "Måske senere"
+   },
+   "captured_button_rate_like": {
+      "message": "jeg kan lide det"
+   },
+   "captured_buy_pro_button": {
+      "message": "Køb Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "Du kan til enhver tid skifte tilbage til Lite."
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Brugerdefineret sidestørrelse"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Direkte links"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Deaktiver valg af tekst"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Opdel til sider"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "Tekst-søgbar"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopier til skrivebord"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Lær hvordan"
+   },
+   "captured_error_pdf": {
+      "message": "Beklager, der opstod en uventet fejl under oprettelsen af PDF"
+   },
+   "captured_exit_beta_program": {
+      "message": "Afslut Insider-programmet"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Følg instruktionerne for at installere avancerede funktioner"
+   },
+   "captured_get_free_button": {
+      "message": "Prøv det gratis"
+   },
+   "captured_how_to_copy": {
+      "message": "Sådan kopierer du et skærmbillede til udklipsholderen"
+   },
+   "captured_information": {
+      "message": "Information"
+   },
+   "captured_label_actions": {
+      "message": "Foranstaltninger"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "Visning af avancerede funktioner"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Denne side kan indfanges bedre med de avancerede funktioner, der er installeret."
+   },
+   "captured_label_limited_functionality": {
+      "message": "Kun en lille del af denne side kan gemmes på grund af browserbegrænsninger. Du kan bruge FireShot Pro til at gemme hele siden til PDF."
+   },
+   "captured_label_new": {
+      "message": "Ny"
+   },
+   "captured_label_participate_beta": {
+      "message": "Tilmeld dig FireShot Pro Insider-programmet"
+   },
+   "captured_label_progress_sign": {
+      "message": "Næsten klar"
+   },
+   "captured_label_remove_adv": {
+      "message": "Fjern reklame"
+   },
+   "captured_label_try_enchancements": {
+      "message": "I testperioden tilbyder vi det GRATIS. Prøv følgende forbedringer"
+   },
+   "captured_label_using_beta_version": {
+      "message": "Du bruger Insider-versionen af FireShot Pro-funktionerne: avancerede skærmbilledefunktioner og PDF-funktioner (sideopsætning, overskrifter/fodnoter/vandmærker, direkte links og søgbar tekst)."
+   },
+   "captured_li_1": {
+      "message": "Opret PDF-filer, der kan søges i tekst med direkte links"
+   },
+   "captured_li_2": {
+      "message": "Tilføj brugerdefinerede overskrifter, sidefødder og vandmærker"
+   },
+   "captured_li_3": {
+      "message": "Tilpas sidestørrelse, muligheder for flere sider"
+   },
+   "captured_li_4": {
+      "message": "Avanceret opsamling: komplekst indhold, valg af objekt"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Få FireShot til"
+   },
+   "captured_link_read_more": {
+      "message": "Læs mere"
+   },
+   "captured_link_report_problem": {
+      "message": "Rapporter problem"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "Se vilkår og betingelser"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Opgrader til Pro for at aktivere ekstramateriale"
+   },
+   "captured_print": {
+      "message": "Print"
+   },
+   "captured_print_button": {
+      "message": "Print"
+   },
+   "captured_purchase_license": {
+      "message": "Køb licens"
+   },
+   "captured_rate_button": {
+      "message": "Bedøm FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "FireShot-udvikling tager meget personlig tid"
+   },
+   "captured_rate_line2": {
+      "message": "Den tid kunne bruges på familie eller hvile"
+   },
+   "captured_rate_line3": {
+      "message": "Som en påskønnelse af vores indsats, ville du være så venlig at bedømme FireShot?"
+   },
+   "captured_rate_line4": {
+      "message": "Dette ville hjælpe folk med at opdage FireShot hurtigere"
+   },
+   "captured_rate_question": {
+      "message": "Kan du venligst dele med os, hvad enten du kan lide FireShot eller ej?"
+   },
+   "captured_recommend_us": {
+      "message": "Anbefal FireShot"
+   },
+   "captured_report_problem": {
+      "message": "Rapportere problem"
+   },
+   "captured_save_as_image": {
+      "message": "Gem som billede"
+   },
+   "captured_save_as_image_button": {
+      "message": "Gem som billede"
+   },
+   "captured_save_as_pdf": {
+      "message": "Gem som PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Gem skærmbillede"
+   },
+   "captured_saving_options": {
+      "message": "tilpas det"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Opsæt filnavnskabelon ..."
+   },
+   "captured_step1_right_click": {
+      "message": "Højreklik på billedet"
+   },
+   "captured_step2_copy": {
+      "message": "Vælg \"Kopier billede\" fra popup-menuen"
+   },
+   "captured_success": {
+      "message": "Succes"
+   },
+   "captured_upgrade_features_list": {
+      "message": "få avancerede funktioner til at kommentere, udskrive og gemme bedre, redigere, uploade, sende til e-mail eller OneNote eller eksportere til et andet program"
+   },
+   "captured_upgrade_link_1": {
+      "message": "Fange, mærke, print og gem bedre, rediger, upload, send til E-mail / OneNote eller eksporter til andet program."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Upgrader til FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Jeg brugte en anden version af FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Kan jeg få det tilbage?"
+   },
+   "collapse": {
+      "message": "Sammenbrud"
+   },
+   "enable_checkbox": {
+      "message": "Gøre det muligt"
+   },
+   "history_banner_line1": {
+      "message": "For at fortsætte skal du frigøre lidt plads ved at fjerne unødvendige optagelser fra historikken."
+   },
+   "history_banner_line2": {
+      "message": "For at gøre det nemmere for dig har FireShot udvalgt de ting, der vil have størst betydning for at reducere lagerets størrelse."
+   },
+   "history_banner_title": {
+      "message": "Lagerstørrelsen har overskredet sin kvote."
+   },
+   "history_btn_delete_selected": {
+      "message": "Slet det valgte"
+   },
+   "history_button_select_all": {
+      "message": "Vælg/fravælg alle"
+   },
+   "history_clear_filter_button": {
+      "message": "Ryd filter"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "Slette valgte elementer? Du kan ikke fortryde denne handling."
+   },
+   "history_filter_text": {
+      "message": "Filter"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite giver historik for de sidste 7 dage. Fuld historik er tilgængelig i FireShot Pro."
+   },
+   "infinite_mode_warning": {
+      "message": "Uendelig rulningstilstand er registreret. Stop FireShot, når det er nødvendigt."
+   },
+   "label_processing": {
+      "message": "Behandling..."
+   },
+   "label_start": {
+      "message": "Start"
+   },
+   "label_total": {
+      "message": "i alt"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "Ønsker du virkelig at deaktivere licensen for denne browser?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "Oplysninger om licensering"
+   },
+   "licensing_popup_registered_to": {
+      "message": "Registreret til"
+   },
+   "licensing_popup_remove_key": {
+      "message": "Fjern licens fra denne browser"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Tillad uendelige rulle sider"
+   },
+   "options_api_hint": {
+      "message": "Start og konfigurer FireShot ved hjælp af JavaScript."
+   },
+   "options_button_apply": {
+      "message": "Tilføj"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "Konfigurer indstillinger for lagring af PDF-filer"
+   },
+   "options_button_save_close": {
+      "message": "Gem og luk"
+   },
+   "options_button_setup": {
+      "message": "Klik for start"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "Kommandoen \"Optag alle faner\" optager kun den synlige del af siden"
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "Maksimal tid tilladt for at hente en side:"
+   },
+   "options_history_confirm_erase": {
+      "message": "Bekræft venligst sletning af historik. Du kan ikke fortryde denne handling."
+   },
+   "options_history_delete_all": {
+      "message": "Slet al historik..."
+   },
+   "options_label_and": {
+      "message": "og"
+   },
+   "options_label_capturing": {
+      "message": "Marker"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Luk fane efter gemning"
+   },
+   "options_label_customize_saving": {
+      "message": "Tilpas gemme muligheder"
+   },
+   "options_label_default_filename_template": {
+      "message": "Standard filnavn skabelon"
+   },
+   "options_label_default_folder": {
+      "message": "Standard opbevarings folder"
+   },
+   "options_label_default_folder_hint": {
+      "message": "En filsti i forhold til downloads-biblioteket, der indeholder den gemte fil, muligvis indeholdende undermapper. Absolutte stier, tomme stier og stier, der indeholder tilbage henvisninger \"..\" vil forårsage en fejl."
+   },
+   "options_label_editor_options": {
+      "message": "Redigerings muligheder"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integrer FireShot i genvejsmenu"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "Når FireShot er i stykker, skal du automatisk rapportere fejl for at hjælpe med at forbedre FireShot."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "Send anonyme brugsdata til Google Analytics for at hjælpe med at forbedre FireShot"
+   },
+   "options_label_file_saving": {
+      "message": "Lagring"
+   },
+   "options_label_file_settings": {
+      "message": "Fil indstillinger"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot muligheder"
+   },
+   "options_label_history": {
+      "message": "Historie"
+   },
+   "options_label_hotkey": {
+      "message": "Hotkeys"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Sidst udførte handling"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Vis ikke \"Gem som\" dialogen"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Vis gemte filer i dets folder efter at være gemt"
+   },
+   "options_label_pdf_settings": {
+      "message": "PDF-indstillinger"
+   },
+   "options_label_save_image_as": {
+      "message": "Gem billede som"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Specificere redigerings- og gemmeindstillinger, præferencer for filnavngivning, stilarter, mv."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Specificer genvejs kombinationer til at starte FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Specificer størrelses muligheder og lyde. "
+   },
+   "options_label_template_day": {
+      "message": "Dag"
+   },
+   "options_label_template_hour": {
+      "message": "Time"
+   },
+   "options_label_template_limit_1": {
+      "message": "Begrænset filnavns længde til"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakterer"
+   },
+   "options_label_template_minutes": {
+      "message": "Minutter"
+   },
+   "options_label_template_month": {
+      "message": "Måned"
+   },
+   "options_label_template_pad_1": {
+      "message": "Pad nummer med"
+   },
+   "options_label_template_pad_2": {
+      "message": "nuller"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekunder"
+   },
+   "options_label_template_title": {
+      "message": "Side titel"
+   },
+   "options_label_template_url": {
+      "message": "Side URL"
+   },
+   "options_label_template_website": {
+      "message": "Domæne navn"
+   },
+   "options_label_template_year": {
+      "message": "År"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "Giv mig besked, når FireShot er opdateret."
+   },
+   "options_link_filename_template_settings": {
+      "message": "Vis skabelonindstillinger for filnavn"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Skjul indstillinger for filnavnsskabelon"
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "Åbn fanen Skærmbilleder ved siden af fanen Kilde"
+   },
+   "options_option_history_180": {
+      "message": "6 måneder"
+   },
+   "options_option_history_30": {
+      "message": "30 dage"
+   },
+   "options_option_history_365": {
+      "message": "År"
+   },
+   "options_option_history_7": {
+      "message": "Uge"
+   },
+   "options_option_history_90": {
+      "message": "3 måneder"
+   },
+   "options_option_history_all": {
+      "message": "For altid"
+   },
+   "options_page_delay_screenshot": {
+      "message": "Forsinkelse før optagelse af skærmbillede:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "Aktivér denne tilstand ved at holde Alt-tasten nede, når du starter FireShot."
+   },
+   "options_page_scrolling_speed": {
+      "message": "Skift siderullehastighed:"
+   },
+   "options_retain_history": {
+      "message": "Periode til at gemme optagne skærmbilleder i historikken"
+   },
+   "pdf_dialog_align": {
+      "message": "Juster"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "Baggrundsfarve"
+   },
+   "pdf_dialog_bottom": {
+      "message": "Nederst"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "Nederste center"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "Nederst til venstre"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "Nederst til højre"
+   },
+   "pdf_dialog_cancel": {
+      "message": "Annuller"
+   },
+   "pdf_dialog_center": {
+      "message": "Center"
+   },
+   "pdf_dialog_centered": {
+      "message": "Centreret"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "Klik for at konfigurere skabelon"
+   },
+   "pdf_dialog_color": {
+      "message": "Farve"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "Konfigurer skabelon"
+   },
+   "pdf_dialog_confirm": {
+      "message": "Bekræft"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "Opret PDF-filer, der kan vælges og søges i tekst"
+   },
+   "pdf_dialog_defaults": {
+      "message": "Gendan til standardindstillingerne"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "Aktiver smarte sideafbrydelser"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "Aktiver weblinks"
+   },
+   "pdf_dialog_extras": {
+      "message": "Ekstraudstyr"
+   },
+   "pdf_dialog_font": {
+      "message": "Skrifttype"
+   },
+   "pdf_dialog_footers": {
+      "message": "Footers"
+   },
+   "pdf_dialog_frame": {
+      "message": "Ramme"
+   },
+   "pdf_dialog_headers": {
+      "message": "Overskrifter"
+   },
+   "pdf_dialog_height": {
+      "message": "Højde"
+   },
+   "pdf_dialog_inches": {
+      "message": "Tommer"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "Følgende foruddefinerede værdier kan anvendes (klik for at indsætte)"
+   },
+   "pdf_dialog_left": {
+      "message": "Venstre"
+   },
+   "pdf_dialog_margin": {
+      "message": "Margin"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "Margen i pixel"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "Midt til venstre"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "Midt til højre"
+   },
+   "pdf_dialog_month_name": {
+      "message": "Månedens navn"
+   },
+   "pdf_dialog_opacity": {
+      "message": "Opacitet"
+   },
+   "pdf_dialog_orientation": {
+      "message": "Orientering"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "Landskab"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "Portræt"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF-sidetal"
+   },
+   "pdf_dialog_page_size": {
+      "message": "Sidestørrelse"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "Auto"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "Brugerdefineret bredde og højde"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "Brugerdefineret bredde"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "Muligheder for personsøgning"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "Vælg"
+   },
+   "pdf_dialog_placement": {
+      "message": "Placering"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "Angiv venligst skabelon"
+   },
+   "pdf_dialog_position": {
+      "message": "Position"
+   },
+   "pdf_dialog_right": {
+      "message": "Højre"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "skærmbillede Højde"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "skærmbillede Bredde"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "Opsætning af skabelon til sidefod"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "Opsætning af stil til sidefod"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "Opsætning af skabelon til overskrift"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "Opsætning af overskriftsstil"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "Opsætning af skabelon til vandmærke"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "Opsætning af vandmærkestil"
+   },
+   "pdf_dialog_size": {
+      "message": "Størrelse"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "Angiv skrifttypestil"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "Opdele lange skærmbilleder til sider"
+   },
+   "pdf_dialog_style": {
+      "message": "Stil"
+   },
+   "pdf_dialog_template": {
+      "message": "Skabelon"
+   },
+   "pdf_dialog_text": {
+      "message": "Tekst"
+   },
+   "pdf_dialog_top": {
+      "message": "Top"
+   },
+   "pdf_dialog_top_center": {
+      "message": "Top Center"
+   },
+   "pdf_dialog_top_left": {
+      "message": "Øverst til venstre"
+   },
+   "pdf_dialog_top_right": {
+      "message": "Øverst til højre"
+   },
+   "pdf_dialog_units": {
+      "message": "enheder"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "Vandmærker"
+   },
+   "pdf_dialog_weekday": {
+      "message": "Hverdag"
+   },
+   "pdf_dialog_width": {
+      "message": "Bredde"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "Sidestørrelsen indstilles, så den passer helt til optagelsen."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "Sidehøjden indstilles, så den passer helt til optagelsen."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "Sidebredden indstilles, så den passer til hele siden, og sidehøjden indstilles i overensstemmelse med A4-formatforholdet."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "Hvis det resulterende dokument består af 2 sider, og den sidste side er 50 % tom eller mere, vil siderne blive samlet."
+   },
+   "popup_action_required": {
+      "message": "Nødvendige foranstaltninger"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 sekunder"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 sekunder"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 sekunder"
+   },
+   "popup_label_60_seconds": {
+      "message": "60 sekunder"
+   },
+   "popup_label_additional_options": {
+      "message": "Yderligere muligheder"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "Opret en separat mappe til denne opgave"
+   },
+   "popup_label_do_not_wait": {
+      "message": "Du må ikke vente"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "Vælg, hvordan du vil gemme optagelser"
+   },
+   "popup_label_long_batch": {
+      "message": "Ved længerevarende opgaver skal du sørge for, at din computer ikke falder i søvn - det afbryder opgaven."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "Maksimal ventetid, indtil siden er indlæst"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "Lite-versionen er begrænset til kun at registrere en synlig del af siderne."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "Overskrive rullehastighed"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "Vis filer i mappen efter afslutning"
+   },
+   "popup_label_specify_mode": {
+      "message": "Angiv tilstand"
+   },
+   "popup_label_specify_urls": {
+      "message": "Angiv URL'er, der skal opfanges"
+   },
+   "popup_label_unlimited": {
+      "message": "Ikke begrænset"
+   },
+   "popup_label_when_loaded": {
+      "message": "Når den er indlæst, skal du vente på, at den bliver gengivet fuldstændigt"
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "Få mere at vide"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "FireShot har brug for yderligere tilladelser for at give en bedre oplevelse ved optagelse af billeder."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "Det er i orden at ignorere denne anmodning om at registrere denne side som standard, men nogle sideelementer kan blive registreret forkert."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "hvorfor FireShot beder om yderligere tilladelser, og hvordan det påvirker din oplevelse."
+   },
+   "promo_enable_history": {
+      "message": "Få adgang til historien"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "Hold $key$ for at fange et specifikt HTML-element.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "Hold $key$ og klik på dette område for at fange dette element helt",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "Klik for at fange fra dette punkt til slutningen af siden"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "Klik for at fange fra starten af siden til dette punkt"
+   },
+   "selection_hint": {
+      "message": "TIP:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "Optag med rulning:"
+   },
+   "title_suppress_warning": {
+      "message": "Undertrykker denne advarsel i 10 dage"
+   },
+   "void": {
+      "message": ""
+   }
+}

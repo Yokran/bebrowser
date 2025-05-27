@@ -1,0 +1,232 @@
+{
+   "already_have_a_token": {
+      "message": "Already have a token?"
+   },
+   "basic": {
+      "message": "Basic"
+   },
+   "basic_profile_desc": {
+      "message": "Basic profile including id, profile picture, username, full name, verified status."
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "chrome_extension_description": {
+      "message": "Growman enables you to extract Emails from IG based on followers/followings, locations, and hashtags."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG Email Extractor"
+   },
+   "click_here": {
+      "message": "Click here"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "continue": {
+      "message": "CONTINUE"
+   },
+   "continue_button": {
+      "message": "CONTINUE"
+   },
+   "continue_from_history": {
+      "message": "Would you like to continue from where it left off?"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "detailed": {
+      "message": "Detailed"
+   },
+   "detailed_profile_desc": {
+      "message": "Detailed profile including bio, follower count, Email address, etc."
+   },
+   "eg_username": {
+      "message": "e.g tottori or https://www.instagram.com/tottori/"
+   },
+   "export_followers_of": {
+      "message": "Extract followers of"
+   },
+   "export_followings_of": {
+      "message": "Extract followings of"
+   },
+   "export_to_excel": {
+      "message": "EXPORT $count$ $type$S TO Excel",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "EXPORTING..."
+   },
+   "exporting_status": {
+      "message": "Exporting"
+   },
+   "extract": {
+      "message": "Extract"
+   },
+   "extract_by_hashtag": {
+      "message": "Extract by hashtag"
+   },
+   "extract_by_location": {
+      "message": "Extract by location"
+   },
+   "feature_detailed_profile": {
+      "message": "Detailed profiles"
+   },
+   "feature_export_followers": {
+      "message": "Export follower list"
+   },
+   "feature_export_followings": {
+      "message": "Export following list"
+   },
+   "feature_free_amount": {
+      "message": "Export up to 500 profiles"
+   },
+   "feature_unlimited_export": {
+      "message": "Unlimited export"
+   },
+   "feature_unsubscribe": {
+      "message": "Unsubscribe any time with ease"
+   },
+   "followers_label": {
+      "message": "followers"
+   },
+   "following_label": {
+      "message": "following"
+   },
+   "found_extraction_from": {
+      "message": "Found a saved extraction from"
+   },
+   "free": {
+      "message": "Free"
+   },
+   "go": {
+      "message": "GO"
+   },
+   "hashtag_placeholder": {
+      "message": "Enter a Hashtag here. e.g. hypercars"
+   },
+   "history": {
+      "message": "Extraction history"
+   },
+   "history_found": {
+      "message": "History Found"
+   },
+   "history_notice": {
+      "message": "The extension saves progress of recent extractions. All history data is stored locally and will be lost if you uninstall the extension."
+   },
+   "interval_risk_notice": {
+      "message": "Longer interval reduces the risk of being detected by Instagram"
+   },
+   "invalid_location_url": {
+      "message": "Invalid location URL"
+   },
+   "invalid_token_format": {
+      "message": "Invalid Token format"
+   },
+   "items_extracted": {
+      "message": "items extracted"
+   },
+   "limit_max_number": {
+      "message": "Limit Max extract No."
+   },
+   "location_example": {
+      "message": "E.g. https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "Paste location URL here"
+   },
+   "me": {
+      "message": "Me"
+   },
+   "my_token": {
+      "message": "My token:"
+   },
+   "no_history": {
+      "message": "There is no extraction history yet."
+   },
+   "not_public": {
+      "message": "Not public"
+   },
+   "paste_your_token": {
+      "message": "Paste your token here"
+   },
+   "pause_button": {
+      "message": "PAUSE"
+   },
+   "please_sign_in": {
+      "message": "Please sign in Instagram and try again."
+   },
+   "posts_label": {
+      "message": "posts"
+   },
+   "private": {
+      "message": "Private"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "PRO user"
+   },
+   "profile": {
+      "message": "profile"
+   },
+   "progress": {
+      "message": "Progress: "
+   },
+   "required": {
+      "message": "Required"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "start_new": {
+      "message": "Start new"
+   },
+   "subscription_canceled": {
+      "message": "Your subscription has been successfully canceled, and there will be no future renewals. The PRO features for the current billing cycle remain unaffected."
+   },
+   "target": {
+      "message": "Target: "
+   },
+   "to_unsubscribe": {
+      "message": "to unsubscribe."
+   },
+   "type": {
+      "message": "Type: "
+   },
+   "unsubscribe_confirm_content": {
+      "message": "After unsubscribing, your account will not auto-renew in the next billing cycle. Your Pro features will remain active until the end of the current billing period."
+   },
+   "unsubscribe_confirm_no": {
+      "message": "Cancel"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "Confirm Unsubscribe"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "Confirm"
+   },
+   "upgrade_to_pro": {
+      "message": "UPGRADE TO PRO"
+   },
+   "upgrade_to_pro_button": {
+      "message": "UPGRADE to PRO"
+   },
+   "verified": {
+      "message": "Verified"
+   },
+   "wait_interval": {
+      "message": "Wait interval"
+   },
+   "wait_interval_seconds": {
+      "message": "Wait interval (seconds)"
+   }
+}

@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Коригирайте настройките си, за да подобрите изживяването си."
+   },
+   "affected_page": {
+      "message": "Засегната страница"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly може да бъде блокиран от друг плъгин, който сте инсталирали, като блокер на реклами. Моля, временно деактивирайте другите си плъгини и опитайте да създадете PDF отново."
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "capture_screenshot_manually": {
+      "message": "Използвайте нашата функция за екранна снимка, за да заснемете тази страница и след това да я експортирате като изображение или PDF."
+   },
+   "capturing": {
+      "message": "Заснемане"
+   },
+   "capturing_desc": {
+      "message": "Заснемане на вашия екран…"
+   },
+   "choose_paper_size": {
+      "message": "Изберете предпочитания от вас размер на хартията за PDF файлове."
+   },
+   "compress_pdf": {
+      "message": "Компресиране на PDF"
+   },
+   "contact_us": {
+      "message": "Свържете се с нас:"
+   },
+   "convert_pdf": {
+      "message": "Конвертиране на PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Екранна снимка"
+   },
+   "default_button": {
+      "message": "Бутон по подразбиране"
+   },
+   "default_mode": {
+      "message": "Режим по подразбиране"
+   },
+   "default_mode_checkbox": {
+      "message": "Не показвайте тези опции отново. Активирайте ги от Настройки."
+   },
+   "default_mode_desc": {
+      "message": "Изберете действието, което автоматично се избира при кликване върху бутона."
+   },
+   "delete": {
+      "message": "Натисни за да изтриеш"
+   },
+   "dialog_close": {
+      "message": "Затвори"
+   },
+   "dialog_text": {
+      "message": "Изпратено към принтера."
+   },
+   "dialog_text_btn": {
+      "message": "изпрати отново"
+   },
+   "dialog_title": {
+      "message": "Разпечатване ан страницата"
+   },
+   "dont_show_again": {
+      "message": "Не показвай това отново."
+   },
+   "edit_pdf": {
+      "message": "Редактиране на PDF"
+   },
+   "email": {
+      "message": "Изпрати"
+   },
+   "email_article_sent": {
+      "message": "ви изпраща публикация"
+   },
+   "email_from": {
+      "message": "От"
+   },
+   "email_message": {
+      "message": "Съобщение"
+   },
+   "email_product_sent_message": {
+      "message": "Писмото беше изпратено. Може да затворите страницата"
+   },
+   "email_send": {
+      "message": "Изпрати"
+   },
+   "email_sent_message": {
+      "message": "Писмото беше изпратено"
+   },
+   "email_title": {
+      "message": "Изпрати по ел.поща"
+   },
+   "email_to": {
+      "message": "До"
+   },
+   "full_page_screenshot": {
+      "message": "Екран страница"
+   },
+   "get_pro": {
+      "message": "Подобряване на"
+   },
+   "got_it": {
+      "message": "Разбрах"
+   },
+   "image": {
+      "message": "Снимка"
+   },
+   "image_size_pref": {
+      "message": "Предпочитание за размер на изображението"
+   },
+   "image_size_pref_desc": {
+      "message": "Задайте размера на изображенията при преглед на страници с разширението."
+   },
+   "images": {
+      "message": "снимки"
+   },
+   "lang_display_name": {
+      "message": "Български (Bulgarian)"
+   },
+   "language_setting": {
+      "message": "Език"
+   },
+   "language_setting_desc": {
+      "message": "Моля, изберете предпочитания от вас език."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Вход"
+   },
+   "margin": {
+      "message": "марж"
+   },
+   "no": {
+      "message": "Не"
+   },
+   "off": {
+      "message": "Изключено"
+   },
+   "other_tools": {
+      "message": "Инструменти"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Тази страница блокира PrintFriendly"
+   },
+   "page_size": {
+      "message": "Размер на страница"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Изтегли като PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Грешка при генериране на PDF"
+   },
+   "pdf_head": {
+      "message": "Генериране на PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Размер на хартията за PDF"
+   },
+   "print": {
+      "message": "Печат"
+   },
+   "print_pdf": {
+      "message": "Печат & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Премахнете реклами и навигация от страниците. Подходящо за статии и текст."
+   },
+   "printer_friendly_page": {
+      "message": "Страница"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Версията за печат не е това"
+   },
+   "printfriendly_page": {
+      "message": "Страница PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Тази функция изисква надграждане"
+   },
+   "reach_out_for_support": {
+      "message": "За повече подробности или поддръжка, моля, свържете се с нас на"
+   },
+   "read_more": {
+      "message": "Прочети още"
+   },
+   "remove_ads_description": {
+      "message": "Премахване на реклами и навигация от уеб страници. Работи добре със статии и страници"
+   },
+   "remove_images": {
+      "message": "Премахни снимките"
+   },
+   "report": {
+      "message": "Доклад"
+   },
+   "resolve_issue": {
+      "message": "и ние ще ви помогнем да разрешите проблема."
+   },
+   "save_as_image": {
+      "message": "Запазване като изображение"
+   },
+   "save_as_pdf": {
+      "message": "Запазване като PDF"
+   },
+   "save_changes": {
+      "message": "Запази"
+   },
+   "screenshot": {
+      "message": "Екранна снимка"
+   },
+   "screenshot_image_format": {
+      "message": "Формат на изображението на екранната снимка"
+   },
+   "screenshot_ready_soon": {
+      "message": "Вашата екранна снимка ще бъде готова след момент."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly работи на повечето уебсайтове, което прави лесно създаването на по-чисти, удобни за печат страници и екранни снимки. Въпреки това, определени страници - като настройки на браузъра, магазини за разширения и други ограничени зони - са извън граници поради политики на браузъра. Моля, свържете се с нас, ако имате някакви въпроси."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "settings_saved": {
+      "message": "Вашите настройки бяха запазени."
+   },
+   "show_screenshot_message": {
+      "message": "Показване на съобщението за екранна снимка в изгледа за печат"
+   },
+   "something_went_wrong": {
+      "message": "Нещо се обърка"
+   },
+   "still_does_not_work": {
+      "message": "Ако това все още не работи, моля свържете се с нас на"
+   },
+   "stop_capturing": {
+      "message": "Спиране на заснемането"
+   },
+   "strict_security_settings": {
+      "message": "Съжаляваме, но тази страница има строги настройки за сигурност (Политика за сигурност на съдържанието), които ни пречат да създадем версия PrintFriendly на страницата."
+   },
+   "style": {
+      "message": "Стил"
+   },
+   "take_screenshot": {
+      "message": "Направете екранна снимка:"
+   },
+   "text_size_pref": {
+      "message": "Предпочитание за размер на текста"
+   },
+   "text_size_pref_desc": {
+      "message": "Задайте размера на текста при преглед на страници с разширението."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly може да е изтекъл срокът за създаване на PDF. Може да е било твърде голямо за нашата система, за да се справи с него."
+   },
+   "txt_size": {
+      "message": "Размер на текст"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Не успяхме да генерираме PDF за тази страница."
+   },
+   "undo": {
+      "message": "Отказ"
+   },
+   "what_you_can_do": {
+      "message": "Какво можете да направите"
+   },
+   "yes": {
+      "message": "Да"
+   }
+}

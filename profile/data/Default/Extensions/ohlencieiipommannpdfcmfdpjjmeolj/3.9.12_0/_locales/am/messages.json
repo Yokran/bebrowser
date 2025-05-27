@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "የእርስዎን ተሞክሮ ለማሻሻል ቅንብሮችዎን ያስተካክሉ።"
+   },
+   "affected_page": {
+      "message": "ተጎድቷል ገጽ"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly በእርስዎ የጫኑት እንደ ማስታወቂያ መከላከያ ማሳያ ሌላ እተክን ተቋርጦ ሊሆን ይችላል። እባክዎን እርስዎ ሌሎች እተክኖች በጊዜያዊነት አስቆሙ እና እንደገና የ PDF ፍጠራ ይሞክሩ።"
+   },
+   "cancel": {
+      "message": "ሰርዝ"
+   },
+   "capture_screenshot_manually": {
+      "message": "ይህንን ገፅ ለማሰቆም Screenshot ባለቤታችንን ተጠቀም ከዚያም ወደ ምስል ወይም PDF ላይ ላክ።"
+   },
+   "capturing": {
+      "message": "በመቅረጽ ላይ"
+   },
+   "capturing_desc": {
+      "message": "ስክሪንሹት እየተዘጋጀ ነው…"
+   },
+   "choose_paper_size": {
+      "message": "ለ PDF የሚመርጡትን የወረቀት መጠን ይምረጡ።"
+   },
+   "compress_pdf": {
+      "message": "PDF አሰቀምጥ"
+   },
+   "contact_us": {
+      "message": "ያግኙን፡"
+   },
+   "convert_pdf": {
+      "message": "PDF ቀይር"
+   },
+   "current_view_screenshot": {
+      "message": "አሁን እይታ ስክሪንሹት"
+   },
+   "default_button": {
+      "message": "ነባሪ ቁልፍ"
+   },
+   "default_mode": {
+      "message": "ነባሪ ሁነታ"
+   },
+   "default_mode_checkbox": {
+      "message": "እነዚህን አማራጮች አታሳዩ። በሴቲንግስ ገጽ እንደገና ማገኘት ይችላሉ።"
+   },
+   "default_mode_desc": {
+      "message": "ያንን እርምጃ ይምረጡ የሚናወጣውን አዝራር ሲጫኑ ምን እንደሚሰጠው በራስሰር ምርጫ።"
+   },
+   "delete": {
+      "message": "ለመሰረዝ ጠቅ ያድርጉ"
+   },
+   "dialog_close": {
+      "message": "ዝጋ"
+   },
+   "dialog_text": {
+      "message": "ወደ አታሚዎ በመላክ ላይ።"
+   },
+   "dialog_text_btn": {
+      "message": "እንደገና ላክ"
+   },
+   "dialog_title": {
+      "message": "ገጽህን በማተም ላይ"
+   },
+   "dont_show_again": {
+      "message": "ይህን እንደገና አታሳይ።"
+   },
+   "edit_pdf": {
+      "message": "PDF አስተካክል"
+   },
+   "email": {
+      "message": "ኢሜይል"
+   },
+   "email_article_sent": {
+      "message": "መጣጥፍ ልኮልዎታል"
+   },
+   "email_from": {
+      "message": "ከ"
+   },
+   "email_message": {
+      "message": "መልእክት"
+   },
+   "email_product_sent_message": {
+      "message": "የኢሜይል መልእክትዎ ተልኳል። ገጹን መዝጋት ይችላሉ።"
+   },
+   "email_send": {
+      "message": "ላክ"
+   },
+   "email_sent_message": {
+      "message": "የእርስዎ የኢሜይል መልእክት ተልኳል"
+   },
+   "email_title": {
+      "message": "ይህን ገጽ በኢሜይል ይላኩ"
+   },
+   "email_to": {
+      "message": "ወደ"
+   },
+   "full_page_screenshot": {
+      "message": "እርካታ ስክሪንሹት"
+   },
+   "get_pro": {
+      "message": "ፕሮ ያግኙ"
+   },
+   "got_it": {
+      "message": "ገባኝ"
+   },
+   "image": {
+      "message": "ምስል"
+   },
+   "image_size_pref": {
+      "message": "የምስል መጠን ተምሳሌት"
+   },
+   "image_size_pref_desc": {
+      "message": "በኤክስቴንሽኑ ገጾችን ሲመለከቱ የምስል መጠን ያዘጋጁ።"
+   },
+   "images": {
+      "message": "ምስሎች"
+   },
+   "lang_display_name": {
+      "message": "አማርኛ (Amharic)"
+   },
+   "language_setting": {
+      "message": "አማርኛ"
+   },
+   "language_setting_desc": {
+      "message": "እባክዎን የተመረጠውን ቋንቋ ይምረጡ።"
+   },
+   "letter_paper_size": {
+      "message": "ደብዳቤ"
+   },
+   "login": {
+      "message": "ግባ"
+   },
+   "margin": {
+      "message": "ህዳግ"
+   },
+   "no": {
+      "message": "አይ"
+   },
+   "off": {
+      "message": "ከርስ"
+   },
+   "other_tools": {
+      "message": "መሳሪያዎች"
+   },
+   "page_blocking_printfriendly": {
+      "message": "ይህ ገጽ PrintFriendlyን እያገደ ነው"
+   },
+   "page_size": {
+      "message": "የገጽ መጠን"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "የእርስዎን PDF ያውርዱ"
+   },
+   "pdf_generation_error": {
+      "message": "የPDF ማመንጨት ስህተት"
+   },
+   "pdf_head": {
+      "message": "የእርስዎን PDF በማመንጨት ላይ"
+   },
+   "pdf_paper_size": {
+      "message": "የ PDF ወረቀት መጠን"
+   },
+   "print": {
+      "message": "ኣትም"
+   },
+   "print_pdf": {
+      "message": "ኣትምና PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "ማስታወቂያና አሰሳ ያስወግዱ። ጽሁፍ ገፆች ተገቢ ነው።"
+   },
+   "printer_friendly_page": {
+      "message": "ለአታሚ ምቹ ገጽ"
+   },
+   "printer_friendly_suggestion": {
+      "message": "ለአታሚ ምቹ ሆኖ ያገኙት አይደለም? ስክሪንሾት ለማድረግ ይሞክሩ።"
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly ገፅ"
+   },
+   "pro_alert": {
+      "message": "የፕሮ ባህርይ"
+   },
+   "reach_out_for_support": {
+      "message": "ለተጨማሪ ዝርዝሮች ወይም ድጋፍ፣ እባክዎን በ ያግኙን"
+   },
+   "read_more": {
+      "message": "ተጨማሪ ያንብቡ"
+   },
+   "remove_ads_description": {
+      "message": "ማስታወቂያዎችንና የድር ገጾችን ዳሰሳ ያስወግዱ። ከጽሑፎችና በጽሑፍ ላይ ያተኮሩ ገጾች ጋር ጥሩ ይሰራል።"
+   },
+   "remove_images": {
+      "message": "ምስሎችን አስወግድ"
+   },
+   "report": {
+      "message": "ሪፖርት"
+   },
+   "resolve_issue": {
+      "message": "እና ችግሩን እንዲፈትላችሁ እንረዳችሁ።"
+   },
+   "save_as_image": {
+      "message": "እንደ ምስል አስቀምጥ"
+   },
+   "save_as_pdf": {
+      "message": "እንደ PDF አስቀምጥ"
+   },
+   "save_changes": {
+      "message": "መዝግብ"
+   },
+   "screenshot": {
+      "message": "ስክሪንሾት"
+   },
+   "screenshot_image_format": {
+      "message": "የስክሪንሾት ምስል ቅርጸት"
+   },
+   "screenshot_ready_soon": {
+      "message": "የእርስዎ ስክሪንሾት በቅርብ ጊዜ ዝግጁ ይሆናል።"
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly በአብዛኛው ድህረገፆች ላይ ይሰራል፣ ያለ ጭቃ እና ለመተቀም የተሰማራ ገጾችን እና እርምጃ ቅስቀሶችን ለመፍጠር ቀላል ያደርጋል። ግን፣ የአሳሽ የፖሊሲ ምክንያት ሆኖ፣ እንደ የአሳሽ ቅንብሮች፣ ማሳያ መድረኮች እና ሌሎች የተገደቡ አካባቢዎች ያሉ አንዳንድ ገጾች ከዳር ውጪ ናቸው። አንዳንድ ጥያቄዎች ካሉህ እባኮትን ያግኙን።"
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "settings_saved": {
+      "message": "ቅንብሮችዎ ተቀመጡ።"
+   },
+   "show_screenshot_message": {
+      "message": "የማይቀረውን መልክት በህጹን ማቅረቢያ እይታ አሳይ"
+   },
+   "something_went_wrong": {
+      "message": "አንድ ነገር ተሳስቷል"
+   },
+   "still_does_not_work": {
+      "message": "እንደገና ካልሰራ እባክዎን በ"
+   },
+   "stop_capturing": {
+      "message": "መቅረጹን አቁም"
+   },
+   "strict_security_settings": {
+      "message": "እናንተን እናምላለን፣ ነገር ግን ይህ ገጽ ከባድ የደህንነት ቅንብሮች (የይዘት ደህንነት ፖሊሲ) አለው፣ ይህም የገጹን PrintFriendly እትም ማሳደርን ይከለክላል።"
+   },
+   "style": {
+      "message": "ስタイል"
+   },
+   "take_screenshot": {
+      "message": "ቅጽበታዊ ምስል ይውሰዱ፡"
+   },
+   "text_size_pref": {
+      "message": "የጽሑፍ መጠን ተምሳሌት"
+   },
+   "text_size_pref_desc": {
+      "message": "በኤክስቴንሽኑ ገጾችን ሲመለከቱ የጽሑፍ መጠን ያዘጋጁ።"
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly ሲፍጠር በ PDF ላይ ጊዜ ሊያልፍ እንደነበር ይችላል። ለስርዓታችን ማስተዋቀል ስለተሻለ ሊሆን ይችላል።"
+   },
+   "txt_size": {
+      "message": "የጽሑፍ መጠን"
+   },
+   "unable_to_generate_pdf": {
+      "message": "እኛ ለዚህ ገጽ PDF ማፍጠር አልቻልንም።"
+   },
+   "undo": {
+      "message": "ውጤት"
+   },
+   "what_you_can_do": {
+      "message": "የሚያደርጉት ነገር"
+   },
+   "yes": {
+      "message": "አዎ"
+   }
+}

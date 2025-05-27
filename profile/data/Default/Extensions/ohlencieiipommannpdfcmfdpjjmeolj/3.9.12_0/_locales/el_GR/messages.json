@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Προσαρμόστε τις ρυθμίσεις σας για να βελτιώσετε την εμπειρία σας."
+   },
+   "affected_page": {
+      "message": "Επηρεαζόμενη σελίδα"
+   },
+   "blocked_by_extension": {
+      "message": "Το PrintFriendly ενδέχεται να έχει αποκλειστεί από άλλη επέκταση που έχετε εγκαταστήσει, όπως ένα πρόγραμμα αποκλεισμού διαφημίσεων. Απενεργοποιήστε προσωρινά τις άλλες επεκτάσεις και δοκιμάστε να δημιουργήσετε ξανά ένα PDF."
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "capture_screenshot_manually": {
+      "message": "Χρησιμοποιήστε τη δυνατότητα Screenshot μας για να καταγράψετε αυτήν τη σελίδα και στη συνέχεια να την εξάγετε ως εικόνα ή PDF."
+   },
+   "capturing": {
+      "message": "Καταγραφή"
+   },
+   "capturing_desc": {
+      "message": "Λαμβάνεται το στιγμιότυπό σας…"
+   },
+   "choose_paper_size": {
+      "message": "Επιλέξτε το προτιμώμενο μέγεθος χαρτιού για PDF."
+   },
+   "compress_pdf": {
+      "message": "Συμπίεση PDF"
+   },
+   "contact_us": {
+      "message": "Επικοινωνήστε μαζί μας:"
+   },
+   "convert_pdf": {
+      "message": "Μετατροπή PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Στιγμιότυπο προβολής"
+   },
+   "default_button": {
+      "message": "Προεπιλεγμένο κουμπί"
+   },
+   "default_mode": {
+      "message": "Προεπιλεγμένη λειτουργία"
+   },
+   "default_mode_checkbox": {
+      "message": "Μην εμφανίζετε αυτές τις επιλογές ξανά. Ενεργοποιήστε τις στις Ρυθμίσεις."
+   },
+   "default_mode_desc": {
+      "message": "Επιλέξτε την ενέργεια που θα επιλέγεται αυτόματα με το πάτημα του κουμπιού."
+   },
+   "delete": {
+      "message": "Διαγραφή"
+   },
+   "dialog_close": {
+      "message": "Κλείσιμο"
+   },
+   "dialog_text": {
+      "message": "Αποστολή στον εκτυπωτή σας"
+   },
+   "dialog_text_btn": {
+      "message": "Επανάληψη αποστολής"
+   },
+   "dialog_title": {
+      "message": "Εκτύπωση της σελίδας σας"
+   },
+   "dont_show_again": {
+      "message": "Μην το εμφανίσεις ξανά."
+   },
+   "edit_pdf": {
+      "message": "Επεξεργασία PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "Σας έστειλε ένα άρθρο"
+   },
+   "email_from": {
+      "message": "Από"
+   },
+   "email_message": {
+      "message": "Μήνυμα"
+   },
+   "email_product_sent_message": {
+      "message": "Το μήνυμα email έχει αποσταλεί. Μπορείτε να κλείσετε τη σελίδα"
+   },
+   "email_send": {
+      "message": "Αποστολή"
+   },
+   "email_sent_message": {
+      "message": "Το μήνυμα email σας έχει αποσταλεί"
+   },
+   "email_title": {
+      "message": "Αποστολή αυτής της σελίδας"
+   },
+   "email_to": {
+      "message": "Προς"
+   },
+   "full_page_screenshot": {
+      "message": "Στιγμιότυπο σελίδας"
+   },
+   "get_pro": {
+      "message": "Αποκτήστε την επαγγελματική έκδοση"
+   },
+   "got_it": {
+      "message": "Κατάλαβα"
+   },
+   "image": {
+      "message": "Εικόνα"
+   },
+   "image_size_pref": {
+      "message": "Προτίμηση μεγέθους εικόνας"
+   },
+   "image_size_pref_desc": {
+      "message": "Ρυθμίστε το μέγεθος των εικόνων κατά την προβολή σελίδων με την επέκταση."
+   },
+   "images": {
+      "message": "Εικόνες"
+   },
+   "lang_display_name": {
+      "message": "Ελληνικά (Greek - Greece)"
+   },
+   "language_setting": {
+      "message": "Γλώσσα"
+   },
+   "language_setting_desc": {
+      "message": "Επιλέξτε την προτιμώμενη γλώσσα σας."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Σύνδεση"
+   },
+   "margin": {
+      "message": "Περιθώριο"
+   },
+   "no": {
+      "message": "Όχι"
+   },
+   "off": {
+      "message": "Απενεργοποίηση"
+   },
+   "other_tools": {
+      "message": "Εργαλεία"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Αυτή η σελίδα μπλοκάρει το PrintFriendly"
+   },
+   "page_size": {
+      "message": "Μέγεθος σελίδας"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Λήψη του PDF σας"
+   },
+   "pdf_generation_error": {
+      "message": "Σφάλμα δημιουργίας PDF"
+   },
+   "pdf_head": {
+      "message": "Δημιουργία του PDF σας"
+   },
+   "pdf_paper_size": {
+      "message": "Μέγεθος χαρτιού PDF"
+   },
+   "print": {
+      "message": "Εκτύπωση"
+   },
+   "print_pdf": {
+      "message": "Εκτύπωση & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Αφαιρέστε διαφημίσεις και πλοήγηση. Ιδανικό για άρθρα και κείμενα."
+   },
+   "printer_friendly_page": {
+      "message": "Σελίδα φιλική προς εκτύπωση"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Η έκδοση φιλική προς εκτύπωση δεν είναι αυτό που περιμένατε; Δοκιμάστε να κάνετε ένα στιγμιότυπο οθόνης."
+   },
+   "printfriendly_page": {
+      "message": "Σελίδα PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Δυνατότητα επαγγελματικής έκδοσης"
+   },
+   "reach_out_for_support": {
+      "message": "Για περισσότερες λεπτομέρειες ή υποστήριξη, παρακαλούμε επικοινωνήστε μαζί μας στο"
+   },
+   "read_more": {
+      "message": "Διαβάστε περισσότερα"
+   },
+   "remove_ads_description": {
+      "message": "Αφαίρεση διαφημίσεων και πλοήγησης από ιστοσελίδες. Λειτουργεί καλά με άρθρα και σελίδες που εστιάζουν στο κείμενο."
+   },
+   "remove_images": {
+      "message": "Αφαίρεση εικόνων"
+   },
+   "report": {
+      "message": "Αναφορά"
+   },
+   "resolve_issue": {
+      "message": "και θα σας βοηθήσουμε να επιλύσετε το πρόβλημα."
+   },
+   "save_as_image": {
+      "message": "Αποθήκευση ως εικόνα"
+   },
+   "save_as_pdf": {
+      "message": "Αποθήκευση ως PDF"
+   },
+   "save_changes": {
+      "message": "Αποθήκευση"
+   },
+   "screenshot": {
+      "message": "Στιγμιότυπο οθόνης"
+   },
+   "screenshot_image_format": {
+      "message": "Μορφή εικόνας στιγμιότυπου οθόνης"
+   },
+   "screenshot_ready_soon": {
+      "message": "Το στιγμιότυπο οθόνης σας θα είναι έτοιμο σε λίγο."
+   },
+   "screenshot_restriction_message": {
+      "message": "Το PrintFriendly λειτουργεί στα περισσότερα ιστοσελίδες, καθιστώντας εύκολη τη δημιουργία καθαρότερων, φιλικών για εκτύπωση σελίδων και στιγμιότυπων οθόνης. Ωστόσο, ορισμένες σελίδες—όπως ρυθμίσεις περιηγητή, καταστήματα επεκτάσεων και άλλες περιορισμένες περιοχές—είναι εκτός ορίων λόγω των πολιτικών περιηγητή. Παρακαλώ επικοινωνήστε μαζί μας αν έχετε οποιαδήποτε απορία."
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "settings_saved": {
+      "message": "Οι ρυθμίσεις σας αποθηκεύτηκαν."
+   },
+   "show_screenshot_message": {
+      "message": "Εμφάνιση μηνύματος στιγμιότυπου οθόνης στη φιλική προς εκτύπωση προβολή"
+   },
+   "something_went_wrong": {
+      "message": "Κάτι πήγε στραβά"
+   },
+   "still_does_not_work": {
+      "message": "Εάν εξακολουθεί να μην λειτουργεί, επικοινωνήστε μαζί μας στο"
+   },
+   "stop_capturing": {
+      "message": "Διακοπή καταγραφής"
+   },
+   "strict_security_settings": {
+      "message": "Λυπούμαστε, αλλά αυτή η σελίδα έχει αυστηρές ρυθμίσεις ασφαλείας (Πολιτική Ασφάλειας Περιεχομένου) που μας εμποδίζουν να δημιουργήσουμε μια έκδοση PrintFriendly της σελίδας."
+   },
+   "style": {
+      "message": "Στυλ"
+   },
+   "take_screenshot": {
+      "message": "Λήψη στιγμιότυπου οθόνης:"
+   },
+   "text_size_pref": {
+      "message": "Προτίμηση μεγέθους κειμένου"
+   },
+   "text_size_pref_desc": {
+      "message": "Ρυθμίστε το μέγεθος του κειμένου κατά την προβολή σελίδων με την επέκταση."
+   },
+   "timed_out_pdf": {
+      "message": "Το PrintFriendly μπορεί να έληξε κατά τη δημιουργία του PDF. Μπορεί να ήταν πολύ μεγάλο για να το διαχειριστεί το σύστημά μας."
+   },
+   "txt_size": {
+      "message": "Μέγεθος κειμένου"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Δεν μπορέσαμε να δημιουργήσουμε PDF για αυτήν τη σελίδα."
+   },
+   "undo": {
+      "message": "Αναίρεση"
+   },
+   "what_you_can_do": {
+      "message": "Τι μπορείτε να κάνετε"
+   },
+   "yes": {
+      "message": "Ναι"
+   }
+}

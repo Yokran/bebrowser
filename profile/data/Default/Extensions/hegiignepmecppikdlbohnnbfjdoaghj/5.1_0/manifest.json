@@ -1,0 +1,34 @@
+{
+   "action": {
+   },
+   "author": "Pratik Soni",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "pratikabu-stt.css" ],
+      "js": [ "thirdparty/jquery-3.7.1.min.js", "pratikabu-stt.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Scroll to top and vice versa in a window.",
+   "homepage_url": "https://github.com/pratikabu/scrolltotop",
+   "icons": {
+      "128": "icons/pratikabu-stt-128.png",
+      "16": "icons/pratikabu-stt-16.png",
+      "48": "icons/pratikabu-stt-48-1.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDB69/47LnwA05vPL0wqaW7LYELfVJdECC/dFk9zLslykjtShVw4oSeVylCWTrG+7k/KQi5gKm9S/4C5/xuK9brQmG+8GaC290PFUywF37GEiDpqbjsDVs+E4n+kgQ/lXZLcntqN7OIDpKK6slgU1zL4krMwXoFhKL9mzJqxp92BQIDAQAB",
+   "manifest_version": 3,
+   "name": "Scroll To Top",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage", "activeTab", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "icons/*.png" ]
+   } ]
+}

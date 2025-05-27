@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 180" style="enable-background:new 0 0 288 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;}
+	.st1{fill:#FF9494;}
+	.st2{fill:#F15A24;}
+	.st3{fill:#B7FDCB;}
+	.st4{fill:#00FF00;}
+	.st5{fill:none;}
+	.st6{fill:#999999;}
+	.st7{font-family:'CourierNewPSMT';}
+	.st8{font-size:24px;}
+	.st9{opacity:0.15;fill:none;stroke:#19A9FD;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g class="st0">
+	<rect x="105" y="18.5" class="st1" width="79" height="32"/>
+	<path class="st2" d="M183.5,19v31h-78V19H183.5 M184.5,18h-80v33h80V18L184.5,18z"/>
+</g>
+<g>
+	<rect x="19" y="18.5" class="st3" width="79" height="32"/>
+	<path class="st4" d="M97.5,19v31h-78V19H97.5 M98.5,18h-80v33h80V18L98.5,18z"/>
+</g>
+<rect x="21.5" y="25" class="st5" width="253" height="142"/>
+<text transform="matrix(1 0 0 1 21.4997 39.7119)"><tspan x="0" y="0" class="st6 st7 st8">Lorem ipsum dolor </tspan><tspan x="0" y="30" class="st6 st7 st8">sit amet, consec</tspan><tspan x="228.9" y="30" class="st6 st7 st8">-</tspan><tspan x="0" y="60" class="st6 st7 st8">tetuer adipiscing </tspan><tspan x="0" y="90" class="st6 st7 st8">elit, sed diam </tspan><tspan x="0" y="120" class="st6 st7 st8">nonummy nibh eu</tspan><tspan x="214.6" y="120" class="st6 st7 st8">-</tspan></text>
+<rect class="st9" width="288" height="180"/>
+</svg>

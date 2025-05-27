@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Ajusta la configuració per millorar la teva experiència."
+   },
+   "affected_page": {
+      "message": "Pàgina afectada"
+   },
+   "blocked_by_extension": {
+      "message": "És possible que PrintFriendly hagi estat bloquejat per una altra extensió que hagis instal·lat, com un bloquejador d’anuncis. Desactiva temporalment les altres extensions i torna a intentar crear un PDF."
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "capture_screenshot_manually": {
+      "message": "Utilitza la nostra funció de captura de pantalla per capturar aquesta pàgina i després exportar-la com una imatge o un PDF."
+   },
+   "capturing": {
+      "message": "Capturant"
+   },
+   "capturing_desc": {
+      "message": "Capturant la captura…"
+   },
+   "choose_paper_size": {
+      "message": "Tria la mida de paper preferida per als PDF."
+   },
+   "compress_pdf": {
+      "message": "Comprimir PDF"
+   },
+   "contact_us": {
+      "message": "Contacta'ns:"
+   },
+   "convert_pdf": {
+      "message": "Convertir PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Captura de pantalla actual"
+   },
+   "default_button": {
+      "message": "Botó per defecte"
+   },
+   "default_mode": {
+      "message": "Mode per defecte"
+   },
+   "default_mode_checkbox": {
+      "message": "No mostreu aquestes opcions. Les podeu tornar a activar des de Configuració."
+   },
+   "default_mode_desc": {
+      "message": "Trieu l’acció que s’hauria de seleccionar automàticament quan feu clic al botó d’extensió."
+   },
+   "delete": {
+      "message": "Feu clic per eliminar"
+   },
+   "dialog_close": {
+      "message": "Tancar"
+   },
+   "dialog_text": {
+      "message": "S'està enviant a la impressora."
+   },
+   "dialog_text_btn": {
+      "message": "Torna a enviar"
+   },
+   "dialog_title": {
+      "message": "S'està imprimint la pàgina"
+   },
+   "dont_show_again": {
+      "message": "No ho tornis a mostrar."
+   },
+   "edit_pdf": {
+      "message": "Editar PDF"
+   },
+   "email": {
+      "message": "Correu"
+   },
+   "email_article_sent": {
+      "message": "us ha enviat un article"
+   },
+   "email_from": {
+      "message": "De"
+   },
+   "email_message": {
+      "message": "Missatge"
+   },
+   "email_product_sent_message": {
+      "message": "El vostre missatge de correu electrònic s'ha enviat. Podeu tancar la pàgina."
+   },
+   "email_send": {
+      "message": "Enviar"
+   },
+   "email_sent_message": {
+      "message": "S'ha enviat el vostre missatge de correu electrònic"
+   },
+   "email_title": {
+      "message": "Envia aquesta pàgina per correu electrònic"
+   },
+   "email_to": {
+      "message": "A"
+   },
+   "full_page_screenshot": {
+      "message": "Captura pàgina"
+   },
+   "get_pro": {
+      "message": "Obtenir Pro"
+   },
+   "got_it": {
+      "message": "Entès"
+   },
+   "image": {
+      "message": "Imatge"
+   },
+   "image_size_pref": {
+      "message": "Preferència de mida d’imatge"
+   },
+   "image_size_pref_desc": {
+      "message": "Establiu la mida de les imatges en visualitzar pàgines amb l’extensió."
+   },
+   "images": {
+      "message": "Imatges"
+   },
+   "lang_display_name": {
+      "message": "Català (Catalan)"
+   },
+   "language_setting": {
+      "message": "Llengua"
+   },
+   "language_setting_desc": {
+      "message": "Seleccioneu el vostre idioma preferit."
+   },
+   "letter_paper_size": {
+      "message": "Carta"
+   },
+   "login": {
+      "message": "Iniciar sessió"
+   },
+   "margin": {
+      "message": "Marge"
+   },
+   "no": {
+      "message": "No"
+   },
+   "off": {
+      "message": "Apagat"
+   },
+   "other_tools": {
+      "message": "Altres eines"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Aquesta pàgina està bloquejant PrintFriendly"
+   },
+   "page_size": {
+      "message": "Mida de la pàgina"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Baixeu el vostre PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Error en la generació del PDF"
+   },
+   "pdf_head": {
+      "message": "S'està generant el vostre PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Mida del paper PDF"
+   },
+   "print": {
+      "message": "Imprimir"
+   },
+   "print_pdf": {
+      "message": "Imprimir i PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Elimina anuncis i navegació de pàgines web. Funciona bé amb articles i pàgines de text."
+   },
+   "printer_friendly_page": {
+      "message": "প্রিন্টার-বান্ধব পৃষ্ঠা"
+   },
+   "printer_friendly_suggestion": {
+      "message": "প্রিন্টার-বান্ধব সংস্করণটি আপনার প্রত্যাশিত নয়? একটি স্ক্রিনশট নেওয়ার চেষ্টা করুন।"
+   },
+   "printfriendly_page": {
+      "message": "Pàgina PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Funció Pro"
+   },
+   "reach_out_for_support": {
+      "message": "Per a més detalls o suport, si us plau contacta'ns a"
+   },
+   "read_more": {
+      "message": "Llegir més"
+   },
+   "remove_ads_description": {
+      "message": "ওয়েব পেজ থেকে বিজ্ঞাপন এবং নেভিগেশন সরান। নিবন্ধ এবং টেক্সট-কেন্দ্রিক পৃষ্ঠাগুলির সাথে ভালভাবে কাজ করে।"
+   },
+   "remove_images": {
+      "message": "Eliminar imatges"
+   },
+   "report": {
+      "message": "Informe"
+   },
+   "resolve_issue": {
+      "message": "i us ajudarem a resoldre el problema."
+   },
+   "save_as_image": {
+      "message": "Desa com a imatge"
+   },
+   "save_as_pdf": {
+      "message": "Desa com a PDF"
+   },
+   "save_changes": {
+      "message": "Desa"
+   },
+   "screenshot": {
+      "message": "Captura de pantalla"
+   },
+   "screenshot_image_format": {
+      "message": "Format d'imatge de la captura de pantalla"
+   },
+   "screenshot_ready_soon": {
+      "message": "La captura de pantalla estarà llesta en un moment."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly funciona a la majoria de llocs web, facilitant la creació de pàgines i captures de pantalla més netes i aptes per a la impressió. Tanmateix, algunes pàgines, com la configuració del navegador, les botigues d'extensions i altres àrees restringides, estan fora dels límits a causa de les polítiques del navegador. Si tens alguna pregunta, si us plau, contacta'ns."
+   },
+   "settings": {
+      "message": "Configuració"
+   },
+   "settings_saved": {
+      "message": "La teva configuració s'ha desat."
+   },
+   "show_screenshot_message": {
+      "message": "Mostra el missatge de captura de pantalla a la vista imprimible"
+   },
+   "something_went_wrong": {
+      "message": "Alguna cosa ha anat malament"
+   },
+   "still_does_not_work": {
+      "message": "Si això encara no funciona, poseu-vos en contacte amb nosaltres a"
+   },
+   "stop_capturing": {
+      "message": "Atura la captura"
+   },
+   "strict_security_settings": {
+      "message": "Ens sap greu, però aquesta pàgina té configuracions de seguretat estrictes (Política de seguretat de contingut) que ens impedeixen crear una versió PrintFriendly de la pàgina."
+   },
+   "style": {
+      "message": "Estil"
+   },
+   "take_screenshot": {
+      "message": "Fes una captura de pantalla:"
+   },
+   "text_size_pref": {
+      "message": "Preferència de mida de text"
+   },
+   "text_size_pref_desc": {
+      "message": "Establiu la mida del text en visualitzar pàgines amb l’extensió."
+   },
+   "timed_out_pdf": {
+      "message": "És possible que PrintFriendly hagi excedit el temps límit mentre creava el PDF. Pot ser que fos massa gran perquè el nostre sistema el pugui gestionar."
+   },
+   "txt_size": {
+      "message": "Mida del text"
+   },
+   "unable_to_generate_pdf": {
+      "message": "No vam poder generar un PDF per aquesta pàgina."
+   },
+   "undo": {
+      "message": "Desfer"
+   },
+   "what_you_can_do": {
+      "message": "Què pots fer"
+   },
+   "yes": {
+      "message": "Sí"
+   }
+}

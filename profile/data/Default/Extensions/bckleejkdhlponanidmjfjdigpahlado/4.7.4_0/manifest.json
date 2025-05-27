@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "./assets/icon-128.png",
+      "default_popup": "./dist/popup/index.html"
+   },
+   "background": {
+      "service_worker": "./dist/background/index.mjs"
+   },
+   "content_scripts": [ {
+      "js": [ "dist/exportPanel/index.global.js" ],
+      "matches": [ "https://*.instagram.com/*?ext=F&cmd=export&uuid=*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Export Instagram Follower/Following/Comment/Tag/Location and Analyze.",
+   "host_permissions": [ "*://*.instagram.com/*", "*://*.listmore.info/*" ],
+   "icons": {
+      "128": "./assets/icon-128.png",
+      "16": "./assets/icon-16.png",
+      "48": "./assets/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApdvTEFMqiloH28y09X33q1Nn44olSGP1qgj7C2ozoA7Sm7mH3UYx4IAdhY3NWnbSK40jAuJINHv7w9EQaMxBsFB5VmkC4mKYEz8c3illoiBM9cHHDH+J5s+zWgJ2MYsOjHe6V7bzvwvmRpG5L8JICO/H/SejxhPvNA5OpnW1opdHzSBtUH3uzQ5OUH9F+qD+22Y45Dzi9a3f+knBL2/7GmwKDWDxS3gUZ3tloIrZgohx8btdzqIoMlZ7yXcVpL2Gel/8kGdhkwGcWyKaF7CeCtbeFUdfhG3+GjIC0csHakGqllUoF7RFF3OaqhyOEKl1sCcJbuOIvm1VZE4mTFxTWwIDAQAB",
+   "manifest_version": 3,
+   "name": "InsFo - IG follower export & analysis tool",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "./dist/options/index.html"
+   },
+   "permissions": [ "storage", "activeTab", "cookies", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.7.4",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.instagram.com/*" ],
+      "resources": [ "dist/exportPanel/style.css", "assets/*" ]
+   } ]
+}

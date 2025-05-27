@@ -1,0 +1,28 @@
+{
+   "action": {
+      "default_popup": "popup/popup.html",
+      "default_title": "Growman"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://www.instagram.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_chrome_extension_description__",
+   "differential_fingerprint": "1.d8727434225aad5a43c81c850a84d63818eae7b0ce750705327859c1ccf288fa",
+   "host_permissions": [ "https://i.instagram.com/*", "https://www.instagram.com/*", "https://*.cdninstagram.com/*", "https://*.fbcdn.net/*", "https://automatism.works/" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgy8Yi1RgK4OVn0d493wikyN3D0crgGkgJd6jpYuLenNneOO1HUrFUDflGR4ivsIhuHczOY5KP7Kjc7hTjM1/MCQUvdA/AzwesCz8w8aMGbeqskNFodMpTGiCj4ShisnzHBGIVwePp8lIdRmUrYmHEwdXDnLgC7Yaw0ZSbaZYtuqMjH6/9hvc9AysGy8+mse2GYqMw9Qt6ddSnpv3LPGuIHfG3ObtBj98hJ9IR8Zbj/uUEPlK9Dhq2XOjc5AMs55nMRopm8CgYHuCj+XN854s+ACjAdJ8geam/kQhDR5UfrEqfofTUYPzzvr6vi9WCkDwueVQou1OpW7+M+6b86DxBQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_chrome_extension_name__",
+   "permissions": [ "storage", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3.1"
+}

@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Mengenai"
+   },
+   "action_api": {
+      "message": "Antaramuka Pengaturcaraan Aplikasi (API) FireShot "
+   },
+   "action_capture_browser": {
+      "message": "Tangkap tetingkap penyemak imbas dan"
+   },
+   "action_capture_entire": {
+      "message": "Tangkap keseluruhan halaman dan"
+   },
+   "action_capture_entire_lite": {
+      "message": "Tangkap keseluruhan halaman"
+   },
+   "action_capture_selection": {
+      "message": "Tangkap pilihan / elemen dan"
+   },
+   "action_capture_selection_lite": {
+      "message": "Tangkap pilihan"
+   },
+   "action_capture_tabs": {
+      "message": "Tangkap semua tab dan"
+   },
+   "action_capture_visible": {
+      "message": "Tangkap bahagian yang dapat dilihat dan"
+   },
+   "action_capture_visible_lite": {
+      "message": "Tangkap bahagian yang dapat dilihat"
+   },
+   "action_copy": {
+      "message": "Salin ke papan klip"
+   },
+   "action_edit": {
+      "message": "Sunting"
+   },
+   "action_email": {
+      "message": "Emel"
+   },
+   "action_enter_license": {
+      "message": "Masukkan maklumat lesen"
+   },
+   "action_external": {
+      "message": "Buka dalam penyunting luar"
+   },
+   "action_install_native": {
+      "message": "Cuba ciri-ciri "
+   },
+   "action_license_info": {
+      "message": "Maklumat lessen..."
+   },
+   "action_micsellaneous": {
+      "message": "Lain-lain"
+   },
+   "action_onenote": {
+      "message": "Hantar ke OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Buka dari papan klip"
+   },
+   "action_open_file": {
+      "message": "Buka fail"
+   },
+   "action_options": {
+      "message": "Opsyen"
+   },
+   "action_print": {
+      "message": "Cetak"
+   },
+   "action_register": {
+      "message": "Daftar"
+   },
+   "action_resume": {
+      "message": "Terus menyunting"
+   },
+   "action_save": {
+      "message": "Simpan"
+   },
+   "action_save_pdf": {
+      "message": "Simpan sebagai PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Menyimpan sebagai satu fail PDF"
+   },
+   "action_support": {
+      "message": "Sokongan"
+   },
+   "action_switch_pro": {
+      "message": "Tukar ke Profesional"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktifkan ciri-ciri versi Profesional untuk meneruskan"
+   },
+   "action_upload": {
+      "message": "Muat naik"
+   },
+   "action_view_demo": {
+      "message": "Tengok demonstrasi"
+   },
+   "application_description": {
+      "message": "Tangkap skrin SELURUH halaman web. Tangkap, sunting dan simpan dalam bentuk PDF/JPEG/GIF/PNG, muat naik, cetak, hantar ke OneNote, papan klip ataupun emel"
+   },
+   "application_title": {
+      "message": "Tangkap Skrin Seluruh Halaman Web - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Beli versi Profesional"
+   },
+   "captured_copy_clipboard": {
+      "message": "Salin ke papan klip"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Belajar bagaimana..."
+   },
+   "captured_get_free_button": {
+      "message": "Cuba versi Percuma"
+   },
+   "captured_print": {
+      "message": "Cetak"
+   },
+   "captured_print_button": {
+      "message": "Cetak"
+   },
+   "captured_recommend_us": {
+      "message": "Rekomen FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Simpan sebagai"
+   },
+   "captured_save_as_image_button": {
+      "message": "Simpan sebagai Gambar"
+   },
+   "captured_save_as_pdf": {
+      "message": "Simpan sebagai PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Simpan Tangkapan Skrin"
+   },
+   "captured_saving_options": {
+      "message": "menyesuaikan ia"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Menetap kekunci pintas dan fail..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Tangkap, Menambah Nota, Cetak dan Simpan dengan lebih baik, Sunting, Muat naik, hantar ke Emel / OneNote, ataupun Eksport ke program lain."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Menaik taraf ke FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Saya mengguna versi FireShot yang lain sebelum ini"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Bolehkah saya dapatkan ia balik?"
+   },
+   "enable_checkbox": {
+      "message": "Membolehkan"
+   },
+   "options_button_apply": {
+      "message": "Mengesah"
+   },
+   "options_button_save_close": {
+      "message": "Simpan dan Tutup"
+   },
+   "options_button_setup": {
+      "message": "Tekan untuk menetapkan"
+   },
+   "options_label_and": {
+      "message": "dan"
+   },
+   "options_label_capturing": {
+      "message": "Sedang menangkap"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Tutup tab selepas simpan"
+   },
+   "options_label_customize_saving": {
+      "message": "Menyesuaikan proses penyimpanan"
+   },
+   "options_label_default_filename_template": {
+      "message": "Templat nama fail asal"
+   },
+   "options_label_default_folder": {
+      "message": "Folder asal"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Satu alamat fail berkenaan dengan direktori Muat turun untuk simpan fail, boleh mengandungi subdirektori.\nAlamat penuh, alamat kosong, dan alamat yang mengandungi rujukan belakang \u003C\u003C .. >> akan menyebabkan kesilapan."
+   },
+   "options_label_editor_options": {
+      "message": "Opsyen penyunting"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Mengintegrasikan FireShot ke dalam menu konteks"
+   },
+   "options_label_file_settings": {
+      "message": "Tetapan fail"
+   },
+   "options_label_fireshot_options": {
+      "message": "Opsyen FireShot"
+   },
+   "options_label_hotkey": {
+      "message": "Kekunci-kekunci pintas"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Aksi yang terakhir digunakan"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Jangan tunjuk kotak dialog 'Simpan sebagai'"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Tunjuk fail dalam folder selepas simpan"
+   },
+   "options_label_save_image_as": {
+      "message": "Simpan Gambar Sebagai"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Nyatakan penyunting dan opsyen menyimpan, nama fail, gaya dan sebagainya."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Nyatakan kombinasi kekunci untuk buka FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Nyatakan opsyen penukaran saiz dan bunyi"
+   },
+   "options_label_template_day": {
+      "message": "Hari"
+   },
+   "options_label_template_hour": {
+      "message": "Jam"
+   },
+   "options_label_template_limit_1": {
+      "message": "Hadkan panjang nama fail kepada"
+   },
+   "options_label_template_limit_2": {
+      "message": "huruf-huruf"
+   },
+   "options_label_template_minutes": {
+      "message": "Minit"
+   },
+   "options_label_template_month": {
+      "message": "Bulan"
+   },
+   "options_label_template_pad_1": {
+      "message": "Tambahkan nombor dengan"
+   },
+   "options_label_template_pad_2": {
+      "message": "angka sifar"
+   },
+   "options_label_template_seconds": {
+      "message": "Saat"
+   },
+   "options_label_template_title": {
+      "message": "Tajuk Halaman"
+   },
+   "options_label_template_url": {
+      "message": "Alamat Halaman"
+   },
+   "options_label_template_website": {
+      "message": "Nama Domain"
+   },
+   "options_label_template_year": {
+      "message": "Tahun"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Tunjuk tetapan templat nama fail..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Sembuyikan tetapan template nama fail..."
+   }
+}

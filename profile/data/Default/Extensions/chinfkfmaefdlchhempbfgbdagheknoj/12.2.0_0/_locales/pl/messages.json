@@ -1,0 +1,454 @@
+{
+   "aLittle": {
+      "message": "Bardzo mała"
+   },
+   "aLot": {
+      "message": "Duża"
+   },
+   "aTon": {
+      "message": "Olbrzymia"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + strzałki Góra/Dół"
+   },
+   "alternateDesigns": {
+      "message": "Styl alternatywny"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "Odległość pojawienia się"
+   },
+   "arrowOnly": {
+      "message": "Tylko strzałki"
+   },
+   "askingToRateLinkTooltip": {
+      "description": "Message encouraging user to rate the extension.",
+      "message": "Podoba Ci się to rozszerzenie?\n\nDaj innym znać, co lubisz najbardziej!\nOceń je teraz"
+   },
+   "authorsSettings": {
+      "message": "Ustawienia autora"
+   },
+   "barelyAny": {
+      "message": "Znikoma"
+   },
+   "black": {
+      "message": "Czarny"
+   },
+   "blue": {
+      "message": "Niebieski"
+   },
+   "bottomCenter": {
+      "message": "Centralnie na dole"
+   },
+   "bottomLeft": {
+      "message": "Na dole po lewej"
+   },
+   "bottomRight": {
+      "message": "Na dole po prawej"
+   },
+   "browserActionPageTitle": {
+      "message": "Ustawienia aktywnej karty | Scroll To Top Button"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "Odśwież kartę"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "Wyłącz STTB dla tej domeny"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "Wyłącz STTB dla tego adresu URL"
+   },
+   "browserActionSttbEnabled": {
+      "message": "Włącz STTB"
+   },
+   "browserActionTitle": {
+      "message": "Ustawienia aktywnej karty"
+   },
+   "buttonDesign": {
+      "message": "Wygląd przycisku"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "Wysokość przycisku w pikselach"
+   },
+   "buttonLocation": {
+      "message": "Umieszczenie przycisku"
+   },
+   "buttonMode": {
+      "message": "Tryb przycisku"
+   },
+   "buttonModeAdvanced": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "Brak przycisku na stronie, dopóki nie klikniesz | Zaawansowany"
+   },
+   "buttonModeAdvancedBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an advanced button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518776-dd309b00-380a-11ea-81d8-e229571b71ba.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nKliknij, aby dodać przycisk(i) do aktualnie aktywnej strony*.\nPrawy przycisk myszy (otwórz menu kontekstowe), aby znaleźć Opcje.\n\n\n$BREAKING_CHANGES_MESSAGE$* Może nie działać na niektórych stronach / witrynach internetowych:\nProszę, nie zostawiaj negatywnej recenzji.\nZamiast tego daj nam znać - być może uda nam się to naprawić.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeAdvancedDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "Aby przewinąć stronę, dodaj przycisk(i) do strony, klikając ikonę rozszerzenia obok paska adresu."
+   },
+   "buttonModeBasic": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "Brak przycisku na stronie | Podstawowy"
+   },
+   "buttonModeBasicBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when a basic button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518629-9e024a00-380a-11ea-9d59-90b858f0aa0c.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nKliknij, aby przewinąć*.\nPrawym przycisk myszy (otwórz menu kontekstowe), aby znaleźć Opcje.\n\n\n$BREAKING_CHANGES_MESSAGE$* Może nie działać na niektórych stronach / witrynach internetowych:\nProszę, nie zostawiaj negatywnej recenzji.\nZamiast tego daj nam znać - być może uda nam się to naprawić.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeBasicDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "Aby przewinąć stronę, kliknij ikonę rozszerzenia obok paska adresu."
+   },
+   "buttonModeBrowserActionButtonTitle": {
+      "message": "Przewiń na górę tej strony"
+   },
+   "buttonModeExpert": {
+      "description": "Group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "Przycisk zawsze na stronie + ustawienia przycisku | Ekspert"
+   },
+   "buttonModeExpertBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an expert button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518945-40223200-380b-11ea-9856-cbbb78f00edf.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nKliknij, aby otworzyć ustawienia aktywnej karty*.\nPrawy przycisk myszy (otwórz menu kontekstowe), aby znaleźć Opcje.\n\n\n$BREAKING_CHANGES_MESSAGE$* Może nie działać na niektórych stronach / witrynach internetowych:\nProszę, nie zostawiaj negatywnej recenzji.\nZamiast tego daj nam znać - być może uda nam się to naprawić.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeExpertDescription": {
+      "description": "Description of a group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "Aby przewinąć stronę, użyj przycisków znajdujących się na stronie.\nTen tryb umożliwia dostosowywanie przycisków.\nTo była jedyna opcja przed wydaniem wersji 9 w styczniu 2020 r."
+   },
+   "buttonSettings": {
+      "message": "Ustawienia przycisku"
+   },
+   "buttonSize": {
+      "message": "Rozmiar przycisku"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "$LENGTH$x$WIDTH$ pixeli",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "Szerokość przycisku w pikselach"
+   },
+   "centerLeft": {
+      "message": "Centralnie po lewej"
+   },
+   "centerRight": {
+      "message": "Centralnie po prawej"
+   },
+   "clickthroughKeys": {
+      "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element.",
+      "message": "Kliknij element za przyciskiem"
+   },
+   "clickthroughKeysTooltip": {
+      "description": "The tooltip that explains the “clickthrough keys” option in detail.",
+      "message": "Poprzednio, chcąc kliknąć jakiś element, który znajdował się pod / za przyciskiem,  był przez niego blokowany i nie było sposobu, aby się go pozbyć.\n\nTeraz możesz, przytrzymując określony klawisz na klawiaturze, najechać myszką na przycisk, który zniknie, co pozwoli ci wygodnie kliknąć wcześniej niedostępny element."
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "colors": {
+      "message": "Kolory"
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Menu kontekstowe (prawy przycisk myszy)"
+   },
+   "ctrlKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) key + Click button.",
+      "message": "Ctrl (Control) + klik"
+   },
+   "ctrlKeyOrShiftKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button.",
+      "message": "Ctrl/Shift + klik"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Pozwól mi określić..."
+   },
+   "disableExpertButtonModes": {
+      "description": "Title of a button that triggers a revocation of the previously granted permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties). Context: https://user-images.githubusercontent.com/5961162/71878081-aa3a2900-30df-11ea-8be1-393dcf6578d0.png",
+      "message": "Cofnij uprawnienia"
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Podwójne strzałki"
+   },
+   "extensionDescription": {
+      "description": "In other words, “Adds a button (that allows) to scroll to top or bottom.”",
+      "message": "Przewiń do góry, do dołu lub obu kierunkach. Kliknij ikonę rozszerzenia, przycisk na stronie, użyj opcji menu kontekstowego i / lub skrótów klawiaturowych."
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "fast": {
+      "message": "Szybko"
+   },
+   "faster": {
+      "message": "Szybciej"
+   },
+   "fastest": {
+      "message": "Najszybciej (błyskawicznie)"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Zamień pomiędzy górą &amp;  dołem"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "Odległość odwrócenia"
+   },
+   "green": {
+      "message": "Zielony"
+   },
+   "grey": {
+      "message": "Szary"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">Pomóż przetłumaczyć\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "Klawisze Home i End kontrolowane przez"
+   },
+   "invisible": {
+      "message": "Niewidoczny"
+   },
+   "issueReportingLinkTooltip": {
+      "description": "Message encouraging user to contact developer.",
+      "message": "Coś nie działa?\nZnalazłeś błąd?\nMasz pytanie?\nCoś innego?\n\nSkontaktuj się z autorem rozszerzenia"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Tylko klawiatura"
+   },
+   "keyboardSettings": {
+      "message": "Ustawienia klawiatury"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Skróty klawiszowe"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "Automatyczny (jak w przeglądarce)"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "Jeśli rozszerzenie obsługuje język wybrany jako domyślny w przeglądarce, użyj go. W przeciwnym razie użyj języka angielskiego (Stany Zjednoczone)."
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Czeski - čeština"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Angielski (Stany Zjednoczone)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Galicyjski - galego"
+   },
+   "language_ja": {
+      "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Japoński - 日本語"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Niderlandzki - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Polski"
+   },
+   "language_ru": {
+      "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Rosyjski - русский"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Turecki - Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Chiński (Chiny) - 中文（中国）"
+   },
+   "medium": {
+      "message": "Średnia"
+   },
+   "moreThanAverage": {
+      "message": "Powyżej średniej"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "Przezroczystość nieaktywnego przycisku"
+   },
+   "off": {
+      "message": "Wyłączone"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">Strona domowa\u003C/a>"
+   },
+   "on": {
+      "message": "Włączone"
+   },
+   "opaque": {
+      "message": "Nieprzezroczysty"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "System operacyjny"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Opcje | Scroll To Top Button"
+   },
+   "optionsSaved": {
+      "message": "Opcje zapisano."
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Opcje Scroll To Top Button"
+   },
+   "orange": {
+      "message": "Pomarańczowy"
+   },
+   "otherSettings": {
+      "message": "Inne ustawienia"
+   },
+   "pink": {
+      "message": "Różowy"
+   },
+   "pixelDesign": {
+      "message": "Styl pikseli"
+   },
+   "purple": {
+      "message": "Purpurowy"
+   },
+   "red": {
+      "message": "Czerwony"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">Informacje o wydaniu\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "Przywróć domyślne"
+   },
+   "save": {
+      "message": "Zapisz"
+   },
+   "scrollDownSpeed": {
+      "message": "Prędkość przewijania do dołu"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Prędkość przewijania do dołu w milisekundach"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Tylko przewiń do góry"
+   },
+   "scrollUpSpeed": {
+      "message": "Prędkość przewijania do góry"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Prędkość przewijania do góry w milisekundach"
+   },
+   "shiftKey": {
+      "description": "Shift key + Click button.",
+      "message": "Shift + klik"
+   },
+   "slow": {
+      "message": "Wolno"
+   },
+   "slower": {
+      "message": "Wolniej"
+   },
+   "slowest": {
+      "message": "Najwolniej"
+   },
+   "topCenter": {
+      "message": "Centralnie na górze"
+   },
+   "topLeft": {
+      "message": "Na górze po lewej"
+   },
+   "topRight": {
+      "message": "Na górze po prawej"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "Przetłumaczone przez \u003Ca href=\"https://www.transifex.com/user/profile/MusicInMe_TH/\" target=\"_blank\" id=\"translatorLink\">Ireek Niwinski aka MusicInMe_TH\u003C/a>"
+   },
+   "transparent": {
+      "message": "Przezroczysty"
+   },
+   "tumblerBlue": {
+      "message": "Tumblr niebieski"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "Język"
+   },
+   "yellow": {
+      "message": "Zółty"
+   }
+}

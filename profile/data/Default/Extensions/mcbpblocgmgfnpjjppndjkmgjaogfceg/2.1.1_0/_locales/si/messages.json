@@ -1,0 +1,361 @@
+{
+	"application_title": {
+		"message": "වෙබ් පිටුවේ ස්ක්‍රීන් පිටපත් ලබාගැනීම - Fireshot"
+	},
+
+	"application_description": {
+		"message": "සම්පූර්න වෙබ් පිටුවේ ස්ක්‍රීන් පිටපතක් ලබාගැනීම, ග්‍රහනය, වෙනස් කිරීම සහ PDF/JPEG/GIF/PNG ලෙස සුරක්ශිත කිරීම, උඩුගතකිරීම, මුද්‍රනය, OneNote, ක්ලිප්බෝර්ඩ් හෝ ඊමේල් ලිපිනයකට යැවීම."
+	},
+
+	"action_capture_entire": {
+		"message": "මුලු පිටුවම ග්‍රාහනය කිරීම සහ"
+	},
+
+	"action_capture_visible": {
+		"message": "පෙනෙන ප්‍රදේශය පමනක් ග්‍රාහනය කිරීම සහ"
+	},
+
+	"action_capture_selection": {
+		"message": "තෝරාගත් / අවයව ග්‍රාහනය කිරීම සහ"
+	},
+
+	"action_capture_entire_lite": {
+		"message": "මුලු පිටුවම ග්‍රාහනය කිරීම"
+	},
+
+	"action_capture_visible_lite": {
+		"message": "පෙනෙන ප්‍රදේශය පමනක් ග්‍රාහනය කිරීම"
+	},
+
+	"action_capture_selection_lite": {
+		"message": "තෝරාගත් ප්‍රදේශය පමනක් ග්‍රාහනය කිරීම"
+	},
+
+	"action_capture_browser": {
+		"message": "අන්තර්ජාල පිටුව ග්‍රාහනය කිරීම සහ"
+	},
+
+	"action_resume": {
+		"message": "ආපසු සංස්කරනය වෙත "
+	},
+
+	"action_open_file": {
+		"message": "ලිපිගොනුව විවරකිරීම"
+	},
+
+	"action_open_clipboard": {
+		"message": "ක්ලිප්බෝර්ඩ් මගින් විවරකිරීම"
+	},
+
+	"action_options": {
+		"message": "විකල්ප"
+	},
+
+	"action_register": {
+		"message": "ලියාපදිංචිය"
+	},
+
+	"action_enter_license": {
+		"message": "බලපත්‍ර තොරතුරු ඇතුලු කිරීම"
+	},
+
+	"action_switch_pro": {
+		"message": "Pro සදහා මාරුවීම"
+	},
+
+	"action_view_demo": {
+		"message": "ආදේශන නැරබීම"
+	},
+
+	"action_support": {
+		"message": "උපකාර"
+	},
+
+	"action_api": {
+		"message": "FireShot API"
+	},
+
+	"action_edit": {
+		"message": "වෙනස් කිරීම"
+	},
+
+	"action_save": {
+		"message": "සුරක්ශිත කිරීම"
+	},
+
+	"action_save_pdf": {
+		"message": "PDF ලෙස සුරක්ශිත කිරීම"
+	},
+
+	"action_copy": {
+		"message": "ක්ලිප්බෝර්ඩ් වෙත කොපි කිරීම"
+	},
+
+	"action_email": {
+		"message": "ඊ-මේල්"
+	},
+
+	"action_external": {
+		"message": "බාහිර වෙනස්කිරිමක් මගින් විවර කිරීම"
+	},
+
+	"action_onenote": {
+		"message": "OneNote වෙත යැවීම"
+	},
+
+	"action_upload": {
+		"message": "උඩුගත කිරීම"
+	},
+
+	"action_print": {
+		"message": "මුද්‍රනය"
+	},
+
+	"options_label_fireshot_options": {
+		"message": "FireShot විකල්ප"
+	},
+
+	"options_label_capturing": {
+		"message": "ග්‍රාහනය"
+	},
+
+	"options_label_editor_options": {
+		"message": "සංස්කාරකගේ විකල්ප"
+	},
+
+	"options_label_hotkey": {
+		"message": "ඉක්මන් යතුරු"
+	},
+
+	"options_label_specify_resizing_options": {
+		"message": "සදහන් කරන්න, වෙන්ස්කිරීමේ විකලප සහ නාදය"
+	},
+
+	"options_label_specify_editor_options": {
+		"message": "සදහන් කරන්න, සංස්කාරක සහ සුරක්ශිත කරනයේ විකල්ප, ලිපිගොනුවේ නම්,  ශයිලිය, ආදී..."
+	},
+
+	"options_label_specify_hotkey": {
+		"message": "FireShot ආරම්භය සදහා, යතුරු සම්බන්දතාවය සදහන් කරන්න  "
+	},
+
+	"options_button_setup": {
+		"message": "පිහිටුවීම සදහා ක්ලික් කරන්න"
+	},
+
+	"options_button_apply": {
+		"message": "යොදාගන්න"
+	},
+
+	"options_button_save_close": {
+		"message": "සුරක්ශිත කිරීම සහ වැසීම"
+	},
+
+	"action_license_info": {
+		"message": "බලපත්‍රයේ විස්තර"
+	},
+
+	"action_about": {
+		"message": "පිලිබද"
+	},
+
+	"options_label_file_settings": {
+		"message": "ලිපිගොනු සැකසීම"
+	},
+
+	"options_label_save_image_as": {
+		"message": "පින්තූරයක් ලෙස සුරක්ශිත කරන්න"
+	},
+
+	"options_label_default_filename_template": {
+		"message": "සාමාන්‍යය ලිපිගොනු නාමයේ සැකිල්ල"
+	},
+
+	"options_label_template_url": {
+		"message": "පිටුවේ අන්තර්ජාල නාමය"
+	},
+
+	"options_label_template_title": {
+		"message": "පිටුවේ මාතෘකාව"
+	},
+
+	"options_label_template_website": {
+		"message": "ඩොමේන් නාමය"
+	},
+
+	"options_label_template_year": {
+		"message": "වසර"
+	},
+
+	"options_label_template_month": {
+		"message": "මාසය"
+	},
+
+	"options_label_template_day": {
+		"message": "දවස"
+	},
+
+	"options_label_template_hour": {
+		"message": "පැය"
+	},
+
+	"options_label_template_minutes": {
+		"message": "මිනිත්තු"
+	},
+
+	"options_label_template_seconds": {
+		"message": "තප්පර"
+	},
+
+	"options_label_template_pad_1": {
+		"message": "පැඩ් නම්බරය සමග"
+	},
+
+	"options_label_template_pad_2": {
+		"message": "බිංදු"
+	},
+
+	"options_label_template_limit_1": {
+		"message": "ලිපිගොනු නාමයේ දිග සීමාකරන්න"
+	},
+
+	"options_label_template_limit_2": {
+		"message": "අකුරු"
+	},
+
+	"options_link_filename_template_settings": {
+		"message": "පෙන්වන්න, ලිපිගොනු නාමයේ සැකිල්ලේ සැකසීම්"
+	},
+
+	"options_link_filename_template_settings_hide": {
+		"message": "හංගන්න, ලිපිගොනු නාමයේ සැකිල්ලේ සැකසීම් "
+	},
+
+	"options_label_last_action_hotkey": {
+		"message": "අවසානයට කරනලද කාර්‍යය"
+	},
+
+	"options_label_and": {
+		"message": "සහ"
+	},
+
+	"captured_save_panel_title": {
+		"message": "ස්ක්‍රීන් පිටපත සුරක්ශිත කරන්න "
+	},
+
+	"captured_save_as_image": {
+		"message": "පිංතූරයක් ලෙස සුරක්ශිත කරන්න"
+	},
+
+	"captured_save_as_pdf": {
+		"message": "PDF ලෙස සුරක්ශිත කරන්න "
+	},
+
+	"captured_copy_clipboard": {
+		"message": "ක්ලිප්බෝර්ඩ් වෙත පිටපත් කරනන"
+	},
+
+	"captured_print": {
+		"message": "මුද්‍රනය"
+	},
+
+	"captured_save_as_image_button": {
+		"message": "පිංතූරයක් ලෙස සුරක්ශිත කරන්න"
+	},
+
+	"captured_copy_clipboard_learn_button": {
+		"message": "කරන ආකාරය ඉගන ගන්න"
+	},
+
+	"captured_print_button": {
+		"message": "මුද්‍රනය"
+	},
+
+	"action_micsellaneous": {
+		"message": "විවිද"
+	},
+
+	"action_install_native": {
+		"message": "උසස් මෙවලම් උත්සහාකරන්න"
+	},
+
+	"captured_upgrade_link_1": {
+		"message": "ග්‍රහනය, අනුසටහන්, මුද්‍රනය, සහ සුරක්ශිත කිරීම, වෙනස් කිරීම, උඩුගත කිරීම, ඊ-මේල් වෙතයැවීම/ On​e​Nᴏt​e, හෝ වෙනත් ප්‍රෝගෑමයකට යැවීම. "
+	},
+
+	"captured_upgrade_link_2": {
+		"message": "FireShot Prᴏ සදහා උසස් කිරීම "
+	},
+
+	"captured_upgrade_link_3": {
+		"message": "මම භාවිතා කරමින් සිටියේ FireShot හි වෙනත් සංස්කරනයක්"
+	},
+
+	"captured_upgrade_link_4": {
+		"message": "මට ඒක නැවත ලබාගන්න පුලුවන්ද?"
+	},
+
+	"captured_setup_hotkeys": {
+		"message": "ඉක්මන් යතුරු සහ ලිපිගොනු සැකසීම්, පිහිටුවීම"
+	},
+
+	"captured_recommend_us": {
+		"message": "FireShot නිර්දේශ කිරීම"
+	},
+
+	"action_capture_tabs": {
+		"message": "සියලූම ටැබ් ග්‍රහනය සහ"
+	},
+
+	"action_save_pdf_single": {
+		"message": "තනි PDF ලෙස සුරක්ශිත කිරීම"
+	},
+
+	"action_switch_pro_tabs": {
+		"message": "Prᴏ මෙවලම් භාවිතය සදහා සක්‍රීය කරන්න "
+	},
+
+	"captured_get_free_button": {
+		"message": "ගාස්තු නොමැතිව උත්සහා කරන්න"
+	},
+
+	"captured_buy_pro_button": {
+		"message": "Prᴏ සැකසුම මිලදී ගන්න"
+	},
+
+	"enable_checkbox": {
+		"message": "සක්‍රීය කරනන "
+	},
+
+	"captured_saving_options": {
+		"message": "රිසිකරනය"
+	},
+
+	"options_label_default_folder": {
+		"message": "සාමාන්‍යය සුරැකුම් ගොනුව"
+	},
+
+	"options_label_default_folder_hint": {
+		"message": "භාගත ලිපිගොනුවට අනුයාතව ලිපිය සුරක්ශිත කරන මාර්ගය, සුරක්ශිත ගොනුවේ සටහන් වේ. සමහරවිට එය අනු ගොනුවක් තුල වියහැක.\nසම්පූර්න මාර්ග, හිස් මාර්ග, සහ ආපසු යොමු කිරීම් අන්තර්ගත වීම් << .. >> මගින් වැරදි ඇතිවිය හැක."
+	},
+
+	"options_label_customize_saving": {
+		"message": "සුරක්ශිත කිරීමේ රිසිකරනය"
+	},
+
+	"options_label_no_saveas_dialog": {
+		"message": "\"ලෙස සුරක්ශිත කිරීම\" පෙන්නන්න එපා"
+	},
+
+	"options_label_open_folder_after_saving": {
+		"message": "සුරැකීමෙන් පසු, භාගත කරන ලද ලිපිගොනුව පෙන්වන්න "
+	},
+
+	"options_label_close_tab_after_saving": {
+		"message": "සුරැකීමෙන් පසු ටැබ් වසාදමන්න"
+	},
+
+	"options_label_enable_context_menu": {
+		"message": "FireShot එහි සන්දර්භ මෙනුව තුල ඒකාබද්ධ කරන්න"
+	}
+}

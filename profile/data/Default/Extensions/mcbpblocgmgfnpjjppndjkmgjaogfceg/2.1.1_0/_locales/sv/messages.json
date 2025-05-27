@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "Handla om..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "Fånga en lista med URL:er"
+   },
+   "action_capture_browser": {
+      "message": "Fånga webbläsarfönster och"
+   },
+   "action_capture_entire": {
+      "message": "Fånga hela sidor och"
+   },
+   "action_capture_entire_lite": {
+      "message": "Fånga hela sidan"
+   },
+   "action_capture_selection": {
+      "message": "Fånga urval / element och"
+   },
+   "action_capture_selection_lite": {
+      "message": "Fånga urval"
+   },
+   "action_capture_stop": {
+      "message": "Sluta fånga"
+   },
+   "action_capture_stop_short": {
+      "message": "Stoppa"
+   },
+   "action_capture_tabs": {
+      "message": "Fånga alla flikar och"
+   },
+   "action_capture_visible": {
+      "message": "Fånga synlig del och"
+   },
+   "action_capture_visible_lite": {
+      "message": "Fånga synlig del"
+   },
+   "action_copy": {
+      "message": "Kopiera till Urklipp"
+   },
+   "action_edit": {
+      "message": "Redigera"
+   },
+   "action_email": {
+      "message": "E-post"
+   },
+   "action_enter_license": {
+      "message": "Ange licensnummer"
+   },
+   "action_external": {
+      "message": "Öppna i extern editor"
+   },
+   "action_install_native": {
+      "message": "Försök med avancerade funktioner"
+   },
+   "action_license_info": {
+      "message": "Licensinformation"
+   },
+   "action_micsellaneous": {
+      "message": "Diverse"
+   },
+   "action_ok": {
+      "message": "OK"
+   },
+   "action_onenote": {
+      "message": "Skicka till OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Oppna från Urklipp"
+   },
+   "action_open_file": {
+      "message": "Öppna fil"
+   },
+   "action_options": {
+      "message": "Alternativ"
+   },
+   "action_print": {
+      "message": "Skriva ut"
+   },
+   "action_register": {
+      "message": "Registrera"
+   },
+   "action_resume": {
+      "message": "Återuppta redigering"
+   },
+   "action_save": {
+      "message": "Spara"
+   },
+   "action_save_pdf": {
+      "message": "Spara som PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Spara som en enda PDF-fil"
+   },
+   "action_show": {
+      "message": "Visa..."
+   },
+   "action_support": {
+      "message": "Stöd"
+   },
+   "action_switch_pro": {
+      "message": "Byt till professionell"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktivera PRO-funktionerna för att fortsätta"
+   },
+   "action_upload": {
+      "message": "Ladda upp"
+   },
+   "action_view_demo": {
+      "message": "Prova demo"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "Tack för att du beviljar tillstånd! Vi kommer att hantera dem med omsorg."
+   },
+   "application_description": {
+      "message": "Ta FULL webbsida skärmdumpar. Fånga, redigera och spara dem till PDF / JPEG / GIF / PNG-format eller ladda upp till molnet, skriv ut direkt till din nätverksskrivare, skicka till OneNote, skicka till klippbordet eller skicka via e-post med bara några få klick."
+   },
+   "application_title": {
+      "message": "Ta hela skärmdumpar av webbplatser med - FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "FireShot batch-läge"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "sida för att sätta upp en flik"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "väntar på att sidan ska bli återgiven..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "Nästa sida"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "Avbryt uppgiften"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "av"
+   },
+   "button_dismiss": {
+      "message": "Förstått"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "Livstidslicens och 30-dagars pengarna tillbaka-garanti"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "Köp FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "Avancerade funktioner för inspelning"
+   },
+   "captured_ads_feature_2": {
+      "message": "Redigera skärmdumpar"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "PDF-filer som kan sökas i text,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "rubriker och sidfötter"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "jämför FireShot Lite och FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "fler premiumfunktioner"
+   },
+   "captured_ads_title": {
+      "message": "Ta bort annonser"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "Bli en PRO och bidra aktivt till utvecklingen"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "av denna utvidgning"
+   },
+   "captured_beta_disabled": {
+      "message": "Tack. Alla betafunktioner har stängts av."
+   },
+   "captured_button_continue": {
+      "message": "Fortsätta"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Gratis 10 dagars provperiod"
+   },
+   "captured_button_no_credit_card": {
+      "message": "Inget kreditkort krävs"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "Jag gillar inte"
+   },
+   "captured_button_rate_later": {
+      "message": "Kanske senare"
+   },
+   "captured_button_rate_like": {
+      "message": "jag gillar det"
+   },
+   "captured_buy_pro_button": {
+      "message": "Köp Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "Du kan byta tillbaka till Lite när som helst."
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Anpassad sidstorlek"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Direktlänkar"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Inaktivera textval"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Dela upp till sidor"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "Text-sökbar"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopiera till Urklipp"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Lära sig hur..."
+   },
+   "captured_error_pdf": {
+      "message": "Ett oväntat fel inträffade under skapandet av PDF-filen."
+   },
+   "captured_exit_beta_program": {
+      "message": "Avsluta Insider-programmet"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Följ instruktionerna för att installera avancerade funktioner"
+   },
+   "captured_get_free_button": {
+      "message": "Prova gratis"
+   },
+   "captured_how_to_copy": {
+      "message": "Hur du kopierar en skärmdump till urklipp"
+   },
+   "captured_information": {
+      "message": "Information"
+   },
+   "captured_label_actions": {
+      "message": "Åtgärder"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "Förhandsgranskning av avancerade funktioner"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Den här sidan kan fångas bättre med de avancerade funktionerna som finns installerade."
+   },
+   "captured_label_limited_functionality": {
+      "message": "Endast en liten del av denna sida kan sparas på grund av begränsningar i webbläsaren. Du kan använda FireShot Pro för att spara hela sidan till PDF."
+   },
+   "captured_label_new": {
+      "message": "Ny"
+   },
+   "captured_label_participate_beta": {
+      "message": "Gå med i FireShot Pro Insider-programmet"
+   },
+   "captured_label_progress_sign": {
+      "message": "Nästan redo"
+   },
+   "captured_label_remove_adv": {
+      "message": "Ta bort reklam"
+   },
+   "captured_label_try_enchancements": {
+      "message": "Under testperioden tillhandahåller vi den GRATIS. Prova följande förbättringar"
+   },
+   "captured_label_using_beta_version": {
+      "message": "Du använder Insider-versionen av FireShot Pro-funktionerna: avancerade skärmdumpfunktioner och PDF-funktioner (siduppsättning, rubriker/footers/vattenmärken, direktlänkar och sökbar text)."
+   },
+   "captured_li_1": {
+      "message": "Skapa text-sökbara PDF-filer med direktlänkar"
+   },
+   "captured_li_2": {
+      "message": "Lägg till anpassade rubriker, fotnoter och vattenmärken"
+   },
+   "captured_li_3": {
+      "message": "Anpassa sidstorlek, alternativ för flera sidor"
+   },
+   "captured_li_4": {
+      "message": "Avancerad registrering: komplext innehåll, urval av objekt"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Skaffa FireShot för"
+   },
+   "captured_link_read_more": {
+      "message": "läs mer"
+   },
+   "captured_link_report_problem": {
+      "message": "Rapportera problem"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "Se villkor och bestämmelser"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Uppgradera till Pro för att aktivera extra"
+   },
+   "captured_print": {
+      "message": "Skriva ut"
+   },
+   "captured_print_button": {
+      "message": "Skriva ut"
+   },
+   "captured_purchase_license": {
+      "message": "Köp licens"
+   },
+   "captured_rate_button": {
+      "message": "Betygsätt FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "FireShot-utveckling tar mycket personlig tid"
+   },
+   "captured_rate_line2": {
+      "message": "Den tiden kan spenderas på familj eller vila"
+   },
+   "captured_rate_line3": {
+      "message": "Som en uppskattning av våra ansträngningar, skulle du vara så snäll att betygsätta FireShot?"
+   },
+   "captured_rate_line4": {
+      "message": "Detta skulle hjälpa människor att upptäcka FireShot snabbare"
+   },
+   "captured_rate_question": {
+      "message": "Kan du snälla dela med oss, oavsett om du gillar FireShot eller inte?"
+   },
+   "captured_recommend_us": {
+      "message": "Rekommendera FireShot"
+   },
+   "captured_report_problem": {
+      "message": "Rapportera problem"
+   },
+   "captured_save_as_image": {
+      "message": "Spara som bild"
+   },
+   "captured_save_as_image_button": {
+      "message": "Spara som bild"
+   },
+   "captured_save_as_pdf": {
+      "message": "Spara till PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Spara skärmdump"
+   },
+   "captured_saving_options": {
+      "message": "skräddarsy den"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Konfigurera filnamnmall ..."
+   },
+   "captured_step1_right_click": {
+      "message": "Högerklicka på bilden"
+   },
+   "captured_step2_copy": {
+      "message": "Välj \"Kopiera bild\" från snabbmenyn."
+   },
+   "captured_success": {
+      "message": "Framgång"
+   },
+   "captured_upgrade_features_list": {
+      "message": "få avancerade funktioner för att kommentera, skriva ut och spara bättre, redigera, ladda upp, skicka till e-post eller OneNote eller exportera till ett annat program."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Capture, Annotate, Print och spara bättre, redigera, ladda upp, skicka till e-post, OneNote eller exportera till ett annat program."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Uppgradera till FileShot PRO"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Jag använde en annan version av FileShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Kan jag få tillbaka den?"
+   },
+   "collapse": {
+      "message": "Kollaps"
+   },
+   "enable_checkbox": {
+      "message": "Gör det möjligt"
+   },
+   "history_banner_line1": {
+      "message": "För att fortsätta, vänligen frigör lite utrymme genom att ta bort onödiga fångster från historiken."
+   },
+   "history_banner_line2": {
+      "message": "För att underlätta för dig har FireShot valt ut de artiklar som kommer att ha störst inverkan på att minska lagringsstorleken."
+   },
+   "history_banner_title": {
+      "message": "Lagringsstorleken har överskridit sin kvot."
+   },
+   "history_btn_delete_selected": {
+      "message": "Radera markerad"
+   },
+   "history_button_select_all": {
+      "message": "Markera/Avmarkera alla"
+   },
+   "history_clear_filter_button": {
+      "message": "Rensa filter"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "Ta bort valda objekt? Du kan inte ångra den här åtgärden."
+   },
+   "history_filter_text": {
+      "message": "Filter"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite ger historik för de senaste 7 dagarna. Full historik är tillgänglig i FireShot Pro."
+   },
+   "infinite_mode_warning": {
+      "message": "Oändligt rullningsläge har upptäckts. Stoppa FireShot när det behövs."
+   },
+   "label_processing": {
+      "message": "Bearbetning..."
+   },
+   "label_start": {
+      "message": "Starta"
+   },
+   "label_total": {
+      "message": "Totalt"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "Vill du verkligen avaktivera licensen för den här webbläsaren?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "Information om licensiering"
+   },
+   "licensing_popup_registered_to": {
+      "message": "Registrerad till"
+   },
+   "licensing_popup_remove_key": {
+      "message": "Ta bort licensen från den här webbläsaren"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Tillåt oändliga rullningssidor"
+   },
+   "options_api_hint": {
+      "message": "Starta och konfigurera FireShot med hjälp av JavaScript."
+   },
+   "options_button_apply": {
+      "message": "Tillämpa"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "Konfigurera alternativ för att spara PDF-filer"
+   },
+   "options_button_save_close": {
+      "message": "Spara och Stäng"
+   },
+   "options_button_setup": {
+      "message": "Klicka för att ställa in"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "Kommandot \"Fånga alla flikar\" fångar endast den synliga delen av sidan."
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "Maximal tid som tillåts för att hämta en sida:"
+   },
+   "options_history_confirm_erase": {
+      "message": "Bekräfta radering av historik. Du kan inte ångra den här åtgärden."
+   },
+   "options_history_delete_all": {
+      "message": "Ta bort all historik..."
+   },
+   "options_label_and": {
+      "message": "och"
+   },
+   "options_label_capturing": {
+      "message": "Fångande"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Stäng fliken efter att ha sparats"
+   },
+   "options_label_customize_saving": {
+      "message": "Anpassa spara processen"
+   },
+   "options_label_default_filename_template": {
+      "message": "Standard filnamnsmall:"
+   },
+   "options_label_default_folder": {
+      "message": "Standard Output Directory"
+   },
+   "options_label_default_folder_hint": {
+      "message": "En filväg i förhållande till nedladdningskatalogen för att innehålla den lagrade fil, eventuellt innehållande underkataloger.\nAbsoluta vägar, tomma vägar, och banor som innehåller referensreferenser «..» kommer att orsaka ett fel."
+   },
+   "options_label_editor_options": {
+      "message": "Redigeringsalternativ"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integrera FireShot i snabbmenyn"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "När FireShot är trasigt rapporterar du automatiskt felaktigheter för att förbättra FireShot."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "Skicka anonyma användningsuppgifter till Google Analytics för att förbättra FireShot."
+   },
+   "options_label_file_saving": {
+      "message": "Sparande"
+   },
+   "options_label_file_settings": {
+      "message": "Filinställningar"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot-Alternativ"
+   },
+   "options_label_history": {
+      "message": "Historia"
+   },
+   "options_label_hotkey": {
+      "message": "Snabbtangenter"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Senast använda Åtgärd"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Visa inte \"Spara som\" - dialogrutan"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Visa nedladdade filen i sin mapp efter att ha sparats"
+   },
+   "options_label_pdf_settings": {
+      "message": "PDF-inställningar"
+   },
+   "options_label_save_image_as": {
+      "message": "Spara bild som"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Ange redigerare och spara alternativ, filnamninställningar, stil etc."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Ange nyckelkombinationen för att starta FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Ändra storlek på jag och ljudet"
+   },
+   "options_label_template_day": {
+      "message": "Dag"
+   },
+   "options_label_template_hour": {
+      "message": "Timme"
+   },
+   "options_label_template_limit_1": {
+      "message": "Begränsa filnamnslängd till"
+   },
+   "options_label_template_limit_2": {
+      "message": "tecken"
+   },
+   "options_label_template_minutes": {
+      "message": "Minut"
+   },
+   "options_label_template_month": {
+      "message": "Månad"
+   },
+   "options_label_template_pad_1": {
+      "message": "Padnummer med"
+   },
+   "options_label_template_pad_2": {
+      "message": "zeros"
+   },
+   "options_label_template_seconds": {
+      "message": "Andra"
+   },
+   "options_label_template_title": {
+      "message": "Sidans titel"
+   },
+   "options_label_template_url": {
+      "message": "Sidans URL"
+   },
+   "options_label_template_website": {
+      "message": "Domän namn"
+   },
+   "options_label_template_year": {
+      "message": "År"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "Meddela mig när FireShot uppdateras."
+   },
+   "options_link_filename_template_settings": {
+      "message": "Visa filnamnmallinställningar"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Dölj filnamnmallinställningar"
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "Öppna fliken för skärmdumpar bredvid fliken för källan"
+   },
+   "options_option_history_180": {
+      "message": "6 månader"
+   },
+   "options_option_history_30": {
+      "message": "30 dagar"
+   },
+   "options_option_history_365": {
+      "message": "År"
+   },
+   "options_option_history_7": {
+      "message": "Vecka"
+   },
+   "options_option_history_90": {
+      "message": "3 månader"
+   },
+   "options_option_history_all": {
+      "message": "För alltid"
+   },
+   "options_page_delay_screenshot": {
+      "message": "Fördröjning innan du tar skärmdump:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "Aktivera detta läge genom att hålla ned Alt-tangenten när du startar FireShot."
+   },
+   "options_page_scrolling_speed": {
+      "message": "Ändra rullningshastighet för sida:"
+   },
+   "options_retain_history": {
+      "message": "Period för att lagra tagna skärmdumpar i Historik"
+   },
+   "pdf_dialog_align": {
+      "message": "Rikta in"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "Bakgrundsfärg"
+   },
+   "pdf_dialog_bottom": {
+      "message": "Botten"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "Nedre mitten"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "Längst ner till vänster"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "Längst ner till höger"
+   },
+   "pdf_dialog_cancel": {
+      "message": "Avbryt"
+   },
+   "pdf_dialog_center": {
+      "message": "Centrum"
+   },
+   "pdf_dialog_centered": {
+      "message": "Centrerad"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "Klicka för att konfigurera mallen"
+   },
+   "pdf_dialog_color": {
+      "message": "Färg"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "Konfigurera mallen"
+   },
+   "pdf_dialog_confirm": {
+      "message": "Bekräfta"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "Skapa PDF-filer som kan väljas och sökas i text"
+   },
+   "pdf_dialog_defaults": {
+      "message": "Återställa till standardvärden"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "Aktivera smarta sidbrytningar"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "Aktivera webblänkar"
+   },
+   "pdf_dialog_extras": {
+      "message": "Extras"
+   },
+   "pdf_dialog_font": {
+      "message": "typsnitt"
+   },
+   "pdf_dialog_footers": {
+      "message": "sidfot"
+   },
+   "pdf_dialog_frame": {
+      "message": "Ram"
+   },
+   "pdf_dialog_headers": {
+      "message": "rubriker"
+   },
+   "pdf_dialog_height": {
+      "message": "Höjd"
+   },
+   "pdf_dialog_inches": {
+      "message": "tum"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "Följande fördefinierade värden kan användas (klicka för att infoga)"
+   },
+   "pdf_dialog_left": {
+      "message": "vänster"
+   },
+   "pdf_dialog_margin": {
+      "message": "Marginal"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "Marginal i pixlar"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "Mitt till vänster"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "Mitt till höger"
+   },
+   "pdf_dialog_month_name": {
+      "message": "Månadens namn"
+   },
+   "pdf_dialog_opacity": {
+      "message": "Opacitet"
+   },
+   "pdf_dialog_orientation": {
+      "message": "Orientering"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "Landskap"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "Porträtt"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF Sidnummer"
+   },
+   "pdf_dialog_page_size": {
+      "message": "Sidstorlek"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "Auto"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "Anpassad bredd och höjd"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "Anpassad bredd"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "Alternativ för personsökning"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "välj"
+   },
+   "pdf_dialog_placement": {
+      "message": "Placering"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "Ange mall"
+   },
+   "pdf_dialog_position": {
+      "message": "Position"
+   },
+   "pdf_dialog_right": {
+      "message": "höger"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "skärmdump Höjd"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "skärmdump Bredd"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "Konfigurera mallen för sidfot"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "Konfigurera stil för sidfot"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "Konfigurera rubrikmall"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "Konfigurera rubrikformat"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "Konfigurera vattenstämpelmall"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "Inställning av vattenstämpelstil"
+   },
+   "pdf_dialog_size": {
+      "message": "Storlek"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "Ange typsnittsstil"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "Dela långa skärmdumpar till sidor"
+   },
+   "pdf_dialog_style": {
+      "message": "Stil"
+   },
+   "pdf_dialog_template": {
+      "message": "Mall"
+   },
+   "pdf_dialog_text": {
+      "message": "Text"
+   },
+   "pdf_dialog_top": {
+      "message": "Topp"
+   },
+   "pdf_dialog_top_center": {
+      "message": "Övre mitten"
+   },
+   "pdf_dialog_top_left": {
+      "message": "Överst till vänster"
+   },
+   "pdf_dialog_top_right": {
+      "message": "Överst till höger"
+   },
+   "pdf_dialog_units": {
+      "message": "enheter"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "Vattenmärken"
+   },
+   "pdf_dialog_weekday": {
+      "message": "Veckodag"
+   },
+   "pdf_dialog_width": {
+      "message": "bredd"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "Sidstorleken kommer att ställas in så att den passar helt och hållet till bilden."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "Sidans höjd kommer att ställas in så att den passar helt och hållet för fångsten."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "Sidbredden ställs in så att den passar hela sidan, och sidans höjd ställs in i enlighet med förhållandet för A4-formatet."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "Om det resulterande dokumentet består av två sidor och den sista sidan är 50 % tom eller mer, kommer sidorna att sammanfogas."
+   },
+   "popup_action_required": {
+      "message": "Åtgärder som krävs"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 sekunder"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 sekunder"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 sekunder"
+   },
+   "popup_label_60_seconds": {
+      "message": "60 sekunder"
+   },
+   "popup_label_additional_options": {
+      "message": "Ytterligare alternativ"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "Skapa en separat mapp för den här uppgiften"
+   },
+   "popup_label_do_not_wait": {
+      "message": "Vänta inte"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "Välj hur du vill spara tagningar"
+   },
+   "popup_label_long_batch": {
+      "message": "Vid långvariga uppgifter bör du se till att datorn inte somnar, eftersom det bryter uppgiften."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "Maximal tid att vänta tills sidan laddas"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "Lite-versionen är begränsad till att endast fånga en synlig del av sidorna."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "åsidosätta rullningshastigheten"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "Visa filerna i mappen när den är klar"
+   },
+   "popup_label_specify_mode": {
+      "message": "Ange läge"
+   },
+   "popup_label_specify_urls": {
+      "message": "Ange webbadresser som ska fångas"
+   },
+   "popup_label_unlimited": {
+      "message": "Inte begränsat"
+   },
+   "popup_label_when_loaded": {
+      "message": "Vänta tills den är helt laddad och återges helt."
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "läs mer"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "FireShot behöver ytterligare behörigheter för att ge en bättre upplevelse av inspelning."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "Det är okej att ignorera denna begäran för att fånga sidan som standard, men vissa sidelement kan fångas felaktigt."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "varför FireShot begär ytterligare behörigheter och hur det påverkar din upplevelse."
+   },
+   "promo_enable_history": {
+      "message": "Få tillgång till historik"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "Håll $key$ för att fånga ett specifikt HTML-element.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "Håll $key$ och klicka på det här området för att fånga detta element helt och hållet",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "Klicka för att fånga från denna punkt till slutet av sidan"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "Klicka för att fånga från början av sidan till denna punkt"
+   },
+   "selection_hint": {
+      "message": "TIPS:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "Fånga med rullning:"
+   },
+   "title_suppress_warning": {
+      "message": "Undertrycka denna varning i 10 dagar"
+   },
+   "void": {
+      "message": ""
+   }
+}

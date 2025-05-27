@@ -1,0 +1,54 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "ui/img/distill_19.png",
+         "38": "ui/img/distill_38.png"
+      },
+      "default_popup": "ui/popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "background": {
+      "service_worker": "distill-service-worker.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [  ],
+      "js": [ "content/port-loader.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "exclude_matches": [  ],
+      "js": [ "content/auth.js" ],
+      "matches": [ "https://*.distill.io/*", "http://*.distill.local/*", "https://*.distill.local/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "differential_fingerprint": "1.457b18999e40ef6869db4506ec70fc974b24e87fac5766bc59fcbf21cd67612f",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "ui/img/distill_128.png",
+      "48": "ui/img/distill_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnAPAr/hf3Kyqqalbx0reott28zs/cF3Z4Pl/HaF074z2N4VMWUcuBVowhfxj5S9C4MRvXqeADhBWTPIYVg2zkwty3No2RbM0miqMbsf7qNglrvpQiR+a1SOYv+6nGr2r0I71O104VrYa3r97axMFttnxi/TLmqYD26GPE2lOM6FtIykRNGT6sp++W97+1I96SHbBl2HsnmhcDAlxzIPhsNWKAuLGaIUPrmboTzs0uzQJtVK7Dlzmdiivab2lLtmS2hdnM7+K5w+4I7BQy6VLFkoPExbX6XCqVX9c90Hty86D8BNUm9/3P1Kc80tTiZbiKvLDFqCmK6Sscd2x1QomWwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "116.0.0.0",
+   "name": "__MSG_extName__",
+   "optional_permissions": [  ],
+   "permissions": [ "contextMenus", "notifications", "tabs", "unlimitedStorage", "offscreen", "scripting", "storage", "alarms" ],
+   "sandbox": {
+      "pages": [ "sandbox.html" ]
+   },
+   "short_name": "Distill",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.10.42",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "content/*", "ui/*", "ui/lib/*", "ui/img*", "lib/*" ]
+   } ]
+}

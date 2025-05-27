@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Custom UserAgent String</title>
+    <link type="text/css" rel="stylesheet" href="options.css">
+    <link type="text/css" rel="stylesheet" href="explore/explore.css">
+  </head>
+  <body>
+    <div id="explore"></div>
+    <div class="logo"></div>
+    <details>
+      <summary>I. Settings</summary>
+      <div class="section">
+        <label>Log useful info in the browser's console</label>
+        <input data-pref="addon.log" type="checkbox">
+        <div class="information">
+          <p>Default is not active. Mark this option to activate this feature. To open the console, in <b>Firefox</b>, press (Ctrl + Shift + J) on the main window, then click on the Logging button at the top. In <b>Chrome</b> and <b>Opera</b>, head to extensions page and click on the - background.html - link within the extension info (Inspect views) then click on the Console button at the top.</p>
+        </div>
+      </div>
+    </details>
+    <details class="open-a">
+      <summary>II. UserAgent Strings</summary>
+      <div class="section">
+        <div class="custom-ua-list">
+          <input id="search-box" type="text" placeholder="Type to search within the selected UA strings below, then click on the + button to add">
+          <table class="select">
+            <tr>
+              <td class="custom-fn-list">
+                <select id="custom-fn-list"></select>
+              </td>
+              <td class="space"></td>
+              <td class="custom-ua-list">
+                <select id="custom-ua-list"></select>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <div class="information">
+          <p>Enter a desired value for the URL and UserAgent, then press on the Enter key or click on the (+) button to add it to the Table. <b>Note</b>, instead of a URL, if you enter star (*) the UserAgent will be applied to all websites and URLs. Alternatively, you can select a sample UA from the above table. There are several UAs for famous browsers ranging from <b>desktop</b> to <b>mobile</b> platforms. Once you select a UA, it will be added to the input field below where you can modify it to match your specific need.</p>
+        </div>
+        <table class="add-ua">
+          <thead>
+            <tr>
+              <td>Enter a desired URL</td>
+              <td>Enter a custom UserAgent string or select one from the above list</td>
+              <td class="add-button-header"></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr id="input-field">
+              <td type="ajax-item">
+                <textarea title="Enter a valid url" placeholder="enter a valid url (i.e. https://www.google.com/)"></textarea>
+              </td>
+              <td type="ajax-item">
+                <textarea title="Enter a valid useragent string" placeholder="enter a valid useragent string"></textarea>
+              </td>
+              <td id="input-field-add" type="ajax-item-add" title="Add UserAgent Item"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </details>
+    <div class="separator">
+      <svg width="16" height="16" viewBox="0 0 16 16">
+        <path d="M 7,15.375 2.54,10 C 2.287,9.695 2,9.461 2,9 2,8.375 2.516,8 3,8 H 6 V 1 C 6,0.45 6.45,0 7,0 H 9 C 9.55,0 10,0.45 10,1 V 8 H 13 C 13.484,8 14,8.375 14,9 14,9.461 13.713,9.695 13.46,10 L 9,15.375 C 8.688,15.758 8.445,16 8,16 7.555,16 7.313,15.758 7,15.375 Z"/>
+      </svg>
+    </div>
+    <details class="open-b">
+      <summary>III. UserAgent Table</summary>
+      <div class="section">
+        <div class="information">
+          <p>The table below shows all the added and available useragent strings. Column (1) in this table, is the index of the user-agent item based on the priority. Please note that you can <b>DRAG</b> items to change the priority. UAs are applied to the URL/Domains based on the rendered priority. For example, if you have two UAs with URL equal to (*), UA #1 has a higher priority comparing to UA #2. Therefore, the UA for URL (*) will be #1.</br>Column (2) is the URL in which the UA will be applied. If you mark column (3), the UA will be applied to the domain derived from the URL, otherwise, the UA is only applied to the exact URL. In other words, once this option is activated, the UA will be applied to all URLs matching the domain extracted from the input URL. Column (4) shows the UA string. Column (5) is a toggle button which you can use to activate or deactivate the UA string. Column (6) is a remove button to permanently delete the UA string from the table (note: removing an item is not reversible).</p>
+        </div>
+        <table id="header-value-table">
+          <thead>
+            <tr>
+              <td class="thead-number" title="item number based on the priority.">#</td>
+              <td class="thead-url" title="desired URL (or * for all URLs)">URL</td>
+              <td class="thead-useragent" title="UA string">UserAgent</td>
+              <td class="thead-checkbox" title="Apply UserAgent for domain">domain</td>
+              <td class="thead-toggle" title="enable or disable this UA">state</td>
+              <td class="thead-remove" title="remove this UA">delete</td>
+            </tr>
+          </thead>
+          <tbody id="header-value-tbody"></tbody>
+        </table>
+      </div>
+    </details>
+    <!-- -->
+    <script type="text/javascript" src="explore/explore.js" async></script>
+    <script type="text/javascript" src="vendor/Sortable.js"></script>
+    <script type="text/javascript" src="options.js"></script>
+  </body>
+</html>

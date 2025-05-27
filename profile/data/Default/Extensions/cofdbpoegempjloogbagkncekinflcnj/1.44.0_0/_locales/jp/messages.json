@@ -1,0 +1,620 @@
+{
+  "appDesc": {
+    "message": "世界最高レベルの精度を誇るDeepL翻訳で、テキストを読みながら、または書きながら訳せます。",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "appName": {
+    "message": "DeepL翻訳（ベータ版）",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "context_menus_translate_section": {
+    "message": "選択したテキストを翻訳",
+    "description": "The right click context menu action to trigger an inline translation"
+  },
+  "default_popup_button_done": {
+    "message": "確定",
+    "description": "Button to close the default popup of the extension (settings)"
+  },
+  "error_message_generic_error": {
+    "message": "テキストを翻訳できませんでした。時間をおいてもう一度お試しください。",
+    "description": "Genric error to tell the user that there is a technical problem"
+  },
+  "error_message_technical_issue": {
+    "message": "技術的な問題により、テキストを翻訳できませんでした。問題は既知であり、近いうちに解決策を講じられるよう準備を進めています。"
+  },
+  "error_message_too_many_requests": {
+    "message": "テキストを翻訳できませんでした。ご利用のネットワークから大量のリクエストが送信されているようです。",
+    "description": "Info for free users that too many requests are triggered"
+  },
+  "extension_settings_keyboard_shortcut_perform_translation": {
+    "message": "テキストの翻訳",
+    "description": "This text will be displayed in the settings screen of the browser (we can only set the label here)."
+  },
+  "full_page_translation_auto_detect_lang": {
+    "message": "言語を検出しています..."
+  },
+  "full_page_translation_auto_translate_message": {
+    "message": "次の原文言語を自動で翻訳済み："
+  },
+  "full_page_translation_error_exceeds_char_limit": {
+    "message": "文字数の上限を超えているため、ページを翻訳できません。",
+    "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. "
+  },
+  "full_page_translation_error_service_not_available": {
+    "message": "現在、ページ全体の翻訳を実行できません。修正版の準備を進めています。ご不便をおかけいたしますが、今しばらくお待ちください。"
+  },
+  "full_page_translation_info_google_translate": {
+    "message": "Google翻訳を並行して使用しているようです。DeepLの拡張機能を正常に動作させるには、Google翻訳をオフにしてください。"
+  },
+  "full_page_translation_menu_always_translate": {
+    "message": "次の原文言語を常に翻訳："
+  },
+  "full_page_translation_menu_cancel_button": {
+    "message": "翻訳しない"
+  },
+  "full_page_translation_menu_cancel_opt_lang": {
+    "message": "翻訳しない原文言語："
+  },
+  "full_page_translation_menu_cancel_opt_website": {
+    "message": "このサイトを翻訳しない"
+  },
+  "full_page_translation_menu_headline": {
+    "message": "このサイトを翻訳しますか？"
+  },
+  "full_page_translation_menu_translate_button": {
+    "message": "翻訳"
+  },
+  "full_page_translation_no_translate_lang_change": {
+    "message": "変更する"
+  },
+  "full_page_translation_no_translate_lang_message": {
+    "message": "翻訳しない原文言語："
+  },
+  "full_page_translation_no_translate_website_change": {
+    "message": "変更する"
+  },
+  "full_page_translation_no_translate_website_message": {
+    "message": "翻訳しないサイト："
+  },
+  "full_page_translation_no_website_data": {
+    "message": "ウェブサイトからデータを取得できませんでした。ページを再度読み込んでください。"
+  },
+  "full_page_translation_ongoing_translation": {
+    "message": "翻訳しています。今しばらくお待ちください。"
+  },
+  "full_page_translation_settings_button_cancel": {
+    "message": "キャンセル"
+  },
+  "full_page_translation_settings_button_save": {
+    "message": "保存"
+  },
+  "full_page_translation_settings_done_button": {
+    "message": "確定",
+    "description": "Done button for the settings page"
+  },
+  "full_page_translation_settings_headline": {
+    "message": "設定"
+  },
+  "full_page_translation_settings_list_auto_translate_from": {
+    "message": "自動で翻訳する原文言語"
+  },
+  "full_page_translation_settings_list_never_translate_from": {
+    "message": "翻訳しない原文言語"
+  },
+  "full_page_translation_settings_list_never_translate_websites": {
+    "message": "翻訳しないサイト"
+  },
+  "full_page_translation_settings_subheader_label": {
+    "message": "ウェブサイトの翻訳",
+    "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase"
+  },
+  "full_page_translation_settings_target_lang": {
+    "message": "訳文言語"
+  },
+  "full_page_translation_settings_translate_writting": {
+    "message": "入力テキストの翻訳"
+  },
+  "full_page_translation_show_original": {
+    "message": "元の言語で表示する"
+  },
+  "inline_translation_label_show_icon_switch": {
+    "message": "読みながら翻訳する時にDeepLのアイコンを表示する",
+    "description": "Clickable label that opens the settings to disable or enable icon for translating while reading."
+  },
+  "inline_translation_label_target_language": {
+    "message": "選択したテキストを次の言語に翻訳",
+    "description": "Label displayed on top of the language selector."
+  },
+  "inline_translation_link_more_settings": {
+    "message": "その他の設定",
+    "description": "Link that opens a more detailed settings page for translating while reading."
+  },
+  "inline_translation_setting_button_ok": {
+    "message": "確定",
+    "description": "button for saving the changes done by the user."
+  },
+  "inline_translation_setting_label_title": {
+    "message": "アイコンを非表示にする",
+    "description": "Title of the setting page for enabling or disabling translation while reading."
+  },
+  "inline_translation_setting_link_cancel": {
+    "message": "キャンセル",
+    "description": "Link that cancels the changes by redirecting the user back."
+  },
+  "inline_translation_setting_radio_disable_everywhere": {
+    "message": "どのサイトでも常に非表示",
+    "description": "Radio button option to disable translation while reading everywhere"
+  },
+  "inline_translation_setting_radio_disable_per_site": {
+    "message": "このサイトで非表示",
+    "description": "Radio button option to disable translation while reading only on the current website"
+  },
+  "inline_translation_settings_headline": {
+    "message": "読む",
+    "description": "Headline for settings section of the inline translation"
+  },
+  "inline_translation_settings_target_language": {
+    "message": "右クリックで次の言語に翻訳",
+    "description": "Label for selecting the target language for inline translation. Most often this is the user's native language."
+  },
+  "inline_translation_show_more": {
+    "message": "もっと見る",
+    "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled"
+  },
+  "input_translation_button_translate": {
+    "message": "翻訳",
+    "description": "Button in the settings screen of the input translation to trigger a translation"
+  },
+  "input_translation_label_show_icon_switch": {
+    "message": "テキスト入力時にDeepLのアイコンを表示する",
+    "description": "Clickable label that opens the settings to disable or enable icon for translating while writing."
+  },
+  "input_translation_link_more_settings": {
+    "message": "その他の設定",
+    "description": "Link that opens a more detailed settings page for translating while writing."
+  },
+  "input_translation_option_choose_language": {
+    "message": "訳文の言語を毎回指定する",
+    "description": "If the user selects this option, each click on the button opens a selection to choose the target language"
+  },
+  "input_translation_option_default_translation": {
+    "message": "常にこの言語に翻訳する",
+    "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages"
+  },
+  "input_translation_setting_button_ok": {
+    "message": "確定",
+    "description": "button for saving the changes done by the user."
+  },
+  "input_translation_setting_label_title": {
+    "message": "アイコンを非表示にする",
+    "description": "Title of the setting page for enabling or disabling translation while writing."
+  },
+  "input_translation_setting_link_cancel": {
+    "message": "キャンセル",
+    "description": "Link that cancels the changes by redirecting the user back."
+  },
+  "input_translation_setting_radio_disable_everywhere": {
+    "message": "どのサイトでも常に非表示",
+    "description": "Radio button option to disable translation while writing everywhere"
+  },
+  "input_translation_setting_radio_disable_per_site": {
+    "message": "このサイトで非表示",
+    "description": "Radio button option to disable translation while writing only on the current website"
+  },
+  "input_translation_settings_headline": {
+    "message": "書く",
+    "description": "Headline for settings section of the translation of user input"
+  },
+  "input_translation_settings_target_language": {
+    "message": "入力したテキストを次の言語に翻訳",
+    "description": "Label for selecting the target language for input translation."
+  },
+  "input_translation_tooltip_settings": {
+    "message": "設定",
+    "description": "Tooltip to inform the user the button click open the settings for the input translation"
+  },
+  "input_translation_tooltip_translate": {
+    "message": "翻訳する",
+    "description": "Tooltip to inform the user the button click will trigger a translation of the written text"
+  },
+  "input_translation_tooltip_translate_to_unknown": {
+    "message": "翻訳する...",
+    "description": "Tooltip to inform the user that he/she must select a target language"
+  },
+  "layout_header_label_language_switch": {
+    "message": "訳文：",
+    "description": "Label for the \"Translate to\" inline select to translate popup."
+  },
+  "login_error_default_message": {
+    "message": "ログインに失敗しました。"
+  },
+  "login_link_label": {
+    "message": "DeepL Proにログインする",
+    "description": "Login to DeepL Pro link label"
+  },
+  "login_link_try_pro_label": {
+    "message": "DeepL Proを無料で体験する",
+    "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro"
+  },
+  "login_translate_pages_label": {
+    "message": "ウェブサイトの翻訳",
+    "description": "Translate pages label"
+  },
+  "login_translate_pages_pro_badge": {
+    "message": "PRO",
+    "description": "PRO badge stays in EN"
+  },
+  "menu_login_label": {
+    "message": "DeepL Proにログイン",
+    "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711"
+  },
+  "menu_logout_label": {
+    "message": "ログアウト",
+    "description": "Logout Label in the Menu"
+  },
+  "menu_settings_label": {
+    "message": "設定",
+    "description": "Settings Label for the Menu"
+  },
+  "menu_trial_label": {
+    "message": "DeepL Proを無料で体験",
+    "description": "Menu Try DeepL Pro for free label"
+  },
+  "notification_inline_translation_disabled_everywhere": {
+    "message": "読みながら翻訳する時にDeepLのアイコンを表示しません。$linkToSettings$で変更できます。",
+    "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+    "placeholders": {
+      "linkToSettings": {
+        "content": "$1"
+      }
+    }
+  },
+  "notification_inline_translation_disabled_per_site": {
+    "message": "$currentWebsite$で読みながら翻訳する時にDeepLのアイコンを表示しません。$linkToSettings$で変更できます。",
+    "description": "Notification with a link to the settings page when user disables translation while reading per website",
+    "placeholders": {
+      "currentWebsite": {
+        "content": "$1"
+      },
+      "linkToSettings": {
+        "content": "$2"
+      }
+    }
+  },
+  "notification_inline_translation_link_to_settings_placeholder": {
+    "message": "設定",
+    "description": "Placeholder text to the settings page link"
+  },
+  "notification_input_translation_disabled_everywhere": {
+    "message": "テキスト入力時にDeepLのアイコンを表示しない設定になっています。$linkToSettings$で変更できます。",
+    "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+    "placeholders": {
+      "linkToSettings": {
+        "content": "$1"
+      }
+    }
+  },
+  "notification_input_translation_disabled_per_site": {
+    "message": "$currentWebsite$でテキスト入力時にDeepLのアイコンを表示しない設定になっています。$linkToSettings$で変更できます。",
+    "description": "Notification with a link to the settings page when user disables translation while writing per website",
+    "placeholders": {
+      "currentWebsite": {
+        "content": "$1"
+      },
+      "linkToSettings": {
+        "content": "$2"
+      }
+    }
+  },
+  "notification_input_translation_link_to_settings_placeholder": {
+    "message": "設定",
+    "description": "Placeholder text to the settings page link"
+  },
+  "notification_keyboard_shortcut_hint": {
+    "message": "$settings$でテキストの翻訳を実行するショートカットキーを決められます",
+    "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+    "placeholders": {
+      "settings": {
+        "content": "$1"
+      }
+    }
+  },
+  "notification_keyboard_shortcut_hint_placeholder": {
+    "message": "設定",
+    "description": "The placeholder text for notification_keyboard_shortcut_hint"
+  },
+  "position_options_bottom": {
+    "message": "下"
+  },
+  "position_options_left": {
+    "message": "左"
+  },
+  "position_options_right": {
+    "message": "右"
+  },
+  "position_options_top": {
+    "message": "上"
+  },
+  "settings_aknowledgements": {
+    "message": "謝辞"
+  },
+  "settings_fpt_always_translate_from": {
+    "message": "常に翻訳する原文言語",
+    "description": "The language list comes from this key: supported_languages_"
+  },
+  "settings_fpt_always_translate_into": {
+    "message": "ページ全体を次の言語に自動で翻訳",
+    "description": "The language list comes from this key: supported_languages_"
+  },
+  "settings_fpt_never_translate_from": {
+    "message": "自動で翻訳しない原文言語",
+    "description": "The language list comes from this key: supported_languages_"
+  },
+  "settings_fpt_never_translate_sites": {
+    "message": "自動で翻訳しないサイト"
+  },
+  "settings_fpt_no_sites_line_1": {
+    "message": "まだ何も追加されていません。"
+  },
+  "settings_fpt_no_sites_line_2": {
+    "message": "自動で翻訳したくないサイトがあれば、DeepLのアイコンを使ってリストに追加できます。"
+  },
+  "settings_language_selector_empty": {
+    "message": "言語をお選びください"
+  },
+  "settings_language_selector_multiple_label_default": {
+    "message": "言語を追加"
+  },
+  "settings_menu_full_page_translation": {
+    "message": "ページ全体の翻訳"
+  },
+  "settings_menu_reading": {
+    "message": "読む"
+  },
+  "settings_menu_writing": {
+    "message": "書く"
+  },
+  "settings_reading_adjust_position": {
+    "message": "ウィンドウの位置"
+  },
+  "settings_reading_adjust_position_default": {
+    "message": "デフォルトの位置"
+  },
+  "settings_reading_always_translate_into": {
+    "message": "選択したテキストを常に次の言語に翻訳",
+    "description": "The language list comes from this key: supported_languages_"
+  },
+  "settings_reading_shortcut_change": {
+    "message": "ショートカットキーの変更はこちら"
+  },
+  "settings_reading_shortcut_label": {
+    "message": "読みながら翻訳するためのショートカットキー"
+  },
+  "settings_set_shortcuts_headline": {
+    "message": "ショートカットキー",
+    "description": "The headline for the shortcut setting"
+  },
+  "settings_set_shortcuts_link": {
+    "message": "ショートカットキーの設定はこちら",
+    "description": "A message which contains a link to the browser settings to set shortcut for extensions."
+  },
+  "settings_title": {
+    "message": "設定"
+  },
+  "settings_writing_always_translate_into": {
+    "message": "入力したテキストを常に次の言語に翻訳",
+    "description": "The language list comes from this key: supported_languages_"
+  },
+  "settings_writing_shortcut_change": {
+    "message": "ショートカットキーの変更はこちら"
+  },
+  "settings_writing_shortcut_label": {
+    "message": "読みながら翻訳するためのショートカットキー"
+  },
+  "settings_writing_show_icon_line_1": {
+    "message": "テキスト入力時にDeepLのアイコンを常に表示する"
+  },
+  "settings_writing_show_icon_line_2": {
+    "message": "テキスト入力時に表示されるアイコンです"
+  },
+  "supported_languages_BG": {
+    "message": "ブルガリア語",
+    "description": "Name of language"
+  },
+  "supported_languages_CS": {
+    "message": "チェコ語",
+    "description": "Name of language"
+  },
+  "supported_languages_DA": {
+    "message": "デンマーク語",
+    "description": "Name of language"
+  },
+  "supported_languages_DE": {
+    "message": "ドイツ語",
+    "description": "Name of language"
+  },
+  "supported_languages_EL": {
+    "message": "ギリシャ語",
+    "description": "Name of language"
+  },
+  "supported_languages_EN": {
+    "message": "英語",
+    "description": "Name of language"
+  },
+  "supported_languages_ES": {
+    "message": "スペイン語",
+    "description": "Name of language"
+  },
+  "supported_languages_ET": {
+    "message": "エストニア語",
+    "description": "Name of language"
+  },
+  "supported_languages_FI": {
+    "message": "フィンランド語",
+    "description": "Name of language"
+  },
+  "supported_languages_FR": {
+    "message": "フランス語",
+    "description": "Name of language"
+  },
+  "supported_languages_HU": {
+    "message": "ハンガリー語",
+    "description": "Name of language"
+  },
+  "supported_languages_IT": {
+    "message": "イタリア語",
+    "description": "Name of language"
+  },
+  "supported_languages_JA": {
+    "message": "日本語",
+    "description": "Name of language"
+  },
+  "supported_languages_LT": {
+    "message": "リトアニア語",
+    "description": "Name of language"
+  },
+  "supported_languages_LV": {
+    "message": "ラトビア語",
+    "description": "Name of language"
+  },
+  "supported_languages_NL": {
+    "message": "オランダ語",
+    "description": "Name of language"
+  },
+  "supported_languages_PL": {
+    "message": "ポーランド語",
+    "description": "Name of language"
+  },
+  "supported_languages_PT": {
+    "message": "ポルトガル語",
+    "description": "Name of language"
+  },
+  "supported_languages_RO": {
+    "message": "ルーマニア語",
+    "description": "Name of language"
+  },
+  "supported_languages_RU": {
+    "message": "ロシア語",
+    "description": "Name of language"
+  },
+  "supported_languages_SK": {
+    "message": "スロバキア語",
+    "description": "Name of language"
+  },
+  "supported_languages_SL": {
+    "message": "スロベニア語",
+    "description": "Name of language"
+  },
+  "supported_languages_SV": {
+    "message": "スウェーデン語",
+    "description": "Name of language"
+  },
+  "supported_languages_undefined": {
+    "message": "お選びください",
+    "description": "The user has not yet selected a target language."
+  },
+  "supported_languages_ZH": {
+    "message": "中国語（簡体字）",
+    "description": "Name of language"
+  },
+  "switch_component_off": {
+    "message": "OFF",
+    "description": "The OFF state for the switch ui element"
+  },
+  "switch_component_on": {
+    "message": "ON",
+    "description": "The ON state for the switch ui element"
+  },
+  "ui_auto_translate_label": {
+    "message": "自動で翻訳する"
+  },
+  "ui_auto_translate_tooltip": {
+    "message": "$sourceLang$のページを訪問するたびに自動で翻訳を行います。",
+    "placeholders": {
+      "sourceLang": {
+        "content": "$1"
+      }
+    }
+  },
+  "ui_doc_trans_link": {
+    "message": "<deeplLink>DeepL.com</deeplLink>で文書ファイルを丸ごと翻訳できます。"
+  },
+  "ui_login_body": {
+    "message": "ページ全体を翻訳するにはDeepL Proに<loginLink>ログイン</loginLink>するか<tryLink>無料体験をお試しください</tryLink>。"
+  },
+  "ui_login_header": {
+    "message": "このページを翻訳しますか？<badge>PRO</badge>"
+  },
+  "ui_no_translate_language": {
+    "message": "原文が$sourceLang$の時に翻訳しない",
+    "placeholders": {
+      "sourceLang": {
+        "content": "$1"
+      }
+    }
+  },
+  "ui_no_translate_website": {
+    "message": "このサイトを翻訳しない"
+  },
+  "ui_notice_no_translate_change_option": {
+    "message": "<settingsLink>settings</settingsLink>で変更できます。"
+  },
+  "ui_notice_no_translate_language": {
+    "message": "原文が<strong>$sourceLang$</strong>の時は翻訳しない設定になっています。",
+    "placeholders": {
+      "sourceLang": {
+        "content": "$1"
+      }
+    }
+  },
+  "ui_notice_no_translate_website": {
+    "message": "$website$を翻訳しない設定になっています。",
+    "placeholders": {
+      "website": {
+        "content": "$1"
+      }
+    }
+  },
+  "ui_notice_no_translate_website_and_language": {
+    "message": " <strong>$website$</strong>を翻訳しない設定になっています。また原文が<strong>$sourceLang$</strong>の時に翻訳しない設定になっています。",
+    "placeholders": {
+      "website": {
+        "content": "$1"
+      },
+      "sourceLang": {
+        "content": "$2"
+      }
+    }
+  },
+  "ui_share_button": {
+    "message": "コピー"
+  },
+  "ui_share_button_tooltip_copied": {
+    "message": "コピーしました"
+  },
+  "ui_share_button_tooltip_copy": {
+    "message": "リンクをコピーします"
+  },
+  "ui_share_error": {
+    "message": "コピー中に問題が発生しました"
+  },
+  "ui_share_success": {
+    "message": "共有リンクをコピーしました",
+    "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. "
+  },
+  "ui_share_title": {
+    "message": "友だちにDeepLを紹介しましょう！"
+  },
+  "ui_translated_automatically": {
+    "message": "<strong>$sourceLang$</strong>の原文を自動で翻訳しました。",
+    "placeholders": {
+      "sourceLang": {
+        "content": "$1"
+      }
+    }
+  },
+  "ui_try_button": {
+    "message": "無料で体験",
+    "description": "The button leads to the document translator:  https://www.deepl.com/translator/files "
+  }
+}

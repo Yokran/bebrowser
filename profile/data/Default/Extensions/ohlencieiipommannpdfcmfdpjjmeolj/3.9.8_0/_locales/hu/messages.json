@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Állítsd be a beállításaidat az élmény javításához."
+   },
+   "affected_page": {
+      "message": "Érintett oldal"
+   },
+   "blocked_by_extension": {
+      "message": "Lehet, hogy a PrintFriendly blokkolva van egy másik telepített bővítmény, például egy reklámblokkoló által. Kérjük, tiltsa le ideiglenesen a többi bővítményt, és próbálja meg újra létrehozni a PDF-et."
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "capture_screenshot_manually": {
+      "message": "Használja a Screenshot funkciónkat az oldal rögzítéséhez, majd exportálja képként vagy PDF-ként."
+   },
+   "capturing": {
+      "message": "Rögzítés"
+   },
+   "capturing_desc": {
+      "message": "Rögzítem a képernyőképét…"
+   },
+   "choose_paper_size": {
+      "message": "Válassza ki a kívánt papírméretet a PDF-ekhez."
+   },
+   "compress_pdf": {
+      "message": "PDF tömörítése"
+   },
+   "contact_us": {
+      "message": "Lépjen kapcsolatba velünk:"
+   },
+   "convert_pdf": {
+      "message": "PDF konvertálása"
+   },
+   "current_view_screenshot": {
+      "message": "Nézet képernyőkép"
+   },
+   "default_button": {
+      "message": "Alapértelmezett gomb"
+   },
+   "default_mode": {
+      "message": "Alapértelmezett mód"
+   },
+   "default_mode_checkbox": {
+      "message": "Ne mutassa újra ezeket. Engedélyezheti őket a Beállításokban."
+   },
+   "default_mode_desc": {
+      "message": "Válassza ki a műveletet, amely automatikusan kiválasztásra kerül a gomb megnyomásakor."
+   },
+   "delete": {
+      "message": "Kattints a törléshez"
+   },
+   "dialog_close": {
+      "message": "Bezár"
+   },
+   "dialog_text": {
+      "message": "Nyomtatóra küldés"
+   },
+   "dialog_text_btn": {
+      "message": "újraküldés"
+   },
+   "dialog_title": {
+      "message": "Oldal nyomtatása"
+   },
+   "dont_show_again": {
+      "message": "Ne mutassa ezt újra."
+   },
+   "edit_pdf": {
+      "message": "PDF szerkesztése"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_article_sent": {
+      "message": "küldött egy cikket"
+   },
+   "email_from": {
+      "message": "Feladó"
+   },
+   "email_message": {
+      "message": "Üzenet"
+   },
+   "email_product_sent_message": {
+      "message": "Az e-mail üzenet el lett küldve. Lehet hogy zárja be az oldalt"
+   },
+   "email_send": {
+      "message": "Küld"
+   },
+   "email_sent_message": {
+      "message": "Az e-mail üzenet el lett küldve"
+   },
+   "email_title": {
+      "message": "Oldal ajánlása emailben"
+   },
+   "email_to": {
+      "message": "Címzett"
+   },
+   "full_page_screenshot": {
+      "message": "Oldal képernyőkép"
+   },
+   "get_pro": {
+      "message": "Frissítés"
+   },
+   "got_it": {
+      "message": "Értem"
+   },
+   "image": {
+      "message": "Kép"
+   },
+   "image_size_pref": {
+      "message": "Képméret beállítás"
+   },
+   "image_size_pref_desc": {
+      "message": "Állítsa be a képek méretét, amikor az oldalak megtekintése a bővítménnyel történik."
+   },
+   "images": {
+      "message": "Képek"
+   },
+   "lang_display_name": {
+      "message": "Magyar (Hungarian)"
+   },
+   "language_setting": {
+      "message": "Nyelv"
+   },
+   "language_setting_desc": {
+      "message": "Válassza ki a kívánt nyelvet."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Bejelentkezés"
+   },
+   "margin": {
+      "message": "Oldalmargó"
+   },
+   "no": {
+      "message": "Nem"
+   },
+   "off": {
+      "message": "Kikapcsolva"
+   },
+   "other_tools": {
+      "message": "Eszközök"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Ez az oldal blokkolja a PrintFriendly-t"
+   },
+   "page_size": {
+      "message": "Oldalméret"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "PDF letöltése"
+   },
+   "pdf_generation_error": {
+      "message": "PDF generálási hiba"
+   },
+   "pdf_head": {
+      "message": "PDF készítése"
+   },
+   "pdf_paper_size": {
+      "message": "PDF papírméret"
+   },
+   "print": {
+      "message": "Nyomtatás"
+   },
+   "print_pdf": {
+      "message": "Print & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Távolítsa el hirdetéseket. Jól működik cikkekkel és szöveges oldalakkal."
+   },
+   "printer_friendly_page": {
+      "message": "Nyomtatóbarát oldal"
+   },
+   "printer_friendly_suggestion": {
+      "message": "A nyomtatóbarát verzió nem az"
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly oldal"
+   },
+   "pro_alert": {
+      "message": "Frissítési szolgáltatás"
+   },
+   "reach_out_for_support": {
+      "message": "További részletekért vagy támogatásért kérjük, lépjen kapcsolatba velünk a következő címen"
+   },
+   "read_more": {
+      "message": "Tovább"
+   },
+   "remove_ads_description": {
+      "message": "Eltávolítja a hirdetéseket és a navigációt a weboldalakról. Jól működik cikkekkel és szövegközpontú oldalakkal."
+   },
+   "remove_images": {
+      "message": "Képek eltávolítása"
+   },
+   "report": {
+      "message": "Jelentés"
+   },
+   "resolve_issue": {
+      "message": "és segítünk megoldani a problémát."
+   },
+   "save_as_image": {
+      "message": "Mentés képként"
+   },
+   "save_as_pdf": {
+      "message": "Mentés PDF-ként"
+   },
+   "save_changes": {
+      "message": "Mentés"
+   },
+   "screenshot": {
+      "message": "Képernyőkép"
+   },
+   "screenshot_image_format": {
+      "message": "Képernyőkép képformátuma"
+   },
+   "screenshot_ready_soon": {
+      "message": "A képernyőképe hamarosan elkészül."
+   },
+   "screenshot_restriction_message": {
+      "message": "A PrintFriendly a legtöbb weboldalon működik, megkönnyítve a tisztább, nyomtatóbarát oldalak és képernyőképek létrehozását. Azonban bizonyos oldalak—mint például a böngésző beállításai, a bővítmények áruházai és más korlátozott területek—a böngésző házirendjei miatt nem érhetők el. Kérjük, lépjen kapcsolatba velünk, ha kérdése van."
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "settings_saved": {
+      "message": "Beállításaid elmentésre kerültek."
+   },
+   "show_screenshot_message": {
+      "message": "Mutassa a képernyőkép üzenetét a nyomtatóbarát nézetben"
+   },
+   "something_went_wrong": {
+      "message": "Valami elromlott"
+   },
+   "still_does_not_work": {
+      "message": "Ha még mindig nem működik, kérjük, vegye fel velünk a kapcsolatot a"
+   },
+   "stop_capturing": {
+      "message": "Rögzítés leállítása"
+   },
+   "strict_security_settings": {
+      "message": "Sajnáljuk, de ez az oldal szigorú biztonsági beállításokkal rendelkezik (Tartalombiztonsági irányelvek), amelyek megakadályozzák, hogy létrehozzunk egy PrintFriendly verziót az oldalról."
+   },
+   "style": {
+      "message": "Stílus"
+   },
+   "take_screenshot": {
+      "message": "Készíts képernyőképet:"
+   },
+   "text_size_pref": {
+      "message": "Szövegméret beállítás"
+   },
+   "text_size_pref_desc": {
+      "message": "Állítsa be a szöveg méretét, amikor az oldalak megtekintése a bővítménnyel történik."
+   },
+   "timed_out_pdf": {
+      "message": "Lehet, hogy a PrintFriendly időtúllépés miatt nem tudott PDF-et létrehozni. Lehet, hogy túl nagy volt ahhoz, hogy a rendszerünk kezelje."
+   },
+   "txt_size": {
+      "message": "Szövegméret"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Nem sikerült PDF-et létrehozni ehhez az oldalhoz."
+   },
+   "undo": {
+      "message": "Visszavonás"
+   },
+   "what_you_can_do": {
+      "message": "Mit tehetsz"
+   },
+   "yes": {
+      "message": "Igen"
+   }
+}

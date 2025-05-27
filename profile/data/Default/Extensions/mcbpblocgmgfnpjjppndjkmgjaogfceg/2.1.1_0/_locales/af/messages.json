@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Meer oor..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Neem die internet blaaier  af"
+   },
+   "action_capture_entire": {
+      "message": "Neem die hele bladsy af en"
+   },
+   "action_capture_entire_lite": {
+      "message": "Neem die hele bladsy af"
+   },
+   "action_capture_selection": {
+      "message": "Neem die seleksie / element af en"
+   },
+   "action_capture_selection_lite": {
+      "message": "Neem die seleksie af"
+   },
+   "action_capture_tabs": {
+      "message": "Neem alle gidse af en"
+   },
+   "action_capture_visible": {
+      "message": "Neem die sigbare deel af en"
+   },
+   "action_capture_visible_lite": {
+      "message": "Neem die sigbare deel af"
+   },
+   "action_copy": {
+      "message": "Kopieer na klipbord"
+   },
+   "action_edit": {
+      "message": "Verander"
+   },
+   "action_email": {
+      "message": "E-Pos"
+   },
+   "action_enter_license": {
+      "message": "Vul in registrasie informasie"
+   },
+   "action_external": {
+      "message": "Maak oop in 'n externe program"
+   },
+   "action_install_native": {
+      "message": "Probeer gevorderde opsies"
+   },
+   "action_license_info": {
+      "message": "Lisensie informasie..."
+   },
+   "action_micsellaneous": {
+      "message": "Alles anders"
+   },
+   "action_onenote": {
+      "message": "Stuur na OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Maak oop van die klipbord"
+   },
+   "action_open_file": {
+      "message": "Maak lêer oop"
+   },
+   "action_options": {
+      "message": "Opsies"
+   },
+   "action_print": {
+      "message": "Druk"
+   },
+   "action_register": {
+      "message": "Registreer"
+   },
+   "action_resume": {
+      "message": "Hervat redigering"
+   },
+   "action_save": {
+      "message": "Stoor"
+   },
+   "action_save_pdf": {
+      "message": "Stoor as PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Stoor as enkele PDF"
+   },
+   "action_support": {
+      "message": "Ondersteuning"
+   },
+   "action_switch_pro": {
+      "message": "Verander na Pro toe"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktiveer Pro funksies om voort te gaan..."
+   },
+   "action_upload": {
+      "message": "Laai op"
+   },
+   "action_view_demo": {
+      "message": "Sien demonstrasie"
+   },
+   "application_description": {
+      "message": "Neem VOLLE webbladsy skermskote.  Vang, verander en stoor hulle as PDF/JPEG/GIF/PNG, laai op, druk, stuur na OneNote, klipbord of e-pos."
+   },
+   "application_title": {
+      "message": "Neem skermskote van hele webbladsye - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Koop Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopieer na klipbord"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Leer hoe..."
+   },
+   "captured_get_free_button": {
+      "message": "Probeer dit Verniet"
+   },
+   "captured_print": {
+      "message": "Druk"
+   },
+   "captured_print_button": {
+      "message": "Druk"
+   },
+   "captured_recommend_us": {
+      "message": "Beveel FireShot aan"
+   },
+   "captured_save_as_image": {
+      "message": "Stoor as Beeld"
+   },
+   "captured_save_as_image_button": {
+      "message": "Stoor as Beeld"
+   },
+   "captured_save_as_pdf": {
+      "message": "Stoor as PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Stoor Skermskoot"
+   },
+   "captured_saving_options": {
+      "message": "maak dit persoonlik"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Stel kortsleutels en lêer instellings op."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Neem, Annoteer, Druk en Stoor beter, Verander, Laai op, stuur na E-Pos / OneNote toe, of Stuur na 'n ander program toe."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Opgradeer na FireShot Pro toe"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Ek het 'n ander weergawe van FireShot gebruik"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Kan ek dit terugkry?"
+   },
+   "enable_checkbox": {
+      "message": "Aktiveer"
+   },
+   "options_button_apply": {
+      "message": "Pas toe"
+   },
+   "options_button_save_close": {
+      "message": "Stoor en maak toe"
+   },
+   "options_button_setup": {
+      "message": "Klik om op te stel"
+   },
+   "options_label_and": {
+      "message": "en"
+   },
+   "options_label_capturing": {
+      "message": "Besig om af te neem"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Maak hierdie blad toe na dit gestoor is"
+   },
+   "options_label_customize_saving": {
+      "message": "Pas die stoor process aan"
+   },
+   "options_label_default_filename_template": {
+      "message": "Standaard lêernaam sjabloon"
+   },
+   "options_label_default_folder": {
+      "message": "Standaarde gids stoorplek"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Relatiewe lêerpad van die Downloads gids waar die lêer gestoor gaan word, wat moontlik 'n sub-gids kan bevat. Absolute paaie, leë paaie en paaie wat terugverwysings bevat «..» sal 'n fout veroorsaak."
+   },
+   "options_label_editor_options": {
+      "message": "Opsies"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integreer FireShot in die konteks kieslys"
+   },
+   "options_label_file_settings": {
+      "message": "Lêer instellings"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot opsies"
+   },
+   "options_label_hotkey": {
+      "message": "Kortsleutels"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Laaste gebruikte aksie"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Moenie die \"Stoor as\" dialoog wys nie"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Wys afgelaaide lêer in sy gids na dit gestoor is"
+   },
+   "options_label_save_image_as": {
+      "message": "Stoor Beeld As:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Spesifiseer program en stoor opsies, lêer naam voorkeur, style, ens."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Spesifiseer die sleutel kombinasie om FireShot oop te maak:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Spesifiseer grootte veranderings opsies en klanke."
+   },
+   "options_label_template_day": {
+      "message": "Dag"
+   },
+   "options_label_template_hour": {
+      "message": "Uur"
+   },
+   "options_label_template_limit_1": {
+      "message": "Beperk lêernaam lengte na"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakters"
+   },
+   "options_label_template_minutes": {
+      "message": "Minutes"
+   },
+   "options_label_template_month": {
+      "message": "Maand"
+   },
+   "options_label_template_pad_1": {
+      "message": "Voeg by die nommer"
+   },
+   "options_label_template_pad_2": {
+      "message": "nulle"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekondes"
+   },
+   "options_label_template_title": {
+      "message": "Bladsy titel"
+   },
+   "options_label_template_url": {
+      "message": "Bladsy adres"
+   },
+   "options_label_template_website": {
+      "message": "Domainnaam"
+   },
+   "options_label_template_year": {
+      "message": "Jaar"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Wys lêernaam sjabloon verstellings..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Verwyder lêernaam sjabloon verstellings..."
+   }
+}

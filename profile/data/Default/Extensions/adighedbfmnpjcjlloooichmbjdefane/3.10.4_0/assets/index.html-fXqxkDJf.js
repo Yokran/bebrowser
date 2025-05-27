@@ -1,0 +1,1 @@
+import{j as e,v as t,c as r}from"./index-fIM9nPVD.js";import{p as o}from"./const-DewCs8rR.js";import"./_commonjsHelpers-DBcs7C3A.js";function n(){return e.jsx(t,{projectId:o,extId:chrome.runtime.id,callbackExtId:chrome.runtime.id,showNoNeedLoginWarning:!1})}r.createRoot(document.getElementById("app")).render(e.jsx(n,{}));

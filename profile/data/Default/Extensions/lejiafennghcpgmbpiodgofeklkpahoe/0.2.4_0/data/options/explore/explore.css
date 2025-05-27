@@ -1,0 +1,105 @@
+#explore {
+  color: #333;
+  min-height: 16px;
+  position: relative;
+  padding: 0 0 5px 0;
+  background: transparent;
+}
+
+#explore span {
+  user-select: none;
+  vertical-align: middle;
+}
+
+#explore[data-loaded=true] {
+  font-size: 13px;
+  padding: 5px 5px;
+  margin: 0 0 10px 0;
+  font-family: arial, sans-serif;
+}
+
+#explore .container {
+  width: 100%;
+  margin: auto;
+  margin-top: 5px;
+  font-size: 13px;
+  table-layout: fixed;
+}
+
+#explore .explore {
+  top: 0;
+  right: 5px;
+  padding: 0;
+  color: #777;
+  font-size: 13px;
+  cursor: pointer;
+  z-index: 1000000;
+  position: absolute;
+}
+
+#explore .close {
+  top: 3px;
+  right: 3px;
+  cursor: pointer;
+  font-size: 11px;
+  padding: 1px 8px;
+  position: absolute;
+  background-color: transparent;
+}
+
+#explore a {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  font-size: 13px;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  justify-content: center;
+}
+
+#explore .icon {
+  margin: 0;
+  padding: 0;
+  width: 24px;
+  color: #FFF;
+  height: 24px;
+  min-width: 24px;
+  font-size: 10px;
+  line-height: 24px;
+  text-align: center;
+  border-radius: 48px;
+  display: inline-block;
+  font-family: arial, sans-serif;
+}
+
+#explore .name {
+  padding: 0;
+  color: #333;
+  font-size: 13px;
+  overflow: hidden;
+  margin: 0 0 0 5px;
+  white-space: nowrap;
+  display: inline-block;
+  text-overflow: ellipsis;
+  font-family: arial, sans-serif;
+}
+
+#explore a, #explore .close, #explore .explore {
+  transition: 300ms ease all;
+}
+
+#explore .close:hover {
+  color: #FFF;
+  background-color: #C75050;
+}
+
+#explore a:hover, #explore .explore:hover {
+  background-color: rgba(0,0,0,0.03);
+}
+
+#explore .spacer {
+  padding: 0 10px;
+  border-left: solid 1px #c3c3c3;
+}

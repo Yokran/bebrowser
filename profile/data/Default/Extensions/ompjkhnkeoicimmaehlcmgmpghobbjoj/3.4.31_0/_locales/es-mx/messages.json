@@ -1,0 +1,11 @@
+{
+  "extensionName": { "message": "Cashback Assistant", "description": "Name of the extension." },
+  "extensionLongName": {
+    "message": "Cashback Assistant",
+    "description": "Long name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Consigue los porcentajes de cashback más altos con Cashback Assistant",
+    "description": "Description of the extension."
+  }
+}

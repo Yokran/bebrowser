@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>InsTF</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="256" height="256" rx="36"></rect>
+    </defs>
+    <g id="InsTF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#FCD813" xlink:href="#path-1"></use>
+        <path d="M-2.27373675e-13,-6.03961325e-14 L105,-6.03961325e-14 L105,23 C105,42.882251 88.882251,59 69,59 L-2.27373675e-13,59 L-2.27373675e-13,59 L-2.27373675e-13,-6.03961325e-14 Z" id="Rectangle-2" fill="#AF30BC" mask="url(#mask-2)"></path>
+        <text mask="url(#mask-2)" font-family="PingFangSC-Semibold, PingFang SC" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="6.42" y="43">InsTF</tspan>
+        </text>
+        <g id="Group-5" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+            <g transform="translate(50.000000, 59.000000)">
+                <g id="follower">
+                    <ellipse id="Oval" stroke="#000000" stroke-width="10" cx="75.7128065" cy="43.7349746" rx="44.0779292" ry="43.7349746"></ellipse>
+                    <path d="M75.9237057,87.4699491 C33.9922009,87.4699491 2.84217094e-14,121.197669 2.84217094e-14,162.80292" id="Shape" stroke="#000000" stroke-width="10"></path>
+                </g>
+                <g id="trend" transform="translate(75.923706, 80.600491)">
+                    <polyline id="Path" stroke="#000000" stroke-width="10" points="0 82.2024283 29.1908871 33 43.86703 81.3995085 86 2.48689958e-13 56.8049146 11.0682865"></polyline>
+                    <line x1="86.2871935" y1="0.399508546" x2="93.5762943" y2="27.8995085" id="Path-6" stroke="#000000" stroke-width="10"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

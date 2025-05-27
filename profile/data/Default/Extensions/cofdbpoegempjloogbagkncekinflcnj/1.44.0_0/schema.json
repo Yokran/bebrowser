@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "requireLogin": {
+      "type": "boolean",
+      "title": "Login Wall",
+      "description": "Indicates whether the login wall should be set, requiring users to log in."
+    },
+    "suggestIdp": {
+      "type": "string",
+      "title": "Suggest IDP",
+      "description": "A string with the name of the identity provider to suggest for the user."
+    }
+  }
+}

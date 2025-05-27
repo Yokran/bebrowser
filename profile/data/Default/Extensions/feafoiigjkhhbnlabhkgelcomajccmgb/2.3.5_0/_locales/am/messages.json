@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Exports Reactions from Facebook to Google Sheet. You can easily analyze your Post engagement."
+   },
+   "name": {
+      "message": "ESUIT | Reactions Exporter for Facebook™"
+   }
+}

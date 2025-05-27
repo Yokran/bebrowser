@@ -1,0 +1,488 @@
+{
+   "action_about": {
+      "description": "",
+      "message": "O nás"
+   },
+   "action_api": {
+      "description": "",
+      "message": "FireShot API rozhraní"
+   },
+   "action_capture_browser": {
+      "description": "",
+      "message": "Zachyť okno prohlížeče a"
+   },
+   "action_capture_entire": {
+      "description": "",
+      "message": "Zachyť celou stránku a"
+   },
+   "action_capture_entire_lite": {
+      "description": "",
+      "message": "Zachyť celou stránku"
+   },
+   "action_capture_selection": {
+      "description": "",
+      "message": "Zachyť sekci / element a"
+   },
+   "action_capture_selection_lite": {
+      "description": "",
+      "message": "Zachyť sekci"
+   },
+   "action_capture_stop": {
+      "message": "Přestaňte snímat"
+   },
+   "action_capture_tabs": {
+      "description": "",
+      "message": "Zachyť všechny záložky a "
+   },
+   "action_capture_visible": {
+      "description": "",
+      "message": "Zachyť viditelnou část a"
+   },
+   "action_capture_visible_lite": {
+      "description": "",
+      "message": "Zachyť viditelnou část"
+   },
+   "action_copy": {
+      "description": "",
+      "message": "Uložit do schránky"
+   },
+   "action_edit": {
+      "description": "",
+      "message": "Změnit"
+   },
+   "action_email": {
+      "description": "",
+      "message": "E-mail"
+   },
+   "action_enter_license": {
+      "description": "",
+      "message": "Vlož licenční informace"
+   },
+   "action_external": {
+      "description": "",
+      "message": "Otevřít v jiné aplikaci"
+   },
+   "action_install_native": {
+      "Description": "",
+      "description": "",
+      "message": "Zkus pokročilé funkce"
+   },
+   "action_license_info": {
+      "description": "",
+      "message": "Licenční informace"
+   },
+   "action_micsellaneous": {
+      "Description": "",
+      "description": "",
+      "message": "Různé"
+   },
+   "action_onenote": {
+      "description": "",
+      "message": "Odeslat do OneNote"
+   },
+   "action_open_clipboard": {
+      "description": "",
+      "message": "Otevři z clipboardu/schránky"
+   },
+   "action_open_file": {
+      "description": "",
+      "message": "Otevři soubor"
+   },
+   "action_options": {
+      "description": "",
+      "message": "Možnosti"
+   },
+   "action_print": {
+      "description": "",
+      "message": "Tisk"
+   },
+   "action_register": {
+      "description": "",
+      "message": "Registrace"
+   },
+   "action_resume": {
+      "description": "",
+      "message": "Pokračuj v editaci"
+   },
+   "action_save": {
+      "description": "",
+      "message": "Uložit"
+   },
+   "action_save_pdf": {
+      "description": "",
+      "message": "Uložit jako PDF"
+   },
+   "action_save_pdf_single": {
+      "description": "",
+      "message": "Ulož jako jedno PDF"
+   },
+   "action_support": {
+      "description": "",
+      "message": "Podpora"
+   },
+   "action_switch_pro": {
+      "description": "",
+      "message": "Přepni na Pro"
+   },
+   "action_switch_pro_tabs": {
+      "description": "",
+      "message": "Aktivuj Pro funkce pro pokračování"
+   },
+   "action_upload": {
+      "description": "",
+      "message": "Nahrát"
+   },
+   "action_view_demo": {
+      "description": "",
+      "message": "Ukaž demo"
+   },
+   "application_description": {
+      "description": "",
+      "message": "Udělej snímek celé webové stránky. Zachyť, edituj a ulož do PDF/JPEG/GIF/PNG, nasdílej, tiskni, odešli do OneNote, do clipboardu nebo emailu. "
+   },
+   "application_title": {
+      "description": "",
+      "message": "Udělej printscreen celé webové stránky - FireShot"
+   },
+   "captured_button_continue": {
+      "message": "Pokračovat"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Zdarma 10denní zkušební verze"
+   },
+   "captured_button_no_credit_card": {
+      "message": "Není vyžadována žádná kreditní karta"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "Nelíbí se mi to"
+   },
+   "captured_button_rate_later": {
+      "message": "Možná později"
+   },
+   "captured_button_rate_like": {
+      "message": "Líbí se mi to"
+   },
+   "captured_buy_pro_button": {
+      "description": "",
+      "message": "Koupit Pro"
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Vlastní velikost stránky"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Přímé odkazy"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Zakázat výběr textu"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Rozdělit na stránky"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "Prohledávat text"
+   },
+   "captured_copy_clipboard": {
+      "Description": "",
+      "description": "",
+      "message": "Kopíruj do clipboardu"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "Description": "",
+      "description": "",
+      "message": "Naučit se jak"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Při instalaci pokročilých funkcí postupujte podle pokynů"
+   },
+   "captured_get_free_button": {
+      "description": "",
+      "message": "Vyzkoušet zdarma"
+   },
+   "captured_information": {
+      "message": "informace"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Tuto stránku lze lépe zachytit pomocí nainstalovaných pokročilých funkcí"
+   },
+   "captured_label_progress_sign": {
+      "message": "Skoro připraven"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Získejte FireShot pro"
+   },
+   "captured_link_read_more": {
+      "message": "Přečtěte si více"
+   },
+   "captured_link_report_problem": {
+      "message": "Nahlásit problém"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Upgradujte na Pro a povolte doplňky"
+   },
+   "captured_print": {
+      "Description": "",
+      "description": "",
+      "message": "Tisk"
+   },
+   "captured_print_button": {
+      "Description": "",
+      "description": "",
+      "message": "Tisk"
+   },
+   "captured_rate_button": {
+      "message": "Ohodnoťte FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "Vývoj FireShot vyžaduje spoustu osobního času"
+   },
+   "captured_rate_line2": {
+      "message": "Ten čas mohl být věnován rodině nebo odpočinku"
+   },
+   "captured_rate_line3": {
+      "message": "Jako ocenění našeho úsilí byste byli tak hodní hodnotit FireShot?"
+   },
+   "captured_rate_line4": {
+      "message": "To by pomohlo lidem rychleji objevit FireShot"
+   },
+   "captured_rate_question": {
+      "message": "Můžete s námi sdílet, ať už se vám FireShot líbí nebo ne?"
+   },
+   "captured_recommend_us": {
+      "Description": "",
+      "description": "",
+      "message": "Doporuč FireShot"
+   },
+   "captured_save_as_image": {
+      "Description": "",
+      "description": "",
+      "message": "Ulož jako obrázek"
+   },
+   "captured_save_as_image_button": {
+      "Description": "",
+      "description": "",
+      "message": "Ulož jako obrázek"
+   },
+   "captured_save_as_pdf": {
+      "Description": "",
+      "description": "",
+      "message": "Ulož do PDF"
+   },
+   "captured_save_panel_title": {
+      "Description": "",
+      "description": "",
+      "message": "Ulož screenshot"
+   },
+   "captured_saving_options": {
+      "description": "",
+      "message": "upravit"
+   },
+   "captured_setup_hotkeys": {
+      "Description": "",
+      "description": "",
+      "message": "Nastavit šablonu názvu souboru ..."
+   },
+   "captured_success": {
+      "message": "Úspěch"
+   },
+   "captured_upgrade_link_1": {
+      "Description": "",
+      "description": "",
+      "message": "Zachyť, okomentuj, tiskni a ulož lepší, edituj, nahraj, odešli do emailu/ OneNote nebo exportuj do jiného programu."
+   },
+   "captured_upgrade_link_2": {
+      "Description": "",
+      "description": "",
+      "message": "Upgraduj na FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "Description": "",
+      "description": "",
+      "message": "Používal jsem jinou verzi FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "Description": "",
+      "description": "",
+      "message": "Mohu se vrátit?"
+   },
+   "enable_checkbox": {
+      "description": "",
+      "message": "Zapnout"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Povolit nekonečné posouvání stránek"
+   },
+   "options_button_apply": {
+      "description": "",
+      "message": "Použít"
+   },
+   "options_button_save_close": {
+      "description": "",
+      "message": "Uložit a zavřít"
+   },
+   "options_button_setup": {
+      "description": "",
+      "message": "Klikni pro nastavení"
+   },
+   "options_label_and": {
+      "Description": "",
+      "description": "",
+      "message": "a"
+   },
+   "options_label_capturing": {
+      "description": "",
+      "message": "Zachycení"
+   },
+   "options_label_close_tab_after_saving": {
+      "description": "",
+      "message": "Zavřít záložku po uložení"
+   },
+   "options_label_customize_saving": {
+      "description": "",
+      "message": "Upravit ukládací proces"
+   },
+   "options_label_default_filename_template": {
+      "Description": "",
+      "description": "",
+      "message": "Defaultní šablona názvu souboru"
+   },
+   "options_label_default_folder": {
+      "description": "",
+      "message": "Defaultní výstupní složka"
+   },
+   "options_label_default_folder_hint": {
+      "description": "",
+      "message": "Cesta odkazující do adresáře stažených obsahuje uložené soubory, může obsahovat podsložky.\nAbsolutní cesty, prázdné cesty, a cesty obsahující zpětné odkazy «..» budou způsobovat chybu."
+   },
+   "options_label_editor_options": {
+      "description": "",
+      "message": "Možnosti editoru"
+   },
+   "options_label_enable_context_menu": {
+      "description": "",
+      "message": "Integrovat FireShot do kontextového menu"
+   },
+   "options_label_file_settings": {
+      "Description": "",
+      "description": "",
+      "message": "Nastavení souboru"
+   },
+   "options_label_fireshot_options": {
+      "description": "",
+      "message": "FireShot možnosti"
+   },
+   "options_label_hotkey": {
+      "description": "",
+      "message": "Klávesové zkratky"
+   },
+   "options_label_last_action_hotkey": {
+      "Description": "",
+      "description": "",
+      "message": "Poslední použitá akce"
+   },
+   "options_label_no_saveas_dialog": {
+      "description": "",
+      "message": "Neukazovat 'Uložit jako' dialog "
+   },
+   "options_label_open_folder_after_saving": {
+      "description": "",
+      "message": "Po uložení zobrazit sobory ve složce"
+   },
+   "options_label_save_image_as": {
+      "Description": "",
+      "description": "",
+      "message": "Uložit obrázek jako:"
+   },
+   "options_label_specify_editor_options": {
+      "description": "",
+      "message": "Specifikuj nastavení editoru a ukládání, předvolby názvů souborů, stylů, atd."
+   },
+   "options_label_specify_hotkey": {
+      "description": "",
+      "message": "Specifikuj klávesovou zkratku pro zapnutí FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "description": "",
+      "message": "Specifikuj nastavení velikosti a zvuku"
+   },
+   "options_label_template_day": {
+      "Description": "",
+      "description": "",
+      "message": "den"
+   },
+   "options_label_template_hour": {
+      "Description": "",
+      "description": "",
+      "message": "hodina"
+   },
+   "options_label_template_limit_1": {
+      "Description": "",
+      "description": "",
+      "message": "Limit délky názvu souboru  "
+   },
+   "options_label_template_limit_2": {
+      "Description": "",
+      "description": "",
+      "message": "znaky"
+   },
+   "options_label_template_minutes": {
+      "Description": "",
+      "description": "",
+      "message": "Minuta"
+   },
+   "options_label_template_month": {
+      "Description": "",
+      "description": "",
+      "message": "měsíc"
+   },
+   "options_label_template_pad_1": {
+      "Description": "",
+      "description": "",
+      "message": "Zarovnání čísla s"
+   },
+   "options_label_template_pad_2": {
+      "Description": "",
+      "description": "",
+      "message": "nuly"
+   },
+   "options_label_template_seconds": {
+      "Description": "",
+      "description": "",
+      "message": "Sekunda"
+   },
+   "options_label_template_title": {
+      "Description": "",
+      "description": "",
+      "message": "název stránky"
+   },
+   "options_label_template_url": {
+      "Description": "",
+      "description": "",
+      "message": "URL stránky"
+   },
+   "options_label_template_website": {
+      "description": "",
+      "message": "Název domény"
+   },
+   "options_label_template_year": {
+      "Description": "",
+      "description": "",
+      "message": "rok"
+   },
+   "options_link_filename_template_settings": {
+      "Description": "",
+      "description": "",
+      "message": "Ukaž nastavení šablony názvu souborů"
+   },
+   "options_link_filename_template_settings_hide": {
+      "Description": "",
+      "description": "",
+      "message": "Schovej nastavení šablony názvu souborů"
+   },
+   "options_page_scrolling_speed": {
+      "message": "Rychlost posouvání stránky:"
+   },
+   "void": {
+      "description": "",
+      "message": ""
+   }
+}

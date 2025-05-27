@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Sesuaikan pengaturan Anda untuk meningkatkan pengalaman Anda."
+   },
+   "affected_page": {
+      "message": "Halaman Terdampak"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly mungkin diblokir oleh ekstensi lain yang Anda pasang, seperti pemblokir iklan. Harap nonaktifkan ekstensi lain Anda untuk sementara dan coba buat PDF lagi."
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "capture_screenshot_manually": {
+      "message": "Gunakan fitur Screenshot kami untuk menangkap halaman ini, lalu ekspor sebagai gambar atau PDF."
+   },
+   "capturing": {
+      "message": "Mengambil"
+   },
+   "capturing_desc": {
+      "message": "Menangkap layar…"
+   },
+   "choose_paper_size": {
+      "message": "Pilih ukuran kertas pilihan Anda untuk PDF."
+   },
+   "compress_pdf": {
+      "message": "Kompres PDF"
+   },
+   "contact_us": {
+      "message": "Hubungi Kami:"
+   },
+   "convert_pdf": {
+      "message": "Konversi PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Screenshot tampilan"
+   },
+   "default_button": {
+      "message": "Tombol Default"
+   },
+   "default_mode": {
+      "message": "Mode Default"
+   },
+   "default_mode_checkbox": {
+      "message": "Jangan tampilkan opsi ini lagi. Aktifkan di Pengaturan."
+   },
+   "default_mode_desc": {
+      "message": "Pilih tindakan yang akan dipilih secara otomatis saat Anda mengklik tombol ekstensi."
+   },
+   "delete": {
+      "message": "Hapus"
+   },
+   "dialog_close": {
+      "message": "Tutup"
+   },
+   "dialog_text": {
+      "message": "Mengirim ke printer Anda"
+   },
+   "dialog_text_btn": {
+      "message": "Kirim ulang"
+   },
+   "dialog_title": {
+      "message": "Mencetak Halaman Anda"
+   },
+   "dont_show_again": {
+      "message": "Jangan tampilkan ini lagi."
+   },
+   "edit_pdf": {
+      "message": "Edit PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "Mengirimkan artikel kepada Anda"
+   },
+   "email_from": {
+      "message": "Dari"
+   },
+   "email_message": {
+      "message": "Pesan"
+   },
+   "email_product_sent_message": {
+      "message": "Pesan email Anda telah dikirim. Anda dapat menutup halaman"
+   },
+   "email_send": {
+      "message": "Kirim"
+   },
+   "email_sent_message": {
+      "message": "Pesan email Anda telah dikirim"
+   },
+   "email_title": {
+      "message": "Kirim halaman ini melalui email"
+   },
+   "email_to": {
+      "message": "Kepada"
+   },
+   "full_page_screenshot": {
+      "message": "Screenshot halaman"
+   },
+   "get_pro": {
+      "message": "Dapatkan Pro"
+   },
+   "got_it": {
+      "message": "Mengerti"
+   },
+   "image": {
+      "message": "Gambar"
+   },
+   "image_size_pref": {
+      "message": "Preferensi Ukuran Gambar"
+   },
+   "image_size_pref_desc": {
+      "message": "Atur ukuran gambar saat melihat halaman dengan ekstensi."
+   },
+   "images": {
+      "message": "Gambar"
+   },
+   "lang_display_name": {
+      "message": "Bahasa Indonesia (Indonesian)"
+   },
+   "language_setting": {
+      "message": "Bahasa"
+   },
+   "language_setting_desc": {
+      "message": "Pilih bahasa pilihan Anda."
+   },
+   "letter_paper_size": {
+      "message": "Surat"
+   },
+   "login": {
+      "message": "Masuk"
+   },
+   "margin": {
+      "message": "Margin"
+   },
+   "no": {
+      "message": "Tidak"
+   },
+   "off": {
+      "message": "Mati"
+   },
+   "other_tools": {
+      "message": "Alat Lainnya"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Halaman Ini Memblokir PrintFriendly"
+   },
+   "page_size": {
+      "message": "Ukuran halaman"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Unduh PDF Anda"
+   },
+   "pdf_generation_error": {
+      "message": "Kesalahan Pembuatan PDF"
+   },
+   "pdf_head": {
+      "message": "Membuat PDF Anda"
+   },
+   "pdf_paper_size": {
+      "message": "Ukuran Kertas PDF"
+   },
+   "print": {
+      "message": "Cetak"
+   },
+   "print_pdf": {
+      "message": "Cetak & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Hapus iklan dan navigasi dari halaman web. Berfungsi baik dengan artikel dan halaman teks."
+   },
+   "printer_friendly_page": {
+      "message": "Halaman Ramah Printer"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Տպիչի համար հարմար տարբերակը այն չէ՞"
+   },
+   "printfriendly_page": {
+      "message": "Halaman PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Fitur Pro"
+   },
+   "reach_out_for_support": {
+      "message": "Untuk detail lebih lanjut atau dukungan, silakan hubungi kami di"
+   },
+   "read_more": {
+      "message": "Baca lebih lanjut"
+   },
+   "remove_ads_description": {
+      "message": "Hapus iklan dan navigasi dari halaman web. Bekerja dengan baik untuk artikel dan halaman yang berfokus pada teks."
+   },
+   "remove_images": {
+      "message": "Hapus Gambar"
+   },
+   "report": {
+      "message": "Laporkan"
+   },
+   "resolve_issue": {
+      "message": "dan kami akan membantu Anda menyelesaikan masalah."
+   },
+   "save_as_image": {
+      "message": "Simpan sebagai Gambar"
+   },
+   "save_as_pdf": {
+      "message": "Simpan sebagai PDF"
+   },
+   "save_changes": {
+      "message": "Simpan"
+   },
+   "screenshot": {
+      "message": "Tangkapan Layar"
+   },
+   "screenshot_image_format": {
+      "message": "Format Gambar Tangkapan Layar"
+   },
+   "screenshot_ready_soon": {
+      "message": "Tangkapan layar Anda akan siap sebentar lagi."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly bekerja di sebagian besar situs web, mempermudah pembuatan halaman dan tangkapan layar yang lebih bersih dan ramah pencetak. Namun, halaman tertentu—seperti pengaturan browser, toko ekstensi, dan area terbatas lainnya—tidak dapat diakses karena kebijakan browser. Silakan hubungi kami jika Anda memiliki pertanyaan."
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "settings_saved": {
+      "message": "Pengaturan Anda telah disimpan."
+   },
+   "show_screenshot_message": {
+      "message": "Tampilkan Pesan Tangkapan Layar pada Tampilan Ramah Printer"
+   },
+   "something_went_wrong": {
+      "message": "Ada yang Salah"
+   },
+   "still_does_not_work": {
+      "message": "Jika masih tidak berfungsi, hubungi kami di"
+   },
+   "stop_capturing": {
+      "message": "Berhenti Mengambil"
+   },
+   "strict_security_settings": {
+      "message": "Maaf, tetapi halaman ini memiliki pengaturan keamanan ketat (Kebijakan Keamanan Konten) yang mencegah kami membuat versi PrintFriendly dari halaman tersebut."
+   },
+   "style": {
+      "message": "Gaya"
+   },
+   "take_screenshot": {
+      "message": "Ambil Tangkapan Layar:"
+   },
+   "text_size_pref": {
+      "message": "Preferensi Ukuran Teks"
+   },
+   "text_size_pref_desc": {
+      "message": "Atur ukuran teks saat melihat halaman dengan ekstensi."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly mungkin kehabisan waktu saat membuat PDF. Mungkin terlalu besar bagi sistem kami untuk menanganinya."
+   },
+   "txt_size": {
+      "message": "Ukuran Teks"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Kami tidak dapat membuat PDF untuk halaman ini."
+   },
+   "undo": {
+      "message": "Batalkan"
+   },
+   "what_you_can_do": {
+      "message": "Apa yang Dapat Anda Lakukan"
+   },
+   "yes": {
+      "message": "Ya"
+   }
+}

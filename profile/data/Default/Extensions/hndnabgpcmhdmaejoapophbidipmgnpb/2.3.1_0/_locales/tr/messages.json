@@ -1,0 +1,238 @@
+{
+   "already_have_a_token": {
+      "message": "Zaten bir token'ınız var mı?"
+   },
+   "basic": {
+      "message": "Temel"
+   },
+   "basic_profile_desc": {
+      "message": "ID, profil fotoğrafı, kullanıcı adı, tam ad ve doğrulama durumunu içeren temel profil."
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "chrome_extension_description": {
+      "message": "Growman, takipçiler/takip edilenler, konumlar ve hashtag'ler üzerinden Instagram'dan e-posta adreslerini çıkarmanızı sağlar."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG E-posta Çıkarıcı"
+   },
+   "click_here": {
+      "message": "Buraya tıklayın"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "continue": {
+      "message": "DEVAM ET"
+   },
+   "continue_button": {
+      "message": "DEVAM ET"
+   },
+   "continue_from_history": {
+      "message": "Kaldığınız yerden devam etmek istiyor musunuz?"
+   },
+   "copy": {
+      "message": "Kopyala"
+   },
+   "detailed": {
+      "message": "Detaylı"
+   },
+   "detailed_profile_desc": {
+      "message": "Biyografi, takipçi sayısı, e-posta adresi vb. içeren detaylı profil."
+   },
+   "eg_username": {
+      "message": "örn: tottori veya https://www.instagram.com/tottori/"
+   },
+   "email_extraction_tip": {
+      "message": "İpucu: Daha iyi e-posta çıkarma sonuçları için, hedef kitlenizle ilgili hashtag'lerle arama yapmayı deneyin."
+   },
+   "export_followers_of": {
+      "message": "Takipçilerini çıkar:"
+   },
+   "export_followings_of": {
+      "message": "Takip ettiklerini çıkar:"
+   },
+   "export_to_excel": {
+      "message": "$count$ $type$ Excel'e AKTAR",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "DIŞA AKTARILIYOR..."
+   },
+   "exporting_status": {
+      "message": "Dışa aktarılıyor"
+   },
+   "extract": {
+      "message": "Çıkar"
+   },
+   "extract_by_hashtag": {
+      "message": "Hashtag ile çıkar"
+   },
+   "extract_by_location": {
+      "message": "Konum ile çıkar"
+   },
+   "feature_detailed_profile": {
+      "message": "Detaylı profiller"
+   },
+   "feature_export_followers": {
+      "message": "Takipçi listesini dışa aktar"
+   },
+   "feature_export_followings": {
+      "message": "Takip edilenlerin listesini dışa aktar"
+   },
+   "feature_free_amount": {
+      "message": "500 profile kadar çıkarma"
+   },
+   "feature_unlimited_export": {
+      "message": "Sınırsız çıkarma"
+   },
+   "feature_unsubscribe": {
+      "message": "İstediğiniz zaman kolayca iptal edin"
+   },
+   "followers_label": {
+      "message": "takipçi"
+   },
+   "following_label": {
+      "message": "takip edilen"
+   },
+   "found_extraction_from": {
+      "message": "Kaydedilmiş çıkarma bulundu:"
+   },
+   "free": {
+      "message": "Ücretsiz"
+   },
+   "go": {
+      "message": "BAŞLA"
+   },
+   "hashtag_placeholder": {
+      "message": "Bir hashtag girin. örn: hypercars"
+   },
+   "history": {
+      "message": "Çıkarma geçmişi"
+   },
+   "history_found": {
+      "message": "Geçmiş bulundu"
+   },
+   "history_notice": {
+      "message": "Eklenti son çıkarmaların ilerlemesini kaydeder. Tüm geçmiş verileri yerel olarak depolanır ve eklentiyi kaldırırsanız kaybolur."
+   },
+   "interval_risk_notice": {
+      "message": "Daha uzun aralık, Instagram tarafından tespit edilme riskini azaltır"
+   },
+   "invalid_location_url": {
+      "message": "Geçersiz konum URL'si"
+   },
+   "invalid_token_format": {
+      "message": "Geçersiz token formatı"
+   },
+   "items_extracted": {
+      "message": "öğe çıkarıldı"
+   },
+   "limit_max_number": {
+      "message": "Maksimum çıkarma sayısını sınırla"
+   },
+   "location_example": {
+      "message": "Örn: https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "Konum URL'sini buraya yapıştırın"
+   },
+   "me": {
+      "message": "Ben"
+   },
+   "my_token": {
+      "message": "Token'ım:"
+   },
+   "no_history": {
+      "message": "Henüz çıkarma geçmişi yok."
+   },
+   "not_public": {
+      "message": "Herkese açık değil"
+   },
+   "paste_your_token": {
+      "message": "Token'ınızı buraya yapıştırın"
+   },
+   "pause_button": {
+      "message": "DURAKLAT"
+   },
+   "please_sign_in": {
+      "message": "Lütfen Instagram'a giriş yapın ve tekrar deneyin."
+   },
+   "posts_label": {
+      "message": "gönderi"
+   },
+   "private": {
+      "message": "Gizli"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "PRO kullanıcı"
+   },
+   "profile": {
+      "message": "Profil"
+   },
+   "progress": {
+      "message": "İlerleme: "
+   },
+   "required": {
+      "message": "Gerekli"
+   },
+   "save": {
+      "message": "Kaydet"
+   },
+   "short_interval_risk_notice": {
+      "message": "Not: Daha kısa istek aralıkları, hesap kısıtlamaları riskini önemli ölçüde artırır. Hesap güvenliği için daha uzun aralıklar kullanılması önerilir."
+   },
+   "start_new": {
+      "message": "Yeni çıkarma"
+   },
+   "subscription_canceled": {
+      "message": "Aboneliğiniz başarıyla iptal edildi ve otomatik olarak yenilenmeyecek. PRO özellikleri mevcut fatura döneminin sonuna kadar aktif kalacak."
+   },
+   "target": {
+      "message": "Hedef: "
+   },
+   "to_unsubscribe": {
+      "message": "aboneliği iptal etmek için."
+   },
+   "type": {
+      "message": "Tür: "
+   },
+   "unsubscribe_confirm_content": {
+      "message": "İptalden sonra hesabınız bir sonraki fatura döneminde otomatik olarak yenilenmeyecek. Pro özellikleri mevcut dönemin sonuna kadar aktif kalacak."
+   },
+   "unsubscribe_confirm_no": {
+      "message": "İptal"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "İptal onayı"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "Onayla"
+   },
+   "upgrade_to_pro": {
+      "message": "PRO'YA YÜKSELT"
+   },
+   "upgrade_to_pro_button": {
+      "message": "PRO'YA YÜKSELT"
+   },
+   "verified": {
+      "message": "Doğrulanmış"
+   },
+   "wait_interval": {
+      "message": "Bekleme aralığı"
+   },
+   "wait_interval_seconds": {
+      "message": "Bekleme aralığı (saniye)"
+   }
+}

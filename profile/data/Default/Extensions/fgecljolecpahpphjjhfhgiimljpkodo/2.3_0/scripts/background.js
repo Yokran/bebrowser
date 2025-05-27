@@ -1,0 +1,1 @@
+console.log("Background Page");chrome.commands.onCommand.addListener(async(e,o)=>{if(console.log(e,o),e==="Toggle Autoscroll"&&o.id)try{await chrome.tabs.sendMessage(o.id,{pause:!0}),console.log("Sent to tab: ",o.id)}catch(s){console.error(s)}});

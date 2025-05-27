@@ -1,0 +1,361 @@
+{
+	"application_title": {
+		"message": "Kunin ng Webpage Screenshots ng buo - Fireshot"
+	},
+
+	"application_description": {
+		"message": "Kunin ng BUONG webpage screenshots. kumuha, i-edit at i-save yon sa PDF/JPEG/GIF/PNG, ​​i-u​plᴏ​a​d, i-pr​i​nta, ipadala sa On​e​Nᴏt​e​, cl​i​pbᴏ​a​rd ᴏ ​e​m​a​​i​l."
+	},
+
+	"action_capture_entire": {
+		"message": "Kumuha ng buong page at"
+	},
+
+	"action_capture_visible": {
+		"message": "Kumuha ng nakikitang bahagi at"
+	},
+
+	"action_capture_selection": {
+		"message": "Kumuha ng napili/elemento at"
+	},
+
+	"action_capture_entire_lite": {
+		"message": "Kumuha ng buong page"
+	},
+
+	"action_capture_visible_lite": {
+		"message": "Kumuha ng nakikitang bahagi"
+	},
+
+	"action_capture_selection_lite": {
+		"message": "Kumuha ng napili"
+	},
+
+	"action_capture_browser": {
+		"message": "Kumuha ng browser window at"
+	},
+
+	"action_resume": {
+		"message": "Ipatuloy ang pag-edit"
+	},
+
+	"action_open_file": {
+		"message": "Buksan ang file"
+	},
+
+	"action_open_clipboard": {
+		"message": "Buksan mula sa clipboard"
+	},
+
+	"action_options": {
+		"message": "Mga pagpipilian"
+	},
+
+	"action_register": {
+		"message": "Magparehistro"
+	},
+
+	"action_enter_license": {
+		"message": "Itala ang license info"
+	},
+
+	"action_switch_pro": {
+		"message": "Lumipat sa Pro"
+	},
+
+	"action_view_demo": {
+		"message": "Tingnan ang demo"
+	},
+
+	"action_support": {
+		"message": "Suporta"
+	},
+
+	"action_api": {
+		"message": "FireShot API"
+	},
+
+	"action_edit": {
+		"message": "Mag-edit"
+	},
+
+	"action_save": {
+		"message": "Mag-save"
+	},
+
+	"action_save_pdf": {
+		"message": "I-save ng naka-PDF"
+	},
+
+	"action_copy": {
+		"message": "Kopyahin sa clipboard"
+	},
+
+	"action_email": {
+		"message": "I-email"
+	},
+
+	"action_external": {
+		"message": "Buksan ang External na editor"
+	},
+
+	"action_onenote": {
+		"message": "Ipasa sa OneNote"
+	},
+
+	"action_upload": {
+		"message": "Mag-upload"
+	},
+
+	"action_print": {
+		"message": "Mag-print"
+	},
+
+	"options_label_fireshot_options": {
+		"message": "Mga pagpipilian sa FireShot"
+	},
+
+	"options_label_capturing": {
+		"message": "Pagkuha"
+	},
+
+	"options_label_editor_options": {
+		"message": "Mga pagpipilian ng taga-edit"
+	},
+
+	"options_label_hotkey": {
+		"message": "Hotkeys"
+	},
+
+	"options_label_specify_resizing_options": {
+		"message": "Tukuyin ang pagpipilian ng pagbago ng laki at tunog"
+	},
+
+	"options_label_specify_editor_options": {
+		"message": "Tukuyin ang taga-edit at pagpipilian ng pag-save, pagpapangalan ng file, istilo, atbp."
+	},
+
+	"options_label_specify_hotkey": {
+		"message": "Tukuyin ang kumbinasyon ng key upang ma-launch ang FireShot:"
+	},
+
+	"options_button_setup": {
+		"message": "I-click para ma-setup"
+	},
+
+	"options_button_apply": {
+		"message": "Mag-apply"
+	},
+
+	"options_button_save_close": {
+		"message": "I-save at isara"
+	},
+
+	"action_license_info": {
+		"message": "Impormasyon ng paglisensya"
+	},
+
+	"action_about": {
+		"message": "Tungkol sa"
+	},
+
+	"options_label_file_settings": {
+		"message": "Mga setting ng file"
+	},
+
+	"options_label_save_image_as": {
+		"message": "I-save ang imahe bilang:"
+	},
+
+	"options_label_default_filename_template": {
+		"message": "Template ng default filename"
+	},
+
+	"options_label_template_url": {
+		"message": "Page URL"
+	},
+
+	"options_label_template_title": {
+		"message": "Pamagat ng page"
+	},
+
+	"options_label_template_website": {
+		"message": "Pangalan ng domain"
+	},
+
+	"options_label_template_year": {
+		"message": "Taon"
+	},
+
+	"options_label_template_month": {
+		"message": "Buwan"
+	},
+
+	"options_label_template_day": {
+		"message": "Araw"
+	},
+
+	"options_label_template_hour": {
+		"message": "Oras"
+	},
+
+	"options_label_template_minutes": {
+		"message": "Minuto"
+	},
+
+	"options_label_template_seconds": {
+		"message": "Segundo"
+	},
+
+	"options_label_template_pad_1": {
+		"message": "Numero ng pad na may"
+	},
+
+	"options_label_template_pad_2": {
+		"message": "mga zero"
+	},
+
+	"options_label_template_limit_1": {
+		"message": "Limitahan ang haba ng filename sa"
+	},
+
+	"options_label_template_limit_2": {
+		"message": "characters"
+	},
+
+	"options_link_filename_template_settings": {
+		"message": "Ipakita ang mga template setting ng filename"
+	},
+
+	"options_link_filename_template_settings_hide": {
+		"message": "Itago ang mga template setting ng filename"
+	},
+
+	"options_label_last_action_hotkey": {
+		"message": "Huling nagamit na aksyon"
+	},
+
+	"options_label_and": {
+		"message": "at"
+	},
+
+	"captured_save_panel_title": {
+		"message": "I-save ang screenshot"
+	},
+
+	"captured_save_as_image": {
+		"message": "I-save bilang imahe"
+	},
+
+	"captured_save_as_pdf": {
+		"message": "I-save bilang PDF"
+	},
+
+	"captured_copy_clipboard": {
+		"message": "Kopyahin sa clipboard"
+	},
+
+	"captured_print": {
+		"message": "Mag-print"
+	},
+
+	"captured_save_as_image_button": {
+		"message": "I-save bilangimahe"
+	},
+
+	"captured_copy_clipboard_learn_button": {
+		"message": "Matuto kung paano..."
+	},
+
+	"captured_print_button": {
+		"message": "Mag-print"
+	},
+
+	"action_micsellaneous": {
+		"message": "Iba't ibang"
+	},
+
+	"action_install_native": {
+		"message": "Subukan ang advance na mga feature"
+	},
+
+	"captured_upgrade_link_1": {
+		"message": "Kumuha, mag-annotate, mag-print at mag-save ng mas mabuti, mag-edit, mag-upload, magpadala sa E-Mail / OneNote, o mag-export sa ibang program"
+	},
+
+	"captured_upgrade_link_2": {
+		"message": "Mag-upgrade sa FireShot Pro"
+	},
+
+	"captured_upgrade_link_3": {
+		"message": "Gumamit ako ng ibang version ng FireShot"
+	},
+
+	"captured_upgrade_link_4": {
+		"message": "Pwede ko bang kunin ito ulit?"
+	},
+
+	"captured_setup_hotkeys": {
+		"message": "Mag-setup ng mga hotkey at mga setting ng file"
+	},
+
+	"captured_recommend_us": {
+		"message": "Irekumenda ang FireShot"
+	},
+
+	"action_capture_tabs": {
+		"message": "Kunin ang lahat ng mga tab at"
+	},
+
+	"action_save_pdf_single": {
+		"message": "I-save bilang iisang PDF"
+	},
+
+	"action_switch_pro_tabs": {
+		"message": "Magpatuloy sa Active Pro na mga feature"
+	},
+
+	"captured_get_free_button": {
+		"message": "Subukan ng libre"
+	},
+
+	"captured_buy_pro_button": {
+		"message": "Bumili ng Pro"
+	},
+
+	"enable_checkbox": {
+		"message": "Paganahin"
+	},
+
+	"captured_saving_options": {
+		"message": "ipasadya ito"
+	},
+
+	"options_label_default_folder": {
+		"message": "Folder ng default output"
+	},
+
+	"options_label_default_folder_hint": {
+		"message": "Isang daanan ng file na nababagay sa directory ng Downloads upang lagayan ng naka-imbak na file, posibleng nag-iimbak ng mga subdirectory. Ganap na daanan, walang laman a daanan, at daanan na nag - iimbak ng reperensiya \"..\" ay makakadulot ng error."
+	},
+
+	"options_label_customize_saving": {
+		"message": "Sadyain ang proseso ng pag-save"
+	},
+
+	"options_label_no_saveas_dialog": {
+		"message": "Wag ipakita ang \"I-save bilang\" na diyagolo"
+	},
+
+	"options_label_open_folder_after_saving": {
+		"message": "Ipakita ang naidownload na file ng kinalalagyang folder pagkatapos mag-save"
+	},
+
+	"options_label_close_tab_after_saving": {
+		"message": "Isara ang tab pagkatapos mag-save"
+	},
+
+	"options_label_enable_context_menu": {
+		"message": "I-sama ang FireShot sa context menu"
+	}
+}

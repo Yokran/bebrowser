@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Prilagodite postavke kako biste poboljšali svoje iskustvo."
+   },
+   "affected_page": {
+      "message": "Pogođena stranica"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly može biti blokiran od strane druge ekstenzije koju ste instalirali, poput blokatora oglasa. Privremeno onemogućite druge ekstenzije i pokušajte ponovo kreirati PDF."
+   },
+   "cancel": {
+      "message": "Odustani"
+   },
+   "capture_screenshot_manually": {
+      "message": "Koristite našu značajku Screenshot kako biste snimili ovu stranicu, a zatim je izvezite kao sliku ili PDF."
+   },
+   "capturing": {
+      "message": "Snimanje"
+   },
+   "capturing_desc": {
+      "message": "Snima snimak…"
+   },
+   "choose_paper_size": {
+      "message": "Odaberite željenu veličinu papira za PDF-ove."
+   },
+   "compress_pdf": {
+      "message": "Sažmi PDF"
+   },
+   "contact_us": {
+      "message": "Kontaktirajte nas:"
+   },
+   "convert_pdf": {
+      "message": "Pretvori PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Snimka prikaza"
+   },
+   "default_button": {
+      "message": "Zadani gumb"
+   },
+   "default_mode": {
+      "message": "Zadani način rada"
+   },
+   "default_mode_checkbox": {
+      "message": "Nemojte ponovno prikazivati ove opcije. Možete ih omogućiti u Postavkama."
+   },
+   "default_mode_desc": {
+      "message": "Odaberite radnju koja se automatski odabire kada kliknete na gumb proširenja."
+   },
+   "delete": {
+      "message": "Izbriši"
+   },
+   "dialog_close": {
+      "message": "Zatvori"
+   },
+   "dialog_text": {
+      "message": "Printaj se na štampanje."
+   },
+   "dialog_text_btn": {
+      "message": "pošalji ponovo"
+   },
+   "dialog_title": {
+      "message": "Printaj Stranicu"
+   },
+   "dont_show_again": {
+      "message": "Ne prikazuj ovo ponovno."
+   },
+   "edit_pdf": {
+      "message": "Uredi PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "poslao članak"
+   },
+   "email_from": {
+      "message": "Od"
+   },
+   "email_message": {
+      "message": "Poruka"
+   },
+   "email_product_sent_message": {
+      "message": "Vaša e-mail poruka je poslana. Možete zatvoriti stranicu"
+   },
+   "email_send": {
+      "message": "Pošalji"
+   },
+   "email_sent_message": {
+      "message": "Vaša e-mail poruka je poslana"
+   },
+   "email_title": {
+      "message": "Pošaljite ovu stranicu"
+   },
+   "email_to": {
+      "message": "Kome"
+   },
+   "full_page_screenshot": {
+      "message": "Snimka cijele stranice"
+   },
+   "get_pro": {
+      "message": "Nadogradnja"
+   },
+   "got_it": {
+      "message": "Razumijem"
+   },
+   "image": {
+      "message": "Slika"
+   },
+   "image_size_pref": {
+      "message": "Postavka veličine slike"
+   },
+   "image_size_pref_desc": {
+      "message": "Postavite veličinu slika prilikom pregledavanja stranica s proširenjem."
+   },
+   "images": {
+      "message": "Slike"
+   },
+   "lang_display_name": {
+      "message": "Hrvatski (Croatian)"
+   },
+   "language_setting": {
+      "message": "Jezik"
+   },
+   "language_setting_desc": {
+      "message": "Odaberite željeni jezik."
+   },
+   "letter_paper_size": {
+      "message": "Pismo"
+   },
+   "login": {
+      "message": "Prijava"
+   },
+   "margin": {
+      "message": "Margina"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "off": {
+      "message": "Isključeno"
+   },
+   "other_tools": {
+      "message": "Ostali alati"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Ova stranica blokira PrintFriendly"
+   },
+   "page_size": {
+      "message": "Veličina stranice"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Preuzmite PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Greška pri generiranju PDF-a"
+   },
+   "pdf_head": {
+      "message": "Generisanje PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Veličina PDF papira"
+   },
+   "print": {
+      "message": "Printanje"
+   },
+   "print_pdf": {
+      "message": "Printanje & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Uklonite oglase i navigaciju s web stranica. Dobro radi s člancima i tekstom."
+   },
+   "printer_friendly_page": {
+      "message": "Stranica prilagođena za ispis"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Verzija prilagođena za ispis nije ono što ste očekivali? Pokušajte napraviti snimku zaslona."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly stranica"
+   },
+   "pro_alert": {
+      "message": "Značajka nadogradnje"
+   },
+   "reach_out_for_support": {
+      "message": "Za više detalja ili podršku, molimo kontaktirajte nas na"
+   },
+   "read_more": {
+      "message": "Opširnije"
+   },
+   "remove_ads_description": {
+      "message": "Uklanja oglase i navigaciju s web stranica. Dobro radi s člancima i stranicama fokusiranim na tekst."
+   },
+   "remove_images": {
+      "message": "Ukloni slike"
+   },
+   "report": {
+      "message": "Prijavi"
+   },
+   "resolve_issue": {
+      "message": "i pomoći ćemo vam da riješite problem."
+   },
+   "save_as_image": {
+      "message": "Spremi kao sliku"
+   },
+   "save_as_pdf": {
+      "message": "Spremi kao PDF"
+   },
+   "save_changes": {
+      "message": "Spremi"
+   },
+   "screenshot": {
+      "message": "Snimka zaslona"
+   },
+   "screenshot_image_format": {
+      "message": "Format slike snimke zaslona"
+   },
+   "screenshot_ready_soon": {
+      "message": "Vaša snimka zaslona bit će spremna za trenutak."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly radi na većini web stranica, olakšavajući stvaranje čišćih, za ispis prilagođenih stranica i snimki zaslona. Međutim, određene stranice—poput postavki preglednika, trgovina ekstenzijama i drugih ograničenih područja—zabranjene su zbog pravila preglednika. Molimo kontaktirajte nas ako imate bilo kakvih pitanja."
+   },
+   "settings": {
+      "message": "Postavke"
+   },
+   "settings_saved": {
+      "message": "Postavke su spremljene."
+   },
+   "show_screenshot_message": {
+      "message": "Prikaži poruku zaslona u prikazu prilagođenom za ispis"
+   },
+   "something_went_wrong": {
+      "message": "Nešto je pošlo po zlu"
+   },
+   "still_does_not_work": {
+      "message": "Ako to još uvijek ne radi, obratite nam se na"
+   },
+   "stop_capturing": {
+      "message": "Zaustavi snimanje"
+   },
+   "strict_security_settings": {
+      "message": "Žao nam je, ali ova stranica ima stroge sigurnosne postavke (Politika sigurnosti sadržaja) koje nam onemogućuju izradu PrintFriendly verzije stranice."
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "take_screenshot": {
+      "message": "Napravite snimku zaslona:"
+   },
+   "text_size_pref": {
+      "message": "Postavka veličine teksta"
+   },
+   "text_size_pref_desc": {
+      "message": "Postavite veličinu teksta prilikom pregledavanja stranica s proširenjem."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly možda je isteklo vrijeme prilikom kreiranja PDF-a. Možda je bio prevelik da bi ga naš sustav mogao obraditi."
+   },
+   "txt_size": {
+      "message": "Veličina teksta"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Nismo uspjeli generirati PDF za ovu stranicu."
+   },
+   "undo": {
+      "message": "Nazad"
+   },
+   "what_you_can_do": {
+      "message": "Što možete učiniti"
+   },
+   "yes": {
+      "message": "Da"
+   }
+}

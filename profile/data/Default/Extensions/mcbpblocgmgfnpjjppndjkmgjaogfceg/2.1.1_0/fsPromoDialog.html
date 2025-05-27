@@ -1,0 +1,245 @@
+<!--Single file both for Chromium and FX-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Please wait...</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="css/fscaptured.css" rel="stylesheet"> -->
+    <script src="scripts/3p/jquery-3.3.1.min.js"></script>
+
+    <script src="scripts/3p/bootstrap.min.js"></script>
+
+
+    <script src="scripts/fsPromoDialog.js"></script>
+
+
+
+
+    <style>
+        body {
+            overflow: hidden;
+        }
+
+        .hiddenInitially {
+            display: none !important
+        }
+
+
+        #btnPurchaseFromAdvPro {
+            border-radius: 5px;
+            margin-top: 34px;
+            white-space: normal;
+            background-color: #1e7adb;
+            font-weight: 400;
+        }
+
+
+        #imgAdbBack {
+            width: 600px;
+            height: 250px;
+            z-index: -1;
+            position: absolute;
+            filter: brightness(1.5) hue-rotate(350deg);
+            left: 0;
+            top: 0;
+        }
+
+        #divAdbGradient {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 600px;
+            height: 250px;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0) 95%);
+        }
+
+        #divWhiteFiller {
+            position: absolute;
+            background: white;
+            width: 100%;
+            height: 100%;
+            top: 50px;
+            z-index: -2;
+            box-sizing: border-box;
+        }
+
+        #divAdbContainer {
+            width: 600px;
+            padding: 30px 30px 10px 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-weight: 400;
+        }
+
+        .adv-pro-badge>img {
+            width: 75px;
+        }
+
+        #advFeaturesContainer {
+            display: flex;
+            margin-top: 25px;
+            gap: 20px;
+        }
+
+        #btnPurchaseFromAdvPro>span {
+            font-size: 20px;
+        }
+
+        #divAdbClose {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        }
+
+        #btnCloseAdvPro {
+            font-size: 15px;
+        }
+
+        #imgAdvPaymentMethods {
+            width: 250px;
+            margin-top: 35px;
+        }
+
+        #advCompareSection {
+            margin-top: 7px;
+        }
+
+        #advCompareSection,
+        #advCompareSection>a {
+            color: #888;
+            font-size: 10px;
+        }
+
+        #advCompareSection>a {
+            text-decoration: underline;
+        }
+
+        .adv-pro-badge {
+            /* background-color:#ff9e00; */
+            background-color: #1d7adb;
+            border-radius: 3px;
+            color: #fff;
+            padding: 2px;
+        }
+
+        .adv-pro-badge-small {
+            position: absolute;
+            right: -10px;
+            top: -10px;
+            padding: 3px;
+            font-size: 10px
+        }
+
+        .adv-feature-card {
+            position: relative;
+            text-align: center;
+            width: 150px;
+            color: #666;
+            border: #cacaca 2px solid;
+            background-color: #fff;
+            border-radius: 5px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+        }
+
+        .adv-feature-card>img {
+            width: 50px;
+            filter: contrast(0.6);
+        }
+
+        .adv-feature-description {
+            margin-top: 10px;
+            line-height: 1.4rem;
+            font-size: 12px;
+        }
+
+    </style>
+</head>
+
+<body>
+            <img id="imgAdbBack" src="/images/promo-back.svg">
+            <div id="divAdbGradient"></div>
+            <div id="divWhiteFiller"></div>
+            <div id="divAdbContainer">
+                <div class="adv-pro-badge">
+                    <img src="/images/promo-pro-logo.png" />
+                </div>
+                <!-- <h3><span data-i18n="captured_ads_title">Enable History</span></h3> -->
+                <h3>
+                    <span id="titleContextHistory" class="hiddenInitially" data-i18n="promo_enable_history">Get access to History</span>
+                    <span id="titleContextAds" class="hiddenInitially" data-i18n="captured_ads_title">Remove Ads</span>
+                </h3>
+
+                <div class="text-center"><span data-i18n="captured_ads_title_desc_1">Become a PRO and actively
+                        contribute to the
+                        development
+                    </span><br><span data-i18n="captured_ads_title_desc_2">of this extension</span>.
+                </div>
+                <div id="advFeaturesContainer">
+                    <div class="adv-feature-card">
+                        <div class="adv-pro-badge adv-pro-badge-small">PRO</div>
+                        <img src="/images/promo-feature-capturing.png">
+                        <div class="adv-feature-description"><span data-i18n="captured_ads_feature_1">Advanced capturing
+                                features</span></div>
+                    </div>
+                    <div id="adv-edit-feature" class="adv-feature-card hiddenInitially">
+                        <div class="adv-pro-badge adv-pro-badge-small">PRO</div>
+                        <img src="/images/promo-feature-edit.png">
+                        <div class="adv-feature-description"><span data-i18n="captured_ads_feature_2">Edit
+                                screenshots</span>
+                        </div>
+                    </div>
+                    <div class="adv-feature-card">
+                        <div class="adv-pro-badge adv-pro-badge-small">PRO</div>
+                        <img src="/images/promo-feature-pdf.png">
+                        <div class="adv-feature-description"><span data-i18n="captured_ads_feature_3_1">Text-searchable
+                                PDFs,</span><br>
+                            <span data-i18n="captured_ads_feature_3_2">headers and footers</span>
+                        </div>
+                    </div>
+                    <div id="adv-noads-feature" class="adv-feature-card hiddenInitially">
+                        <div class="adv-pro-badge adv-pro-badge-small">PRO</div>
+                        <img src="/images/promo-feature-noads.png">
+                        <div class="adv-feature-description"><span data-i18n="captured_ads_title">Remove ads</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="advCompareSection">
+                    + <span data-i18n="captured_ads_label_more_premium">more premium features</span> - <a
+                        href="https://getfireshot.com/features.php" target="_blank">
+                        <span data-i18n="captured_ads_label_compare_lite_pro">compare FireShot Lite and FireShot
+                            Pro...</span></a></div>
+
+
+                <!-- <div style="color:#000; font-size:18px; margin-top:30px">one-time payment from 
+                    <span style="font-size: 40px; font-weight:400">$39.95</span>
+                    <span style="font-weight:400; font-size: 10px; color:#fff; border-radius:3px; padding:4px; background:#06B11C; position:relative; top:-20px">Save 30%</span>
+                </div> -->
+
+                <button type="button" id="btnPurchaseFromAdvPro" class="btn">
+                    <span data-i18n="captured_ads_button_purchase_fireshot_pro">Purchase FireShot Pro</span>
+                    <br>
+                    <small><span data-i18n="captured_ads_button_lifetime_license">Lifetime License and 30-Day Moneyback
+                            Guarantee</span>.</small>
+                </button>
+
+                <img id="imgAdvPaymentMethods" src="/images/promo-fs-payment-methods.png">
+            </div>
+            <div id="divAdbClose">
+                <button type="button" class="close" id="btnCloseAdvPro" data-dismiss="modal">
+                    <span class="glyphicon glyphicon-remove"></span>
+                </button>
+            </div>
+        </div>
+</body>

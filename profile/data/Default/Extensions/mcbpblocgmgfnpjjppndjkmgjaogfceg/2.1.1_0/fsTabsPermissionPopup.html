@@ -1,0 +1,40 @@
+<!--Single file both for Chromium and FX-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <script src="scripts/fsTabsPermissionPopup.js"></script>
+
+    
+
+  <title></title>
+
+  <link rel="stylesheet" href="css/fspopup.css" type="text/css" />
+
+
+</head>
+
+<body style="overflow:visible;">
+  <div id="mnuMain">
+    <div>
+      
+      <div id="mnuEnableFileSupport">
+        <div>
+          <h2><span data-i18n="popup_action_required">Action required</span></h2>
+          <div class="messagetext">
+            <p><span data-i18n="popup_tabs_permission_line1">To provide better capturing experience, FireShot needs additional permissions.</span></p> 
+            <p><span data-i18n="popup_tabs_permission_line2">It's OK to ingore this request to capture this page by default, but some page elements may be captured incorrectly.</span></p>
+            <p><a id="lnkReadMore" href="#" rel="command"><span data-i18n="popup_tabs_permission_learn_more">Learn more</span></a> <span data-i18n="popup_tabs_permission_line3">why FireShot asks for additional permissions and how does it affect your experience.</span></p>
+            <div style="display: flex; justify-content: flex-end;">
+                <button id="btnOk" rel="command" class="ok"><span data-i18n="pdf_dialog_confirm">Confirm</span></button>
+                <button id="btnCancel" rel="command" class="cancel"><span data-i18n="pdf_dialog_cancel">Cancel</span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

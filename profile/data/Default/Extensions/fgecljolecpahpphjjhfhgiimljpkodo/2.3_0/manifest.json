@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": {
+         "32": "images/icon.png"
+      },
+      "default_popup": "scripts/index.html",
+      "default_title": "Simple Autoscroll"
+   },
+   "author": "Daniel Berezin",
+   "background": {
+      "service_worker": "scripts/background.js"
+   },
+   "commands": {
+      "Toggle Autoscroll": {
+         "description": "Pauses/Resumes Autoscroll on the current page",
+         "suggested_key": {
+            "default": "Alt+J",
+            "mac": "Alt+J"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "An extension that adds the ability to automatically scroll through long pages.",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlXoaJmVOuuYcDpaefVZgr9hmW0FNi7wGka4ENKteGA9P0i7KGHbCSUSQHUb6fnhIZgC1dVq/zw635fkFw0wEcbe7NjwzkE7q5IPcq7WibetvCX7vyaFNMn2WbnHPasO5KLszt4uHWo55eKq1ZUrH21uZzSTNqBIR9j4nCv6uwTV4uOds7N/QA0drEDTchgZfXqpH4Cb4z1BPF8d9cChIH0DeoID2bKofAVfXLAIqRMutlNKmfFwxtO5cJFQSlNXf+ecwjzhaMVfn0n+wLlXTQJ2cBuQUGxzf4THE4MQSeqdcmEYJw5G8bP35tceOeFFAkSTJEnm9iAqoavGmJGRKgQIDAQAB",
+   "manifest_version": 3,
+   "name": "Simple Autoscroll",
+   "permissions": [ "storage" ],
+   "short_name": "s-autoscroll",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3"
+}

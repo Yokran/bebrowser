@@ -1,0 +1,1050 @@
+{
+   "batchSaveUrlsAddUrlButton": {
+      "description": "label of the button 'Add URL'",
+      "message": "Lägg till URL"
+   },
+   "batchSaveUrlsAddUrlsButton": {
+      "description": "label of the button 'Add URLs...'",
+      "message": "Lägg till URL:er..."
+   },
+   "batchSaveUrlsNoURLs": {
+      "description": "Label displayed when there are no URLs",
+      "message": "Inga URL:er"
+   },
+   "batchSaveUrlsRemoveAllButton": {
+      "description": "label of the button 'Remove all'",
+      "message": "Ta bort alla"
+   },
+   "batchSaveUrlsSavePagesButton": {
+      "description": "label of the button 'Save pages'",
+      "message": "Spara sidor"
+   },
+   "batchSaveUrlsTitle": {
+      "description": "Title of the 'batch save URLs' page",
+      "message": "Gruppspara URL:er"
+   },
+   "batchSaveUrlsURLTitle": {
+      "description": "Title of the column in the table of the URLs",
+      "message": "URL"
+   },
+   "buttonAutoSaveActiveBadge": {
+      "description": "Badge label when auto-save is active",
+      "message": "[A]"
+   },
+   "buttonAutoSaveActiveTooltip": {
+      "description": "Button title: 'Auto-save active'",
+      "message": "Automatisk spara aktiv"
+   },
+   "buttonBlockedBadge": {
+      "description": "Button badge when the page is blocked: '🚫'",
+      "message": "🚫"
+   },
+   "buttonBlockedTooltip": {
+      "description": "Button title: 'This page cannot be saved with SingleFile'",
+      "message": "Denna sida kan inte sparas med SingleFile"
+   },
+   "buttonDefaultTooltip": {
+      "description": "Button title: 'Save page with SingleFile'",
+      "message": "Spara sidan med SingleFile"
+   },
+   "buttonErrorBadge": {
+      "description": "Badge label for unexpected errors",
+      "message": "FEL"
+   },
+   "buttonInitializingBadge": {
+      "description": "Badge label during initialization: '•••'",
+      "message": "•••"
+   },
+   "buttonInitializingTooltip": {
+      "description": "Button title during initialization: 'Initializing SingleFile (x/2)'",
+      "message": "Initierar SingleFile"
+   },
+   "buttonOKBadge": {
+      "description": "Badge label: 'OK'",
+      "message": "OK"
+   },
+   "buttonSaveProgressTooltip": {
+      "description": "Button title during save: 'Save progress: xx%'",
+      "message": "Spara förlopp: "
+   },
+   "buttonUploadProgressTooltip": {
+      "description": "Button title during save: 'Upload progress: xx%'",
+      "message": "Uppladdningsförlopp: "
+   },
+   "commandSaveAllTabs": {
+      "description": "Command (Ctrl+Shift+U): 'Save all tabs'",
+      "message": "Spara alla flikar"
+   },
+   "commandSaveSelectedTabs": {
+      "description": "Command (Ctrl+Shift+Y): 'Save the selected tabs or their selected contents'",
+      "message": "Spara de markerade flikarna eller deras valda innehåll"
+   },
+   "editorAddBlueNote": {
+      "description": "Title of the button 'Add a blue note' in the editor",
+      "message": "Lägg till en blå anteckning"
+   },
+   "editorAddGreenNote": {
+      "description": "Title of the button 'Add a green note' in the editor",
+      "message": "Lägg till en grön anteckning"
+   },
+   "editorAddPinkNote": {
+      "description": "Title of the button 'Add a pink note' in the editor",
+      "message": "Lägg till en rose anteckning"
+   },
+   "editorAddYellowNote": {
+      "description": "Title of the button 'Add a yellow note' in the editor",
+      "message": "Lägg till en gul anteckning"
+   },
+   "editorCutInnerPage": {
+      "description": "Title of the button 'Enable/disable removing of internal elements' in the editor",
+      "message": "Aktivera/inaktivera borttagning av interna element"
+   },
+   "editorCutOuterPage": {
+      "description": "Title of the button 'Enable/disable removing of external elements' in the editor",
+      "message": "Aktivera/inaktivera borttagning av externa element"
+   },
+   "editorEditPage": {
+      "description": "Title of the button 'Enable/disable read-only' in the editor",
+      "message": "Aktivera/inaktivera skrivskyddad"
+   },
+   "editorFormatPage": {
+      "description": "Title of the button 'Format the page for better readability' in the editor",
+      "message": "Formatera sidan för bättre läsbarhet"
+   },
+   "editorHighlightBlue": {
+      "description": "Title of the button 'Highlight selected text in blue' in the editor",
+      "message": "Markera vald text i blått"
+   },
+   "editorHighlightGreen": {
+      "description": "Title of the button 'Highlight selected text in green' in the editor",
+      "message": "Markera vald text i grönt"
+   },
+   "editorHighlightPink": {
+      "description": "Title of the button 'Highlight selected text in pink' in the editor",
+      "message": "Markera vald text i rosa"
+   },
+   "editorHighlightYellow": {
+      "description": "Title of the button 'Highlight selected text in yellow' in the editor",
+      "message": "Markera vald text i gult"
+   },
+   "editorPrintPage": {
+      "description": "Title of the button 'Print the page' in the editor",
+      "message": "Skriv ut sidan"
+   },
+   "editorRedoCutPage": {
+      "description": "Title of the button 'Remove last restored element' in the editor",
+      "message": "Ta bort senast återställda element"
+   },
+   "editorRemoveHighlight": {
+      "description": "Title of the button 'Remove the selected highlighted text' in the editor",
+      "message": "Ta bort den markerade texten"
+   },
+   "editorSavePage": {
+      "description": "Title of the button 'Save the page' in the editor",
+      "message": "Spara sidan"
+   },
+   "editorToggleHighlights": {
+      "description": "Title of the button 'Display/hide the highlighted text' in the editor",
+      "message": "Visa/dölj den markerade texten"
+   },
+   "editorToggleNotes": {
+      "description": "Title of the button 'Display/hide notes' in the editor",
+      "message": "Visa/dölj anteckningar"
+   },
+   "editorUndoAllCutPage": {
+      "description": "Title of the button 'Restore all removed elements' in the editor",
+      "message": "Återställ alla borttagna element"
+   },
+   "editorUndoCutPage": {
+      "description": "Title of the button 'Restore last removed element' in the editor",
+      "message": "Återställ senast borttagna element"
+   },
+   "extensionDescription": {
+      "description": "Description of the extension.",
+      "message": "Spara en hel sida i en enda HTML-fil"
+   },
+   "logPanelDeferredImages": {
+      "description": "Label 'Deferred images' in the log panel",
+      "message": "Uppskjutna bilder"
+   },
+   "logPanelEmbeddedImage": {
+      "description": "Label 'Embedded image' in the log panel",
+      "message": "Inbäddad bild"
+   },
+   "logPanelFrameContents": {
+      "description": "Label 'Frame contents' in the log panel",
+      "message": "Raminnehåll"
+   },
+   "logPanelStep": {
+      "description": "Label 'Step' (for 'Step x / 4') in the log panel",
+      "message": "Steg"
+   },
+   "logPanelWidth": {
+      "description": "Width of the log panel in pixels, it should be adjusted for the longest label beginning with 'log' (e.g. 'logPanelDeferredImages')",
+      "message": "122"
+   },
+   "menuAutoSave": {
+      "description": "Menu entry: 'Auto-save'",
+      "message": "Spara automatiskt"
+   },
+   "menuAutoSaveAllTabs": {
+      "description": "Menu entry: 'Auto-save' > Auto-save all tabs'",
+      "message": "Spara alla flikar automatiskt"
+   },
+   "menuAutoSaveDisabled": {
+      "description": "Menu entry: 'Auto-save' > Disabled'",
+      "message": "Inaktiverad"
+   },
+   "menuAutoSaveTab": {
+      "description": "Menu entry: 'Auto-save' > Auto-save this tab'",
+      "message": "Spara denna flik automatiskt"
+   },
+   "menuAutoSaveUnpinnedTabs": {
+      "description": "Menu entry: 'Auto-save' > Auto-save unpinned tabs'",
+      "message": "Spara ofästa flikar automatiskt"
+   },
+   "menuBatchSaveUrls": {
+      "description": "Menu entry: 'Batch save URLs...'",
+      "message": "Gruppspara URL:er..."
+   },
+   "menuCreateDomainRule": {
+      "description": "Menu entry: 'Select the profile of the current domain'",
+      "message": "Välj profilen för den aktuella domänen"
+   },
+   "menuEditAndSavePage": {
+      "description": "Menu entry: 'Annotate and save the page...'",
+      "message": "Anteckna och spara sidan..."
+   },
+   "menuEditPage": {
+      "description": "Menu entry: 'Annotate the page...'",
+      "message": "Anteckna sidan..."
+   },
+   "menuSaveAllTabs": {
+      "description": "Menu entry: 'Save all tabs'",
+      "message": "Spara alla flikar"
+   },
+   "menuSaveFrame": {
+      "description": "Menu entry: 'Save frame'",
+      "message": "Spara ram"
+   },
+   "menuSavePage": {
+      "description": "Menu entry: 'Save page with SingleFile'",
+      "message": "Spara sidan med SingleFile"
+   },
+   "menuSaveSelectedLinks": {
+      "description": "Menu entry: 'Save selected links'",
+      "message": "Spara valda länkar"
+   },
+   "menuSaveSelectedTabs": {
+      "description": "Menu entry: 'Save selected tabs'",
+      "message": "Spara valda flikar"
+   },
+   "menuSaveSelection": {
+      "description": "Menu entry: 'Save selection'",
+      "message": "Spara valet"
+   },
+   "menuSaveTabs": {
+      "description": "Menu entry (SingleFile button only): 'Save tabs'",
+      "message": "Spara flikar"
+   },
+   "menuSaveUnpinnedTabs": {
+      "description": "Menu entry: 'Save unpinned tabs'",
+      "message": "Spara ofästa flikar"
+   },
+   "menuSaveWithProfile": {
+      "description": "Menu entry: 'Save with profile'",
+      "message": "Spara sidan med profil"
+   },
+   "menuSelectProfile": {
+      "description": "Menu entry: 'Select the default profile'",
+      "message": "Välj standardprofilen"
+   },
+   "menuUpdateRule": {
+      "description": "Menu entry: 'Select the profile of the current rule'",
+      "message": "Välj profilen för den aktuella regeln"
+   },
+   "menuViewPendingSaves": {
+      "description": "Menu entry: 'View pending saves...'",
+      "message": "Visa väntande sparingar..."
+   },
+   "optionAddMenuEntry": {
+      "description": "Options page label: 'add entry in the context menu of the webpage'",
+      "message": "lägg till post i snabbmenyn på webbsidan"
+   },
+   "optionAddProof": {
+      "description": "Options page label: 'add proof of existence'",
+      "message": "lägga till bevis på existens"
+   },
+   "optionAllowedBookmarkFolders": {
+      "description": "Options page label: 'allowed folders'",
+      "message": "tillåtna mappar"
+   },
+   "optionApplySystemTheme": {
+      "description": "Title of the button 'apply the system theme when formatting a page'",
+      "message": "tillämpa systemtemat vid formatering av en sida"
+   },
+   "optionAutoClose": {
+      "description": "Options page label: 'auto-close the tab after the page is saved'",
+      "message": "stäng fliken automatiskt efter att sidan har sparats"
+   },
+   "optionAutoOpenEditor": {
+      "description": "Options page label: 'open pages saved with SingleFile in the annotation editor'",
+      "message": "öppna sidor sparade med SingleFile i anteckningsredigeraren"
+   },
+   "optionAutoSaveDelay": {
+      "description": "Options page label: 'auto-save waiting delay after page load (s)'",
+      "message": "spara automatiskt vid väntefördröjning efter sidladdning (s)"
+   },
+   "optionAutoSaveDiscard": {
+      "description": "Options page label: 'auto-save on tab discard'",
+      "message": "spara automatiskt vid kassera flik"
+   },
+   "optionAutoSaveExternalSave": {
+      "description": "Options page label: 'save the page with SingleFile Companion'",
+      "message": "spara sidan med SingleFile Companion"
+   },
+   "optionAutoSaveLoad": {
+      "description": "Options page label: 'auto-save after page load'",
+      "message": "spara automatiskt efter sidladdning"
+   },
+   "optionAutoSaveLoadOrUnload": {
+      "description": "auto-save after page load or on page unload",
+      "message": "spara automatiskt efter sidladdning eller vid urladdning"
+   },
+   "optionAutoSaveRemove": {
+      "description": "Options page label: 'auto-save on tab removal'",
+      "message": "spara automatiskt vid flikborttagning"
+   },
+   "optionAutoSaveRepeat": {
+      "description": "Options page label: 'auto-save periodically'",
+      "message": "spara automatiskt periodvis"
+   },
+   "optionAutoSaveRepeatDelay": {
+      "description": "Options page label: 'period (s)'",
+      "message": "period (s.)"
+   },
+   "optionAutoSaveUnload": {
+      "description": "Options page label: 'auto-save on page unload'",
+      "message": "spara automatiskt vid urladdning av sidor"
+   },
+   "optionBackgroundSave": {
+      "description": "Options page label: 'save pages in background'",
+      "message": "spara sidor i bakgrunden"
+   },
+   "optionBlockMixedContent": {
+      "description": "Options page label: 'block mixed content'",
+      "message": "blockera blandat innehåll"
+   },
+   "optionCompressCSS": {
+      "description": "Options page label: 'compress CSS content'",
+      "message": "komprimera CSS-innehåll"
+   },
+   "optionCompressHTML": {
+      "description": "Options page label: 'compress HTML content'",
+      "message": "komprimera HTML-innehåll"
+   },
+   "optionConfirmFilename": {
+      "description": "Options page label: 'open the \"Save as\" dialog to confirm the file name'",
+      "message": "öppna dialogrutan \"Spara som\" för att bekräfta filnamnet"
+   },
+   "optionConfirmInfobar": {
+      "description": "Options page label: 'open a prompt dialog to edit the infobar content'",
+      "message": "öppna en dialogruta för att redigera informationsfältets innehåll"
+   },
+   "optionCreateRootDirectory": {
+      "description": "Options page label: 'create a root directory'",
+      "message": "skapa en rotkatalog"
+   },
+   "optionDefaultEditorMode": {
+      "description": "Options page label: 'default mode'",
+      "message": "standardläge"
+   },
+   "optionDefaultEditorModeCut": {
+      "description": "Options page label: 'default mode > remove elements'",
+      "message": "ta bort element"
+   },
+   "optionDefaultEditorModeCutExternal": {
+      "description": "Options page label: 'default mode > remove external elements'",
+      "message": "ta bort externa element"
+   },
+   "optionDefaultEditorModeEdit": {
+      "description": "Options page label: 'default mode > edit the page'",
+      "message": "redigera sidan"
+   },
+   "optionDefaultEditorModeFormat": {
+      "description": "Options page label: 'default mode > format the page'",
+      "message": "formatera sidan"
+   },
+   "optionDefaultEditorModeNormal": {
+      "description": "Options page label: 'default mode > normal'",
+      "message": "normal"
+   },
+   "optionDisplayInfobar": {
+      "description": "Options page label: 'display an infobar when viewing a saved page'",
+      "message": "visa ett infofält när du visar en sparad sida"
+   },
+   "optionDisplayInfobarInEditor": {
+      "description": "Title of the button 'display the infobar'",
+      "message": "visa informationsfältet"
+   },
+   "optionDisplayShadow": {
+      "description": "Options page label: 'overlay a shadow on the page during processing'",
+      "message": "överlägg en skugga på sidan under bearbetningen"
+   },
+   "optionDisplayStats": {
+      "description": "Options page label: 'display stats in the console after processing'",
+      "message": "visa statistik i konsolen efter bearbetning"
+   },
+   "optionFileFormat": {
+      "description": "Options page label: 'format'",
+      "message": "format"
+   },
+   "optionFileFormatSelectHTML": {
+      "description": "Options page label: 'HTML'",
+      "message": "HTML"
+   },
+   "optionFileFormatSelectSelfExtracting": {
+      "description": "Options page label: 'self-extracting ZIP'",
+      "message": "självextraherande ZIP"
+   },
+   "optionFileFormatSelectSelfExtractingUniversal": {
+      "description": "Options page label: 'self-extracting ZIP (universal)'",
+      "message": "självextraherande ZIP (universell)"
+   },
+   "optionFileFormatSelectZIP": {
+      "description": "Options page label: 'ZIP'",
+      "message": "ZIP"
+   },
+   "optionFilenameConflictAction": {
+      "description": "Options page label: 'filename conflict resolution'",
+      "message": "filnamn konfliktlösning"
+   },
+   "optionFilenameConflictActionOverwrite": {
+      "description": "Value for 'filename conflict resolution' option: 'overwrite the existing file'",
+      "message": "skriva över den befintliga filen"
+   },
+   "optionFilenameConflictActionPrompt": {
+      "description": "Value for 'name conflict resolution' option: 'prompt for a name'",
+      "message": "fråga efter ett namn"
+   },
+   "optionFilenameConflictActionSkip": {
+      "description": "Value for 'filename conflict resolution' option: 'skip duplicate files'",
+      "message": "hoppa över dubblettfiler"
+   },
+   "optionFilenameConflictActionUniquify": {
+      "description": "Value for 'filename conflict resolution' option: 'create a unique name'",
+      "message": "skapa ett unikt namn"
+   },
+   "optionFilenameMaxLength": {
+      "description": "Options page label: 'max length'",
+      "message": "max längd"
+   },
+   "optionFilenameMaxLengthBytesUnit": {
+      "description": "Options page label: 'bytes'",
+      "message": "byte"
+   },
+   "optionFilenameMaxLengthCharsUnit": {
+      "description": "Options page label: 'characters'",
+      "message": "tecken"
+   },
+   "optionFilenameReplacementCharacter": {
+      "description": "Options page label: 'replacement character'",
+      "message": "ersättningstecken"
+   },
+   "optionFilenameTemplate": {
+      "description": "Options page label: 'template'",
+      "message": "mall"
+   },
+   "optionGitHubBranch": {
+      "description": "Options page label: 'branch name'",
+      "message": "filialnamn"
+   },
+   "optionGitHubRepository": {
+      "description": "Options page label: 'repository name'",
+      "message": "förvarets namn"
+   },
+   "optionGitHubToken": {
+      "description": "Options page label: 'access token'",
+      "message": "åtkomsttoken"
+   },
+   "optionGitHubUser": {
+      "description": "Options page label: 'user name'",
+      "message": "användarnamn"
+   },
+   "optionGroupDuplicateImages": {
+      "description": "Options page label: 'group duplicate images together'",
+      "message": "gruppera dubblettbilder"
+   },
+   "optionGroupDuplicateStylesheets": {
+      "description": "Options page label: 'group duplicate stylesheets together'",
+      "message": "gruppera dubblettstilmallar tillsammans"
+   },
+   "optionIgnoredBookmarkFolders": {
+      "description": "Options page label: 'ignored folders'",
+      "message": "ignorerade mappar"
+   },
+   "optionIncludeInfobar": {
+      "description": "Options page label: 'include the infobar in the saved page'",
+      "message": "inkludera informationsfältet på den sparade sidan"
+   },
+   "optionInfobarTemplate": {
+      "description": "Options page label: 'template of the infobar content'",
+      "message": "mall för informationsfältets innehåll"
+   },
+   "optionInsertEmbeddedCustomImage": {
+      "description": "Options page label: 'custom image'",
+      "message": "anpassad bild"
+   },
+   "optionInsertEmbeddedImage": {
+      "description": "Options page label: 'embed image'",
+      "message": "bädda in bild"
+   },
+   "optionInsertEmbeddedScreenshotImage": {
+      "description": "Options page label: 'page screenshot'",
+      "message": "sidans skärmdump"
+   },
+   "optionInsertMetaCSP": {
+      "description": "Options page label: 'set content security policy'",
+      "message": "ange innehållssäkerhetspolicy"
+   },
+   "optionInsertTextBody": {
+      "description": "Options page label: 'make text searchable'",
+      "message": "gör texten sökbar"
+   },
+   "optionLoadDeferredImages": {
+      "description": "Options page label: 'save deferred images'",
+      "message": "spara uppskjutna bilder"
+   },
+   "optionLoadDeferredImagesBeforeFrames": {
+      "description": "Options page label: 'load deferred frames'",
+      "message": "ladda uppskjutna ramar"
+   },
+   "optionLoadDeferredImagesDispatchScrollEvent": {
+      "description": "Options page label: 'dispatch \"scroll\" event'",
+      "message": "skicka \"rullnings\"händelse"
+   },
+   "optionLoadDeferredImagesKeepZoomLevel": {
+      "description": "Options page label: 'zoom out the page'",
+      "message": "zooma ut sidan"
+   },
+   "optionLoadDeferredImagesMaxIdleTime": {
+      "description": "Options page label: 'maximum idle time (ms)'",
+      "message": "maximal vilotid (ms)"
+   },
+   "optionMaxResourceDelay": {
+      "description": "Options page label: 'maximum download time (s)'",
+      "message": "maximal nedladdningstid (er)"
+   },
+   "optionMaxResourceSize": {
+      "description": "Options page label: 'maximum size (MB)'",
+      "message": "maximal storlek (MB)"
+   },
+   "optionMoveStylesInHead": {
+      "description": "Options page label: 'move in the head element the styles found outside of it'",
+      "message": "flytta i huvudelementet stilarna som finns utanför det"
+   },
+   "optionOpenEditor": {
+      "description": "Options page label: 'annotate the page before saving'",
+      "message": "anteckna sidan innan du sparar"
+   },
+   "optionOpenInfobar": {
+      "description": "Options page label: 'keep infobar open'",
+      "message": "håll informationsfältet öppet"
+   },
+   "optionOpenSavedPage": {
+      "description": "Options page label: 'open saved pages in a new tab'",
+      "message": "öppna sparade sidor i en ny flik"
+   },
+   "optionPassReferrerOnError": {
+      "description": "Options page label: 'pass \"Referer\" header after a cross-origin request error'",
+      "message": "skicka rubriken \"Referer\" efter ett fel med korsoriginansförfrågan"
+   },
+   "optionPassword": {
+      "description": "Options page label: 'password'",
+      "message": "lösenord"
+   },
+   "optionPreventAppendedData": {
+      "description": "Options page label: 'do not append data after the ZIP data'",
+      "message": "lägg inte till data efter ZIP-data"
+   },
+   "optionRemoveAlternativeFonts": {
+      "description": "Options page label: 'remove alternative fonts'",
+      "message": "ta bort alternativa teckensnitt"
+   },
+   "optionRemoveAlternativeImages": {
+      "description": "Options page label: 'remove images for alternative screen resolutions'",
+      "message": "ta bort bilder för alternativa skärmupplösningar"
+   },
+   "optionRemoveAlternativeMedias": {
+      "description": "Options page label: 'remove stylesheets for alternative devices to screens'",
+      "message": "ta bort stilmallar för alternativa enheter till skärmar"
+   },
+   "optionRemoveFrames": {
+      "description": "Options page label: 'remove frames'",
+      "message": "ta bort ramar"
+   },
+   "optionRemoveHiddenElements": {
+      "description": "Options page label: 'remove hidden elements'",
+      "message": "ta bort dolda element"
+   },
+   "optionRemoveInfobarSavedDate": {
+      "description": "Options page label: 'do not include the saved date'",
+      "message": "inkludera inte sparat datum"
+   },
+   "optionRemoveUnusedFonts": {
+      "description": "Options page label: 'remove unused fonts'",
+      "message": "ta bort oanvända teckensnitt"
+   },
+   "optionRemoveUnusedStyles": {
+      "description": "Options page label: 'remove unused styles'",
+      "message": "ta bort oanvända stilar"
+   },
+   "optionReplaceBookmarkURL": {
+      "description": "Options page label: 'link the new bookmark to the saved page'",
+      "message": "länka det nya bokmärket till den sparade sidan"
+   },
+   "optionReplaceEmojisInFilename": {
+      "description": "Options page label: 'replace emojis with text'",
+      "message": "ersätt emojis med text"
+   },
+   "optionResourceAudio": {
+      "description": "Options page label: 'audios'",
+      "message": "ljud"
+   },
+   "optionResourceDocument": {
+      "description": "Options page label: 'documents'",
+      "message": "dokument"
+   },
+   "optionResourceFont": {
+      "description": "Options page label: 'fonts'",
+      "message": "teckensnitt"
+   },
+   "optionResourceImage": {
+      "description": "Options page label: 'images'",
+      "message": "bilder"
+   },
+   "optionResourceScript": {
+      "description": "Options page label: 'scripts'",
+      "message": "skript"
+   },
+   "optionResourceStylesheet": {
+      "description": "Options page label: 'stylesheets'",
+      "message": "stilmallar"
+   },
+   "optionResourceVideo": {
+      "description": "Options page label: 'videos'",
+      "message": "videor"
+   },
+   "optionRestFormApiFileFieldName": {
+      "description": "Options page label: 'archive data field name'",
+      "message": "arkivdatafältnamn"
+   },
+   "optionRestFormApiToken": {
+      "description": "Options page label: 'authorization token'",
+      "message": "auktoriseringstoken"
+   },
+   "optionRestFormApiUrl": {
+      "description": "Options page label: 'URL'",
+      "message": "URL"
+   },
+   "optionRestFormApiUrlFieldName": {
+      "description": "Options page label: 'archive URL field name'",
+      "message": "arkivets URL-fältnamn"
+   },
+   "optionS3AccessKey": {
+      "description": "Options page label: 'access key'",
+      "message": "åtkomstnyckel"
+   },
+   "optionS3Bucket": {
+      "description": "Options page label: 'bucket name'",
+      "message": "hinknamn"
+   },
+   "optionS3Domain": {
+      "description": "Options page label: 'domain'",
+      "message": "domän"
+   },
+   "optionS3Region": {
+      "description": "Options page label: 'region'",
+      "message": "region"
+   },
+   "optionS3SecretKey": {
+      "description": "Options page label: 'secret key'",
+      "message": "hemlig nyckel"
+   },
+   "optionSaveCreatedBookmarks": {
+      "description": "Options page label: 'save the page of a newly created bookmark'",
+      "message": "spara sidan av ett nyskapat bokmärke"
+   },
+   "optionSaveFilenameTemplateData": {
+      "description": "Options page label: 'save the filename template data into the page'",
+      "message": "spara filnamnsmallens data med sidan"
+   },
+   "optionSaveOriginalURLs": {
+      "description": "Options page label: 'save original URLs of embedded resources'",
+      "message": "spara original URL:er för inbäddade resurser"
+   },
+   "optionSaveRawPage": {
+      "description": "Options page label: 'save raw page'",
+      "message": "spara rå sida"
+   },
+   "optionSaveToClipboard": {
+      "description": "Options page label: 'copy to clipboard'",
+      "message": "kopiera till urklipp"
+   },
+   "optionSaveToDropbox": {
+      "description": "Options page label: 'upload to Dropbox'",
+      "message": "ladda upp till Dropbox"
+   },
+   "optionSaveToFilesystem": {
+      "description": "Options page label: 'save to filesystem'",
+      "message": "spara till filsystemet"
+   },
+   "optionSaveToGDrive": {
+      "description": "Options page label: 'upload to Google Drive'",
+      "message": "ladda upp till Google Drive"
+   },
+   "optionSaveToGitHub": {
+      "description": "Options page label: 'upload to GitHub'",
+      "message": "ladda upp till GitHub"
+   },
+   "optionSaveToRestFormApi": {
+      "description": "Options page label: 'upload to a REST Form API'",
+      "message": "ladda upp till ett REST Form API"
+   },
+   "optionSaveToS3": {
+      "description": "Options page label: 'upload to Amazon S3'",
+      "message": "ladda upp till Amazon S3"
+   },
+   "optionSaveWithCompanion": {
+      "description": "Options page label: 'save with SingleFile Companion'",
+      "message": "spara med SingleFile Companion"
+   },
+   "optionSaveWithWebDAV": {
+      "description": "Options page label: 'upload to a WebDAV server'",
+      "message": "ladda upp till en WebDAV-server"
+   },
+   "optionSetMaxResourceDelay": {
+      "description": "Options page label: 'set maximum download time'",
+      "message": "ställ in maximal nedladdningstid"
+   },
+   "optionSetMaxResourceSize": {
+      "description": "Options page label: 'set maximum size'",
+      "message": "ställ in maximal storlek"
+   },
+   "optionSharePage": {
+      "description": "Options page label: 'share page'",
+      "message": "dela sida"
+   },
+   "optionSynchronize": {
+      "description": "Options label: 'synchronize options'",
+      "message": "synchronize options"
+   },
+   "optionWarnUnsavedPage": {
+      "description": "Title of the button 'warn if leaving page with unsaved changes'",
+      "message": "varna om du lämnar sidan med osparade ändringar"
+   },
+   "optionWebDAVPassword": {
+      "description": "Options page label: 'password'",
+      "message": "lösenord"
+   },
+   "optionWebDAVURL": {
+      "description": "Options page label: 'URL'",
+      "message": "URL"
+   },
+   "optionWebDAVUser": {
+      "description": "Options page label: 'user identifier'",
+      "message": "användaridentifierare"
+   },
+   "optionWoleetKey": {
+      "description": "Options page label: 'access token'",
+      "message": "åtkomsttoken"
+   },
+   "optionsAcceptHeaders": {
+      "description": "Options page label: '\"Accept\" header'",
+      "message": "\"Acceptera\" rubrik"
+   },
+   "optionsAddProofConfirm": {
+      "description": "Popup text displayed wen enabling the option 'add proof of existence'",
+      "message": "Bekräfta att du tillåter SingleFile att skicka till Woleet API en SHA256-hash för varje sida du ska spara. Du kan hitta mer information om denna funktion på hjälpsidan eller genom att klicka på frågetecknet bredvid alternativet."
+   },
+   "optionsAddRuleTooltip": {
+      "description": "Popup text 'Add the rule' in the options page",
+      "message": "Lägg till regeln"
+   },
+   "optionsAutoSaveSubTitle": {
+      "description": "Options sub-title: 'Auto-save'",
+      "message": "Spara automatiskt"
+   },
+   "optionsAutoSettingsAutoSaveProfile": {
+      "description": "Options label in the Auto-settings rules: 'Auto-save profile'",
+      "message": "Spara profil automatiskt"
+   },
+   "optionsAutoSettingsProfile": {
+      "description": "Options label in the Auto-settings rules: 'Profile'",
+      "message": "Profil"
+   },
+   "optionsAutoSettingsShowAllProfiles": {
+      "description": "Options label in the Auto-settings rules: 'display all profiles'",
+      "message": "visa alla profiler"
+   },
+   "optionsAutoSettingsShowAutoSaveProfile": {
+      "description": "Options label in the Auto-settings rules: 'display 'Auto-save profile' column'",
+      "message": "visa kolumnen 'Spara profil automatiskt'"
+   },
+   "optionsAutoSettingsSubTitle": {
+      "description": "Options sub-title: 'Auto-settings rules'",
+      "message": "Regler för automatiska inställningar"
+   },
+   "optionsAutoSettingsUrl": {
+      "description": "Options label in the Auto-settings rules: 'URL'",
+      "message": "URL"
+   },
+   "optionsAutoSettingsUrlPlaceholder": {
+      "description": "Placeholder in the Auto-settings rules: 'Type a complete or partial URL (e.g. example.com)'",
+      "message": "Ange en fullständig eller delvis URL (t.ex. example.com)"
+   },
+   "optionsBlockedResources": {
+      "description": "Options page label: 'blocked resources'",
+      "message": "blockerade resurser"
+   },
+   "optionsBookmarkSubTitle": {
+      "description": "Options sub-title: 'Bookmarks'",
+      "message": "Bokmärken"
+   },
+   "optionsCancelButton": {
+      "description": "Options confirm button: 'Cancel'",
+      "message": "Avbryt"
+   },
+   "optionsCancelChangesTooltip": {
+      "description": "Popup text 'Cancel changes' in the options page",
+      "message": "Avbryt ändringar"
+   },
+   "optionsDeleteDisplayedRulesConfirm": {
+      "description": "Popup text 'Confirm the deletion of all displayed rules'",
+      "message": "Bekräfta borttagningen av alla visade regler"
+   },
+   "optionsDeleteRuleConfirm": {
+      "description": "Popup text 'Confirm the deletion of the selected rule' in the options page",
+      "message": "Bekräfta borttagningen av den valda regeln"
+   },
+   "optionsDeleteRuleTooltip": {
+      "description": "Popup text 'Delete the rule' in the options page",
+      "message": "Ta bort regeln"
+   },
+   "optionsDeleteRulesTooltip": {
+      "description": "Popup text 'Delete all displayed rules'",
+      "message": "Ta bort alla visade regler"
+   },
+   "optionsDestinationSubTitle": {
+      "description": "Options sub-title: 'Destination'",
+      "message": "Destination"
+   },
+   "optionsEditorConfigSaved": {
+      "description": "Options editor message: 'Configuration saved'",
+      "message": "Konfiguration sparad"
+   },
+   "optionsEditorInvalidJSON": {
+      "description": "Options editor error message: 'Invalid JSON'",
+      "message": "Ogiltig JSON"
+   },
+   "optionsEditorSaveButton": {
+      "description": "Options editor button: 'Save'",
+      "message": "Spara"
+   },
+   "optionsEditorSubTitle": {
+      "description": "Options sub-title: 'Annotation editor'",
+      "message": "Anteckningsredigerare"
+   },
+   "optionsEditorTitle": {
+      "description": "Options title: 'Options editor'",
+      "message": "Alternativredigerare"
+   },
+   "optionsExportButton": {
+      "description": "Options button: 'Export'",
+      "message": "Exportera"
+   },
+   "optionsFileFormatSubTitle": {
+      "description": "Options sub-title: 'File format'",
+      "message": "Filformat"
+   },
+   "optionsFileNameSubTitle": {
+      "description": "Options sub-title: 'File name'",
+      "message": "Filnamn"
+   },
+   "optionsFontsSubTitle": {
+      "description": "Options sub-title: 'Fonts'",
+      "message": "Teckensnitt"
+   },
+   "optionsHTMLContentSubTitle": {
+      "description": "Options sub-title: 'HTML content'",
+      "message": "HTML-innehåll"
+   },
+   "optionsHelpLink": {
+      "description": "Options help link",
+      "message": "hjälp"
+   },
+   "optionsImagesSubTitle": {
+      "description": "Options sub-title: 'Images'",
+      "message": "Bilder"
+   },
+   "optionsImportButton": {
+      "description": "Options button: 'Import'",
+      "message": "Importera"
+   },
+   "optionsInfobarSubTitle": {
+      "description": "Options sub-title: 'Infobar'",
+      "message": "Informationsfält"
+   },
+   "optionsMiscSubTitle": {
+      "description": "Options sub-title: 'Misc.'",
+      "message": "Övrigt"
+   },
+   "optionsNetworkSubTitle": {
+      "description": "Options sub-title: 'Network'",
+      "message": "Nätverk"
+   },
+   "optionsOKButton": {
+      "description": "Options confirm button: 'OK'",
+      "message": "OK"
+   },
+   "optionsResetAllButton": {
+      "description": "Options confirm button: 'Reset all options'",
+      "message": "Återställ alla alternativ"
+   },
+   "optionsResetButton": {
+      "description": "Options button: 'Reset'",
+      "message": "Återställ"
+   },
+   "optionsResetConfirm": {
+      "description": "Popup text 'Confirm the reset of all options or the current profile' in the options page",
+      "message": "Bekräfta återställningen av alla alternativ eller den aktuella profilen"
+   },
+   "optionsResetCurrentButton": {
+      "description": "Options confirm button: 'Reset current profile'",
+      "message": "Återställ den aktuella profilen"
+   },
+   "optionsResetTooltip": {
+      "description": "Options 'Reset' button tooltip",
+      "message": "Återställ alla alternativ till deras standardvärden"
+   },
+   "optionsStylesheetsSubTitle": {
+      "description": "Options sub-title: 'Stylesheets'",
+      "message": "Stilmallar"
+   },
+   "optionsTitle": {
+      "description": "Options page title",
+      "message": "Alternativ"
+   },
+   "optionsUpdateRuleTooltip": {
+      "description": "Popup text 'Update the rule' in the options page",
+      "message": "Uppdatera regeln"
+   },
+   "optionsUserInterfaceSubTitle": {
+      "description": "Options sub-title: 'User interface'",
+      "message": "Användargränssnitt"
+   },
+   "optionsValidateChangesTooltip": {
+      "description": "Popup text 'Validate changes' in the options page",
+      "message": "Validera ändringar"
+   },
+   "pendingsAddUrls": {
+      "description": "Label of the add URLs input",
+      "message": "Ange en lista med URL:er åtskilda av en ny rad"
+   },
+   "pendingsAddUrlsButton": {
+      "description": "button 'Add URLs'",
+      "message": "Lägg till URL:er"
+   },
+   "pendingsAddUrlsCancelButton": {
+      "description": "Add URLs popup cancel button: 'Cancel'",
+      "message": "Avbryt"
+   },
+   "pendingsAddUrlsOKButton": {
+      "description": "Add URLs popup confirm button: 'OK'",
+      "message": "OK"
+   },
+   "pendingsCancelAllButton": {
+      "description": "Pending saves button 'Cancel all'",
+      "message": "Avbryt alla"
+   },
+   "pendingsCancellingStatus": {
+      "description": "Value of 'status' for cancelled saves",
+      "message": "avbryter"
+   },
+   "pendingsNoPendings": {
+      "description": "Label displayed when there are no pending saves",
+      "message": "Inga väntande sparningar"
+   },
+   "pendingsPendingStatus": {
+      "description": "Value of 'status' for pending saves",
+      "message": "väntande"
+   },
+   "pendingsProcessingStatus": {
+      "description": "Value of 'status' for current saves",
+      "message": "bearbetning"
+   },
+   "pendingsStatusTitle": {
+      "description": "Title of the second column in the table of the pending saves 'status'",
+      "message": "status"
+   },
+   "pendingsTitle": {
+      "description": "Title of the pending save page 'Pending saves' in the editor",
+      "message": "Väntande sparingar"
+   },
+   "pendingsTitleTitle": {
+      "description": "Title of the first column in the table of the pending saves 'Title'",
+      "message": "Titel"
+   },
+   "pendingsURLTitle": {
+      "description": "Title of the first column in the table of the pending saves 'URL'",
+      "message": "URL"
+   },
+   "profileAddButtonTooltip": {
+      "description": "Tooltip 'Add a new profile' in the options page",
+      "message": "Lägg till en ny profil"
+   },
+   "profileAddPrompt": {
+      "description": "Popup text 'Enter a name for this new profile' in the options page",
+      "message": "Ange ett namn för den här nya profilen"
+   },
+   "profileDefaultSettings": {
+      "description": "Label 'Default settings' of the default settings in the options page",
+      "message": "Standardinställningar"
+   },
+   "profileDeleteButtonTooltip": {
+      "description": "Tooltip 'Delete the profile' in the options page",
+      "message": "Ta bort profilen"
+   },
+   "profileDeleteConfirm": {
+      "description": "Popup text 'Confirm the deletion of the selected profile' in the options page",
+      "message": "Bekräfta borttagningen av den valda profilen"
+   },
+   "profileDisabled": {
+      "description": "Label 'Disabled' of the disabled profile name in the options page",
+      "message": "Inaktiverad"
+   },
+   "profileRenameButtonTooltip": {
+      "description": "Tooltip 'Rename the profile' in the options page",
+      "message": "Byt namn på profilen"
+   },
+   "profileRenamePrompt": {
+      "description": "Popup text 'Enter a new name for the selected profile' in the options page",
+      "message": "Ange ett nytt namn för den valda profilen"
+   },
+   "topPanelEmbeddedImageButton": {
+      "description": "Top panel button 'Open image...' when embedding an image",
+      "message": "Öppna bild..."
+   },
+   "topPanelError": {
+      "description": "Label 'SingleFile error: ' in the top panel when displaying an error message",
+      "message": "SingleFile-fel: "
+   },
+   "topPanelSharePageButton": {
+      "description": "Top panel button 'Share page...' when sharing a page",
+      "message": "Dela sida..."
+   },
+   "topPanelShareSelectionButton": {
+      "description": "Top panel button 'Share selection...' when sharing selected content",
+      "message": "Dela val..."
+   }
+}

@@ -1,0 +1,1 @@
+const o=["https://www.facebook.com/*","https://web.facebook.com/*","https://*.esuit.dev/*"],t="ESUIT | Reactions Exporter for Facebook™",e="export-reactions-for-facebook";export{t as e,o as h,e as p};

@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Abut ..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Captura la finestra del navegador i"
+   },
+   "action_capture_entire": {
+      "message": "Captura la pàgina sencera i"
+   },
+   "action_capture_entire_lite": {
+      "message": "Captura la pàgina sencera"
+   },
+   "action_capture_selection": {
+      "message": "Captura selecció/element i"
+   },
+   "action_capture_selection_lite": {
+      "message": "Captura la selecció"
+   },
+   "action_capture_tabs": {
+      "message": "Captura totes les pestanyes i"
+   },
+   "action_capture_visible": {
+      "message": "Captura la part visible i"
+   },
+   "action_capture_visible_lite": {
+      "message": "Captura la part visible"
+   },
+   "action_copy": {
+      "message": "Copiar a porta-retalls"
+   },
+   "action_edit": {
+      "message": "Editar"
+   },
+   "action_email": {
+      "message": "Correu electrònic"
+   },
+   "action_enter_license": {
+      "message": "Introduïu infᴏ llicència"
+   },
+   "action_external": {
+      "message": "Obre en edició externa"
+   },
+   "action_install_native": {
+      "message": "Proveu funcions avançades"
+   },
+   "action_license_info": {
+      "message": "Llicències inf ..."
+   },
+   "action_micsellaneous": {
+      "message": "Divers"
+   },
+   "action_onenote": {
+      "message": "Enviar a OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Obert des del porta-retalls"
+   },
+   "action_open_file": {
+      "message": "Arxiu obert"
+   },
+   "action_options": {
+      "message": "Opcions"
+   },
+   "action_print": {
+      "message": "Imprimir"
+   },
+   "action_register": {
+      "message": "Registrar-se"
+   },
+   "action_resume": {
+      "message": "Reprendre l’edició"
+   },
+   "action_save": {
+      "message": "Desa"
+   },
+   "action_save_pdf": {
+      "message": "Desa com a PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Desa com a PDF únic"
+   },
+   "action_support": {
+      "message": "Suport"
+   },
+   "action_switch_pro": {
+      "message": "Canvia t Prᴏ"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Activa les funcions Prᴏ per continuar..."
+   },
+   "action_upload": {
+      "message": "Carregar"
+   },
+   "action_view_demo": {
+      "message": "Visualitza la mostra"
+   },
+   "application_description": {
+      "message": "Agafeu pantalles de pàgina web COMPLETES. Captureu-los, editeu-los i deseu-los a PDF/JPEG/GIF/PNG, carregar-los, imprimeix, envieu-los a OneNᴏte, porta-retalls o correu electrònic."
+   },
+   "application_title": {
+      "message": "Fer captures de pantalla de pàgines web completamente - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Compra Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Copiar a porta-retalls"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Aprèn com..."
+   },
+   "captured_get_free_button": {
+      "message": "Proveu de franc"
+   },
+   "captured_print": {
+      "message": "Imprimir"
+   },
+   "captured_print_button": {
+      "message": "Imprimir"
+   },
+   "captured_recommend_us": {
+      "message": "Recomaneu-vos FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Desa com a imatge"
+   },
+   "captured_save_as_image_button": {
+      "message": "Desa com a imatge"
+   },
+   "captured_save_as_pdf": {
+      "message": "Deseu tᴏ PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Desa la pantalla"
+   },
+   "captured_saving_options": {
+      "message": "personalitzar-lo"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Configureu les tecles i les configuracions dels fitxers..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Captura, Escriure, Imprimeix i deseu millor, Editeu, Càrrega, Envieu a correu electrònic/OneNᴏte, o Exportar a un altre programa."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Actualització a FireShot Prᴏ"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Estava utilitzant un altre versiᴏn de FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Puc recuperar-lo?"
+   },
+   "enable_checkbox": {
+      "message": "Habilita"
+   },
+   "options_button_apply": {
+      "message": "Aplica"
+   },
+   "options_button_save_close": {
+      "message": "Desa i cliqueu"
+   },
+   "options_button_setup": {
+      "message": "Feu clic a configuració"
+   },
+   "options_label_and": {
+      "message": "i"
+   },
+   "options_label_capturing": {
+      "message": "Captura"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Cliqueu la pestanya després de desar"
+   },
+   "options_label_customize_saving": {
+      "message": "Personalitzar el procés de guardat"
+   },
+   "options_label_default_filename_template": {
+      "message": "Plantilla de nom de fitxer per defecte:"
+   },
+   "options_label_default_folder": {
+      "message": "Carpeta de sortida per defecte"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Una ruta de fitxer relativa al directori Descàrregues per contenir el fitxer, possiblement contenen subdirectaries. Els camins absoluos, els camins buits i els camins d'accés a les referències posteriors «..» provocaran un error."
+   },
+   "options_label_editor_options": {
+      "message": "Opcions de Editor"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integreu FireShot al menú contextual"
+   },
+   "options_label_file_settings": {
+      "message": "Configuració del fitxer"
+   },
+   "options_label_fireshot_options": {
+      "message": "Opcions de FireShot"
+   },
+   "options_label_hotkey": {
+      "message": "Tecles"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Darrera utilització utilitzada"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "No mostris el diàleg \"Desa com\""
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Feu clic al fitxer desat després de desar"
+   },
+   "options_label_save_image_as": {
+      "message": "Desa la imatge com:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Especifiqueu les opcions per editar i desar, preferències de noms de fitxers, estils, etc."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Especifiqueu la clau cᴏmbinatiᴏn per obrir FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Especifiqueu el canvi de mida ᴏpciᴏns i sᴏunds."
+   },
+   "options_label_template_day": {
+      "message": "Dia"
+   },
+   "options_label_template_hour": {
+      "message": "Hores"
+   },
+   "options_label_template_limit_1": {
+      "message": "Limiteu la longitud del nom de fitxer tᴏ"
+   },
+   "options_label_template_limit_2": {
+      "message": "caràcters"
+   },
+   "options_label_template_minutes": {
+      "message": "Minuts"
+   },
+   "options_label_template_month": {
+      "message": "Mes"
+   },
+   "options_label_template_pad_1": {
+      "message": "Número de pad amb"
+   },
+   "options_label_template_pad_2": {
+      "message": "zeros"
+   },
+   "options_label_template_seconds": {
+      "message": "Segons"
+   },
+   "options_label_template_title": {
+      "message": "Títol de la pàgina"
+   },
+   "options_label_template_url": {
+      "message": "URL de la pàgina"
+   },
+   "options_label_template_website": {
+      "message": "Nom principal"
+   },
+   "options_label_template_year": {
+      "message": "Any"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Mostra la configuració de plantilla del nom de fitxer ..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Amaga la configuració de la plantilla del nom de fitxer ..."
+   }
+}

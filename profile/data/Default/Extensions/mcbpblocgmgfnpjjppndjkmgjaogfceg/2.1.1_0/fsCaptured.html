@@ -1,0 +1,505 @@
+<!--Single file both for Chromium and FX-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Please wait...</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/fscaptured.css" rel="stylesheet">
+    <link href="css/fsmodal.css" rel="stylesheet">
+
+    
+    <script src="scripts/3p/jquery-3.3.1.min.js"></script>
+    <script src="scripts/3p/bootstrap.min.js"></script>
+    
+    
+    
+    <link href="css/vue/chunk-vendors.css" rel="preload" as="style">
+    <link href="css/vue/vue-index.css" rel="preload" as="style">
+    <link href="scripts/vue/chunk-vendors.js" rel="preload" as="script">
+    <link href="scripts/vue/vue-index.js" rel="preload" as="script">
+    
+    <link href="css/vue/chunk-vendors.css" rel="stylesheet">
+    <link href="css/vue/vue-index.css" rel="stylesheet">
+
+
+    <script src="scripts/fsCaptured.js"></script>
+
+    
+
+</head>
+
+<body>
+    <div id="app"></div>
+    <div id="divPreviewWarningContainer" style="display: none">
+        <div id="divPreviewWarning" class="hiddenInitially alert alert-info alert-dismissible">
+            <div style="display: flex; gap: 5px 20px; justify-content: space-between;">
+                    <div style="flex-grow:1; display: flex; flex-wrap:wrap; gap: 5px 30px; justify-content: space-between; align-items: center;">
+                        <div>
+                            <span data-i18n="captured_label_using_beta_version">You are using the beta version of FireShot Pro
+                                    features:
+                                    advanced screenshot capabilities and PDF features
+                                    (page setup, headers/footers/watermarks, direct links and searchable text).</span>
+                        </div>
+                        <div style="white-space: nowrap; ">
+                            <span><u><a id="lnkDisableBetaPreview" title="Disable Beta Pro features, return to Lite version"
+                                            href="#"><span data-i18n="captured_exit_beta_program">Exit Beta program</span></a></u>
+                                <span class="fsSpacer"></span>|<span class="fsSpacer"></span><u><a target="_blank"
+                                            id="lnkProblemBetaPreview" href="#"><span data-i18n="captured_report_problem">Report
+                                                problem...</span></a></u>
+                                <span class="fsSpacer"></span>|<span class="fsSpacer"></span><u><a target="_blank" id="lnkBuyPro"
+                                            href="#"><span data-i18n="captured_purchase_license">Purchase license</span></a></u>
+                        </div>
+                    </div>
+
+                <div style="display: inline-flex;">
+                    <button id="btnHidePreviewWarning" type="button" class="close bidi-rtl" data-title-i18n="Collapse">
+                        <span aria-hidden="true"><span style="font-size: 13px;" class="glyphicon glyphicon-chevron-up"></span></span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- <p><b>To go back to Lite features</b>, please click this link: <u><a id="lnkDisableBetaPreview" href="#">Disable Pro features.</a></u></p>
+            <p><b>To report a problem</b>, please use this form: <u><a target="_blank" id="lnkProblemBetaPreview" href="#">Report problem</a></u></p> -->
+            </div>
+        </div>
+    </div>
+    <div id="divBackToLiteWarning" class="alert alert-warning" style="font-weight:bold; display: none;"><span data-i18n="captured_beta_disabled">Thank you. All the beta features have been disabled.</span></div>
+    <div id="divTest" style="z-index: 10;">
+        <div class="dropdown">
+            <button data-toggle="dropdown" type="button" class="btn btn-default btn-sm active dropdown-toggle"><span>Test&nbsp;</span><span class="caret"></span></button>
+            <ul class="dropdown-menu" style="border:rgb(60, 65, 74) solid 1px">
+                <li value="1"><a id="lnkTest1" href="#">Test 1</a></li>
+                <li value="2"><a id="lnkTest2" href="#">Test 2</a></li>
+                <li value="3"><a id="lnkTest3" href="#">Test 3</a></li>
+            </ul>
+        </div>
+    </div>
+    <!-- Page Content -->
+    <div class="container" id="divPreload">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">
+                    <img id="logo" src="/images/rolling.gif">&nbsp;<span id="spnPreloadProgress" data-i18n="captured_label_progress_sign">Almost ready</span>...
+                </h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" style="display:none" id="divContainer">
+          
+        <div class="row">
+            <div class="col-xs-12" style="position: relative;">
+                <div class="hiddenInitially" id="divAdvHelper">&nbsp;</div>
+                <h2 id="pageHeader" class="page-header">
+                    <img id="logo" src="/images/sss_128.png" width="48" height="48">&nbsp;<span data-i18n="captured_save_panel_title"></span>
+                </h2>
+
+                <div class="hiddenInitially" id="divAdv" style="position:absolute; right:5px; top: 0px;">
+                    <div style="text-align: right;">
+                        <button type="button" class="close" id="lnkRemoveAdv" style="font-size:12px; font-weight: bolder; padding-bottom:8px;">
+                            <span data-i18n="captured_label_remove_adv">Remove advertising</span> 
+                            <span>[<b>&times;</b>]</span></button>
+                    </div>
+
+                    <iframe id="iframeAdv" src="" style="border:0; width:728px; height: 90px"></iframe>
+                </div>
+
+            </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+            <div id="divLeftCol" class="col-xs-12 col-sm-7 col-md-8">
+                <div id="divCanBeBetterPromo">
+                    <div class="alert alert-warning" id="divCBBMessage">
+                        <div>
+                            <span style="font-size:14px" class="glyphicon glyphicon-exclamation-sign"></span>
+                            <span data-i18n="captured_label_can_be_captured_better">This page can be captured better with the advanced features installed.</span>
+                        </div>
+                        <div style="margin: 5px 5px 5px 10px;">
+                            <a id="lnkInstallAdvancedTop-1" href="#">
+                                <div id="divTryAdvancedFeatures-1" class="label label-danger">
+                                    <span data-i18n="action_install_native">Try advanced features</span>...
+                                </div>
+                            </a>
+                        </div>
+                        <div style="position:absolute; right: 1.2em; top: 0.2em">
+                            <button data-title-i18n="title_suppress_warning" title="Suppress this warning for 10 days" id="btnCloseAdvancedTopMsg" type="button" class="close" aria-label="Close" style="font-size: 15px;">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="divLimitedSavingFunctionality">
+                    <div class="alert alert-warning" id="divLimitedSavingFunctionalityMsg">
+                        <div>
+                            <span style="font-size:14px" class="glyphicon glyphicon-exclamation-sign"></span>
+                            <span data-i18n="captured_label_limited_functionality">Only a small part of this page can be saved due to browser limitations. You can use FireShot Pro to save the entire page.</span>
+                        </div>
+                        <div style="margin: 5px 5px 5px 10px;">
+                            <a id="lnkInstallAdvancedTop-2" href="#">
+                                <div id="divTryAdvancedFeatures-2" class="label label-danger">
+                                    <span data-i18n="action_install_native">Try advanced features</span>...
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="divImgResult" style="overflow-y:scroll;" class="panel panel-default"></div>
+                <!-- <div class="visible-xs-block" style="text-align: center; margin-bottom: 1.3em;">
+                        <button style="width:40px" id="btnEnlarge" type="button" class="fsButton btn btn-default btn-sm active">
+                            <span class="glyphicon glyphicon-plus"></span></button>
+                    </div> -->
+            </div>
+            <div class="col-xs-12 col-sm-5 col-md-4" style="position: relative">
+                <div id="divPanel">
+                    <div class="panel panel-default" style="margin-bottom:0">
+                        <div class="panel-heading">
+                            <h3 class="panel-title" style="display:inline"></span><span style="font-weight:normal" data-i18n="captured_label_actions">Actions</span></h3>
+                            <button id="btnOptions" type="button" class="close" data-title-i18n="action_options" title="Options">
+                                <span aria-hidden="true"><span style="font-size: 17px;" class="glyphicon glyphicon-cog"></span></span></button>
+                        </div>
+                        <div class="panel-body">
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-8"><span data-i18n="captured_save_as_image">Save as an image</span></div>
+                                <div class="col-xs-6 col-sm-4 text-right">
+                                    <div class="fsButton">
+                                        <button id="btnSaveImage" type="button" class="fsButton btn btn-default btn-sm active"><span data-i18n="captured_save_as_image_button">Save as Image</span></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-8"><span data-i18n="captured_save_as_pdf" style="margin-right: 8px">Save as PDF</span>
+                                    <span id="pdfSettings" style="white-space: nowrap; font-size: 10px; vertical-align: super;">
+                                        [<a id="lnkPdfSettings" data-title-i18n="options_button_pdf_settings_caption" href="#" style="margin: 0 4px">
+                                            <span data-i18n="options_button_setup"></span>...</a>]
+                                    </span></div>
+                                <div class="col-xs-6 col-sm-4 text-right">
+                                    <div class="fsButton">
+                                        <div class="dropdown">
+                                            <span id="ddControl" data-toggle="dropdown"></span>
+                                            <button id="btnSaveImagePDF" type="button" class="fsButton btn btn-default btn-sm active" style="display: flex; gap:5px; align-items:center;justify-content: space-between;">
+                                                <div style="text-align: center; width:100%"><span data-i18n="captured_save_as_pdf">Save as PDF</span></div>
+                                                <div id="pdfCaret"><span class="caret"></span></div>
+                                                <!-- <div id="pdfSettings" data-title-i18n="options_button_pdf_settings_caption"><span style="font-size: 11px;" class="glyphicon glyphicon-tasks"></span></div> -->
+                                            </button>
+                                            <div id="divUpgradeMsg">
+                                                <div id="divWinPromo">
+                                                    <div>
+                                                        <span class="glyphicon glyphicon-flash"></span>&nbsp;<span data-i18n="captured_link_upgrade_for_extras">Upgrade to Pro to enable extras</span>.
+                                                        <div style="font-size:10px; margin-bottom:20px; margin-top: 5px;">
+                                                            (<a href="https://getfireshot.com/features.php" target="_blank"><span data-i18n="captured_link_read_more">read more</span>...</a>)
+                                                        </div>
+                                                        <span id="lnkUpgradeFromPDF" class="btn btn-success"><span data-i18n="captured_button_free_10_day_trial">Free 10 day trial</span>.<br>
+                                                            <small><span data-i18n="captured_button_no_credit_card">No credit card required</span>.</small></span>
+                                                    </div>
+                                                </div>
+                                                <div id="divNonWinPromo">
+                                                    <div>
+                                                        <span style="font-weight: bolder;" id="btnEnableBetaPreview" data-i18n="captured_label_participate_beta" class="btn btn-success">Participate in Beta testing program</span>
+                                                        <p style="margin-top: 20px"><small><a id="lnkBetaProgramConditions"><span data-i18n="captured_link_see_terms_conditions">See terms and conditions</span>...</a></small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <ul id="menuPDFFeatures" class="dropdown-menu" style="border:rgb(60, 65, 74) solid 1px">
+                                                <li><a href="#"><input type="checkbox" checked><label><span data-i18n="captured_checkbox_disable_text_selection">Disable text selection</span></label></a></li>
+                                                <li><a href="#"><input type="checkbox"><label><span data-i18n="captured_checkbox_text_searchable">Text-searchable</span></label></a></li>
+                                                <li><a href="#"><input type="checkbox"><label><span data-i18n="captured_checkbox_direct_links">Direct links</span></label></a></li>
+                                                <li><a href="#"><input type="checkbox"><label><span data-i18n="captured_checkbox_split_to_pages">Split to pages</span></label></a></li>
+                                                <li><a href="#"><input type="checkbox"><label><span data-i18n="captured_checkbox_custom_page_size">Custom page size</span></label></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="row">
+                                <div class="col-xs-6 col-sm-8"></div>
+                                <div class="col-xs-6 col-sm-4">
+                                    <div class="fsButton" style="text-align: center; font-size: 10px;">
+                                        <a style="color:#fff; font-style:italic" id="lnkOptions1" href="#"><span class="glyphicon glyphicon-cog"></span>
+                                            <span data-i18n="captured_saving_options"></span>...</a>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <p>&nbsp;</p>
+                            <div class="row" id="divEmail">
+                                <div class="col-xs-6 col-sm-8"><span>Email</span></div>
+                                <div class="col-xs-6 col-sm-4">
+                                    <div class="fsButton">
+                                        <div class="dropdown">
+                                            <button id="btnGmail" data-toggle="dropdown" type="button" class="fsButton btn btn-default btn-sm active dropdown-toggle"><span>Gmail&nbsp;</span><span class="caret"></span></button>
+                                            <ul id="btnSendEmail" class="dropdown-menu" style="border:rgb(60, 65, 74) solid 1px">
+                                                <li value="png"><a href="#">PNG</a></li>
+                                                <li value="jpg"><a href="#">JPEG</a></li>
+                                                <li value="pdf"><a href="#">PDF
+                                                    <span id="btnPDFOptionsForGmail" data-title-i18n="options_button_pdf_settings_caption" style="font-size:10px; margin-left: 0.5em; color:#fba871" class="glyphicon glyphicon-tasks"></span></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-8"><span data-i18n="captured_copy_clipboard">Copy to Clipboard</span></div>
+                                <div class="col-xs-6 col-sm-4">
+                                    <div class="fsButton"><button id="btnClipboard" type="button" class="fsButton btn btn-default btn-sm active"><span data-i18n="captured_copy_clipboard">Copy</span></button></div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6 col-sm-8"><span data-i18n="captured_print">Print the screenshot</span></div>
+                                <div class="col-xs-6 col-sm-4">
+                                    <div class="fsButton"><button id="btnPrint" type="button" class="fsButton btn btn-default btn-sm active"><span data-i18n="captured_print_button">Print</span></button></div>
+                                </div>
+                            </div>
+                            <div id="divPromo" style="display: none">
+                                <p>&nbsp;</p>
+                                <div style="font-size: 17px; margin-bottom: 10px; text-align: center"><span class="glyphicon glyphicon-flash"></span>&nbsp;<span data-i18n="captured_upgrade_link_2">Upgrade to FS Pro</span></div>
+                                <div class="row">
+                                    <div class="col-xs-6 col-sm-8" style="padding-right:25px"><span data-i18n="captured_upgrade_link_1">Capture, Annotate, Print and Save better, Edit, Upload, send to E-Mail / OneNote, or Export to another program.</span></div>
+                                    <div class="col-xs-6 col-sm-4">
+                                        <div class="fsButton" style="line-height:13px">
+                                            <span id="spnAdvancedFeaturesSection">
+                                                <a id="lnkInstallAdvanced1" class="noborder" href="#"><button type="button" class="fsButton btn btn-success btn-sm"><span data-i18n="captured_get_free_button">Get it Free</span></button></a>
+                                                <br><br>
+                                            </span>
+                                            <a href="https://getfireshot.com/buy.php?SRC=APPID-lite" target="_blank"><button type="button" class="fsButton btn btn-info btn-sm"><span data-i18n="captured_buy_pro_button">Buy Pro</span></button></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="divBetaPromo" class="hiddenInitially">
+                                
+                                <p>&nbsp;</p>
+
+                                <div id="divBPBrief">
+                                    <div class="row">
+                                        <div class="col-xs-6 col-sm-8" style="padding-right:25px;">
+                                            <div style="display: inline-block; text-align:center;">
+                                                <span data-i18n="captured_label_advanced_features_preview">Advanced features preview</span><br>
+                                                <a id="lnkExpandBPPromo" style="color:inherit; font-size:10px; cursor: pointer;">
+                                                    (<span data-i18n="captured_link_read_more">read more...</span>)</a>
+                                            </div>
+                                        </div>
+                                        <div class="col-xs-6 col-sm-4">
+                                            <div class="fsButton" style="line-height:13px">
+                                                <span id="spnAdvancedFeaturesSection">
+                                                    <button type="button" id="btnEnableBetaPreview-1" class="fsButton btn btn-success btn-sm"><span style="font-weight: bolder;" data-i18n="captured_get_free_button">Get it Free</span></button>
+                                                </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div id="divBPFull">
+                                    <button id="btnCompactBPPromo" style="position:relative; font-size:16px; " type="button" class="close" data-title-i18n="Collapse">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+
+                                    <div style="display:flex; justify-content: center;">
+                                        <div style="font-size: 17px; margin-bottom: 10px; text-align: center">
+                                            <strong><span data-i18n="captured_label_advanced_features_preview">Advanced features preview</span></strong>
+                                        </div>
+                                        <div><span data-i18n="captured_label_new" style="position: relative; top:-10px; font-size:10px; margin: 0 10px 0 10px;" class="label label-danger">new</span></div>
+                                    </div>
+
+                                    <p><span data-i18n="captured_label_try_enchancements">During the beta-testing period, we provide it for FREE. Try the following enhancements</span>:</p>
+                                    <p>
+                                        <ul style="padding-inline-start: 25px;">
+                                            <li><span data-i18n="captured_li_1">Create text-searchable PDFs with direct links</span></li>
+                                            <li><span data-i18n="captured_li_2">Add Headers, Footers, Watermarks</span></li>
+                                            <li><span data-i18n="captured_li_3">Customize page size, multipage options</span></li>
+                                            <li><span data-i18n="captured_li_4">Advanced capturing: complex content, object selection</span></li>
+                                        </ul>
+                                    </p>
+                                    
+                                    <div style="text-align: center;">
+                                    <button type="button" style="font-size:15px; white-space:normal" id="btnEnableBetaPreview-2" class="btn btn-success">
+                                        <span style="margin: 0 5px 0 5px" class="glyphicon glyphicon-ok"></span><span style="font-weight: bolder;" data-i18n="captured_label_participate_beta">Participate in Beta testing program.</span>
+                                        <br><small><span data-i18n="captured_can_switch_back">You can switch back to Lite anytime.</span></small>
+                                        <br><small>
+                                            <a id="lnkBetaProgramConditions-1" style="color:inherit; font-size:10px">
+                                            (<span data-i18n="captured_link_see_terms_conditions">see terms and conditions...</span>)</a></small>
+                                    </button>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="panel-footer text-center"><u><a id="lnkSiteIndex" style="color:#ebebeb; opacity:0" target="_blank" href="https://getfireshot.com">https://getfireshot.com</a></u></div>
+                        <div id="divAlert1" class="alert alert-info alert-dismissible" role="alert" style="display:none; margin-bottom:0px">
+                            <button id="btnCloseAlert1" type="button" class="close" data-dismiss="alert">
+                                <span aria-hidden="true">&times;</span></button>
+                            <strong>Ooops!</strong> <span data-i18n="captured_upgrade_link_3">I was using another version of FireShot</span>. <u><a id="lnkInstallAdvanced" href="#" target="_blank"><span data-i18n="captured_upgrade_link_4">Can I get it back?</span></a></u>
+                        </div>
+                    </div>
+                    <div id="divAdvertising" style="margin-top: 20px; display: none;">
+                        <div class="panel panel-default">
+                            <div style="position:relative">
+                                <div style="position:absolute; right: 0.4em; top: 0.2em">
+                                    <button id="btnCloseAdvertising" type="button" class="close" aria-label="Close" style="font-size: 15px;">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <div class="panel-body">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- /.row -->
+        <div class="row">
+            <hr>
+            <!-- Footer -->
+            <footer style="line-height: 2em">
+                <ul class="list-inline">
+                    <li><span>
+                            <span class="glyphicon glyphicon-play"></span>&nbsp;<span data-i18n="captured_link_get_fireshot_for">Get FireShot for</span>: <a id="lnkChromeStore" target="_blank" class="link1" href="https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg">Chrome</a>
+                            <a id="lnkAmo" target="_blank" class="link1" href="https://addons.mozilla.org/en-US/firefox/addon/fireshot/">Firefox</a>
+                            <a id="lnkEdgeNew" target="_blank" class="link1" href="https://microsoftedge.microsoft.com/addons/detail/fcbmiimfkmkkkffjlopcpdlgclncnknm">Edge</a>
+                            <a id="lnkOperaStore" target="_blank" class="link1" href="https://addons.opera.com/en/extensions/details/capture-webpage-screenshot-fireshot/">Opera</a>
+                            <a id="lnkSafariStore" target="_blank" class="link1" href="https://apps.apple.com/app/full-page-screen-capture/id1541862561?mt=12&amp;itsct=apps_box&amp;itscg=30200">Safari <small><span data-i18n="captured_label_new" style="position: relative; top:-10px" class="label label-danger">new</span></small></a>
+                        </span>
+                    </li>
+                    <li id="upgradeLink" class="hiddenInitially">
+                        <a style="color:#ebebeb" href="https://getfireshot.com?from=APPID" target="_blank">
+                            <span class="glyphicon glyphicon-flash"></span>&nbsp;<span data-i18n="captured_upgrade_link_2">Upgrade to FireShot Pro</span>
+                        </a>&nbsp;
+                    </li>
+                    <li><a style="color:#ebebeb" id="lnkOptions" href="#">
+                            <span class="glyphicon glyphicon-cog"></span>&nbsp;<span data-i18n="captured_setup_hotkeys">Setup hotkeys and file settings...</span></a></li>
+                    <li><a target="_blank" style="color:#ebebeb" id="lnkProblem" href="#">
+                            <span class="glyphicon glyphicon-flag"></span>&nbsp;<span data-i18n="captured_link_report_problem">Report problem</span>...</a></li>
+                    <li><a target="_blank" style="color:#ebebeb" id="lnkHistory" href="/fsHistory.html">
+                            <span class="glyphicon glyphicon-time"></span>&nbsp;<span data-i18n="options_label_history">History</span>...</a></li>
+                </ul>
+            </footer>
+        </div> <!-- /.row -->
+    </div> <!-- /.container -->
+
+    <!-- Modal Copy to Clipboard howto-->
+    <div class="modal fade" id="modalCopyToClipboard" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title"><span data-i18n="captured_how_to_copy">How to copy screenshot to clipboard</span>:</h4>
+                </div>
+                <div class="modal-body">
+                    <ol style="padding-left:inherit">
+                        <li><span data-i18n="captured_step1_right_click">Right-click the image</span></li>
+                        <li><span data-i18n="captured_step2_copy">Choose "Copy image" from the popup menu</span></li>
+                    </ol>
+                    <p>&nbsp;</p>
+                    <p>
+                        <img src="images/copy.gif">
+                    </p>
+                    <div id="noflashgoadvanced3" class="hiddenInitially">
+                        <p>&nbsp;</p>
+                        <p>Or <a id="lnkInstallAdvancedClipboardDlg" href="#"><span data-i18n="captured_upgrade_link_2">Upgrade to FireShot Pro</span></a> - <span data-i18n="captured_upgrade_features_list">get Advanced Features to Annotate, Print and Save better, Edit, Upload, send to E-Mail or OneNote, or Export to another program</span>.</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" data-i18n="captured_button_continue">Continue</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Error Dialog-->
+    <div class="modal fade" id="modalErrorDialog" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-sm modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                    <h4 id="errorDialogTitle" class="modal-title"></h4>
+                </div>
+                <div id="errorDialogMessage" class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Confirmation dialog-->
+    <div class="modal fade" id="advancedInstructionsPreDialog" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span></button>
+                    <h5 class="modal-title"><span data-i18n="captured_information">Information</span></h5>
+                </div>
+                <div class="modal-body">
+                    <h4><span data-i18n="captured_follow_the_instructions">Please follow the instructions to install advanced features</span>.</h4>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success" data-dismiss="modal"><span data-i18n="captured_button_continue">Continue</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <dialog id="modalPromo">
+        <iframe id="framePromo"></iframe>
+      </dialog>
+
+    <div id="divLikeMessage" class="modal-content" style="display:none; position: fixed; right:10px; bottom:10px">
+        <div class="modal-body">
+                <span data-i18n="captured_rate_question">Could you please share with us, whether you like FireShot or not?</span>   
+        </div>
+        <div class="modal-footer" style="padding:5px; text-align: center">
+            <button id="btnLike" type="button" class="btn btn-default active"><span data-i18n="captured_button_rate_like">I like it</span></button>
+            <button id="btnDislike" type="button" class="btn btn-default active"><span data-i18n="captured_button_rate_dont_like">I don't</span></button>
+        </div>
+    </div>
+
+    <div id="divSendReview" class="modal-content" style="max-width: 28em; display:none; position: fixed; right:10px; bottom:10px">
+        <div class="modal-body">
+            <p><span data-i18n="captured_rate_line1">FireShot development takes a lot of personal time</span>.<br><span data-i18n="captured_rate_line2">That time could be spent on family or rest</span> ;) </p>
+            <p><span data-i18n="captured_rate_line3">As an appreciation of our efforts, would you be so kind to rate FireShot?</span></p>
+            <p><span data-i18n="captured_rate_line4">This would help people to discover FireShot faster</span>.</p>
+        </div>
+        <div class="modal-footer" style="padding:5px; text-align: center">
+            <button id="btnRate" type="button" class="btn btn-default active"><span data-i18n="captured_rate_button">Rate FireShot</span></button>
+            <button id="btnRateLater" type="button" class="btn btn-default active"><span data-i18n="captured_button_rate_later">Maybe later</span>...</button>
+        </div>
+    </div>
+
+    <div id="divProcessing" style="display:none">
+        <span data-i18n="label_processing">Processing...</span>
+    </div>
+
+    <div id="divClipboardMessage" style="display:none">
+        <span data-i18n="captured_success">Success</span>!
+    </div>
+
+    <div id="divDownloadedInfo" style="display:none">
+        <div style="display: flex; gap: 20px; align-items: center;">
+            <div id="divDownloadedInfoText"><b><span data-i18n="captured_success">Success</span></b>:&nbsp;<span id="divDownloadedInfoFilename"></span></div>
+            <span id="spnOpenInFinder" style="font-size: 17px;" class="glyphicon glyphicon-search"></span>
+        </div>
+    </div>
+
+    <div id="divErrorMessage" style="display:none">
+        <span data-i18n="captured_error_pdf">Error</span>.
+        <!-- <p>&nbsp;</p>
+        <div style="text-align:right">
+            <a target="_blank" style="color:#ebebeb" id="lnkProblemPDF" href="#">
+            <u><b><span data-i18n="captured_link_report_problem">Report problem</span>...</b></u></a>
+        </div> -->
+    </div>
+
+    <script src="scripts/vue/chunk-vendors.js"></script>
+    <script src="scripts/vue/vue-index.js"></script>
+</body>
+
+</html>

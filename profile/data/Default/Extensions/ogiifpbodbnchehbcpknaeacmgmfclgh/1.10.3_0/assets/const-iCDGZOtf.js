@@ -1,0 +1,1 @@
+const o=["https://www.facebook.com/*","https://web.facebook.com/*","https://business.facebook.com/*","https://www.messenger.com/*"],s="ESUIT | ID Finder for Facebook™",e="display-id-for-facebook";export{s as e,o as h,e as p};

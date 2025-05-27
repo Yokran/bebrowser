@@ -1,0 +1,2234 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Översätt medan du läser och skriver med DeepL Translate, världens mest exakta översättare."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL: AI-översättare och skrivassistent"
+   },
+   "autologin_notification_content": {
+      "message": "Translate and improve text right in your browser with all the benefits of your plan."
+   },
+   "autologin_notification_title": {
+      "message": "You're logged in to the DeepL extension"
+   },
+   "config_tab_click_icon": {
+      "message": "Klicka på \u003Cstrong>DeepL-ikonen\u003C/strong>"
+   },
+   "config_tab_customize_link": {
+      "message": "Anpassa kortkommando"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "Kontakta din administratör för att aktivera DeepL Translator."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "För att aktivera DeepL Write, kontakta din administratör."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "Översätt detta urval"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepL:s logotyp"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "Klar"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "Identifiera språk"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "Tyvärr kunde vi inte översätta din text. Vänligen försök igen senare."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "Tyvärr kunde vi inte förbättra din text. Vänligen försök igen senare."
+   },
+   "error_message_internet_connection": {
+      "message": "Tyvärr är det ett problem med internetanslutningen. Vänligen försök igen."
+   },
+   "error_message_please_login": {
+      "message": "Logga in igen för att översätta denna text. "
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "Du har nått gränsen för kontots användning."
+   },
+   "error_message_session_expired": {
+      "message": "Din session har löpt ut. Vänligen logga in igen."
+   },
+   "error_message_technical_issue": {
+      "message": "Tyvärr kunde vi inte översätta din text på grund av ett känt tekniskt problem. Vi arbetar på att åtgärda detta problem inom en snar framtid."
+   },
+   "error_message_text_not_recognized_error": {
+      "description": "Error if the screen capture and text detection feature is used, but no text is detected in the captured portion of the screen",
+      "message": "The captured screen doesn't contain any text to translate. Please try again."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "Tyvärr kunde vi inte översätta din text. Det verkar som om ditt nätverk skickar för många förfrågningar till våra servrar."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "Ändra språk"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "Översätt text"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "Med DeepL-tillägget för Firefox kan du njuta av DeepL:s oslagbara översättningskvalitet utan att behöva lämna din webbläsare.\n\nDu kommer att kunna översätta direkt och enkelt när du läser eller skriver i Firefox. Om du är DeepL Pro-användare inkluderar det hela webbsidor. \nOm du är en gratisanvändare arbetar vi på att släppa den här funktionen för dig också. Fram till dess kan du helt enkelt markera valfri text så visas DeepL-ikonen. Klicka på ikonen för att översätta ditt val. Om du vill översätta ännu snabbare kan du ställa in dina egna kortkommandon i inställningarna, både för att läsa och skriva med DeepL i Firefox.\n\nNu behöver du inte längre oroa dig för att missa någon information på nätet på grund av språket. \n\nLadda ner DeepL för Firefox gratis och börja översätta redan idag.\n\nÖversätt medan du läser\nDu behöver inte längre hoppa över e-postmeddelanden, artiklar eller webbplatser. Du kan se innehållet som du surfar på i Firefox på det språk du har valt, i sitt ursprungliga sammanhang. \n\nÖversätt dina texter\nOavsett om du skriver ett inlägg i sociala medier, ett chattmeddelande eller ett e-postmeddelande kan du översätta dina egna ord direkt när du har skrivit dem. Det innebär att du inte längre behöver kopiera, klistra in, skriva om eller lämna Firefox för att kommunicera på ett annat språk.\n\nÖversättning av hela sidor\nOm du är en DeepL Pro-användare kan du översätta hela webbsidor till önskat språk med bara ett klick. För att göra det ännu enklare kan du välja att alla webbplatser på specifika språk ska översättas automatiskt så att du får en smidig surfupplevelse. Vi arbetar på att släppa den här funktionen för gratisanvändare också. \n\nDeepL Pro-inloggning \nDeepL Pro-användare kan logga in på sina konton via tillägget.\n\nKortkommandon\nAnvänd enkla kortkommandon för att göra översättningen snabbare och enklare. Du kan ställa in dina egna kortkommandon i inställningarna.\n\nOöverträffad precision\nDu kan vara säker på att du får bästa möjliga översättningen på den webbplats eller i det program du använder. DeepL:s översättningar överträffar konsekvent konkurrenterna och är bevisligen tre gånger mer exakta än översättningar från stora teknikföretag.\n\nÄlskad av miljontals användare\nMiljontals människor runt om i världen använder DeepL varje dag för att förbättra sin kommunikation.\n\nVälj mellan fler än 30 språk\nEn lista över de språk som finns tillgängliga i tillägget hittar du i den här artikeln i vårt Hjälpcenter: https://support.deepl.com/hc/en-us/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "Översätt medan du läser och skriver med DeepL Translate, världens mest exakta översättare."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL Translate: Läsande och skrivande översättare"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "Hjälp oss att färdigställa DeepL-tillägget för Firefox genom att \u003CfeedbackLink>ge oss din feedback\u003C/feedbackLink>"
+   },
+   "firefox_browser_permissions_popup_body": {
+      "message": "Låt din Firefox-webbläsare ge DeepL tillgång till de webbplatser du besöker."
+   },
+   "firefox_browser_permissions_popup_button": {
+      "message": "Hantera behörigheter"
+   },
+   "firefox_browser_permissions_popup_title": {
+      "message": "Firefox behöver din tillåtelse"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "Tillåt och fortsätt"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>För att använda DeepL för Firefox behöver vi ditt tillstånd \u003Cstrong>att komma åt och behandla de texter som du vill ska översättas eller förbättras medan du surfar\u003C/strong>. Det är bara om du aktiverar funktionen för översättning av hela sidor som du tillåter oss att bearbeta innehållet på hela webbsidor.\u003C/p>\n\u003Cp>När du loggar in på DeepL för Firefox med ditt konto kommer vi att behandla dina personuppgifter. Det behövs för att tillhandahålla de funktioner som är tillgängliga enligt ditt abonnemang.\u003C/p>\n\u003Cp>Vi samlar också in tekniska data, enhetsdata och användningsdata för att se till att tillägget DeepL Firefox fungerar korrekt i din webbläsare och för att upptäcka och förhindra bedrägligt beteende.\u003C/p> \n\u003Cp>Du kan läsa mer om våra policyer här:\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "Tillåt inte och avinstallera"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "Integritetspolicy"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>Användarvillkor\u003C/termsLink> för användare utan ett DeepL (Pro)-konto\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL behöver din tillåtelse"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "Så här hanterar du kortkommandon"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "Identifierar språk ..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "Översätt automatiskt sidor till detta språk"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "Automatiskt översatt från:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "Tyvärr kan vi inte översätta den här sidan eftersom den överskrider teckengränsen."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "Tyvärr, helsidesöversättningar är för närvarande inte tillgängliga. Vi arbetar för att åtgärda detta så snart som möjligt."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "Det verkar som att du också använder Google Translate. Vänligen inaktivera det så att vårt tillägg kan fungera korrekt."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "Översätt alltid:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "Nej tack"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "Översätt inte"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "Översätt inte denna webbplats"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "Översätta den här webbplatsen?"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "Översätt"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "Byt"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "Du har valt att inte översätta från:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "Byt"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "Du har valt att inte översätta:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "Vi kunde inte få ut några data från den här webbplatsen. Ladda gärna om sidan så att vi kan försöka igen."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "Översättning pågår"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "Avbryt"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "Spara"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "Klar"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "Inställningar"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "Översätt automatiskt från"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "Översätt aldrig från"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "Översätt aldrig dessa webbplatser"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "Översätt sidor"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "Översätt till"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "Översätt dina texter"
+   },
+   "full_page_translation_show_original": {
+      "message": "Visa original"
+   },
+   "full_page_translation_target_label": {
+      "message": "Översätt sidan från och till"
+   },
+   "full_page_translation_translate_button": {
+      "message": "Översätt sidan"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "Vi kunde inte läsa in dina ordlistor."
+   },
+   "glossary_failed_try_again": {
+      "message": "Försök igen"
+   },
+   "glossary_label": {
+      "message": "Ordlista"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "Skapa din första ordlista"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "Välj en ordlista för att automatiskt tillämpa dess översättningsregler på de texter du läser och skriver."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "Har du redan registrerat dig på DeepL Pro? \u003CloginLink>Logga in\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "Vill du sätta upp regler för översättning av nyckelord och fraser? Testa \u003Cstrong>ordlistan gratis i 30 dagar\u003C/strong> med en DeepL Pro-version."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "Du har ingen ordlista ännu. Skapa din första för att definiera regler för översättning av nyckelord och fraser."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "Visa mer"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "Prova gratis"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "Du kan bara översätta \u003Cstrong>upp till 1 500 tecken\u003C/strong> åt gången.\n\u003Cstrong>Registrera dig för ett DeepL-konto\u003C/strong> för att höja din gräns."
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "Logga in"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "Registrera dig kostnadsfritt"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "Du har en teckenbegränsning"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "Du kan bara översätta \u003Cstrong>upp till 5 000 tecken\u003C/strong> åt gången.\n\u003Cstrong>Prova DeepL Pro gratis i 30 dagar\u003C/strong> för obegränsad användning,"
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Prova Pro gratis"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "Prova DeepL Pro för obegränsad användning"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "Prenumerera på DeepL Pro om du vill översätta mer än 5 000 tecken totalt."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "Inte nu"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "Du har nått din gräns för användning"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "Prova DeepL Pro gratis"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "Acceptera ändring"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "Översätt eller förbättra text"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "Förbättra"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "Förbättra"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "Vi rättar till misstag och gör din text perfekt.\nEndast för engelska och tyska."
+   },
+   "gmail_compose_translate_button": {
+      "message": "Översätt"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "Från:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "Översätt"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "Till:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "Återgå till original"
+   },
+   "gmail_forwarding_link": {
+      "message": "Skaffa DeepL för Gmail – det är gratis"
+   },
+   "gmail_forwarding_title": {
+      "message": "Detta e-postmeddelande har översatts med DeepL för Gmail."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(identifierat)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "Översätt e-postmeddelanden med ett klick"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "Skriv e-post på andra språk"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "Förbättra din text och skapa felfria e-postmeddelanden snabbare"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "Prenumerera på DeepL Pro om du vill översätta mer än 5 000 tecken totalt."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "Prova DeepL Pro gratis"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "Du har nått din gräns för användning"
+   },
+   "gmail_onboarding_title": {
+      "message": "Välkommen till DeepL för Gmail"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "Aktivera/avaktivera DeepL för Gmail"
+   },
+   "gmail_reading_forward_button": {
+      "message": "Vidarebefordra översatt e-post"
+   },
+   "gmail_reading_translate_button": {
+      "message": "Översätt e-post"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "Visa original"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "Välj mindre text, eller få obegränsad översättning med DeepL Pro."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "Välj mindre text, eller få obegränsat antal förbättringar med DeepL Pro."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "Som gratisanvändare kan du förbättra upp till 2000 tecken åt gången"
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "Som gratisanvändare kan du översätta upp till 5000 tecken åt gången"
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "Använd DeepL \u003Cb>direkt i Microsoft 365\u003C/b>"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "Upptäck hur "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "Översätt markerad text med DeepL"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "Markera bara din text och klicka på DeepL-ikonen så är det klart!"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "Visa DeepL-ikonen för läsning"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "Översätt markerad text till"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "Fler inställningar"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "Okej"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "Stäng av ikon"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "Stäng av DeepL för läsning"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Nej, stäng inte av"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "Alltid på alla webbplatser"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "Endast på denna webbplats"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "För läsning"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "Högerklicka för att översätta till"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "Visa mer"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "Stäng av"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Klicka på ikonerna för att öppna fönstret för avancerat läge. Gör informella redigeringar och jämför versioner."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Översätt och förbättra på sidan med DeepL"
+   },
+   "input_selection_alternatives_label": {
+      "message": "Alternativ"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "Visa mer"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "Välj översättningstilltal"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "Se alternativ"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "Översätt"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "Översätt"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "Omedelbar översättning och bättre texter"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "Det händer precis här. Klicka på ikonen, välj åtgärd!"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "Visa DeepL-ikonen för skrivande"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "Fler inställningar"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "Välj varje gång"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "Översätt till detta språk som standard"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "Okej"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "Stäng av ikon"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "Stäng av DeepL för skrivande"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Nej, stäng inte av"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "Alltid på alla webbplatser"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "Endast på denna webbplats"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "För skrivande"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "Översätt det du skriver till"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "Byt målspråk"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "Stäng av"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "För att aktivera DeepL Write, kontakta din administratör."
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "Förbättra texten. Tillgänglig för tyska och engelska."
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "Förbättra texten"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "Välj målspråk"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "Inställningar"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "Översätt"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "Översätt text ..."
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "Översätt till ..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "Stäng av"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "Översätt till:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "Översätt till:"
+   },
+   "layout_header_settings_icon": {
+      "message": "Gå till Inställningar"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Translator"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "Logga in"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "Registrera dig kostnadsfritt"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "Om du vill översätta mer än 1 500 tecken åt gången kan du registrera dig för ett DeepL-konto – \u003Cstrong>det är gratis!\u003C/strong>"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "Registrera dig för att öka din teckengräns"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "Om du vill översätta mer än 5 000 tecken åt gången kan du prova betalversionen av \u003Cstrong>DeepL Translator\u003C/strong> gratis i 30 dagar!"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "Förbättra texter utan teckenbegränsningar"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "Om du vill översätta mer än 5 000 tecken åt gången kan du skaffa ett abonnemang på DeepL Translator."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "Prova gratis"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "Uppgradera Translator"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "Uppgradera till Write Pro"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "Du kan bara förbättra 2 000 tecken åt gången. Gör hela texten perfekt med \u003Cstrong>DeepL Write Pro\u003C/strong>."
+   },
+   "limit_popup_write_title": {
+      "message": "Förbättra texter utan teckenbegränsningar"
+   },
+   "link_get_pro_license": {
+      "message": "Prova DeepL Pro gratis"
+   },
+   "link_try_deepl": {
+      "message": "Prova DeepL Pro gratis"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "Översätt med DeepL"
+   },
+   "login_error_default_message": {
+      "message": "Inloggningen misslyckades."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "Logga in på DeepL Pro"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "Prova DeepL Pro gratis"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "Prova Write Pro gratis"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "Översätt sidor"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "Logga in"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>Som Pro-användare\u003C/strong> kan du översätta hela sidor med ett enda klick."
+   },
+   "login_widget_try_pro_label": {
+      "message": "Inte Pro-användare än? \u003CtryOutLink>Prova det gratis\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "Uppgradera till Pro"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>Översättning av hela sidor\u003C/strong> med ett enda klick\u003C/li>\n\u003Cli>\u003Cstrong>Obegränsad\u003C/strong> översättning\u003C/li>\n\u003Cli>\u003Cstrong>Maximal datasäkerhet\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "Njut av premiumfunktioner med \u003Cstrong>DeepL Pro\u003C/strong>, gratis i 30 dagar!"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "Enkla sätt att använda"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "Hantera inställningar för ikoner"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "Visa den svävande DeepL-ikonen"
+   },
+   "main_popup_info_box_translator": {
+      "message": "Du har ett \u003Cstrong>DeepL Pro-abonnemang\u003C/strong> med maximal datasäkerhet."
+   },
+   "main_popup_info_box_write": {
+      "message": "Du har ett \u003Cstrong>DeepL Write-abonnemang\u003C/strong> med maximal datasäkerhet."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "Starta kostnadsfri testperiod"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "Översätt hela sidan"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "Översätt markerad text till"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "Översätt dina texter till"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "Få \u003Cstrong>obegränsade textförbättringar\u003C/strong> och \u003Cstrong>maximal datasäkerhet\u003C/strong> med DeepL Write Pro."
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "Uppgradera till Write Pro"
+   },
+   "main_popup_write_target_language": {
+      "message": "Förbättra dina texter på"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "Logga in på DeepL Pro"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "Logga ut"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "Meny"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "Inställningar"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "Inställningar"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "Ge feedback"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "Prova DeepL Pro gratis"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Översätt och skriv med DeepL i Microsoft 365"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "Läs mer"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "Våra tilläggsprogram för Outlook, Word och PowerPoint översätter och finputsar dina texter utan att du behöver gå fram och tillbaka."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "Om du vill använda DeepL till mer än $limit$ tecken åt gången kan du registrera dig för ett konto – \u003Cstrong>det är gratis!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "Registrera dig för att öka din teckengräns"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "Logga in"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "Registrera dig kostnadsfritt"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "För att använda DeepL för mer än $limit$ tecken åt gången, skaffa ett Pro-abonnemang.\u003Cstrong>Prova det gratis i 30 dagar!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "Skaffa DeepL Pro för att öka din teckengräns"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "Prova Pro gratis"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "DeepL-ikonen för läsning är nu avaktiverad. Du kan ändra detta i $linkToSettings$",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "DeepL-ikonen för läsning är nu avaktiverad på $currentWebsite$. Du kan ändra detta i $linkToSettings$",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "inställningarna"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "Du har valt att inte visa skrivikonen. Du kan ändra detta i $linkToSettings$",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "Du har valt att inte visa skrivikonen på $currentWebsite$. Du kan ändra detta i $linkToSettings$",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "inställningarna"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Ställ in ditt eget kortkommando för att översätta text i $settings$.",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "inställningarna"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "Ditt konto har skapats!"
+   },
+   "onboarding_back_button": {
+      "message": "Tillbaka"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "Vill du inte använda DeepL-tillägget på vissa sidor? Inga problem! Inaktivera den för specifika situationer i dina inställningar."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "Inaktivera specifika sidor"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "Översätt hela webbsidor till önskat språk med bara ett klick. "
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "Prova gratis"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "Dessutom får du tillgång till fler funktioner i webböversättaren och apparna:"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "Översätt hela filer"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "Ordlista (begränsat antal språk)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "Formellt/informellt tilltal"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "Gratis i 30 dagar. Avsluta när som helst."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "med mera"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "Översättning av hela sidan"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "Översätt text som du har markerat genom att klicka på DeepL-ikonen eller genom att aktivera ett kortkommando."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "Översätt markerad text"
+   },
+   "onboarding_input_translation_description": {
+      "message": "Översätt det du skriver till tusentals plattformar genom att klicka på DeepL-ikonen eller aktivera ett kortkommando."
+   },
+   "onboarding_input_translation_title": {
+      "message": "Översätt dina texter med ett enda klick"
+   },
+   "onboarding_last_step_description": {
+      "message": "Gör som tusentals andra som redan njuter av DeepL:s översättningskvalitet medan de surfar på nätet."
+   },
+   "onboarding_last_step_title": {
+      "message": "Testa direkt!"
+   },
+   "onboarding_next_button": {
+      "message": "Nästa"
+   },
+   "onboarding_pin_extension": {
+      "message": "Fäst DeepL-tillägget här för omedelbar åtkomst"
+   },
+   "onboarding_promotion_body": {
+      "message": "DeepL:s webbläsartillägg är skräddarsytt för att fungera med världens mest populära produktivitetsverktyg. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>Välj det verktyg du använder mest\u003C/strong> för att få DeepL att integreras sömlöst i ditt arbetsflöde."
+   },
+   "onboarding_promotion_header": {
+      "message": "Översätt och skriv bättre i ditt favoritverktyg"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "Prova i Gmail"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "Prova i Google Docs"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "Prova i Google Slides"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "Visa alla integrationer"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "Du är inloggad på ditt nya DeepL-konto."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "Översätt och kommunicera säkert utan att lämna webbläsarfliken."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "Hämta tillägget"
+   },
+   "onboarding_signup_body": {
+      "message": "Registrera dig för ett DeepL-konto för att få ut det mesta av DeepL-tillägget – det är gratis!"
+   },
+   "onboarding_signup_cta": {
+      "message": "Registrera dig kostnadsfritt"
+   },
+   "onboarding_signup_header": {
+      "message": "Registrera dig sedan"
+   },
+   "onboarding_signup_login_option": {
+      "message": "Har du redan ett konto? \u003CloginLink>Logga in\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "Hoppa över"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "Du är inloggad!"
+   },
+   "onboarding_title_free": {
+      "message": "Gratis"
+   },
+   "onboarding_title_pro": {
+      "message": "Tillgängligt för PRO-användare"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Klicka på DeepL-ikonen eller tryck ett kortkommando för att översätta text som du stöter på eller skriver. Det fungerar på tusentals olika plattformar."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Översätt det du läser och skriver"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Korrigera eller omformulera din text och anpassa stil och tilltal till din målgrupp och dina mål genom att använda samma DeepL-ikon."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Finns på engelska, tyska, franska, spanska med flera språk."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Skriv med självförtroende"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "Hantera behörigheter"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Låt din Firefox-webbläsare ge DeepL tillgång till de webbplatser du besöker."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox behöver din tillåtelse"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Din arbetsgivare kräver att du loggar in på DeepL Pro för att få en säkrare upplevelse."
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Logga in på ditt konto"
+   },
+   "position_options_bottom": {
+      "message": "Längst ner"
+   },
+   "position_options_left": {
+      "message": "Vänster"
+   },
+   "position_options_right": {
+      "message": "Höger"
+   },
+   "position_options_top": {
+      "message": "Högst upp"
+   },
+   "reading_config_tab_description": {
+      "message": "Översätt markerad text till"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "Visa DeepL-ikonen för läsning"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "\u003Cstrong>Högerklicka\u003C/strong> på din mus"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "Använd \u003Cstrong>kortkommando\u003C/strong>"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "Läsning"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "Din inställning"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "Skrivande"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "Byt ut i fält"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "Inaktivera detta fönster i inställningarna"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "Du kan när som helst inaktivera/aktivera det här fönstret i inställningarna för tillägget."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "Behöver du inte alltid det avancerade läget?"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "Förbättra text med DeepL"
+   },
+   "right_click_menu_capture_and_translate": {
+      "description": "right-click DeepL context menu, allows users to select a portion of their screen and trigger a translation for any text within the selection",
+      "message": "Translate via screen capture"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "Översätt med DeepL"
+   },
+   "segmentation_survey_button": {
+      "message": "Svara på vår korta enkät"
+   },
+   "segmentation_survey_copy": {
+      "message": "Hjälp oss att göra DeepL ännu bättre genom att svara på några frågor."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "Välj språk"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "Engelska (UK)"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "Engelska (US)"
+   },
+   "selected_languages_PT_BR": {
+      "message": "Portugisiska (BR)"
+   },
+   "selected_languages_PT_PT": {
+      "message": "Portugisiska"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "Visa fönster i avancerat läge för översättning/förbättring på sidan"
+   },
+   "settings_aknowledgements": {
+      "message": "Erkännanden"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "Kommer snart"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "Skriv tydliga och välformulerade dokument och översätt dem enkelt."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Prova i Google Docs"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "Översätt enkelt e-postmeddelanden och förbättra dina texter på några sekunder."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Prova i Gmail"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "Skapa felfria bildspel på andra språk för att presentera ditt arbete med självförtroende."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Prova i Google Slides"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "Gör ett gott intryck på potentiella arbetsgivare och anställda."
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "Prova i LinkedIn"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "Översätt tweets i farten, medan du läser och skriver."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "Prova i X"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X (tidigare Twitter)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "Översätt meddelanden för att kommunicera direkt över språkgränserna."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "Prova i WhatsApp"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "Ha koll genom att översätta andra användares kommentarer."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "Prova på YouTube"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "Visa den svävande DeepL-ikonen"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Översätt alltid automatiskt från"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Översätt hela sidor automatiskt till"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "Visa aldrig helsides-popup-fönstret för översättning på"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "Visa aldrig helsides-popup-fönstret för översättning för dessa språk"
+   },
+   "settings_fpt_lang_select": {
+      "message": "Översätt webbplatser till"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Översätt aldrig automatiskt från"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "Översätt aldrig dessa webbplatser automatiskt"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "Du har inte lagt till några webbplatser ännu."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "Du kan lägga till webbplatser med hjälp av läs- och skrivikonerna på den webbplats som du vill utesluta."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "Visa helsides-popup-översättningsfönstret"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "Popup-fönstret visas när det är möjligt att översätta en hel webbsida"
+   },
+   "settings_fpt_reset": {
+      "message": "Återställ inställningarna för helsides-popup-översättningsfönstret"
+   },
+   "settings_fpt_reset_button": {
+      "message": "Återställ allt"
+   },
+   "settings_language_selector_empty": {
+      "message": "Språk"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "Lägg till språk"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "Översättning av hela sidan"
+   },
+   "settings_menu_reading": {
+      "message": "Läsning"
+   },
+   "settings_menu_writing": {
+      "message": "Skrivande"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "Integrationer"
+   },
+   "settings_navigation_general_settings": {
+      "message": "Allmänna inställningar"
+   },
+   "settings_reading_adjust_position": {
+      "message": "Justera fönstret till"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "Standardposition"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Översätt alltid markerad text till"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "Visa aldrig DeepL-ikonen för läsning på dessa webbplatser"
+   },
+   "settings_reading_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Du har inte lagt till några webbplatser ännu. Du kan lägga till webbplatser med hjälp av läs- och skrivikonerna på den webbplats som du vill utesluta."
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "Ikonen visas när du markerar text"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "Visa alltid DeepL-ikonen för läsning"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "Ändra kortkommandot här"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "Använd ett kortkommando för att översätta det du läser"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "Kortkommandon"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Välj dina kortkommandon här"
+   },
+   "settings_title": {
+      "message": "Inställningar"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Översätt alltid det du skriver till"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "Visa aldrig DeepL-ikonen för skrivande på dessa webbplatser"
+   },
+   "settings_writing_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Du har inte lagt till några webbplatser ännu. Du kan lägga till webbplatser med hjälp av läs- och skrivikonerna på den webbplats som du vill utesluta."
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "Ikonen visas när du skriver text"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "Visa alltid DeepL-ikonen för skrivande"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "Ange ett annat kortkommando"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "Ändra kortkommandot här"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "Använd ett kortkommando för att översätta det du läser"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "Använd det här kortkommandot för att byta målspråk"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "Använd det här kortkommandot för att översätta det du skriver"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "Visa alltid DeepL-ikonen för skrivande"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "Ikonen visas när du skriver text"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "Skriv för att översätta."
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "Översättningen visas nedan."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "Svara på enkäten"
+   },
+   "sidepanel_survey_content": {
+      "message": "Det tar bara 2 minuter att fylla i enkäten"
+   },
+   "sidepanel_survey_header": {
+      "message": "Dela med dig av din feedback om våra uppdateringar"
+   },
+   "supported_languages_AR": {
+      "message": "Arabiska"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "Bulgariska"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "Tjeckiska"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "Danska"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "Tyska"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "Grekiska"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "English"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "Engelska (brittisk)"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "Engelska (amerikansk)"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "Spanska"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "Estniska"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "Finska"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "Franska"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "Ungerska"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "Indonesiska"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "Italienska"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "Japanska"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "Koreanska"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "Litauiska"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "Lettiska"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "Norska (bokmål)"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "Holländska"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "Polska"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "Portugisiska"
+   },
+   "supported_languages_PT_BR": {
+      "message": "Portugisiska (brasiliansk)"
+   },
+   "supported_languages_PT_PT": {
+      "message": "Portugisiska"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "Rumänska"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "Ryska"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "Slovakiska"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "Slovenska"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "Svenska"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "Turkiska"
+   },
+   "supported_languages_UK": {
+      "message": "Ukrainska"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "Kinesiska (förenklad)"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "Kinesiska (traditionell)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "Vänligen välj"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "Till undersökningen"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "Vi vill gärna höra din feedback"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "Det tar bara 2 minuter att fylla i denna enkät"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "AV"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "PÅ"
+   },
+   "test_split_translation": {
+      "message": "\u003CloginLink>Logga in\u003C/loginLink> till DeepL Pro \u003CtryLink>eller prova gratis\u003C/tryLink> för att översätta helsidor"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "Stäng Av"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "Sätt På"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "Uppgradera"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "Den kostnadsfria versionen av DeepL Translator är begränsad"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "Dina översättningar är helt krypterade"
+   },
+   "tooltip_write_free_limited": {
+      "message": "Gratisversionen av DeepL Write har begränsningar"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "Dina texter är helt krypterade"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "DeepL Write har inte stöd för detta språk ännu"
+   },
+   "twitter_web_alternatives_link": {
+      "message": "Öppna på DeepL.com"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "Översätt med DeepL"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "Hela meningar"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "Ord"
+   },
+   "ui_alternatives_title": {
+      "message": "Alternativ"
+   },
+   "ui_auto_translate_label": {
+      "message": "Översätt automatiskt"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "Varje gång du besöker en sida på $sourceLang$ översätts den automatiskt",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "Översätt hela dokument på \u003CdeeplLink>DeepL.com\u003C/deeplLink>"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "Automatiskt"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "Formellt"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "Informellt"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "Tillbaka"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "Visa mig inte det här längre"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "Okej"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "Visa inte helsides-popup-översättningsfönstret"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "Endast på denna webbplats"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "Alltid, på alla webbplatser"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "Endast för detta språk"
+   },
+   "ui_fpt_translate_button": {
+      "message": "Översätt sidan"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "Översättning av hela sidan"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "Förbättra markerad text"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "Markera text och klicka."
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Översätt ditt arbete\u003Cbr> korrekt i Google Docs"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "\u003Cstrong>Kontrollera betydelsen\u003C/strong> i sitt sammanhang"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>Ersätt texten\u003C/strong> med dess översättning, \u003C/strong>med bibehållen formatering\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>Lär dig under tiden\u003C/strong>, med uttalshjälp och ordbok"
+   },
+   "ui_gdocs_replace": {
+      "message": "Ersätt"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "Ersätt i dokumentet"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "Ersätt den markerade texten med den här översättningen"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "Aktivera/avaktivera DeepL för Google Docs"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "Översätt med DeepL"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "Översätt markerad text"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "Stäng av DeepL"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Välkommen till DeepL för Google Docs"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Översätt markerad text\u003C/strong> med bara ett klick"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Förbättra dina texter\u003C/strong>, för tydliga, felfria dokument"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "Använd \u003Cstrong>alternativ\u003C/strong> för att utforska olika sätt att formulera sig på"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "Ersätt i dokumentet"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "Avvisa"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "Din text har förbättrats:"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "Din text förbättras ..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "Acceptera ändring"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "Ta 2 minuter och berätta hur vi kan bli bättre. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "Starta enkäten"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "Vad tycker du om DeepL?"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "Du kan bara översätta upp till 1 500 tecken åt gången. Registrera dig för ett DeepL-konto för att höja din gräns."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "Logga in"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "Registrera dig kostnadsfritt"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "Du har en teckenbegränsning"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "Du kan bara översätta upp till 5 000 tecken åt gången. Prova DeepL Pro gratis i 30 dagar för obegränsad användning, "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Prova Pro gratis"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "Prova DeepL Pro för obegränsad användning"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "BETA"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "Välkommen till DeepL för Google Slides"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "Översätt markerad text eller hela presentationsbilder direkt"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "Kontrollera och förbättra ditt skrivande för felfria presentationer"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "Återgå till original"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "Aktivera/avaktivera DeepL för Google Slides"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "Översätt"
+   },
+   "ui_gslides_translate_from": {
+      "message": "Från:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "Till:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Detta förhindrar att du förlorar en nyligen tillagd bild, video eller ljud från din presentation."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Välj först den text som du vill översätta eller förbättra."
+   },
+   "ui_gslides_write_cta": {
+      "message": "Förbättra"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "Vi rättar till misstag och gör din text perfekt. Endast för engelska och tyska. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "Översätt snabbare och förbättra dina egna texter på några sekunder \u003Cspan>i Gmail och Google Docs.\u003C/span>"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "Visa integrationer"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "Visa inte igen"
+   },
+   "ui_hub_tip_badge": {
+      "message": "Tips"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "Översätt markerad text"
+   },
+   "ui_inline_translation_copied": {
+      "message": "Översättning kopierad"
+   },
+   "ui_inline_translation_copy": {
+      "message": "Kopiera till urklipp"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "Ordbok"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "Lyssna"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "Sluta lyssna"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "Lyssna på ny version"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "Lyssna på original"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "Lyssna på översättning"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "Inga poster hittades för “\u003Cstrong>$originalSnippet$\u003C/strong>”.",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "Ordboksinlägget kunde inte laddas. Försök igen."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "Se alternativ på DeepL.com"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "Öppna på DeepL.com"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "Testa fler funktioner"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(identifierat)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "Ej tillgängligt språk"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "Översätt ett ord i taget för att se ordboksinlägg."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "Ordboken är inte tillgänglig för detta språkpar."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "Översätt dina texter med ett enda klick"
+   },
+   "ui_login_body": {
+      "message": "\u003CloginLink>Logga in\u003C/loginLink> till DeepL Pro \u003CtryLink>eller prova gratis\u003C/tryLink> för att översätta helsidor"
+   },
+   "ui_login_header": {
+      "message": "Översätta den här sidan? \u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "Översätt aldrig från $sourceLang$",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "Översätt aldrig den här webbplatsen"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "Du kan ändra detta i \u003CsettingsLink>inställningarna\u003C/settingsLink>"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "Du har valt att inte översätta från \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "Du har valt att inte översätta \u003Cstrong>$website$\u003C/strong>",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "Du har valt att inte översätta \u003Cstrong>$website$\u003C/strong> och att inte översätta från \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "Du har valt att inte visa popup-fönstret för översättning av hela sidan. Du kan ändra detta i inställningarna"
+   },
+   "ui_read_more": {
+      "message": "Läs mer"
+   },
+   "ui_share_button": {
+      "message": "Kopiera"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "Kopierat"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "Kopiera länk"
+   },
+   "ui_share_error": {
+      "message": "Det uppstod ett fel vid kopiering av texten"
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "Dela med dig av din feedback"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "Kopierat! Redo att dela!"
+   },
+   "ui_share_title": {
+      "message": "Dela DeepL med en vän"
+   },
+   "ui_target_language_select": {
+      "message": "Vilket språk vill du översätta till?"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "Tack för att du informerade oss"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "Kan du hjälpa oss att förbättra oss genom att svara på en 1-minuters enkät? "
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "Starta enkäten"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "Ta 2 minuter och berätta hur vi kan bli bättre."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "Vad tycker du om DeepL?"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "Inte bra"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "Fantastiskt"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "Vi vill gärna ha din feedback på DeepL-tillägget för Chrome."
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "Vi vill gärna ha din feedback på DeepL-tillägget för Edge."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "Vi vill gärna ha din feedback på DeepL-tillägget för Firefox."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "Hur har din upplevelse varit?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "Hur har din upplevelse varit?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "Hur har din upplevelse varit?"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "Skriv ett omdöme"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "Tack så mycket. Kul att höra!"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Vill du dela med dig av din feedback i Chrome Web Store?"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Vill du dela med dig av din feedback i Edge Extension Store?"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "Vill du ge oss ett omdöme?"
+   },
+   "ui_translated_automatically": {
+      "message": "Översatt från \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "Prova gratis"
+   },
+   "ui_widget_feature_free": {
+      "message": "GRATIS"
+   },
+   "ui_widget_feature_pro": {
+      "message": "Tillgängligt för PRO-användare"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "Översätt tråd"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "Stoppa översättning"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "Språket stämmer inte överens med mottagarens. Skicka ändå?"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "Översätt"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(identifierat)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "Översätta det här ärendet?"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "DeepL, översätt till:"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL kan inte översätta från ditt språk ännu"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "Vi meddelar dig så snart det blir tillgängligt"
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "Okej"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "Stäng av DeepL"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "Sätt på DeepL"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "Välkommen till DeepL för Zendesk"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "Vilket är ditt primära språk?"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "Detta tillägg är \u003Cstrong>gratis under en begränsad tid\u003C/strong>. Prova och \u003CloginLink>dela med dig av din feedback\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "Hantera dina ärenden\u003Cbr> på flera språk"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>Översätt meddelanden eller hela trådar\u003C/strong> direkt"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "\u003Cstrong>Svara\u003C/strong> på din kunds språk"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "\u003Cstrong>Uttryck dig naturligt och professionellt\u003C/strong> varje gång"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "Avsändarens språk"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "Hjälp till att forma DeepL:s produktstrategi genom att svara på vår enkät."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "Påminn mig senare"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "Svara på enkäten"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "Du har nått gränsen för kontots användning. Vänligen kontakta \u003CdeeplSupportLink>DeepL Support\u003C/deeplSupportLink> för att höja din gräns."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "Tyvärr ingår inte tillgång till den funktionen i ditt abonnemang."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "Du har nått din gräns för gratis användning. Vill du fortsätta att översätta?"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "Översätt din chatt till"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "Inställningar"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "Översätt chatt"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "Översätt ditt meddelande till"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "Se alternativ på DeepL.com"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "Inställningar"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "Översätt"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Write stöder inte detta språk ännu."
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Write verkar inte ha stöd för detta språk ännu"
+   },
+   "write_see_language_supported": {
+      "message": "Visa alla språk som stöds"
+   },
+   "write_style_options_button_label": {
+      "message": "Stilar"
+   },
+   "write_style_options_cta_apply": {
+      "message": "Tillämpa"
+   },
+   "write_style_options_cta_reset": {
+      "message": "Återställ"
+   },
+   "write_style_options_description_style": {
+      "message": "Vi anpassar din text till din målgrupp och dina mål"
+   },
+   "write_style_options_description_tone": {
+      "message": "Vi lägger till det valda tilltalet i din text"
+   },
+   "write_style_options_headline_style": {
+      "message": "Välj en stil"
+   },
+   "write_style_options_headline_tone": {
+      "message": "Välj tilltal"
+   },
+   "writing_config_tab_description": {
+      "message": "Översätt dina texter till"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "Välj språk"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "Visa DeepL-ikonen för skrivande"
+   },
+   "writing_style_academic": {
+      "message": "Akademisk"
+   },
+   "writing_style_business": {
+      "message": "Företag"
+   },
+   "writing_style_casual": {
+      "message": "Avslappnad"
+   },
+   "writing_style_simple": {
+      "message": "Enkel"
+   },
+   "writing_tone_confident": {
+      "message": "Övertygad"
+   },
+   "writing_tone_diplomatic": {
+      "message": "Diplomatisk"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "Entusiastisk"
+   },
+   "writing_tone_friendly": {
+      "message": "Vänlig"
+   },
+   "youtube_alternatives_link": {
+      "message": "Öppna på DeepL.com"
+   },
+   "youtube_translate_comment_link": {
+      "message": "Översätt med DeepL"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "Ta bort"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "Ordlista"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "Om du vill ha obegränsat med översättningar kan du prova DeepL Pro Advanced – det är gratis i 30 dagar."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "Du använder gratisversionen av DeepL"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "För obegränsat antal översättningar, skaffa DeepL Pro Advanced eller Ultimate."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "Ditt abonnemang inkluderar inte obegränsad översättning i Zendesk"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "För att fortsätta översätta, \u003Cstrong>registrera dig för DeepL Pro Advanced – \u003C/strong>gratis i 30 dagar."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "Du använder gratisversionen av DeepL "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "Du har nått gränsen för gratis översättning."
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "För att fortsätta översätta \u003Cstrong>registrerar du dig för DeepL Pro Advanced eller Ultimate.\u003C/strong>\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "Ditt abonnemang inkluderar inte obegränsad översättning i Zendesk"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "Vi kunde inte hitta några ordlistor tillgängliga för ditt konto."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "Ordlistor är endast tillgängliga för DeepL Pro-användare."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "Översätt ärenden i farten – \u003Cstrong>upp till $translationLimit$ översättningar gratis\u003C/strong>",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "\u003Cstrong>Uttryck dig naturligt och professionellt\u003C/strong> varje gång"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "\u003Cstrong>Svara\u003C/strong> på din kunds språk"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "Översätt ditt arbete på ett ögonblick, medan du läser och skriver ärenden."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL är nu klart"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "Vi har ersatt insticksprogrammet med ett helt integrerat tillägg."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "Ladda ner det – det är gratis"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "En bättre översättningsupplevelse"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "Om du vill ha obegränsat med översättningar kan du prova DeepL Pro Advanced – det är gratis i 30 dagar."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "Du har $remainingTranslations$ översättningar kvar",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "Aktivera/avaktivera DeepL för Zendesk"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>Översättningar kvar:\u003C/strong> $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "Prova DeepL Pro Advanced gratis"
+   },
+   "zendesk_try_pro_link": {
+      "message": "Prova DeepL Pro gratis"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "Har du redan \u003Cstrong>Pro Advanced eller Ultimate?\u003C/strong> \u003CloginLink>Logga in på ditt konto\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "Uppgradera ditt abonnemang"
+   }
+}

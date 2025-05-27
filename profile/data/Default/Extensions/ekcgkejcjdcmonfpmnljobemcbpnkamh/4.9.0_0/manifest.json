@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "images/icon-128.png",
+      "default_title": "WA Web Plus by Elbruz Technologies"
+   },
+   "background": {
+      "service_worker": "/worker.js"
+   },
+   "content_scripts": [ {
+      "js": [ "/bundle.js" ],
+      "matches": [ "*://web.whatsapp.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "externally_connectable": {
+      "matches": [ "*://wawplus.com/*" ]
+   },
+   "homepage_url": "https://wawplus.com",
+   "host_permissions": [ "*://web.whatsapp.com/*", "*://wawplus.com/*", "*://*.web.app/*", "*://*.firebaseio.com/*", "*://*.firebaseapp.com/*", "*://*.cloudfunctions.net/*", "*://*.zapier.com/*", "*://*.pabbly.com/*", "*://*.integrately.com/*", "*://*.integromat.com/*", "*://apiway.ai/*", "*://*.konnectzit.com/*", "*://*.knzt.it/*", "*://api.antsandapps.com/*", "*://res.cloudinary.com/*" ],
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkhamYCMgCC55uGcUpvTVrDoCI2Ad+OgmJv7xSKx4bLmMD2swJZVPM/en0z733oH3B5b2GCcr2R3qRQky1T0k6Qdb+M7tFtvhZamuFwlmkIAAlhca2toeWFqm6bGy5ucxuIenOtjKl/smFhJkDMCLEh9VXbzl6SijaCiXuhB6gc5uoJhdu31Pxo6rZnqAJBhY64WaLnVfYJfe3JPR+IdtnKXUvNk9GexlwOU+iAUPFowER6j1tUz9EoL+nBfNvWEzsQmXT5pME65Bx32fIUtu4pbgEBTJDLr+vb0VYS8F824dIrMVCEL9t3yKuJjHzQjDk2DBxaU83EZitMrq8gicRQIDAQAB",
+   "manifest_version": 3,
+   "name": "WA Web Plus by Elbruz Technologies",
+   "permissions": [ "activeTab", "storage", "unlimitedStorage", "identity", "identity.email" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.9.0",
+   "web_accessible_resources": [ {
+      "extension_ids": [ "ekcgkejcjdcmonfpmnljobemcbpnkamh" ],
+      "matches": [ "*://web.whatsapp.com/*" ],
+      "resources": [ "/*" ]
+   } ]
+}

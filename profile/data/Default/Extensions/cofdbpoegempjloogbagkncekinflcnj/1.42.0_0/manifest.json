@@ -1,0 +1,84 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/deepl_128.png",
+         "16": "images/deepl_16.png",
+         "32": "images/deepl_32.png",
+         "48": "images/deepl_48.png"
+      },
+      "default_popup": "index.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "change-language": {
+         "description": "__MSG_extension_settings_keyboard_shortcut_change_language__",
+         "name": "change-language",
+         "suggested_key": {
+            "default": "Ctrl+Shift+L",
+            "mac": "Command+Shift+L"
+         }
+      },
+      "trigger-translation": {
+         "description": "__MSG_extension_settings_keyboard_shortcut_perform_translation__",
+         "name": "trigger-translation",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "build/content.css" ],
+      "js": [ "build/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_idle"
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "ruleset_1",
+         "path": "rules.json"
+      } ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "*://*.deepl.com/*", "https://api-test.deepl.com/v1/*", "https://api.deepl.com/v1/*" ],
+   "icons": {
+      "128": "images/deepl_128.png",
+      "16": "images/deepl_16.png",
+      "32": "images/deepl_32.png",
+      "48": "images/deepl_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3gEOTzdPiXjtc74qsXXqsibiPzxxfsZMaYSr+vork53RSQBORCbtg/IOBwNc/XF+jZRC8NCYAd5eSs6/7uxIyHemrS6iLj38ML2eaF0DzCWjfesNJKzIf6O10raZ2zYCaMGKAdzerwQyBqnwAZD3n2scM38hT3NbF5yuqhZJ6knI9LnjkgO+BTj37KbufC4ilYsr3n+mh5CTsNqK1bgpX1d9ZmvJ7rJ3dLu9mBrma/VAe5+i6r214FYtRzLMprLM6UvlYSc3aTp4RVaQFv3XooFvJJsQ2rQFTankAl6WMrMNPwfWeGa3m7NWKGNBnysemAsWANstoxGz0uJ24XM3dwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "activeTab", "storage", "contextMenus", "tabs", "scripting", "declarativeNetRequest", "identity", "tts", "alarms", "webRequest", "cookies", "sidePanel" ],
+   "side_panel": {
+      "default_path": "side-panel.html"
+   },
+   "storage": {
+      "managed_schema": "schema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.42.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "images/*.svg", "images/**/*.svg" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "build/content.css" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "onboarding.html" ]
+   }, {
+      "matches": [ "chrome-extension://ocpdpnakdghopjcifldjidbdmfobmmoi/*" ],
+      "resources": [ "build/dev-page.css" ]
+   } ]
+}

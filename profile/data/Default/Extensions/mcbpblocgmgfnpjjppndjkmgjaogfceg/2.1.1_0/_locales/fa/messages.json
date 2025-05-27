@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "درباره..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "گرفتن تصویر از پنجره مرورگر و"
+   },
+   "action_capture_entire": {
+      "message": "گرفتن تصویر از کل صفحه و"
+   },
+   "action_capture_entire_lite": {
+      "message": "گرفتن تصویر از کل صفحه"
+   },
+   "action_capture_selection": {
+      "message": "گرفتن تصویر از قسمت انتخاب شده / المنت و"
+   },
+   "action_capture_selection_lite": {
+      "message": "گرفتن تصویر از بخش انتخاب شده"
+   },
+   "action_capture_tabs": {
+      "message": "تصویر از تمامی تب ها و"
+   },
+   "action_capture_visible": {
+      "message": "گرفتن تصویر از قسمت قابل مشاهده و"
+   },
+   "action_capture_visible_lite": {
+      "message": "گرفتن تصویر از قسمت قابل مشاهده"
+   },
+   "action_copy": {
+      "message": "کپی در کلیپ بورد"
+   },
+   "action_edit": {
+      "message": "ویرایش"
+   },
+   "action_email": {
+      "message": "پست الکترونیک"
+   },
+   "action_enter_license": {
+      "message": "اطلاعات لایسنس را وارد کنید"
+   },
+   "action_external": {
+      "message": "بازکردن در ویرایشگر خارجی"
+   },
+   "action_install_native": {
+      "message": "امکانات پیشرفته را امتحان کن"
+   },
+   "action_license_info": {
+      "message": "اطلاعات لایسنس..."
+   },
+   "action_micsellaneous": {
+      "message": "متفرقه"
+   },
+   "action_onenote": {
+      "message": "ارسال به OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "بارکردن از کلیپ بورد"
+   },
+   "action_open_file": {
+      "message": "بازکردن فایل"
+   },
+   "action_options": {
+      "message": "تنظیمات"
+   },
+   "action_print": {
+      "message": "پرینت"
+   },
+   "action_register": {
+      "message": "فعالسازی"
+   },
+   "action_resume": {
+      "message": "ادامه ویرایش"
+   },
+   "action_save": {
+      "message": "ذخیره"
+   },
+   "action_save_pdf": {
+      "message": "ذخیره به عنوان PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "ذخیره به عنوان یک فایل PDF"
+   },
+   "action_support": {
+      "message": "پشتیبانی"
+   },
+   "action_switch_pro": {
+      "message": "تغییر به حالت پیشرفته"
+   },
+   "action_switch_pro_tabs": {
+      "message": "برای پردازش نسخه پیشرفته را فعال کنید..."
+   },
+   "action_upload": {
+      "message": "بارگزاری"
+   },
+   "action_view_demo": {
+      "message": "مشاهده دمو"
+   },
+   "application_description": {
+      "message": "تصویر کامل از صفحه ، تصویر گرفتن ، ویرایش و ذخیره آن ها به فرمت های PDF/JPEG/GIF/PNG, بارگزاری ، پرینت و ارسال به OneNote, کلیپ بورد، یا پست الکترونیک."
+   },
+   "application_title": {
+      "message": "تصویر از کل صفحه به صورت کامل - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "خرید نسخه پیشرفته"
+   },
+   "captured_copy_clipboard": {
+      "message": "کپی در کلیپ بورد"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "آموزش چگونگی ..."
+   },
+   "captured_get_free_button": {
+      "message": "رایگان امتحان کنید"
+   },
+   "captured_print": {
+      "message": "پرینت"
+   },
+   "captured_print_button": {
+      "message": "پرینت"
+   },
+   "captured_recommend_us": {
+      "message": "توصیه کردن FireShot "
+   },
+   "captured_save_as_image": {
+      "message": "ذخیره به عنوان تصویر"
+   },
+   "captured_save_as_image_button": {
+      "message": "ذخیره به عنوان تصویر"
+   },
+   "captured_save_as_pdf": {
+      "message": "ذخیره به عنوان PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "ذخیره اسکرین شات"
+   },
+   "captured_saving_options": {
+      "message": "سفارشی سازی کنید"
+   },
+   "captured_setup_hotkeys": {
+      "message": "تنظیم کلیدهای میانبر و تنظیمات فایل..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "تصویربرداری،حاشیه نویسی، پرینت و ذخیره بهتر، ویرایش، بارگزاری ، ارساال به پست الکترونیک / در eNore ، یا بیرون بردن به برنامه دیگر."
+   },
+   "captured_upgrade_link_2": {
+      "message": "ارتقاء به FireShot نسخه پیشرفته."
+   },
+   "captured_upgrade_link_3": {
+      "message": "من قبلا از نسخه دیگری از FireShot  استفاده می کرئک"
+   },
+   "captured_upgrade_link_4": {
+      "message": "می توانم آن را برگردانم؟"
+   },
+   "enable_checkbox": {
+      "message": "فعال کردن"
+   },
+   "options_button_apply": {
+      "message": "اعمال"
+   },
+   "options_button_save_close": {
+      "message": "ذخیره سازی و بستن"
+   },
+   "options_button_setup": {
+      "message": "کلیک برای نصب"
+   },
+   "options_label_and": {
+      "message": "و"
+   },
+   "options_label_capturing": {
+      "message": "در حال تصویربرداری"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "بستن تب بعد از ذخیره کردن"
+   },
+   "options_label_customize_saving": {
+      "message": "سفارشی سازی فرآینده ذخیره سازی"
+   },
+   "options_label_default_filename_template": {
+      "message": "قالب نام پیشفرض."
+   },
+   "options_label_default_folder": {
+      "message": "فولدر خروجی پیشفرض"
+   },
+   "options_label_default_folder_hint": {
+      "message": "یک مسیر فایل مرتبط با مسیر دانلود شامل فایل های ذخیره شده، میتواند شامل ساب دایرکتوری ها باشد. مسیرهای مطلق ، مسیرهای خالی ، و مسیرهای شامل برگشت به مرجع «..» باعث خطا خواهد شد."
+   },
+   "options_label_editor_options": {
+      "message": "تنظیمات ادیتور"
+   },
+   "options_label_enable_context_menu": {
+      "message": "افزودن \"FireShot\"  در منوی زمینه(اجرا آقای داتکام)"
+   },
+   "options_label_file_settings": {
+      "message": "تنظیمات فایل"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot گزینه های"
+   },
+   "options_label_hotkey": {
+      "message": "کلید های میانبر"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "فعالیت مطابق آخرین استفاده"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "عبارت \"ذخیره به عنوان\" را نمایش نده"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "نمایش فایل های دانلود شده در فولدرشان بعد از ذخیره کردن"
+   },
+   "options_label_save_image_as": {
+      "message": "ذخیره تصویر به عنوان"
+   },
+   "options_label_specify_editor_options": {
+      "message": "تعیین کردن تنظیمات ادیتور و ذخیره سازی، گزینه های نام گذاری فایل،ظاهر، به عنوان مثال."
+   },
+   "options_label_specify_hotkey": {
+      "message": "مشخص کردن ترکیب کلید برای بازشدن FireShot."
+   },
+   "options_label_specify_resizing_options": {
+      "message": "تعیین کردن تنظیمات تغییر اندازه و صداها."
+   },
+   "options_label_template_day": {
+      "message": "روز"
+   },
+   "options_label_template_hour": {
+      "message": "ساعت"
+   },
+   "options_label_template_limit_1": {
+      "message": "محدود کردن اندازه نام فایل به"
+   },
+   "options_label_template_limit_2": {
+      "message": "کاراکتر"
+   },
+   "options_label_template_minutes": {
+      "message": "دقیقه"
+   },
+   "options_label_template_month": {
+      "message": "ماه"
+   },
+   "options_label_template_pad_1": {
+      "message": "عرض پد شماره"
+   },
+   "options_label_template_pad_2": {
+      "message": "صفرها"
+   },
+   "options_label_template_seconds": {
+      "message": "صداها"
+   },
+   "options_label_template_title": {
+      "message": "عنوان صفحه"
+   },
+   "options_label_template_url": {
+      "message": "آدرس صفحه."
+   },
+   "options_label_template_website": {
+      "message": "نام دامنه"
+   },
+   "options_label_template_year": {
+      "message": "سال"
+   },
+   "options_link_filename_template_settings": {
+      "message": "نمایش تنظیمات ترکیب نام فایل..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "مخفی سازی تنظیمات ترکیب نام فایل..."
+   }
+}

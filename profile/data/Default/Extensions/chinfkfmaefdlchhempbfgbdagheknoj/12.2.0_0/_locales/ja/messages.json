@@ -1,0 +1,353 @@
+{
+   "aLittle": {
+      "message": "反転距離２"
+   },
+   "aLot": {
+      "message": "反転距離５"
+   },
+   "aTon": {
+      "message": "反転距離６"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + 上下矢印"
+   },
+   "alternateDesigns": {
+      "message": "その他のデザイン"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "ボタンが表示される距離"
+   },
+   "arrowOnly": {
+      "message": "矢印のみ"
+   },
+   "authorsSettings": {
+      "message": "製作者の設定見本"
+   },
+   "barelyAny": {
+      "message": "反転距離１"
+   },
+   "black": {
+      "message": "ブラック"
+   },
+   "blue": {
+      "message": "ブルー"
+   },
+   "bottomCenter": {
+      "message": "下中"
+   },
+   "bottomLeft": {
+      "message": "下左"
+   },
+   "bottomRight": {
+      "message": "下右"
+   },
+   "browserActionPageTitle": {
+      "message": "Scroll To Top Button(STTB)の有効無効をタブ毎に設定します。"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "タブを更新する。"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "このドメインではSTTBを無効にする。"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "このURLではSTTBを無効にする。"
+   },
+   "browserActionSttbEnabled": {
+      "message": "STTBを有効にする"
+   },
+   "browserActionTitle": {
+      "message": "タブ毎の設定"
+   },
+   "buttonDesign": {
+      "message": "ボタンデザイン"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "ボタンの高さ"
+   },
+   "buttonLocation": {
+      "message": "ボタン表示位置"
+   },
+   "buttonMode": {
+      "message": "ボタンのモード"
+   },
+   "buttonSettings": {
+      "message": "ボタンセッティング"
+   },
+   "buttonSize": {
+      "message": "ボタンサイズ"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "高さ$LENGTH$x 幅$WIDTH$ ピクセル",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "ボタンの幅"
+   },
+   "centerLeft": {
+      "message": "中左"
+   },
+   "centerRight": {
+      "message": "中右"
+   },
+   "clickthroughKeys": {
+      "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element.",
+      "message": "ボタンで隠れたところをクリックする方法"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "colors": {
+      "message": "色"
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "右クリックメニュー"
+   },
+   "ctrlKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) key + Click button.",
+      "message": "Ctrlを押しながらクリック"
+   },
+   "ctrlKeyOrShiftKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button.",
+      "message": "CtrlかShiftを押しながらクリック"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "ミリ秒単位で指定"
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "上下スクロールを常に表示"
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "fast": {
+      "message": "速い"
+   },
+   "faster": {
+      "message": "もっと速い"
+   },
+   "fastest": {
+      "message": "最速（瞬時）"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "上下スクロールの自動反転"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "ボタンモードがFlipのとき、ボタンが反転する距離"
+   },
+   "green": {
+      "message": "グリーン"
+   },
+   "grey": {
+      "message": "グレー"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">翻訳ボランティア求む\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "HOMEとENDキーの動作"
+   },
+   "invisible": {
+      "message": "非アクティブで非表示"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "キーボードのみで操作"
+   },
+   "keyboardSettings": {
+      "message": "キーボードセッティング"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "キーボードショートカット"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "自動（ブラウザのデフォルト）"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "拡張機能がブラウザでデフォルトとして選択されている言語をサポートしている場合は、その言語を使用します。 それ以外の場合は、英語（米国）を使用します。"
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "チェコ語 - čeština"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "英語（米語） - English (United States)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "ガリシア語 - galego"
+   },
+   "language_ja": {
+      "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "日本語"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "オランダ語 - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "ポーランド語 - polski"
+   },
+   "language_ru": {
+      "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "ロシア語 - русский"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "トルコ語 - Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "中国語 - 中文（中国）"
+   },
+   "medium": {
+      "message": "反転距離３"
+   },
+   "moreThanAverage": {
+      "message": "反転距離４"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "非アクティブで透過"
+   },
+   "off": {
+      "message": "ショートカット不使用"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">開発者のホームページ\u003C/a>"
+   },
+   "on": {
+      "message": "オン"
+   },
+   "opaque": {
+      "message": "非アクティブでも通常表示"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "OS依存"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "設定"
+   },
+   "optionsSaved": {
+      "message": "保存されました。"
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "オプションを開く"
+   },
+   "orange": {
+      "message": "オレンジ"
+   },
+   "otherSettings": {
+      "message": "その他の設定"
+   },
+   "pink": {
+      "message": "ピンク"
+   },
+   "pixelDesign": {
+      "message": "ドットデザイン"
+   },
+   "purple": {
+      "message": "パープル"
+   },
+   "red": {
+      "message": "レッド"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">リリースノート\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "初期設定に戻す"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scrollDownSpeed": {
+      "message": "下スクロール速度"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "ミリ秒で下スクロール"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "上にスクロールのみ"
+   },
+   "scrollUpSpeed": {
+      "message": "上スクロール速度"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "ミリ秒で上スクロール"
+   },
+   "shiftKey": {
+      "description": "Shift key + Click button.",
+      "message": "Shiftを押しながらクリック"
+   },
+   "slow": {
+      "message": "遅い"
+   },
+   "slower": {
+      "message": "もっと遅い"
+   },
+   "slowest": {
+      "message": "最も遅い"
+   },
+   "topCenter": {
+      "message": "上中"
+   },
+   "topLeft": {
+      "message": "左上"
+   },
+   "topRight": {
+      "message": "右上"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "Translated by \u003Ca href=\"https://www.transifex.com/user/profile/noby/\" target=\"_blank\" id=\"translatorLink\">oshima yoshinobu\u003C/a>"
+   },
+   "transparent": {
+      "message": "非アクティブで半透明"
+   },
+   "tumblerBlue": {
+      "message": "Tumblrのイメージカラー"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "言語"
+   },
+   "yellow": {
+      "message": "イエロー"
+   }
+}

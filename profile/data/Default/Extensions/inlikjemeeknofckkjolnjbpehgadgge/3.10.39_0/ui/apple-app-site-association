@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4E3T37TTBX.io.distill.webmonitor",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}

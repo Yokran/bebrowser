@@ -1,0 +1,102 @@
+<!--Single file both for Chromium and FX-->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <script src="scripts/fsProgress.js"></script>
+
+    
+
+
+  <title></title>
+
+  <link rel="stylesheet" href="css/fspopup.css" type="text/css" />
+
+  <style>
+    body {
+      padding: 10px;
+      text-align: left;
+      display: flex;
+      align-items: center;
+    }
+
+    #main {
+      width: 100%;
+    }
+
+    #progressContainer {
+      height: 1em;
+      width: 100%;
+      border: 1px solid #eee;
+    }
+
+    #progressValue {
+      height: 100%;
+      width: 0%;
+      background: #5bc0de;
+      transition: width 0.1s ease-in-out;
+    }
+
+    #progressAndButton {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+
+    #stopControl {
+      display: flex;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    #infiniteModeWarning {
+      margin-top: 10px;
+      display: none;
+    }
+
+    #processingLabel {
+      width: 100%;
+      text-align: center;
+      display: none;
+    }
+
+    #processingLabel {
+      opacity: 0;
+      transition: opacity 0.2s ease-in;
+      font-size: 13px;
+    }
+  </style>
+
+
+</head>
+
+<body>
+  <div id="main">
+    <div id="capturing">
+      <div id="progressAndButton">
+
+        <div id="progressContainer">
+          <div id="progressValue"></div>
+        </div>
+
+        <div id="stopControl" data-title-i18n="action_capture_stop">
+          <img src="images/stop.png" height="16" width="16">
+          <span data-i18n="action_capture_stop_short">Stop</span>
+        </div>
+      </div>
+
+      <div id="infiniteModeWarning">
+        <span data-i18n="infinite_mode_warning">Infinite scrolling mode detected. Stop FireShot when needed.</span>
+      </div>
+    </div>
+
+    <div id="processingLabel">
+      <span data-i18n="label_processing">Processing...</span>
+    </div>
+    <button id="btnTest" style="display:none">Test</button>
+  </div>
+</body>
+
+</html>

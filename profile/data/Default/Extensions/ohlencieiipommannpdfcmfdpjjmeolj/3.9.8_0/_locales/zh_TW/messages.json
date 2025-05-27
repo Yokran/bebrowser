@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "調整您的設定以增強您的體驗。"
+   },
+   "affected_page": {
+      "message": "受影響的頁面"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly 可能會被您安裝的另一個擴充功能（如廣告攔截器）阻擋。請暫時停用您的其他擴充功能，然後再嘗試創建 PDF。"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "capture_screenshot_manually": {
+      "message": "使用我們的截圖功能捕捉此頁面，然後將其導出為圖像或PDF。"
+   },
+   "capturing": {
+      "message": "正在擷取"
+   },
+   "capturing_desc": {
+      "message": "正在擷取您的螢幕截圖…"
+   },
+   "choose_paper_size": {
+      "message": "為 PDF 選擇您偏好的紙張大小。"
+   },
+   "compress_pdf": {
+      "message": "壓縮PDF"
+   },
+   "contact_us": {
+      "message": "联系我们："
+   },
+   "convert_pdf": {
+      "message": "轉換PDF"
+   },
+   "current_view_screenshot": {
+      "message": "檢視螢幕截圖"
+   },
+   "default_button": {
+      "message": "預設按鈕"
+   },
+   "default_mode": {
+      "message": "預設模式"
+   },
+   "default_mode_checkbox": {
+      "message": "不要再次顯示這些選項。您可以隨時在設定中重新啟用它們。"
+   },
+   "default_mode_desc": {
+      "message": "選擇在按下擴展按鈕時自動選擇的操作。"
+   },
+   "delete": {
+      "message": "點擊刪除"
+   },
+   "dialog_close": {
+      "message": "關閉"
+   },
+   "dialog_text": {
+      "message": "正在傳送到您的印表機。"
+   },
+   "dialog_text_btn": {
+      "message": "重新傳送"
+   },
+   "dialog_title": {
+      "message": "正在列印您的頁面"
+   },
+   "dont_show_again": {
+      "message": "不要再顯示這個。"
+   },
+   "edit_pdf": {
+      "message": "編輯PDF"
+   },
+   "email": {
+      "message": "電子郵件"
+   },
+   "email_article_sent": {
+      "message": "已傳送一篇文章給您"
+   },
+   "email_from": {
+      "message": "寄件者"
+   },
+   "email_message": {
+      "message": "訊息"
+   },
+   "email_product_sent_message": {
+      "message": "您的電子郵件已傳送。您可以關閉此頁面。"
+   },
+   "email_send": {
+      "message": "傳送"
+   },
+   "email_sent_message": {
+      "message": "您的電子郵件已傳送"
+   },
+   "email_title": {
+      "message": "以電子郵件傳送此頁面"
+   },
+   "email_to": {
+      "message": "收件者"
+   },
+   "full_page_screenshot": {
+      "message": "完整頁面螢幕截圖"
+   },
+   "get_pro": {
+      "message": "取得專業版"
+   },
+   "got_it": {
+      "message": "明白了"
+   },
+   "image": {
+      "message": "圖像"
+   },
+   "image_size_pref": {
+      "message": "圖片大小偏好"
+   },
+   "image_size_pref_desc": {
+      "message": "使用擴充功能檢視頁面時設定圖片大小。"
+   },
+   "images": {
+      "message": "圖片"
+   },
+   "lang_display_name": {
+      "message": "繁體中文 (Traditional Chinese)"
+   },
+   "language_setting": {
+      "message": "語言"
+   },
+   "language_setting_desc": {
+      "message": "選擇您偏好的語言。"
+   },
+   "letter_paper_size": {
+      "message": "信紙"
+   },
+   "login": {
+      "message": "登入"
+   },
+   "margin": {
+      "message": "邊距"
+   },
+   "no": {
+      "message": "不"
+   },
+   "off": {
+      "message": "關閉"
+   },
+   "other_tools": {
+      "message": "其他工具"
+   },
+   "page_blocking_printfriendly": {
+      "message": "此頁面正在封鎖 PrintFriendly"
+   },
+   "page_size": {
+      "message": "頁面大小"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "下載您的 PDF"
+   },
+   "pdf_generation_error": {
+      "message": "PDF生成錯誤"
+   },
+   "pdf_head": {
+      "message": "正在生成您的 PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF 紙張大小"
+   },
+   "print": {
+      "message": "列印"
+   },
+   "print_pdf": {
+      "message": "列印與 PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "移除網頁上的廣告和導航。非常適合文章和以文字為主的頁面。"
+   },
+   "printer_friendly_page": {
+      "message": "列印友好頁面"
+   },
+   "printer_friendly_suggestion": {
+      "message": "打印友好版本不符合您的预期？尝试截图。"
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly 頁面"
+   },
+   "pro_alert": {
+      "message": "專業版功能"
+   },
+   "reach_out_for_support": {
+      "message": "如需更多詳細資訊或支援，請通過以下方式聯絡我們"
+   },
+   "read_more": {
+      "message": "閱讀更多"
+   },
+   "remove_ads_description": {
+      "message": "從網頁中移除廣告和導航。適用於文章和以文字為主的頁面。"
+   },
+   "remove_images": {
+      "message": "移除圖片"
+   },
+   "report": {
+      "message": "報告"
+   },
+   "resolve_issue": {
+      "message": "我們將幫助您解決問題。"
+   },
+   "save_as_image": {
+      "message": "儲存為圖片"
+   },
+   "save_as_pdf": {
+      "message": "儲存為 PDF"
+   },
+   "save_changes": {
+      "message": "保存"
+   },
+   "screenshot": {
+      "message": "截圖"
+   },
+   "screenshot_image_format": {
+      "message": "截圖圖片格式"
+   },
+   "screenshot_ready_soon": {
+      "message": "您的截圖即將準備就緒。"
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly 適用於大多數網站，使創建更乾淨、更適合列印的頁面和螢幕截圖變得容易。然而，由於瀏覽器政策的限制，某些頁面—例如瀏覽器設置、擴展商店和其他受限區域—無法訪問。如有任何問題，請隨時與我們聯繫。"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settings_saved": {
+      "message": "您的設定已儲存。"
+   },
+   "show_screenshot_message": {
+      "message": "在列印友好的視圖中顯示螢幕擷取畫面訊息"
+   },
+   "something_went_wrong": {
+      "message": "出現問題了"
+   },
+   "still_does_not_work": {
+      "message": "如果仍然無效，請聯絡我們"
+   },
+   "stop_capturing": {
+      "message": "停止擷取"
+   },
+   "strict_security_settings": {
+      "message": "很抱歉，該頁面具有嚴格的安全設置（內容安全政策），這使我們無法創建該頁面的 PrintFriendly 版本。"
+   },
+   "style": {
+      "message": "樣式"
+   },
+   "take_screenshot": {
+      "message": "截取螢幕截圖："
+   },
+   "text_size_pref": {
+      "message": "文字大小偏好"
+   },
+   "text_size_pref_desc": {
+      "message": "使用擴充功能檢視頁面時設定文字大小。"
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly 在創建 PDF 時可能已超時。它可能對我們的系統來說太大了。"
+   },
+   "txt_size": {
+      "message": "文字大小"
+   },
+   "unable_to_generate_pdf": {
+      "message": "我們無法為此頁面生成 PDF。"
+   },
+   "undo": {
+      "message": "復原"
+   },
+   "what_you_can_do": {
+      "message": "您可以做什麼"
+   },
+   "yes": {
+      "message": "是"
+   }
+}

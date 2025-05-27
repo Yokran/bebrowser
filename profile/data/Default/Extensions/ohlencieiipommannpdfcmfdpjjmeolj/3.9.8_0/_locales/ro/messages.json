@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Ajustează-ți setările pentru a-ți îmbunătăți experiența."
+   },
+   "affected_page": {
+      "message": "Pagină afectată"
+   },
+   "blocked_by_extension": {
+      "message": "Este posibil ca PrintFriendly să fie blocat de o altă extensie pe care ați instalat-o, cum ar fi un ad blocker. Dezactivați temporar celelalte extensii și încercați din nou să creați un PDF."
+   },
+   "cancel": {
+      "message": "Anulează"
+   },
+   "capture_screenshot_manually": {
+      "message": "Utilizați funcția noastră de captură de ecran pentru a captura această pagină și apoi exportați-o ca imagine sau PDF."
+   },
+   "capturing": {
+      "message": "Se capturează"
+   },
+   "capturing_desc": {
+      "message": "Captură ecran…"
+   },
+   "choose_paper_size": {
+      "message": "Alege dimensiunea preferată a hârtiei pentru PDF-uri."
+   },
+   "compress_pdf": {
+      "message": "Comprimă PDF"
+   },
+   "contact_us": {
+      "message": "Contactați-ne:"
+   },
+   "convert_pdf": {
+      "message": "Convertește PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Captură vizualizare"
+   },
+   "default_button": {
+      "message": "Buton implicit"
+   },
+   "default_mode": {
+      "message": "Mod implicit"
+   },
+   "default_mode_checkbox": {
+      "message": "Nu mai afișați aceste opțiuni. Le puteți reactiva în Setări."
+   },
+   "default_mode_desc": {
+      "message": "Alegeți acțiunea care se selectează automat la clic pe butonul extensiei."
+   },
+   "delete": {
+      "message": "Ștergere"
+   },
+   "dialog_close": {
+      "message": "Închidere"
+   },
+   "dialog_text": {
+      "message": "Trimitere la imprimantă"
+   },
+   "dialog_text_btn": {
+      "message": "Retrimitere"
+   },
+   "dialog_title": {
+      "message": "Tipărirea paginii dvs."
+   },
+   "dont_show_again": {
+      "message": "Nu mai afișa asta."
+   },
+   "edit_pdf": {
+      "message": "Editează PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "V-a trimis un articol"
+   },
+   "email_from": {
+      "message": "De la"
+   },
+   "email_message": {
+      "message": "Mesaj"
+   },
+   "email_product_sent_message": {
+      "message": "Mesajul dvs. de email a fost trimis. Puteți închide pagina"
+   },
+   "email_send": {
+      "message": "Trimite"
+   },
+   "email_sent_message": {
+      "message": "Mesajul dvs. de email a fost trimis"
+   },
+   "email_title": {
+      "message": "Trimiteți această pagină prin email"
+   },
+   "email_to": {
+      "message": "Către"
+   },
+   "full_page_screenshot": {
+      "message": "Captură pagină"
+   },
+   "get_pro": {
+      "message": "Obțineți versiunea Pro"
+   },
+   "got_it": {
+      "message": "Am înțeles"
+   },
+   "image": {
+      "message": "Imagine"
+   },
+   "image_size_pref": {
+      "message": "Preferință dimensiune imagine"
+   },
+   "image_size_pref_desc": {
+      "message": "Setați dimensiunea imaginilor când vizualizați pagini cu extensia."
+   },
+   "images": {
+      "message": "Imagini"
+   },
+   "lang_display_name": {
+      "message": "Română (Romanian)"
+   },
+   "language_setting": {
+      "message": "Limbă"
+   },
+   "language_setting_desc": {
+      "message": "Selectați limba preferată."
+   },
+   "letter_paper_size": {
+      "message": "Scrisoare"
+   },
+   "login": {
+      "message": "Autentificare"
+   },
+   "margin": {
+      "message": "Margine"
+   },
+   "no": {
+      "message": "Nu"
+   },
+   "off": {
+      "message": "Oprit"
+   },
+   "other_tools": {
+      "message": "Instrumente"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Această pagină blochează PrintFriendly"
+   },
+   "page_size": {
+      "message": "Dimensiune pagină"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Descărcați PDF-ul dvs."
+   },
+   "pdf_generation_error": {
+      "message": "Eroare la generarea PDF-ului"
+   },
+   "pdf_head": {
+      "message": "Generarea PDF-ului dvs."
+   },
+   "pdf_paper_size": {
+      "message": "Dimensiunea hârtiei PDF"
+   },
+   "print": {
+      "message": "Tipărire"
+   },
+   "print_pdf": {
+      "message": "Tipărire & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Elimină reclamele și navigarea. Bun pentru articole și texte."
+   },
+   "printer_friendly_page": {
+      "message": "Pagină optimizată pentru imprimare"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Versiunea optimizată pentru imprimare nu este ce ai așteptat? Încearcă să faci o captură de ecran."
+   },
+   "printfriendly_page": {
+      "message": "Pagina PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Funcționalitate Pro"
+   },
+   "reach_out_for_support": {
+      "message": "Pentru mai multe detalii sau asistență, vă rugăm să ne contactați la"
+   },
+   "read_more": {
+      "message": "Citiți mai mult"
+   },
+   "remove_ads_description": {
+      "message": "Elimină reclamele și navigarea din paginile web. Funcționează bine cu articole și pagini orientate pe text."
+   },
+   "remove_images": {
+      "message": "Eliminare imagini"
+   },
+   "report": {
+      "message": "Raportează"
+   },
+   "resolve_issue": {
+      "message": "și vă vom ajuta să rezolvați problema."
+   },
+   "save_as_image": {
+      "message": "Salvează ca imagine"
+   },
+   "save_as_pdf": {
+      "message": "Salvează ca PDF"
+   },
+   "save_changes": {
+      "message": "Salvează"
+   },
+   "screenshot": {
+      "message": "Captură de ecran"
+   },
+   "screenshot_image_format": {
+      "message": "Formatul imaginii capturii de ecran"
+   },
+   "screenshot_ready_soon": {
+      "message": "Captura ta de ecran va fi gata într-o clipă."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly funcționează pe majoritatea site-urilor web, făcând mai ușoară crearea de pagini mai curate, prietenoase pentru imprimare și capturi de ecran. Cu toate acestea, anumite pagini—cum ar fi setările browserului, magazinele de extensii și alte zone restricționate—nu sunt accesibile din cauza politicilor browserului. Vă rugăm să ne contactați dacă aveți întrebări."
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "settings_saved": {
+      "message": "Setările dvs. au fost salvate."
+   },
+   "show_screenshot_message": {
+      "message": "Afișați mesajul capturii de ecran în vizualizarea prietenoasă pentru imprimantă"
+   },
+   "something_went_wrong": {
+      "message": "Ceva a mers prost"
+   },
+   "still_does_not_work": {
+      "message": "Dacă încă nu funcționează, vă rugăm să ne contactați la"
+   },
+   "stop_capturing": {
+      "message": "Oprește capturarea"
+   },
+   "strict_security_settings": {
+      "message": "Ne pare rău, dar această pagină are setări stricte de securitate (Politica de Securitate a Conținutului) care ne împiedică să creăm o versiune PrintFriendly a paginii."
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "take_screenshot": {
+      "message": "Faceți o captură de ecran:"
+   },
+   "text_size_pref": {
+      "message": "Preferință dimensiune text"
+   },
+   "text_size_pref_desc": {
+      "message": "Setați dimensiunea textului când vizualizați pagini cu extensia."
+   },
+   "timed_out_pdf": {
+      "message": "Este posibil ca timpul de generare a PDF-ului de către PrintFriendly să fi expirat. Ar fi putut fi prea mare pentru sistemul nostru."
+   },
+   "txt_size": {
+      "message": "Dimensiune text"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Nu am reușit să generăm un PDF pentru această pagină."
+   },
+   "undo": {
+      "message": "Anulare"
+   },
+   "what_you_can_do": {
+      "message": "Ce puteți face"
+   },
+   "yes": {
+      "message": "Da"
+   }
+}

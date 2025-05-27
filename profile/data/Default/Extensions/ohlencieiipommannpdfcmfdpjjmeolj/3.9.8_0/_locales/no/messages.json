@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Juster innstillingene dine for å forbedre opplevelsen din."
+   },
+   "affected_page": {
+      "message": "Berørt side"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly kan være blokkert av en annen utvidelse du har installert, for eksempel en annonseblokkerer. Deaktiver midlertidig andre utvidelser og prøv å opprette en PDF på nytt."
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "capture_screenshot_manually": {
+      "message": "Bruk vår skjermbildefunksjon for å fange denne siden og deretter eksportere den som et bilde eller en PDF."
+   },
+   "capturing": {
+      "message": "Fanger"
+   },
+   "capturing_desc": {
+      "message": "Tar skjermbildet ditt…"
+   },
+   "choose_paper_size": {
+      "message": "Velg foretrukket papirstørrelse for PDF-er."
+   },
+   "compress_pdf": {
+      "message": "Komprimer PDF"
+   },
+   "contact_us": {
+      "message": "Kontakt oss:"
+   },
+   "convert_pdf": {
+      "message": "Konverter PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Ekrano kopija"
+   },
+   "default_button": {
+      "message": "Standardknapp"
+   },
+   "default_mode": {
+      "message": "Standardmodus"
+   },
+   "default_mode_checkbox": {
+      "message": "Ikke vis disse alternativene igjen. Aktiver dem i Innstillinger."
+   },
+   "default_mode_desc": {
+      "message": "Velg handlingen som automatisk velges når du klikker på knappen."
+   },
+   "delete": {
+      "message": "Klikk for å slette"
+   },
+   "dialog_close": {
+      "message": "Lukk"
+   },
+   "dialog_text": {
+      "message": "Sender til skriveren."
+   },
+   "dialog_text_btn": {
+      "message": "Send på nytt"
+   },
+   "dialog_title": {
+      "message": "Skriver ut"
+   },
+   "dont_show_again": {
+      "message": "Ikke vis dette igjen."
+   },
+   "edit_pdf": {
+      "message": "Rediger PDF"
+   },
+   "email": {
+      "message": "Epost"
+   },
+   "email_article_sent": {
+      "message": "Sendt deg en artikkel"
+   },
+   "email_from": {
+      "message": "Fra"
+   },
+   "email_message": {
+      "message": "Beskjed"
+   },
+   "email_product_sent_message": {
+      "message": "Din melding har blitt sendt. Du kan lukke vinduet"
+   },
+   "email_send": {
+      "message": "Send"
+   },
+   "email_sent_message": {
+      "message": "Din melding har blitt sendt"
+   },
+   "email_title": {
+      "message": "Send denne siden på epost"
+   },
+   "email_to": {
+      "message": "Til"
+   },
+   "full_page_screenshot": {
+      "message": "Hel side skjermbilde"
+   },
+   "get_pro": {
+      "message": "Oppgrader"
+   },
+   "got_it": {
+      "message": "Forstått"
+   },
+   "image": {
+      "message": "Bilde"
+   },
+   "image_size_pref": {
+      "message": "Bilde størrelsespreferanse"
+   },
+   "image_size_pref_desc": {
+      "message": "Angi bildestørrelsen når du viser sider med utvidelsen."
+   },
+   "images": {
+      "message": "Bilder"
+   },
+   "lang_display_name": {
+      "message": "Norsk (Norwegian)"
+   },
+   "language_setting": {
+      "message": "Språk"
+   },
+   "language_setting_desc": {
+      "message": "Velg ditt foretrukne språk."
+   },
+   "letter_paper_size": {
+      "message": "Brev"
+   },
+   "login": {
+      "message": "Logg inn"
+   },
+   "margin": {
+      "message": "Margin"
+   },
+   "no": {
+      "message": "Nei"
+   },
+   "off": {
+      "message": "Av"
+   },
+   "other_tools": {
+      "message": "Andre verktøy"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Denne siden blokkerer PrintFriendly"
+   },
+   "page_size": {
+      "message": "Sidestørrelse"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Lagre din PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Feil ved PDF-generering"
+   },
+   "pdf_head": {
+      "message": "Genererer din PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF-papirstørrelse"
+   },
+   "print": {
+      "message": "Skriv ut"
+   },
+   "print_pdf": {
+      "message": "Skriv ut & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Fjern annonser og navigasjon fra nettsider. Fungerer godt med artikler og tekstsider."
+   },
+   "printer_friendly_page": {
+      "message": "Utskriftsvennlig side"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Utskriftsvennlig versjon ikke som forventet? Prøv å ta et skjermbilde."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly-side"
+   },
+   "pro_alert": {
+      "message": "Denne funksjonen krever oppgradering"
+   },
+   "reach_out_for_support": {
+      "message": "For mer informasjon eller støtte, vennligst kontakt oss på"
+   },
+   "read_more": {
+      "message": "Les mer"
+   },
+   "remove_ads_description": {
+      "message": "Fjern annonser og navigasjon fra nettsider. Fungerer godt med artikler og tekstfokuserte sider."
+   },
+   "remove_images": {
+      "message": "Fjern bilder"
+   },
+   "report": {
+      "message": "Rapporter"
+   },
+   "resolve_issue": {
+      "message": "så hjelper vi deg med å løse problemet."
+   },
+   "save_as_image": {
+      "message": "Lagre som bilde"
+   },
+   "save_as_pdf": {
+      "message": "Lagre som PDF"
+   },
+   "save_changes": {
+      "message": "Lagre"
+   },
+   "screenshot": {
+      "message": "Skjermbilde"
+   },
+   "screenshot_image_format": {
+      "message": "Bildeformat for skjermbilde"
+   },
+   "screenshot_ready_soon": {
+      "message": "Skjermbildet ditt vil være klart om et øyeblikk."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly fungerer på de fleste nettsteder og gjør det enkelt å lage renere, utskriftsvennlige sider og skjermbilder. Imidlertid er enkelte sider—som nettleserinnstillinger, utvidelsesbutikker og andre begrensede områder—ikke tilgjengelige på grunn av nettleserens retningslinjer. Ta kontakt med oss hvis du har spørsmål."
+   },
+   "settings": {
+      "message": "Innstillinger"
+   },
+   "settings_saved": {
+      "message": "Innstillingene dine er lagret."
+   },
+   "show_screenshot_message": {
+      "message": "Vis skjermbilde-melding i skrivervennlig visning"
+   },
+   "something_went_wrong": {
+      "message": "Noe gikk galt"
+   },
+   "still_does_not_work": {
+      "message": "Hvis det fortsatt ikke fungerer, vennligst kontakt oss på"
+   },
+   "stop_capturing": {
+      "message": "Stopp fangst"
+   },
+   "strict_security_settings": {
+      "message": "Beklager, men denne siden har strenge sikkerhetsinnstillinger (Content Security Policy) som hindrer oss i å lage en PrintFriendly-versjon av siden."
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "take_screenshot": {
+      "message": "Ta et skjermbilde:"
+   },
+   "text_size_pref": {
+      "message": "Tekststørrelse preferanse"
+   },
+   "text_size_pref_desc": {
+      "message": "Angi tekststørrelsen når du viser sider med utvidelsen."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly kan ha utløpt mens PDF-en ble opprettet. Den kan ha vært for stor for systemet vårt å håndtere."
+   },
+   "txt_size": {
+      "message": "Tekststørrelse"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Vi klarte ikke å generere en PDF for denne siden."
+   },
+   "undo": {
+      "message": "Angre"
+   },
+   "what_you_can_do": {
+      "message": "Hva du kan gjøre"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

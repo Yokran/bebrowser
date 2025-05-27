@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "تنظیمات خود را برای بهبود تجربه خود تنظیم کنید."
+   },
+   "affected_page": {
+      "message": "صفحه تحت تأثیر"
+   },
+   "blocked_by_extension": {
+      "message": "ممکن است PrintFriendly توسط افزونه دیگری که نصب کرده‌اید، مانند مسدود کننده تبلیغات، مسدود شده باشد. لطفاً به طور موقت سایر افزونه‌های خود را غیرفعال کنید و دوباره سعی کنید یک فایل PDF ایجاد کنید."
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "capture_screenshot_manually": {
+      "message": "از ویژگی اسکرین‌شات ما برای گرفتن این صفحه استفاده کنید و سپس آن را به یک تصویر یا PDF صادر کنید."
+   },
+   "capturing": {
+      "message": "در حال ضبط"
+   },
+   "capturing_desc": {
+      "message": "در حال گرفتن اسکرین شات شما…"
+   },
+   "choose_paper_size": {
+      "message": "اندازه کاغذ مورد نظر خود را برای PDF انتخاب کنید."
+   },
+   "compress_pdf": {
+      "message": "فشرده سازی PDF"
+   },
+   "contact_us": {
+      "message": "با ما تماس بگیرید:"
+   },
+   "convert_pdf": {
+      "message": "تبدیل PDF"
+   },
+   "current_view_screenshot": {
+      "message": "تصویر نمای فعلی"
+   },
+   "default_button": {
+      "message": "دکمه پیش‌فرض"
+   },
+   "default_mode": {
+      "message": "حالت پیش‌فرض"
+   },
+   "default_mode_checkbox": {
+      "message": "این گزینه‌ها را دوباره نشان ندهید. می‌توانید آن‌ها را در هر زمانی در تنظیمات فعال کنید."
+   },
+   "default_mode_desc": {
+      "message": "عملی را انتخاب کنید که هنگام کلیک روی دکمه افزونه به طور خودکار انتخاب شود."
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "dialog_close": {
+      "message": "بستن"
+   },
+   "dialog_text": {
+      "message": "ارسال به چاپگر شما"
+   },
+   "dialog_text_btn": {
+      "message": "ارسال مجدد"
+   },
+   "dialog_title": {
+      "message": "در حال چاپ صفحه شما"
+   },
+   "dont_show_again": {
+      "message": "دیگر این را نشان نده"
+   },
+   "edit_pdf": {
+      "message": "ویرایش PDF"
+   },
+   "email": {
+      "message": "ایمیل"
+   },
+   "email_article_sent": {
+      "message": "مقاله‌ای برای شما ارسال کرد"
+   },
+   "email_from": {
+      "message": "از"
+   },
+   "email_message": {
+      "message": "پیام"
+   },
+   "email_product_sent_message": {
+      "message": "پیام ایمیل شما ارسال شد. می‌توانید صفحه را ببندید"
+   },
+   "email_send": {
+      "message": "ارسال"
+   },
+   "email_sent_message": {
+      "message": "پیام ایمیل شما ارسال شد"
+   },
+   "email_title": {
+      "message": "ارسال این صفحه"
+   },
+   "email_to": {
+      "message": "به"
+   },
+   "full_page_screenshot": {
+      "message": "تصویر تمام‌صفحه"
+   },
+   "get_pro": {
+      "message": "نسخه حرفه‌ای را دریافت کنید"
+   },
+   "got_it": {
+      "message": "متوجه شدم"
+   },
+   "image": {
+      "message": "تصویر"
+   },
+   "image_size_pref": {
+      "message": "ترجیح اندازه تصویر"
+   },
+   "image_size_pref_desc": {
+      "message": "اندازه تصاویر را هنگام مشاهده صفحات با افزونه تنظیم کنید."
+   },
+   "images": {
+      "message": "تصاویر"
+   },
+   "lang_display_name": {
+      "message": "فارسی (Persian)"
+   },
+   "language_setting": {
+      "message": "زبان"
+   },
+   "language_setting_desc": {
+      "message": "لطفاً زبان مورد نظر خود را انتخاب کنید."
+   },
+   "letter_paper_size": {
+      "message": "نامه"
+   },
+   "login": {
+      "message": "ورود"
+   },
+   "margin": {
+      "message": "حاشیه"
+   },
+   "no": {
+      "message": "نه"
+   },
+   "off": {
+      "message": "خاموش"
+   },
+   "other_tools": {
+      "message": "ابزارهای دیگر"
+   },
+   "page_blocking_printfriendly": {
+      "message": "این صفحه PrintFriendly را مسدود می‌کند"
+   },
+   "page_size": {
+      "message": "اندازه صفحه"
+   },
+   "pdf": {
+      "message": "پی‌دی‌اف"
+   },
+   "pdf_download": {
+      "message": "دانلود پی‌دی‌اف شما"
+   },
+   "pdf_generation_error": {
+      "message": "خطا در تولید PDF"
+   },
+   "pdf_head": {
+      "message": "در حال ایجاد پی‌دی‌اف شما"
+   },
+   "pdf_paper_size": {
+      "message": "اندازه کاغذ PDF"
+   },
+   "print": {
+      "message": "چاپ"
+   },
+   "print_pdf": {
+      "message": "چاپ و پی‌دی‌اف"
+   },
+   "printer_friendly_desc": {
+      "message": "حذف تبلیغات و پیمایش از صفحات وب. مناسب برای مقالات و صفحات متنی."
+   },
+   "printer_friendly_page": {
+      "message": "صفحه مناسب چاپ"
+   },
+   "printer_friendly_suggestion": {
+      "message": "نسخه قابل چاپ مطابق انتظار شما نیست؟ تصویر صفحه را امتحان کنید."
+   },
+   "printfriendly_page": {
+      "message": "صفحه PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "ویژگی نسخه حرفه‌ای"
+   },
+   "reach_out_for_support": {
+      "message": "برای جزئیات بیشتر یا پشتیبانی، لطفاً با ما در تماس بگیرید"
+   },
+   "read_more": {
+      "message": "بیشتر بخوانید"
+   },
+   "remove_ads_description": {
+      "message": "حذف تبلیغات و منوی وب سایت‌ها. برای مقالات و صفحات متنی بسیار مناسب است."
+   },
+   "remove_images": {
+      "message": "حذف تصاویر"
+   },
+   "report": {
+      "message": "گزارش"
+   },
+   "resolve_issue": {
+      "message": "و ما به شما در حل مشکل کمک خواهیم کرد."
+   },
+   "save_as_image": {
+      "message": "ذخیره به عنوان تصویر"
+   },
+   "save_as_pdf": {
+      "message": "ذخیره به عنوان PDF"
+   },
+   "save_changes": {
+      "message": "ذخیره"
+   },
+   "screenshot": {
+      "message": "تصویر صفحه"
+   },
+   "screenshot_image_format": {
+      "message": "قالب تصویر صفحه"
+   },
+   "screenshot_ready_soon": {
+      "message": "تصویر صفحه شما به زودی آماده خواهد شد."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly در اکثر وب‌سایت‌ها کار می‌کند و ایجاد صفحات و اسکرین‌شات‌های تمیز و مناسب چاپ را آسان می‌کند. با این حال، برخی صفحات - مانند تنظیمات مرورگر، فروشگاه‌های افزونه و سایر مناطق محدود - به دلیل سیاست‌های مرورگر غیرقابل دسترسی هستند. لطفاً در صورت داشتن سوال با ما تماس بگیرید."
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "settings_saved": {
+      "message": "تنظیمات شما ذخیره شد."
+   },
+   "show_screenshot_message": {
+      "message": "نمایش پیام اسکرین‌شات در نمای مناسب چاپ"
+   },
+   "something_went_wrong": {
+      "message": "یک مشکلی پیش آمد"
+   },
+   "still_does_not_work": {
+      "message": "اگر همچنان کار نکرد، لطفاً با ما در"
+   },
+   "stop_capturing": {
+      "message": "توقف ضبط"
+   },
+   "strict_security_settings": {
+      "message": "ما متأسفیم، اما این صفحه دارای تنظیمات امنیتی سختگیرانه‌ای است (سیاست امنیت محتوا) که مانع از ایجاد نسخه PrintFriendly از صفحه می‌شود."
+   },
+   "style": {
+      "message": "سبک"
+   },
+   "take_screenshot": {
+      "message": "عکس از صفحه بگیرید:"
+   },
+   "text_size_pref": {
+      "message": "ترجیح اندازه متن"
+   },
+   "text_size_pref_desc": {
+      "message": "اندازه متن را هنگام مشاهده صفحات با افزونه تنظیم کنید."
+   },
+   "timed_out_pdf": {
+      "message": "ممکن است PrintFriendly هنگام ایجاد PDF از زمان‌بندی خارج شده باشد. ممکن است برای سیستم ما بیش از حد بزرگ باشد."
+   },
+   "txt_size": {
+      "message": "اندازه متن"
+   },
+   "unable_to_generate_pdf": {
+      "message": "ما نتوانستیم برای این صفحه فایل PDF ایجاد کنیم."
+   },
+   "undo": {
+      "message": "خنثی کردن"
+   },
+   "what_you_can_do": {
+      "message": "کاری که می‌توانید انجام دهید"
+   },
+   "yes": {
+      "message": "بله"
+   }
+}

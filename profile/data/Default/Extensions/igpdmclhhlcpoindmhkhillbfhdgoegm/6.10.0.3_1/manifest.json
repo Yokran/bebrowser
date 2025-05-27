@@ -1,0 +1,62 @@
+{
+   "author": "Opera Norway AS",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background_worker.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "webpage_content_reporter.js" ],
+      "matches": [ "https://*/*" ]
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://browserbench.org/*", "https://google.at/*", "https://google.au/*", "https://google.az/*", "https://google.be/*", "https://google.bg/*", "https://google.by/*", "https://google.ca/*", "https://google.ch/*", "https://google.cl/*", "https://google.co.id/*", "https://google.co.il/*", "https://google.co.in/*", "https://google.co.jp/*", "https://google.co.kr/*", "https://google.co.ma/*", "https://google.co.mx/*", "https://google.co.nz/*", "https://google.co.th/*", "https://google.co.uk/*", "https://google.co.ve/*", "https://google.co.za/*", "https://google.com.ar/*", "https://google.com.au/*", "https://google.com.bd/*", "https://google.com.br/*", "https://google.com.ec/*", "https://google.com.hk/*", "https://google.com.ng/*", "https://google.com.pe/*", "https://google.com.ph/*", "https://google.com.pk/*", "https://google.com.sa/*", "https://google.com.sg/*", "https://google.com.tn/*", "https://google.com.tr/*", "https://google.com.tw/*", "https://google.com.ua/*", "https://google.com.vn/*", "https://google.com/*", "https://google.cz/*", "https://google.de/*", "https://google.dk/*", "https://google.dz/*", "https://google.ee/*", "https://google.es/*", "https://google.fi/*", "https://google.fr/*", "https://google.gr/*", "https://google.hu/*", "https://google.it/*", "https://google.jo/*", "https://google.kz/*", "https://google.lt/*", "https://google.lv/*", "https://google.md/*", "https://google.nl/*", "https://google.pl/*", "https://google.pt/*", "https://google.ro/*", "https://google.rs/*", "https://google.ru/*", "https://google.se/*", "https://google.sk/*", "https://www.google.at/*", "https://www.google.au/*", "https://www.google.az/*", "https://www.google.be/*", "https://www.google.bg/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.ch/*", "https://www.google.cl/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.kr/*", "https://www.google.co.ma/*", "https://www.google.co.mx/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.uk/*", "https://www.google.co.ve/*", "https://www.google.co.za/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.br/*", "https://www.google.com.ec/*", "https://www.google.com.hk/*", "https://www.google.com.ng/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.sa/*", "https://www.google.com.sg/*", "https://www.google.com.tn/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dk/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fr/*", "https://www.google.gr/*", "https://www.google.hu/*", "https://www.google.it/*", "https://www.google.jo/*", "https://www.google.kz/*", "https://www.google.lt/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.nl/*", "https://www.google.pl/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.se/*", "https://www.google.sk/*" ],
+      "js": [ "writing_mode_assistant.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "object-src 'self';",
+   "description": "Aria",
+   "developer": {
+      "name": "Opera Norway AS",
+      "url": "https://opera.com"
+   },
+   "externally_connectable": {
+      "ids": [ "fnmbciokibmcfamkopgdjjpmefbhbmem", "odndjkngipngdmdlfodecoelobjbidna", "enegjkbbakeegngfapepobipndnebkdk", "cgloclgndbkhmjcaddholfcgghcgmmig" ],
+      "matches": [ "*://*.devicetest.ai:*/*", "https://devicetest.ai/*", "https://aria.op-test.net/*", "http://localhost:11435/*", "https://localhost:11435/*", "https://www.opera.com/*", "*://*.opera.com:*/*", "https://www.staging.opera-website.route53.opera.com/*", "chrome://rich-hints/*", "chrome://startpage/*", "chrome://startpageshared/*" ]
+   },
+   "homepage_url": "https://opera.com",
+   "icons": {
+      "128": "favicon_opera_one.png",
+      "32": "favicon_opera_one.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwZiVKc/GXvUrqf0jHTXgNG8UQDSwdSUnrGl/CFvcA+/0K9GtuTwSTdvqPrnw9ACqX6QOIa6I36TruaB842sG+LtGvvgFeEwVuMbbmXuyYNgcfbf6IhVCZZPD7t5ygHkF1USHnw7sGCXfJ0aS4xIRlH7lA6eBYiFlz8ngMEmn2aZnxUWTVTOFpPHEwLLrlZwxngfYuyTzOaemygsi102UVDd+O5G/clRUQeam0A7hnYOu2HzmmmMQuWU0F95WpSniiDf5bUWY3OmI8dwgVei9MCHlEx6/D715PPczmfq/R5dqQ/Dj7nin+U89wNIBpGyk1HzkeYEkMu/ypm5t8V8xwwIDAQAB",
+   "manifest_version": 2,
+   "name": "Aria",
+   "page_action": {
+      "default_icon": {
+         "16": "favicon_opera_one.png",
+         "32": "favicon_opera_one.png"
+      },
+      "theme_icons": [ {
+         "dark": "favicon_opera_one.png",
+         "light": "favicon_opera_one.png",
+         "size": 16
+      }, {
+         "dark": "favicon_opera_one.png",
+         "light": "favicon_opera_one.png",
+         "size": 32
+      } ]
+   },
+   "permissions": [ "localModelsPrivate", "liveWallpaperMetricsPrivate", "workspacesPrivate", "browserSidebarPrivate", "feedbackPopupPrivate", "operaAccountPrivate", "operaBrowserPrivate", "operaIdentityPrivate", "palette", "shodanPrivate", "statsPrivate", "storage", "tabs", "windows", "topSites", "tabsPrivate", "bookmarks" ],
+   "sidebar_action": {
+      "default_icon": "favicon_opera_one.png",
+      "default_panel": "aria.html",
+      "default_panel_width": 604,
+      "default_title": "Aria",
+      "maximum_panel_width": 755,
+      "minimum_panel_width": 604,
+      "panel_width": 604
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "6.10.0.3",
+   "web_accessible_resources": [ "public/aria-icon-writing-mode-opera.svg", "public/aria-icon-writing-mode-operaGx.svg", "public/aria-icon-writing-mode-operaAir.svg" ]
+}

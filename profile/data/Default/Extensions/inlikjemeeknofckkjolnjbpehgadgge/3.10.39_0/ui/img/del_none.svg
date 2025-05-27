@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 180" style="enable-background:new 0 0 288 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B7FDCB;}
+	.st1{fill:#00FF00;}
+	.st2{fill:none;}
+	.st3{fill:#999999;}
+	.st4{font-family:'CourierNewPSMT';}
+	.st5{font-size:24px;}
+	.st6{opacity:0.15;fill:none;stroke:#19A9FD;stroke-width:16;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="17.5" y="13.5" class="st0" width="79" height="32"/>
+	<path class="st1" d="M96,14v31H18V14H96 M97,13H17v33h80V13L97,13z"/>
+</g>
+<rect x="20" y="20" class="st2" width="253" height="121"/>
+<text transform="matrix(1 0 0 1 20 34.7119)"><tspan x="0" y="0" class="st3 st4 st5">Lorem ipsum dolor </tspan><tspan x="0" y="30" class="st3 st4 st5">sit amet, consec</tspan><tspan x="228.9" y="30" class="st3 st4 st5">-</tspan><tspan x="0" y="60" class="st3 st4 st5">tetuer adipiscing </tspan><tspan x="0" y="90" class="st3 st4 st5">elit, sed diam </tspan></text>
+<rect class="st6" width="288" height="180"/>
+</svg>

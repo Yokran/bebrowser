@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "Supervise la página web o el canal (feed) para comprobar si hay algún cambio. Reciba alertas por SMS y correo electrónico cuando se detecten cambios."
+   },
+   "extName": {
+      "message": "Distill Web Monitor"
+   }
+}

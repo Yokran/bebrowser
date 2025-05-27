@@ -1,0 +1,87 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "src/ui/resources/icon_128.png",
+         "16": "src/ui/resources/icon_16.png",
+         "32": "src/ui/resources/icon_32.png",
+         "48": "src/ui/resources/icon_48.png",
+         "64": "src/ui/resources/icon_64.png"
+      },
+      "default_title": "__MSG_buttonDefaultTooltip__"
+   },
+   "author": "Gildas Lormeau",
+   "background": {
+      "service_worker": "lib/single-file-extension-background.js"
+   },
+   "commands": {
+      "save-all-tabs": {
+         "description": "__MSG_commandSaveAllTabs__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+U"
+         }
+      },
+      "save-selected-tabs": {
+         "description": "__MSG_commandSaveSelectedTabs__",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "lib/single-file-frames.bundle.js" ],
+      "match_about_blank": true,
+      "match_origin_as_fallback": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "lib/single-file-hooks-frames.js" ],
+      "match_about_blank": true,
+      "match_origin_as_fallback": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "js": [ "lib/single-file-bootstrap.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "devtools_page": "src/core/devtools/devtools.html",
+   "differential_fingerprint": "1.cfb94349f7c96e577db2c2f61139f9ba62e91deb3663f892be78bc8138e3c83b",
+   "homepage_url": "https://www.getsinglefile.com",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "src/ui/resources/icon_128.png",
+      "16": "src/ui/resources/icon_16.png",
+      "32": "src/ui/resources/icon_32.png",
+      "48": "src/ui/resources/icon_48.png",
+      "64": "src/ui/resources/icon_64.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwwz4r3MccpaqJfvg1sKzz/dDwX5seLHA/u2GQr1ihh6+JQqWgazUPB33ScOU6IqMhAATrlsn93Avn/rJeY8v/mKiBesBmUlLMvwHA6E3RVuZf3zNYfArUI6kH7hPG4rm+b0WqSB6s9A1vnaEoVT75ycc07FhaPM+a3LLTYBlWmwIDAQAB",
+   "manifest_version": 3,
+   "name": "SingleFile",
+   "oauth2": {
+      "client_id": "207618107333-7tjs1im1pighftpoepea2kvkubnfjj44.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/drive.file" ]
+   },
+   "optional_permissions": [ "identity", "clipboardWrite", "nativeMessaging", "bookmarks" ],
+   "options_ui": {
+      "browser_style": true,
+      "open_in_tab": false,
+      "page": "src/ui/pages/options.html"
+   },
+   "permissions": [ "contextMenus", "downloads", "storage", "tabs", "activeTab", "scripting", "offscreen", "sidePanel", "declarativeNetRequest" ],
+   "side_panel": {
+      "default_path": "src/ui/pages/panel.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.22.81",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "lib/single-file-hooks-frames.js", "lib/single-file-infobar.js", "lib/single-file-extension-editor-init.js", "lib/single-file-extension-editor.js", "lib/single-file-extension-editor-helper.js", "lib/single-file-zip.min.js", "lib/single-file-z-worker.js", "src/lib/readability/Readability.js", "src/lib/readability/Readability-readerable.js", "src/ui/pages/editor-note-web.css", "src/ui/pages/editor-mask-web.css", "src/ui/pages/editor-frame-web.css" ]
+   } ]
+}

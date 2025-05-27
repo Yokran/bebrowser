@@ -1,0 +1,47 @@
+{
+   "action": {
+      "default_icon": "src/assets/logo/favicon-128.png"
+   },
+   "author": {
+      "email": "fbesuit@gmail.com",
+      "name": "William Chen"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/index.ts-loader-CmJztVDu.js" ],
+      "matches": [ "https://*.esuit.dev/*", "https://social-master.esuit.dev/*", "http://localhost:3001/*", "https://www.facebook.com/*", "https://web.facebook.com/*", "https://www.instagram.com/*", "https://www.messenger.com/*", "https://business.facebook.com/*", "https://www.threads.net/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "externally_connectable": {
+      "matches": [ "https://*.esuit.dev/*", "https://social-master.esuit.dev/*", "http://localhost:3001/*", "https://www.facebook.com/*", "https://web.facebook.com/*", "https://www.instagram.com/*", "https://www.messenger.com/*", "https://business.facebook.com/*", "https://www.threads.net/*" ]
+   },
+   "host_permissions": [ "https://*.esuit.dev/*", "https://social-master.esuit.dev/*", "http://localhost:3001/*", "https://www.facebook.com/*", "https://web.facebook.com/*" ],
+   "icons": {
+      "128": "src/assets/logo/favicon-128.png",
+      "16": "src/assets/logo/favicon-16.png",
+      "19": "src/assets/logo/favicon-19.png",
+      "32": "src/assets/logo/favicon-32.png",
+      "38": "src/assets/logo/favicon-38.png",
+      "48": "src/assets/logo/favicon-48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoCG+uu3zfxmkTh+KkpdKzZI4fShHBvcLNJ2xVe9zmQCgJxPmVLK89DlClbUe8tP3ZDq21EUZ+o9KrwkuR16ufpGdQhkcE98O0687/vTgELHXCggxU6/NeGPgFonRgOeqH8Pt8m8zC7GYvENTdRkv6BHYlTlvT+LjNHz/9U3UctsSPuNfHfzyuZfwm1BFJWx1MBcvBUsoGR1VmdcF6HPcryvgRf5RKKK+maTbdoK/sdWOo+PCTS/McQZXtE89xe3yOKmZweQo85JL5KRS+rGAtcjq6DlFo2r5QDoEaMzXkCaDCY/+svk4i1FZc229Q/4UoDnvJJSgkzA/kyRKdMwPfwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "103",
+   "name": "__MSG_name__",
+   "optional_host_permissions": [ "https://www.instagram.com/*", "https://www.messenger.com/*", "https://business.facebook.com/*", "https://www.threads.net/*" ],
+   "permissions": [ "scripting", "storage", "downloads", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.7",
+   "version_name": "0.0.7",
+   "web_accessible_resources": [ {
+      "matches": [ "http://localhost:3001/*", "https://*.esuit.dev/*", "https://business.facebook.com/*", "https://social-master.esuit.dev/*", "https://web.facebook.com/*", "https://www.facebook.com/*", "https://www.instagram.com/*", "https://www.messenger.com/*", "https://www.threads.net/*" ],
+      "resources": [ "*", "assets/shareConst-CJiZrIdS.js", "assets/index.ts-R2IDP7MZ.js" ],
+      "use_dynamic_url": false
+   } ]
+}

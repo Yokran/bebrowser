@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "అబౌట్"
+   },
+   "action_api": {
+      "message": "Fireshot అపి"
+   },
+   "action_capture_browser": {
+      "message": "కాప్చర్ బ్రౌసర్ విండో"
+   },
+   "action_capture_entire": {
+      "message": "కాప్చర్ ఎంతిరె పేజీ అండ్"
+   },
+   "action_capture_entire_lite": {
+      "message": "కాప్చర్ ఎంతిరె పేజీ"
+   },
+   "action_capture_selection": {
+      "message": "కాప్చర్ సెలక్షన్ / ఎలిమెంట్ అండ్"
+   },
+   "action_capture_selection_lite": {
+      "message": "కాప్చర్ సెలక్షన్"
+   },
+   "action_capture_tabs": {
+      "message": "కాప్చర్ అల్ టాబ్స్ "
+   },
+   "action_capture_visible": {
+      "message": "కాప్చర్ విసిబ్లె పార్ట్ అండ్"
+   },
+   "action_capture_visible_lite": {
+      "message": "కాప్చర్ విసిబ్లె పార్ట్"
+   },
+   "action_copy": {
+      "message": "కాపీ తో క్లిప్బోర్డు"
+   },
+   "action_edit": {
+      "message": "ఎడిట్"
+   },
+   "action_email": {
+      "message": "ఏ-మెయిల్"
+   },
+   "action_enter_license": {
+      "message": "ఎంటర్ లైసెన్స్ ఇన్ఫో"
+   },
+   "action_external": {
+      "message": "ఓపెన్ ఇన్ ఎక్స్టర్నల్ ఎడిటర్"
+   },
+   "action_install_native": {
+      "message": "ట్రై అడ్వాన్స్డ్ ఫీచర్స్"
+   },
+   "action_license_info": {
+      "message": "లైసెన్సింగ్ ఇన్ఫో"
+   },
+   "action_micsellaneous": {
+      "message": "మిస్సీఎల్లనెవుస్"
+   },
+   "action_onenote": {
+      "message": "సేవ్ తో ఒనేనాతే"
+   },
+   "action_open_clipboard": {
+      "message": "ఓపెన్ ఫ్రొం క్లిప్బోర్డు"
+   },
+   "action_open_file": {
+      "message": "ఓపెన్ ఫైల్"
+   },
+   "action_options": {
+      "message": "ఒప్షన్స్"
+   },
+   "action_print": {
+      "message": "ప్రింట్"
+   },
+   "action_register": {
+      "message": "రిజిస్టర్"
+   },
+   "action_resume": {
+      "message": "రెసుమె ఎడిటింగ్"
+   },
+   "action_save": {
+      "message": "సేవ్"
+   },
+   "action_save_pdf": {
+      "message": "సేవ్ అస్ పిడిఎఫ్"
+   },
+   "action_save_pdf_single": {
+      "message": "సేవ్ అస్ సింగల్ పిడిఎఫ్ "
+   },
+   "action_support": {
+      "message": "సపోర్ట్"
+   },
+   "action_switch_pro": {
+      "message": "స్విచ్ తో ప్రో"
+   },
+   "action_switch_pro_tabs": {
+      "message": "ఆక్టివేట్ ప్రో ఫీచర్స్ తో ప్రొసీఈడీ"
+   },
+   "action_upload": {
+      "message": "అప్లోడ్"
+   },
+   "action_view_demo": {
+      "message": "వ్యూ డెమో"
+   },
+   "application_description": {
+      "message": "టేక్ ఫుల్ వెబ్పగే స్క్రీంషాట్స్। కాప్చర్, ఎడిట్ అండ్ సేవ్ థెం తో పిడిఎఫ్/జప్గ్/గిఫ్/పిఙ్గ, అప్లోడ్, ప్రింట్, సెండ్ తో ఒనేనాతే, క్లిప్బోర్డు ఓర ఇమెయిల్"
+   },
+   "application_title": {
+      "message": "టేక్ వెబ్పగే స్క్రీంషాట్స్ ఎంతిరెల్య్"
+   },
+   "captured_buy_pro_button": {
+      "message": "బయ్ ప్రో"
+   },
+   "captured_copy_clipboard": {
+      "message": "కాపీ తో క్లిప్బోర్డు"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "లెర్న్ హౌ"
+   },
+   "captured_get_free_button": {
+      "message": "ట్రై ఇట్ ఫర్ ఫ్రీ "
+   },
+   "captured_print": {
+      "message": "ప్రింట్"
+   },
+   "captured_print_button": {
+      "message": "ప్రింట్"
+   },
+   "captured_recommend_us": {
+      "message": "రెచొమ్మెంద్ fireshot"
+   },
+   "captured_save_as_image": {
+      "message": "సేవ్ అస్ ఇమేజ్"
+   },
+   "captured_save_as_image_button": {
+      "message": "సేవ్ అస్ ఇమేజ్"
+   },
+   "captured_save_as_pdf": {
+      "message": "సేవ్ తో పిడిఎఫ్"
+   },
+   "captured_save_panel_title": {
+      "message": "సేవ్ స్క్రీంషాట్"
+   },
+   "captured_saving_options": {
+      "message": "కస్టమైజ్ ఇట్"
+   },
+   "captured_setup_hotkeys": {
+      "message": "సెటప్ హాట్కేక్స్ అండ్ ఫైల్ సెట్టింగ్స్"
+   },
+   "captured_upgrade_link_1": {
+      "message": "కాప్చర్ అన్నొటాతె ప్రింట్ అండ్ సేవ్ బెటర్ ఎడిట్ అప్లోడ్ సేంట్ తో ఏ-మెయిల్ ఒనేనాతే ఓర ఎక్స్పోర్ట్ తో అనొథెర్ ప్రోగ్రాం"
+   },
+   "captured_upgrade_link_2": {
+      "message": "అప్గ్రేడ్ తో ఫిరేషాట్ ప్రో"
+   },
+   "captured_upgrade_link_3": {
+      "message": "ఐ వస్ ఉసింగ్ అనొథెర్ వెర్షన్ అఫ్  Fireshot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "చన్ ఐ గెట్ ఇట్ బ్యాక్"
+   },
+   "enable_checkbox": {
+      "message": "ఎనబ్లె"
+   },
+   "options_button_apply": {
+      "message": "అప్లై"
+   },
+   "options_button_save_close": {
+      "message": "సేవ్ అండ్ క్లోజ్"
+   },
+   "options_button_setup": {
+      "message": "క్లిక్ తో సెటప్"
+   },
+   "options_label_and": {
+      "message": "అండ్"
+   },
+   "options_label_capturing": {
+      "message": "క్యాప్ట్యూరింగ్"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "క్లోజ్ ట్యాబు ఆఫ్టర్ సేవింగ్ "
+   },
+   "options_label_customize_saving": {
+      "message": "కస్టమైజ్ సేవింగ్ ప్రాసెస్"
+   },
+   "options_label_default_filename_template": {
+      "message": "డిఫాల్ట్ ఫైనమే టెంప్లేట్:"
+   },
+   "options_label_default_folder": {
+      "message": "డిఫాల్ట్ ఔట్పుట్ ఫోల్డర్"
+   },
+   "options_label_default_folder_hint": {
+      "message": "ఆఫై పాత్ రెలతివె టో డౌన్లోడ్స్ డైరెక్టరీ టో చొంతైన్ ది స్టోర్డ్ ఫైల్స్ పొస్సిబ్ల్య్ చొంతైనింగ్ సుబడిరెక్టరీస్\nఅబ్సొల్యూ ట్ పా త్స్ ఎంప్టీ పా త్స్ అండ్ పా త్స్ చొంతైనిం గ్ బ్యా క్ - రెఫరెన్సెస్«..»వి ల్ చౌసె అం ఎర్రర్"
+   },
+   "options_label_editor_options": {
+      "message": "ఎడిటర్ ఒప్షన్స్"
+   },
+   "options_label_enable_context_menu": {
+      "message": "ఇంటెగ్రేటె  ఇంటో కాంటెక్స్ట్ మెనూ"
+   },
+   "options_label_file_settings": {
+      "message": "ఫైల్ సెట్టింగ్స్"
+   },
+   "options_label_fireshot_options": {
+      "message": "Fireshot ఒప్షన్స్ "
+   },
+   "options_label_hotkey": {
+      "message": "హాట్కేక్స్"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "లాస్ట్ ఉసెద్ ఆక్షన్ "
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "డో నాట్ షో సేవ్ అస్ డైలాగ్"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "షో డౌన్లోయాడెడ్ ఫైల్ ఇన్ ఇత్స్ ఫ్లదీర్ ఆఫ్టర్ సేవింగ్"
+   },
+   "options_label_save_image_as": {
+      "message": "సేవ్ ఇమేజ్ అస్"
+   },
+   "options_label_specify_editor_options": {
+      "message": "స్పెసిఫ్య్ ఎడిటర్ అండ్ సేవింగ్ ఒప్షన్స్। ఫైల్ నమింగ్ ప్రిఫెరెన్సుస్ , స్టైల్స్,ఎత్చ్"
+   },
+   "options_label_specify_hotkey": {
+      "message": "స్పెసిఫ్య్ ది కీ కాంబినేషన్ తో లాంచ్  Fireshot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "స్పెసిఫ్య్ రేసీజింగ్ ఒప్షన్స్ అండ్ సౌండ్స్"
+   },
+   "options_label_template_day": {
+      "message": "డే "
+   },
+   "options_label_template_hour": {
+      "message": "హౌర్"
+   },
+   "options_label_template_limit_1": {
+      "message": "లిమిట్ ఫైనమే లెంగ్త్ తో"
+   },
+   "options_label_template_limit_2": {
+      "message": "చరక్టర్లు"
+   },
+   "options_label_template_minutes": {
+      "message": "మినిట్స్"
+   },
+   "options_label_template_month": {
+      "message": "మొంత్ "
+   },
+   "options_label_template_pad_1": {
+      "message": "పాడ్ నెంబర్ విత్"
+   },
+   "options_label_template_pad_2": {
+      "message": "జీరోస్"
+   },
+   "options_label_template_seconds": {
+      "message": "సెకండ్స్  "
+   },
+   "options_label_template_title": {
+      "message": "పేజీ టైటిల్"
+   },
+   "options_label_template_url": {
+      "message": "పేజీ యుఆర్ఎల్"
+   },
+   "options_label_template_website": {
+      "message": "డొమైన్ నామ "
+   },
+   "options_label_template_year": {
+      "message": "ఇయర్ "
+   },
+   "options_link_filename_template_settings": {
+      "message": "షో ఫైనమే టెంప్లేట్ సెట్టింగ్స్"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "హిదె  ఫైనమే టెంప్లేట్ సెట్టింగ్స్"
+   }
+}

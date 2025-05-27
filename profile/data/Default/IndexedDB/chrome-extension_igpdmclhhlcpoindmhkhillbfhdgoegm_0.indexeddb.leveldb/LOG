@@ -1,0 +1,14 @@
+2025/05/05-08:47:36.936 52b0 Reusing MANIFEST G:\BeBrowser\CEUTA\BROWSER_LAB\00.MADRE\profile\data\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-08:47:36.945 52b0 Recovering log #137
+2025/05/05-08:47:36.945 52b0 Reusing old log G:\BeBrowser\CEUTA\BROWSER_LAB\00.MADRE\profile\data\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000137.log 
+2025/05/05-08:47:36.945 52b0 Delete type=2 #135
+2025/05/05-08:47:37.031 4948 Level-0 table #142: started
+2025/05/05-08:47:37.062 4948 Level-0 table #142: 5277 bytes OK
+2025/05/05-08:47:37.077 4948 Delete type=0 #137
+2025/05/05-08:47:37.111 5290 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at '\x00*\x00\x00\x05' @ 2409 : 1
+2025/05/05-08:47:37.112 5290 Compacting 1@0 + 1@1 files
+2025/05/05-08:47:37.123 5290 Generated table #143@0: 212 keys, 6986 bytes
+2025/05/05-08:47:37.123 5290 Compacted 1@0 + 1@1 files => 6986 bytes
+2025/05/05-08:47:37.125 5290 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-08:47:37.126 5290 Delete type=2 #142
+2025/05/05-08:47:37.127 5290 Manual compaction at level-0 from '\x00*\x00\x00\x05' @ 2409 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)

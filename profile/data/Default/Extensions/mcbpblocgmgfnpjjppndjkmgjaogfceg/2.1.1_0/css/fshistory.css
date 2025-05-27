@@ -1,0 +1,149 @@
+li {
+    border-bottom: 1px solid #485563;
+}
+
+li.disabled {
+    filter: blur(1.7px);
+}
+
+.container {
+    min-width: 600px;
+}
+
+.screenshotsList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.listItemData {
+    display: flex;
+    padding: 10px 10px 10px 0;
+}
+
+.listItemData>div:nth-child(1) {
+    flex: 1;
+    overflow: auto;
+}
+
+.listItemData>div:nth-child(2) {
+    padding-left: 1em;
+}
+
+.listItemData>div:nth-child(3) {
+    width: 10em;
+    text-align: right;
+}
+
+.listItem a {
+    text-decoration: none;
+    display: inline;
+    color: #fff;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+.listItem label {
+    float: left;
+    padding: 10px 15px 0px 5px;
+    height: 50px;
+}
+
+label>input[type=checkbox] {
+    vertical-align: middle;
+}
+
+.listItem a:hover {
+    text-decoration: none;
+}
+
+.listItem a:focus {
+    text-decoration: none;
+}
+
+.listItemData>span {
+    min-width: 5em;
+    margin-left: 20px;
+}
+
+/* .panel-default {
+    margin: 30px !important;
+} */
+
+.url {
+    font-size: 12px;
+    color: #ccc;
+}
+
+a:hover span.title,
+a:focus span.title,
+a:hover div.url,
+a:focus div.url {
+    color: unset
+}
+
+.controls-container {
+    display: flex;
+    align-items: center;
+}
+
+.controls-container>label {
+    padding-left: 5px;
+}
+
+.controls-container>input[type=button] {
+    margin-left: 1em;
+}
+
+.filter {
+    margin-left: auto;
+}
+
+.filter>input[type=search] {
+    min-width: 250px;
+    appearance: auto !important;
+}
+
+.filter>input[type=search]:focus {
+    min-width: 250px;
+    appearance: auto !important;
+    outline: 0.1px dashed yellow;
+}
+
+.banner {
+    padding: 20px 20px 10px;
+    margin: 10px 0 20px 0;
+    border: 3px dashed #f44336 !important;
+}
+
+.banner h3 {
+    margin-top: 0;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+#modalPromo {
+    padding: 0;
+    border-radius: 10px;
+    border: 0;
+    background-clip: padding-box;
+}
+
+#modalPromo>iframe {
+    border: 0;
+    width: 600px;
+    height: 500px
+}
+
+li.promo {
+    background-color: #1c706d;
+    padding: 25px;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    margin: 50px;
+}

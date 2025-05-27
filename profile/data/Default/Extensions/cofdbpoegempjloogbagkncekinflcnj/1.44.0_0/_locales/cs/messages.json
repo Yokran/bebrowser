@@ -1,0 +1,2211 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Překládejte texty, které čtete nebo píšete, pomocí Překladače DeepL, nejpřesnějšího nástroje pro strojový překlad na světě."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL: AI překladač a editor textů"
+   },
+   "config_tab_click_icon": {
+      "message": "Kliknutím na \u003Cstrong>ikonu DeepL\u003C/strong>"
+   },
+   "config_tab_customize_link": {
+      "message": "Přizpůsobit klávesovou zkratku"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "Pro aktivaci Překladače DeepL kontaktujte své správce."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "Pro aktivaci DeepL Write kontaktujte své správce."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "Přeložit tento výběr"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "Logo DeepL"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "Hotovo"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "Rozpoznat jazyk"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "Váš text nebylo možné přeložit. Zkuste to později znovu."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "Je nám líto, ale nepodařilo se nám vylepšit váš text. Zkuste to znovu později."
+   },
+   "error_message_internet_connection": {
+      "message": "Omlouváme se, ale došlo k problému s internetovým připojením. Zkuste to znovu."
+   },
+   "error_message_please_login": {
+      "message": "Abyste mohli přeložit tento text, přihlaste se znovu. "
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "Dosáhli jste maximální povolené spotřeby."
+   },
+   "error_message_session_expired": {
+      "message": "Vaše relace vypršela. Přihlaste se znovu."
+   },
+   "error_message_technical_issue": {
+      "message": "Omlouváme se, ale kvůli známému technickému problému jsme nemohli váš text přeložit. Snažíme se tento problém co nejdříve vyřešit."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "Váš text nebylo možné přeložit. Vypadá to, že vaše síť odesílá na naše servery příliš mnoho požadavků."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "Změnit jazyk"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "Přeložit text"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "Díky rozšíření DeepL pro Firefox si můžete užívat nepřekonatelnou kvalitu překladu od DeepL, aniž byste opustili prohlížeč.\n\nBěhem čtení nebo psaní ve Firefoxu můžete překládat snadno a ihned. Pokud využíváte DeepL Pro, je tato funkce dostupná i pro celé webové stránky. \nPokud využíváte bezplatnou verzi DeepL, právě pracujeme na tom, abychom tuto funkci zpřístupnili i vám. Do té doby můžete jednoduše vybrat libovolný text a zobrazí se ikona DeepL. Pro překlad výběru klikněte na ikonu. Pokud chcete překládat ještě rychleji, navolte si v nastavení vlastní zkratky pro čtení nebo psaní pomocí DeepL ve Firefoxu.\n\nNyní se již nemusíte obávat, že vám kvůli jazykové bariéře na internetu uniknou jakékoli informace. \n\nStáhněte si DeepL pro Firefox zdarma a začněte překládat ještě dnes.\n\nPřeklad během čtení\nUž nebudete muset přeskakovat e-maily, články ani webové stránky. Prohlížejte obsah na Firefoxu v původním kontextu, avšak ve vámi zvoleném jazyce. \n\nPřeklad vašich textů\nAť už píšete zprávu v chatu, e-mail, nebo příspěvek na sociální sítě, můžete si svá slova nechat přeložit přímo během psaní. To znamená, že už nemusíte kopírovat, vkládat, přepisovat text a ani opouštět Firefox pro komunikaci v dalším jazyce.\n\nPřeklad celých stránek\nPokud využíváte DeepL Pro, můžete jediným kliknutím překládat celé webové stránky do vámi zvoleného jazyka. A aby to bylo ještě jednodušší, můžete si zvolit automatický překlad všech webových stránek v určitých jazycích a tak je plynule prohlížet. Pokud využíváte bezplatnou verzi DeepL, právě pracujeme na tom, abychom tuto funkci zpřístupnili i pro vás. \n\nPřihlášení k DeepL Pro \nUživatelé a uživatelky DeepL Pro se mohou ke svým účtům přihlašovat prostřednictvím rozšíření.\n\nKlávesové zkratky\nPoužívejte jednoduché zkratky, které vám překlad urychlí a usnadní. V nastavení si můžete navolit vlastní zkratky.\n\nBezkonkurenční přesnost\nS námi máte jistotu nejlepšího možného překladu webové stránky či aplikace, kterou právě používáte. Překlady DeepL trvale překonávají konkurenci a jsou prokazatelně třikrát přesnější než překlady od technologických gigantů.\n\nOblíbený u milionů uživatelů a uživatelek\nMiliony lidí na celém světě denně využívají DeepL, aby komunikovali lépe.\n\nVyberte si z více než 30 jazyků\nSeznam jazyků dostupných pro toto rozšíření najdete v naší Nápovědě: https://support.deepl.com/hc/en-us/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "Překládejte přímo během čtení a psaní pomocí Překladače DeepL, nejpřesnějšího překladače na světě."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "Překladač DeepL: Překladač pro čtení i psaní"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "\u003CfeedbackLink>Podělte se s námi o vaše postřehy \u003C/feedbackLink>a pomozte nám rozšíření pro Firefox ještě vylepšit."
+   },
+   "firefox_browser_permissions_popup_body": {
+      "message": "Povolte prohlížeči Firefox, aby dal DeepL přístup k vašim navštíveným webovým stránkám."
+   },
+   "firefox_browser_permissions_popup_button": {
+      "message": "Spravovat oprávnění"
+   },
+   "firefox_browser_permissions_popup_title": {
+      "message": "Firefox potřebuje vaše povolení"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "Povolit a pokračovat"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>Abyste mohli používat DeepL pro Firefox, potřebujeme vaše povolení \u003Cstrong>k přístupu a zpracování textů, které budete chtít přeložit nebo vylepšit při procházení internetu\u003C/strong>. Zpracovávat obsah celých webových stránek nám povolíte pouze tehdy, když zapnete funkci celostránkového překladu. \u003C/p>\n\u003Cp>Když se přihlásíte k DeepL pro Firefox pomocí svého účtu, budeme zpracovávat vaše osobní údaje, které jsou potřeba k používání funkcí dostupných v rámci vašeho plánu.\u003C/p>\n\u003Cp>Shromažďujeme také technické údaje a údaje o zařízení a používání, abychom zajistili správný chod rozšíření DeepL pro Firefox ve vašem prohlížeči a abychom mohli odhalit a zabránit podvodnému chování.\u003C/p> \n\u003Cp>Více informací o našich zásadách najdete zde:\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "Nepovolovat a odinstalovat"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "Zásady ochrany osobních údajů"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>Podmínky použití služby\u003C/termsLink> pro uživatele bez účtu DeepL (Pro)\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL potřebuje vaše svolení"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "Jak spravovat klávesové zkratky"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "Rozpoznávám jazyk..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "Automaticky překládat stránky do tohoto jazyka"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "Přeloženo automaticky z jazyka:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "Tuto stránku bohužel nemůžeme přeložit, protože překračuje limit znaků."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "Celostránkové překlady nejsou v současné době k dispozici. Snažíme se tento problém co nejrychleji vyřešit."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "Vypadá to, že právě používáte i Překladač Google. Deaktivujte ho, aby naše rozšíření mohlo správně fungovat."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "Vždy překládat jazyk:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "Ne, děkuji"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "Nepřekládat jazyk"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "Nepřekládat tuto stránku"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "Chcete tuto stránku přeložit?"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "Přeložit"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "Změnit"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "Rozhodli jste se nepřekládat z jazyka:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "Změnit"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "Rozhodli jste se nepřekládat stránku:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "Z této webové stránky se nám nepodařilo získat žádná data. Pokud je to možné, načtěte stránku znovu."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "Překlad probíhá"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "Zrušit"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "Uložit"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "Hotovo"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "Nastavení"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "Automaticky překládat z jazyka"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "Nikdy nepřekládat z jazyka"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "Nikdy nepřekládat tyto stránky"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "Celostránkový překlad"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "Přeložit do jazyka"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "Překlad vašich textů"
+   },
+   "full_page_translation_show_original": {
+      "message": "Zobrazit původní text"
+   },
+   "full_page_translation_target_label": {
+      "message": "Přeložit stránku z a do jazyka"
+   },
+   "full_page_translation_translate_button": {
+      "message": "Přeložit stránku"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "Vaše glosáře se nám nepodařilo načíst."
+   },
+   "glossary_failed_try_again": {
+      "message": "Zkusit znovu"
+   },
+   "glossary_label": {
+      "message": "Glosář"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "Vytvoření prvního glosáře"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "Vyberte slovník a automaticky aplikujte jeho pravidla překladu na texty, které čtete a píšete."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "Už jste se zaregistrovali na DeepL Pro? \u003CloginLink>Přihlaste se\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "Chcete nastavit pravidla pro překlad klíčových slov a frází? Vyzkoušejte si \u003Cstrong>Glosář na 30 dní zdarma\u003C/strong> se zkušebním plánem DeepL Pro."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "Zatím nemáte slovníček pojmů. Vytvořte si první z nich a definujte pravidla pro překlad klíčových slov a frází."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "Zobrazit více"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "Vyzkoušejte ho zdarma"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "Najednou můžete přeložit text o délce \u003Cstrong>až 1500 znaků\u003C/strong>.\nPokud chcete zvýšit svůj limit, \u003Cstrong>vytvořte si účet DeepL.\u003C/strong>"
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "Přihlásit se"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "Vytvořit účet zdarma"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "Váš povolený počet znaků je omezený"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "Najednou můžete přeložit text o délce \u003Cstrong>až 5000 znaků\u003C/strong>.\nVyzkoušejte překlady bez omezení\u003Cstrong> s DeepL Pro – prvních 30 dní je zdarma.\u003C/strong>"
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Vyzkoušejte si verzi Pro zdarma"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "Překládejte bez omezení s DeepL Pro"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "Pokud chcete přeložit více než 5 000 znaků, předplaťte si DeepL Pro."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "Teď ne"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "Dosáhli jste maximální povolené spotřeby."
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "Přijmout změnu"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "Přeložit nebo vylepšit text"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "Vylepšit"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "Vylepšit"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "Opravíme chyby a vylepšíme vaše texty.\nPouze pro angličtinu a němčinu."
+   },
+   "gmail_compose_translate_button": {
+      "message": "Přeložit"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "Z jazyka:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "Přeložit"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "Do jazyka:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "Vrátit původní"
+   },
+   "gmail_forwarding_link": {
+      "message": "Stáhněte si DeepL pro Gmail zdarma"
+   },
+   "gmail_forwarding_title": {
+      "message": "Tento e-mail byl přeložen pomocí DeepL pro Gmail."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(rozpoznáno)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "Překládejte e-maily jedním kliknutím"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "Pište e-maily v cizích jazycích"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "Zlepšete své psaní a vytvářejte bezchybné e-maily rychleji"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "Pokud chcete přeložit více než 5 000 znaků, předplaťte si DeepL Pro."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "Dosáhli jste maximální povolené spotřeby."
+   },
+   "gmail_onboarding_title": {
+      "message": "Vítejte v DeepL pro Gmail"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "Zapnout/vypnout DeepL pro Gmail"
+   },
+   "gmail_reading_forward_button": {
+      "message": "Přeposlat přeložený email"
+   },
+   "gmail_reading_translate_button": {
+      "message": "Přeložit email"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "Zobrazit původní text"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "Vyberte méně textu nebo vyzkoušejte neomezený překlad s DeepL Pro."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "Označte méně textu nebo vyzkoušejte neomezené úpravy s DeepL Pro."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "Jako uživatel bezplatné verze můžete vylepšit až 2000 znaků najednou."
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "Jako uživatel bezplatné verze můžete překládat až 5000 znaků najednou ."
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "Použít DeepL \u003Cb>přímo v Microsoft 365\u003C/b>"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "Jak na to "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "Přeložte vybranou pasáž pomocí DeepL"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "Stačí označit text a kliknout na ikonu DeepL - a je to!"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "Zobrazit ikonu DeepL pro čtení"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "Přeložit označený text do jazyka"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "Další nastavení"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "OK"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "Vypnout ikonu"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "Vypnout DeepL pro čtení"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Ne, nevypínat"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "Na všech stránkách"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "Pouze na této stránce"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "Pro čtení"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "Pravým tlačítkem přeložíte do jazyka"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "Zobrazit více"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "Vypnout"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Kliknutím na ikony otevřete okno pokročilého režimu. Provádějte informované úpravy a porovnávejte verze."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Překládejte a zlepšujte přímo na stránce s DeepL"
+   },
+   "input_selection_alternatives_label": {
+      "message": "Alternativy"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "Zobrazit více"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "Vybere tón překladu"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "Zobrazí alternativy"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "Překladač"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "Přeložit"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "Okamžitý překlad a lepší texty"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "Přímo tady. Klikněte na ikonu, vyberte akci!"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "Zobrazit ikonu DeepL pro psaní"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "Další nastavení"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "Jazyk pokaždé vybrat"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "Vždy překládat do tohoto jazyka"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "OK"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "Vypnout ikonu"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "Vypnout DeepL pro psaní"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Ne, nevypínat"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "Na všech stránkách"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "Pouze na této stránce"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "Pro psaní"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "Přeložit, co jste napsali, do jazyka"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "Změnit cílový jazyk"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "Vypnout"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "Pro aktivaci DeepL Write kontaktujte vašeho správce."
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "Vylepšení textu. K dispozici pro angličtinu a němčinu."
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "Vylepšit text"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "Zvolit cílový jazyk"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "Nastavení"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "Přeložit"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "Přeložit text..."
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "Přeložit do jazyka..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "Vypnout"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "Přeložit do jazyka:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "Přeložit do jazyka:"
+   },
+   "layout_header_settings_icon": {
+      "message": "Přejít do nastavení"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Překladač"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "Přihlásit se"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "Vytvořit účet zdarma"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "Pokud chcete přeložit víc než 1500 znaků najednou, vytvořte si účet \u003Cstrong>zdarma.\u003C/strong>"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "Vytvořte si účet a překládejte více znaků"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "Pokud chcete přeložit více než 5 000 znaků najednou, vyzkoušejte placený plán pro\u003Cstrong>Překladač DeepL\u003C/strong> na 30 dní zdarma!"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "Překládejte texty bez ohledu na počet znaků"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "Pokud chcete přeložit více než 5 000 znaků najednou, vyberte si jeden z placených plánů Překladače DeepL."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "Vyzkoušet zdarma"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "Přejít na placený plán"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "Přejít na Write Pro"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "Najednou můžete upravit pouze 2000 znaků. S \u003Cstrong>DeepL Write Pro\u003C/strong> můžete váš text doladit celý."
+   },
+   "limit_popup_write_title": {
+      "message": "Vylepšujte vaše texty bez ohledu na počet znaků"
+   },
+   "link_get_pro_license": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "link_try_deepl": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "Přeložit pomocí DeepL"
+   },
+   "login_error_default_message": {
+      "message": "Přihlášení se nezdařilo."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "Přihlásit se k DeepL Pro"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "Vyzkoušet Write Pro zdarma"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "Celostránkový překlad"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "Přihlásit se"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>Uživatelé Pro\u003C/strong> můžou překládat celé stránky jediným kliknutím."
+   },
+   "login_widget_try_pro_label": {
+      "message": "Ještě nemáte předplacené Pro? \u003CtryOutLink>Vyzkoušejte ho zdarma\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "Chci verzi Pro"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>celostránkový překlad\u003C/strong> jedním kliknutím\u003C/li>\n\u003Cli>\u003Cstrong>neomezené\u003C/strong> překlady textů\u003C/li>\n\u003Cli>\u003Cstrong>maximální zabezpečení dat\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "Využívejte prémiové funkce \u003Cstrong>DeepL Pro\u003C/strong>zdarma na 30 dní!"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "Nastavení"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "Nastavení ikon"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "Zobrazit plovoucí ikonu DeepL"
+   },
+   "main_popup_info_box_translator": {
+      "message": "Využíváte výhod plánu\u003Cstrong>DeepL Pro\u003C/strong> s maximálním zabezpečením dat."
+   },
+   "main_popup_info_box_write": {
+      "message": "Využíváte výhod plánu\u003Cstrong>Write Pro\u003C/strong> s maximálním zabezpečením dat."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "Vyzkoušet zdarma"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "Celostránkový překlad"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "Přeložit vybranou pasáž do jazyka"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "Vaše texty překládat do jazyka"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "Získejte \u003Cstrong>neomezené vylepšování textů\u003C/strong>a \u003Cstrong>maximální zabezpečení dat\u003C/strong> s DeepL Write Pro."
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "Přejít na Write Pro"
+   },
+   "main_popup_write_target_language": {
+      "message": "Vylepšit text v jazyce"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "Přihlásit se k DeepL Pro"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "Odhlásit"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "Nabídka"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "Nastavení"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "Nastavení"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "Sdílet feedback"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Překládejte a pište s DeepL v Microsoft 365"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "Více zde"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "Naše doplňky pro Outlook, Word a PowerPoint překládají a vylepšují psané texty rychle a efektivně."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "Pokud chcete s DeepL překládat víc než $limit$ znaků najednou, vytvořte si účet – \u003Cstrong>je to zdarma!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "Vytvořte si účet a překládejte více znaků"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "Přihlásit se"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "Vytvořit účet zdarma"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "Pokud chcete s DeepL překládat víc než $limit$ znaků najednou, přihlaste se k DeepL Pro – \u003Cstrong>a vyzkoušejte na 30 dní zdarma!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "Předplaťte si DeepL Pro a překládejte více znaků"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "Ikona DeepL pro čtení je deaktivovaná. Můžete to změnit v sekci $linkToSettings$",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "Ikona DeepL pro čtení je deaktivovaná na stránce $currentWebsite$. Můžete to změnit v sekci $linkToSettings$",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "nastavení"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "Ikona DeepL pro psaní je deaktivovaná. Můžete to změnit v $linkToSettings$",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "Ikona DeepL pro psaní je deaktivovaná na stránce $currentWebsite$. Můžete to změnit v $linkToSettings$",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "nastavení"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Nastavte si vlastní klávesovou zkratku pro překlad textu v $settings$",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "nastavení"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "Váš účet byl úspěšně vytvořen!"
+   },
+   "onboarding_back_button": {
+      "message": "Zpět"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "Nechcete na některých stránkách používat rozšíření DeepL? Žádný problém! V nastavení vyberte, kde ho chcete deaktivovat."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "Deaktivovat pro konkrétní stránky"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "Jediným kliknutím přeložíte celé webové stránky do zvoleného jazyka. "
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "Vyzkoušejte zdarma"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "Používejte také další funkce online překladače a našich aplikací:"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "Překlad celých souborů"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "Glosář (omezený počet jazyků)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "Formální/neformální tón"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "Zdarma na 30 dní. Zrušit to můžete kdykoli."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "a další"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "Celostránkový překlad"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "Označený text přeložíte kliknutím na ikonu DeepL nebo pomocí klávesové zkratky."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "Překlad označeného textu"
+   },
+   "onboarding_input_translation_description": {
+      "message": "Cokoli online napíšete, přeložíte jedním kliknutím na ikonu DeepL nebo pomocí klávesové zkratky."
+   },
+   "onboarding_input_translation_title": {
+      "message": "Přeložte vaše texty jedním kliknutím"
+   },
+   "onboarding_last_step_description": {
+      "message": "Připojte se k tisícům lidí, kteří při brouzdání po internetu překládají pomocí DeepL."
+   },
+   "onboarding_last_step_title": {
+      "message": "Jděte do toho ještě dnes!"
+   },
+   "onboarding_next_button": {
+      "message": "Další"
+   },
+   "onboarding_pin_extension": {
+      "message": "Připněte si rozšíření DeepL na panel nástrojů a mějte ho vždy po ruce"
+   },
+   "onboarding_promotion_body": {
+      "message": "Rozšíření prohlížeče DeepL je navrženo tak, aby se snadno integrovalo do celosvětově nejoblíbenějších nástrojů pro zvýšení produktivity. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>Vyberte si nástroj, který nejčastěji používáte\u003C/strong>, a hladce integrujte DeepL do vašich pracovních postupů."
+   },
+   "onboarding_promotion_header": {
+      "message": "Překládejte a pište lépe ve vašich oblíbených nástrojích"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "Vyzkoušejte v Gmailu"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "Vyzkoušejte v Dokumentech Google"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "Vyzkoušejte v Prezentacích Google"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "Zobrazit všechny integrace"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "Přihlášení k vašemu novému účtu DeepL bylo úspěšné."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "Překládejte a komunikujte bez obav přímo v kartě prohlížeče."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "Získat doplněk"
+   },
+   "onboarding_signup_body": {
+      "message": "Vytvořte si účet zdarma a využijte všechny funkce rozšíření DeepL naplno."
+   },
+   "onboarding_signup_cta": {
+      "message": "Vytvořit účet zdarma"
+   },
+   "onboarding_signup_header": {
+      "message": "Účet, prosím!"
+   },
+   "onboarding_signup_login_option": {
+      "message": "Už máte účet? \u003CloginLink>Přihlaste se\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "Přeskočit"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "Přihlášení bylo úspěšné!"
+   },
+   "onboarding_title_free": {
+      "message": "ZDARMA"
+   },
+   "onboarding_title_pro": {
+      "message": "DEEPL PRO"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Klikněte na ikonu DeepL nebo spusťte zkratku a překládejte text, na který narazíte nebo který právě tvoříte. Funguje to na tisících různých platforem."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Překládejte to, co čtete a co píšete"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Kliknutím na ikonu DeepL můžete opravit nebo přeformulovat svůj text tak, aby stylem a tónem odpovídal vašemu publiku a cílům."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "K dispozici v následujících jazycích: angličtina, němčina, francouzština, španělština a další."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Sebejisté psaní"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "Spravovat oprávnění"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Povolte prohlížeči Firefox, aby dal DeepL přístup k navštíveným webovým stránkám."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox potřebuje vaše svolení"
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Přihlášení k účtu"
+   },
+   "position_options_bottom": {
+      "message": "Dole"
+   },
+   "position_options_left": {
+      "message": "Vlevo"
+   },
+   "position_options_right": {
+      "message": "Vpravo"
+   },
+   "position_options_top": {
+      "message": "Nahoře"
+   },
+   "reading_config_tab_description": {
+      "message": "Přeložit vybranou pasáž do jazyka"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "Zobrazit ikonu DeepL pro čtení"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "\u003Cstrong>Pravým tlačítkem\u003C/strong> myši"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "Použitím \u003Cstrong>klávesové zkratky\u003C/strong>"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "Pro čtení"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "Vaše nastavení"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "Pro psaní"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "Nahradit v poli"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "Zakázat toto okno v nastavení"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "Toto okno můžete kdykoli zakázat nebo povolit v nastavení rozšíření."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "Využíváte pokročilý režim jen někdy?"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "Zlepšujte texty s DeepL"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "Přeložit pomocí DeepL"
+   },
+   "segmentation_survey_button": {
+      "message": "Vyplňte krátký dotazník"
+   },
+   "segmentation_survey_copy": {
+      "message": "Pomozte nám DeepL ještě vylepšit tím, že odpovíte na několik otázek."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "Vybrat jazyk"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "angličtina (UK)"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "angličtina (US)"
+   },
+   "selected_languages_PT_BR": {
+      "message": "portugalština (BR)"
+   },
+   "selected_languages_PT_PT": {
+      "message": "portugalština"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "Zobrazit okno pokročilého režimu pro překlad/zlepšení přímo na stránce"
+   },
+   "settings_aknowledgements": {
+      "message": "Poděkování"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "Již brzy"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "Vytvářejte srozumitelné dokumenty a překládejte je bez námahy do jiných jazyků."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Vyzkoušejte v Dokumentech Google"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "Překládejte e-maily a opravujte jejich obsah během několika sekund."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Vyzkoušejte v Gmailu"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "Vytvářejte slajdy bez chybičky v různých jazycích a prezentujte svou práci s jistotou."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Vyzkoušejte v Prezentacích Google"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "Udělejte ten nejlepší dojem na potenciální zaměstnavatele a zaměstnance."
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "Vyzkoušejte na LinkedIn"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "Překládejte tweety, které právě čtete nebo píšete."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "Vyzkoušejte na X"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X (dříve Twitter)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "Překládejte zprávy a okamžitě komunikujte v různých jazycích."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "Vyzkoušejte na WhatsAppu"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "Přeložte komentáře ostatních uživatelek a uživatelů a zůstaňte ve spojení."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "Vyzkoušejte si to na YouTube"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "Zobrazit plovoucí ikonu DeepL"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Automaticky překládat z jazyka:"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Automaticky překládat celé stránky do jazyka:"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "Nezobrazovat vyskakovací okno celostránkového překladu na:"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "Nezobrazovat vyskakovací okno celostránkového překladu pro následující jazyky:"
+   },
+   "settings_fpt_lang_select": {
+      "message": "Webové stránky překládat do jazyka"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Nikdy překládat z jazyka"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "Nikdy nepřekládat tyto stránky"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "Zatím jste nepřidali žádné stránky."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "Přejděte na stránku, kterou chcete přidat do tohoto seznamu, a použijte ikonu DeepL."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "Zobrazovat vyskakovací okno celostránkového překladu"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "Vyskakovací okno se zobrazí tam, kde je možné přeložit celou webovou stránku"
+   },
+   "settings_fpt_reset": {
+      "message": "Obnovit nastavení vyskakovacího okna celostránkového překladu"
+   },
+   "settings_fpt_reset_button": {
+      "message": "Obnovit vše"
+   },
+   "settings_language_selector_empty": {
+      "message": "Jazyk"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "Přidat jazyk"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "Celostránkový překlad"
+   },
+   "settings_menu_reading": {
+      "message": "Pro čtení"
+   },
+   "settings_menu_writing": {
+      "message": "Pro psaní"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "Integrace"
+   },
+   "settings_navigation_general_settings": {
+      "message": "Obecná nastavení"
+   },
+   "settings_reading_adjust_position": {
+      "message": "Umístění vyskakovacího okna"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "Výchozí"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Vždy překládat vybranou pasáž do jazyka"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "Při čtení následujících stránek nezobrazovat ikonu DeepL"
+   },
+   "settings_reading_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Zatím jste nepřidali žádné stránky. Přejděte na stránku, kterou chcete přidat do tohoto seznamu, a použijte ikonu DeepL."
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "Ikona se zobrazí, když označíte text"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "Vždy zobrazovat ikonu DeepL pro čtení"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "Tady si můžete zkratku změnit"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "Použijte klávesovou zkratku pro překlad textu, který právě čtete"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "Klávesové zkratky"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Nastavte si je tady"
+   },
+   "settings_title": {
+      "message": "Nastavení"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Vaše texty vždy překládat do jazyka"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "Nezobrazovat ikonu DeepL pro psaní na následujících stránkách"
+   },
+   "settings_writing_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "Zatím jste nepřidali žádné stránky. Přejděte na stránku, kterou chcete přidat do tohoto seznamu, a použijte ikonu DeepL."
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "Ikona se zobrazí, když začnete psát text"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "Vždy zobrazit ikonu DeepL pro psaní"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "Navolit další klávesovou zkratku"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "Tady si můžete zkratku změnit"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "Použijte tuto klávesovou zkratku pro překlad textu, který právě čtete"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "Pomocí této zkratky změníte cílový jazyk"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "Pomocí této zkratky přeložíte text, který jste napsali"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "Vždy zobrazit ikonu DeepL pro psaní"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "Ikona se zobrazí, když začnete psát text"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "Pište a zároveň překládejte."
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "Překlad se zobrazuje níže."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "Vyplnit dotazník"
+   },
+   "sidepanel_survey_content": {
+      "message": "Vyplnění tohoto dotazníku zabere pouhé 2 minuty"
+   },
+   "sidepanel_survey_header": {
+      "message": "Podělte se o svůj názor na naše aktualizace"
+   },
+   "supported_languages_AR": {
+      "message": "arabština"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "bulharština"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "čeština"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "dánština"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "němčina"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "řečtina"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "angličtina"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "angličtina (britská)"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "angličtina (americká)"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "španělština"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "estonština"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "finština"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "francouzština"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "maďarština"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "indonéština"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "italština"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "japonština"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "korejština"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "litevština"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "lotyština"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "norština (bokmål)"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "nizozemština"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "polština"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "portugalština"
+   },
+   "supported_languages_PT_BR": {
+      "message": "portugalština (brazilská)"
+   },
+   "supported_languages_PT_PT": {
+      "message": "portugalština"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "rumunština"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "ruština"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "slovenština"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "slovinština"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "švédština"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "turečtina"
+   },
+   "supported_languages_UK": {
+      "message": "ukrajinština"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "čínština (zjednodušená)"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "čínština (tradiční)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "Vyberte prosím"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "Vyplnit dotazník"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "Váš názor nás zajímá!"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "Vyplnění tohoto dotazníku zabere pouhé 2 minuty"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "VYP"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "ZAP"
+   },
+   "test_split_translation": {
+      "message": "Pokud chcete přeložit celou stránku,\u003CloginLink>přihlaste se\u003C/loginLink> k DeepL Pro \u003CtryLink>nebo si ho vyzkoušejte zdarma\u003C/tryLink>"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "Vypnout"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "Zapnout"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "Změnit plán"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "V bezplatné verzi můžete překládat pouze omezený počet znaků."
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "Vaše překlady jsou plně zašifrované."
+   },
+   "tooltip_write_free_limited": {
+      "message": "V bezplatné verzi můžete vylepšovat pouze omezený počet znaků."
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "Vaše texty jsou plně zašifrované."
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "Tento jazyk zatím není v Překladači DeepL k dispozici."
+   },
+   "twitter_web_alternatives_link": {
+      "message": "Otevřít na DeepL.com"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "Přeložit pomocí DeepL"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "Celá věta"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "Slovo"
+   },
+   "ui_alternatives_title": {
+      "message": "Alternativy"
+   },
+   "ui_auto_translate_label": {
+      "message": "Překládat automaticky"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "Navštívené stránky v jazyce $sourceLang$ budou automaticky přeloženy.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "Překládejte celé dokumenty na \u003CdeeplLink>DeepL.com\u003C/deeplLink>"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "Automaticky"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "Formální"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "Neformální"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "Zpět"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "Příště nezobrazovat"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "OK"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "Nezobrazovat vyskakovací okno celostránkového překladu:"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "Pouze na této stránce"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "Na všech stránkách"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "Pouze pro tento jazyk"
+   },
+   "ui_fpt_translate_button": {
+      "message": "Přeložit stránku"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "Celostránkový překlad"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "Vylepšit označený text"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "Označte text a klikněte."
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Překládejte přesně a výstižně\u003Cbr> v Dokumentech Google"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "\u003Cstrong>Kontrolujte význam slov\u003C/strong> dle kontextu"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>Nahrazujte text\u003C/strong> jeho překladem při \u003C/strong>zachování veškerého formátování\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>Učte se nové výrazy\u003C/strong> pomocí výslovnosti a slovníku"
+   },
+   "ui_gdocs_replace": {
+      "message": "Nahradit"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "Nahrazujte v dokumentu"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "Nahradit označený text tímto překladem"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "Povolit/zakázat DeepL pro Dokumenty Google"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "Přeložit pomocí DeepL"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "Přeložit označený text"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "Vypnout ikonu DeepL"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Vítejte v DeepL pro Dokumenty Google"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Překládejte označený text\u003C/strong> jedním kliknutím."
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Upravujte své texty\u003C/strong>, aby byly ještě srozumitelnější."
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "Využívejte \u003Cstrong>alternativy\u003C/strong> pro různé způsoby formulace."
+   },
+   "ui_gdocs_write_accept": {
+      "message": "Nahradit v dokumentu"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "Zavřít"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "Toto je vylepšený text:"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "Vylepšujeme váš text..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "Přijmout změny"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "Řekněte nám, jak zlepšit naše služby. Zabere vám to jen 2 minuty. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "Vyplnit dotazník"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "Co si myslíte o DeepL?"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "Najednou můžete přeložit text o délce až 1500 znaků. Pokud chcete zvýšit svůj limit, vytvořte si účet DeepL."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "Přihlásit se"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "Vytvořit účet zdarma"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "Váš povolený počet znaků je omezený"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "Najednou můžete přeložit text o délce až 5000 znaků. Vyzkoušejte překlady bez omezení s DeepL Pro – prvních 30 dní je zdarma. "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Vyzkoušejte si verzi Pro zdarma"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "Překládejte bez omezení s DeepL Pro"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "BETA"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "Vítejte v DeepL pro Google Prezentace"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "Překládejte vybraný text nebo celé prezentace bez čekání"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "Zkontrolujte a vylepšete své texty pro prezentace bez chybičky"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "Vrátit původní"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "Povolit/zakázat DeepL pro Google Prezentace"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "Přeložit"
+   },
+   "ui_gslides_translate_from": {
+      "message": "Z jazyka:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "Do jazyka:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Tím zabráníte ztrátě nedávno přidaného obrázku, videa nebo zvuku z prezentace."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Nejprve označte text, který chcete přeložit nebo vylepšit."
+   },
+   "ui_gslides_write_cta": {
+      "message": "Vylepšit"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "Opravíme chyby a vylepšíme vaše texty. Pouze pro angličtinu a němčinu. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "Překládejte rychleji a vylepšujte vaše vlastní texty během několika sekund \u003Cspan>v Gmailu a Dokumentech Google.\u003C/span>"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "Zobrazit integrace"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "Příště nezobrazovat"
+   },
+   "ui_hub_tip_badge": {
+      "message": "Tip"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "Přeložit označený text"
+   },
+   "ui_inline_translation_copied": {
+      "message": "Překlad byl zkopírován"
+   },
+   "ui_inline_translation_copy": {
+      "message": "Zkopírovat do schránky"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "Slovník"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "Poslechnout"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "Zastavit předčítání"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "Poslechnout si novou verzi"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "Poslechnout originál"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "Poslechnout překlad"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "Nebyla nalezena žádná hesla pro ‚‚\u003Cstrong>$originalSnippet$\u003C/strong>‘‘.",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "Slovníkové heslo se nepodařilo načíst. Zkuste to znovu."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "Zobrazit alternativy na DeepL.com"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "Otevřít na DeepL.com"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "Vyzkoušet další funkce"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(rozpoznáno)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "Nedostupný jazyk"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "Abyste mohli zobrazit slovníková hesla, musíte překládat jedno slovo po druhém."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "Pro tuto jazykovou kombinaci není slovník k dispozici."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "Přeložte vaše texty jedním kliknutím"
+   },
+   "ui_login_body": {
+      "message": "Pokud chcete přeložit celou stránku,\u003CloginLink>přihlaste se\u003C/loginLink> k DeepL Pro \u003CtryLink>nebo si ho vyzkoušejte zdarma\u003C/tryLink>"
+   },
+   "ui_login_header": {
+      "message": "Chcete tuto stránku přeložit? \u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "Nikdy nepřekládat z jazyka $sourceLang$",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "Nikdy nepřekládat tuto stránku"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "Tuto možnost můžete změnit v \u003CsettingsLink>nastavení\u003C/settingsLink>"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "Rozhodli jste se nepřekládat z jazyka \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "Rozhodli jste se nepřekládat stránku\u003Cstrong>$website$\u003C/strong>",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "Rozhodli jste se nepřekládat stránku\u003Cstrong>$website$\u003C/strong> a nepřekládat z jazyka\u003Cstrong>$sourceLang$.\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "Rozhodli jste se nezobrazovat vyskakovací okno celostránkového překladu. Tuto možnost můžete změnit v nastavení"
+   },
+   "ui_read_more": {
+      "message": "Více zde"
+   },
+   "ui_share_button": {
+      "message": "Kopírovat"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "Zkopírováno"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "Kopírovat odkaz"
+   },
+   "ui_share_error": {
+      "message": "Při kopírování textu došlo k chybě"
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "Váš názor nás zajímá"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "Zkopírováno! Teď můžete sdílet!"
+   },
+   "ui_share_title": {
+      "message": "Sdílejte DeepL se svými přáteli"
+   },
+   "ui_target_language_select": {
+      "message": "Do kterého jazyka chcete překládat?"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "Děkujeme za zpětnou vazbu!"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "Nechcete se zúčastnit minutového průzkumu, který nám pomůže zlepšit naše služby? "
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "Vyplnit dotazník"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "Řekněte nám, jak zlepšit naše služby. Zabere vám to jen 2 minuty."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "Co si myslíte o DeepL?"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "Nic moc"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "Úžasná"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "Zajímá nás váš názor na rozšíření DeepL pro Chrome."
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "Zajímá nás váš názor na rozšíření DeepL pro Edge."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "Zajímá nás váš názor na rozšíření DeepL pro Firefox."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "Jak se vám tato funkce líbí?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "Jak se vám tato funkce líbí?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "Jak se vám tato funkce líbí?"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "Napsat recenzi"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "Děkujeme. To rádi slyšíme!"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Nechcete se podělit o vaše názory i v internetovém obchodě Chrome?"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Nechcete se podělit o vaše názory i v obchodě s doplňky prohlížeče Edge?"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "Nechcete o tom napsat recenzi?"
+   },
+   "ui_translated_automatically": {
+      "message": "Přeloženo z jazyka \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "Vyzkoušejte zdarma"
+   },
+   "ui_widget_feature_free": {
+      "message": "ZDARMA"
+   },
+   "ui_widget_feature_pro": {
+      "message": "DEEPL PRO"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "Přeložit vlákno"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "Ukončit překlad"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "Jazyk se neshoduje s jazykem příjemce. Přesto odeslat?"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "Přeložit"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(rozpoznáno)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "Přeložit tento ticket"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "Přeložit do jazyka:"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL zatím neumí překládat z vašeho jazyka."
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "Jakmile bude k dispozici, budeme vás informovat."
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "OK"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "Vypnout DeepL"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "Zapnout DeepL"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "Vítá vás DeepL pro Zendesk!"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "Jaký jazyk používáte nejčastěji?"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "Toto rozšíření je\u003Cstrong> na omezenou dobu zdarma\u003C/strong>. Vyzkoušejte ho a \u003CloginLink>podělte se o své názory\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "Spravujte vaše tickety \u003Cbr> v různých jazycích"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>Překládejte zprávy nebo celá vlákna,\u003C/strong> kdy zrovna potřebujete"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "\u003Cstrong>Odpovídejte\u003C/strong> v jazyce zákazníka či zákaznice"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "\u003Cstrong>Zachovejte přirozený a profesionální tón\u003C/strong> v každé situaci"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "Jazyk odesílatele"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "Pomozte utvářet produktovou strategii DeepL tím, že vyplníte náš dotazník."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "Připomenout později"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "Vyplnit dotazník"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "Dosáhli jste maximální povolené spotřeby. Pro zvýšení limitu se obraťte na \u003CdeeplSupportLink>zákaznickou podporu DeepL\u003C/deeplSupportLink>."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "Je nám líto, ale vaše předplatné nezahrnuje tuto funkci."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "Dosáhli jste limitu bezplatné verze. Chcete pokračovat v překládání?"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "Přeložit chat do jazyka"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "Nastavení"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "Přeložit chat"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "Přeložit zprávu do jazyka"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "Zobrazit alternativy na DeepL.com"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "Nastavení"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "Přeložit"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "Tento jazyk zatím není pro DeepL Write k dispozici."
+   },
+   "write_not_supported_language_message": {
+      "message": "Tento jazyk zatím není k dispozici pro DeepL Write"
+   },
+   "write_see_language_supported": {
+      "message": "Zobrazit všechny podporované jazyky"
+   },
+   "write_style_options_button_label": {
+      "message": "Styly"
+   },
+   "write_style_options_cta_apply": {
+      "message": "Použít"
+   },
+   "write_style_options_cta_reset": {
+      "message": "Obnovit"
+   },
+   "write_style_options_description_style": {
+      "message": "Text se přizpůsobí vašemu publiku a cílům."
+   },
+   "write_style_options_description_tone": {
+      "message": "Text se přeformuluje podle zvoleného tónu."
+   },
+   "write_style_options_headline_style": {
+      "message": "Nastavte styl textu"
+   },
+   "write_style_options_headline_tone": {
+      "message": "Určete tón"
+   },
+   "writing_config_tab_description": {
+      "message": "Vaše texty překládat do jazyka"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "Vybrat jazyk"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "Zobrazit ikonu DeepL pro psaní"
+   },
+   "writing_style_academic": {
+      "message": "Akademický"
+   },
+   "writing_style_business": {
+      "message": "Obchodní"
+   },
+   "writing_style_casual": {
+      "message": "Hovorový"
+   },
+   "writing_style_simple": {
+      "message": "Jednoduchý"
+   },
+   "writing_tone_confident": {
+      "message": "Sebevědomý"
+   },
+   "writing_tone_diplomatic": {
+      "message": "Diplomatický"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "Nadšený"
+   },
+   "writing_tone_friendly": {
+      "message": "Přátelský"
+   },
+   "youtube_alternatives_link": {
+      "message": "Otevřít na DeepL.com"
+   },
+   "youtube_translate_comment_link": {
+      "message": "Přeložit pomocí DeepL"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "Odstranit"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "Glosář"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "Pokud chcete překládat bez omezení, vyzkoušejte DeepL Pro Advanced – zdarma na 30 dní."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "Používáte bezplatnou verzi DeepL."
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "Pro neomezený počet překladů si předplaťte DeepL Pro Advanced nebo Ultimate."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "Váše předplatné nezahrnuje neomezený překlad v Zendesk"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "Abyste mohli dál překládat, \u003Cstrong>předplaťte si DeepL Pro Advanced\u003C/strong>– prvních 30 dní je zdarma."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "Používáte bezplatnou verzi DeepL. "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "Dosáhli jste limitu překladů zdarma."
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "Abyste mohli dál překládat, \u003Cstrong>předplaťte si DeepL Pro Advanced nebo Ultimate.\u003C/strong>\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "Váše předplatné nezahrnuje neomezený překlad v Zendesk"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "Pro váš účet jsme nenašli žádné dostupné glosáře."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "Glosáře jsou k dispozici pouze pro uživatele DeepL Pro."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "Okamžitý překlad ticketů –\u003Cstrong>až 15 překladů zdarma\u003C/strong>"
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "\u003Cstrong>Přirozený a profesionální tón\u003C/strong> v každé situaci"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "\u003Cstrong>Komunikace\u003C/strong> v jazyce zákazníka"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "Překládejte bleskurychle všechny tickety, které vyřizujete nebo sami tvoříte."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL je připraven"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "Původní plug-in jsme nahradili plně integrovaným rozšířením."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "Stáhnout zdarma"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "Překládání je teď ještě snazší"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "Pokud chcete překládat bez omezení, vyzkoušejte DeepL Pro Advanced – zdarma na 30 dní."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "Počet zbývajících překladů: $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "Zapnout/vypnout DeepL pro Zendesk"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>Počet zbývajících překladů:\u003C/strong> $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "Vyzkoušejte Pro Advanced zdarma"
+   },
+   "zendesk_try_pro_link": {
+      "message": "Vyzkoušejte DeepL Pro zdarma"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "Máte už \u003Cstrong>Pro Advanced nebo Ultimate?\u003C/strong> \u003CloginLink>Přihlaste se ke svému účtu\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "Přejít na vyšší předplatné"
+   }
+}

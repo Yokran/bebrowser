@@ -1,0 +1,2197 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Übersetzen Sie beim Lesen und Schreiben mit dem DeepL Übersetzer – dem präzisesten Übersetzer der Welt."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL: KI-Übersetzer und -Schreibassistent"
+   },
+   "config_tab_click_icon": {
+      "message": "\u003Cstrong>DeepL-Symbol\u003C/strong> anklicken"
+   },
+   "config_tab_customize_link": {
+      "message": "Tastenkombination festlegen"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "Um den DeepL Übersetzer zu aktivieren, wenden Sie sich bitte an Ihren Administrator."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "Um DeepL Write zu aktivieren, wenden Sie sich bitte an Ihren Administrator."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "Ausgewählten Text übersetzen"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepL-Logo"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "Fertig"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "Sprache erkennen"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "Ihr Text konnte nicht übersetzt werden. Bitte versuchen Sie es später noch einmal."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "Ihr Text konnte nicht verbessert werden. Bitte versuchen Sie es später noch einmal."
+   },
+   "error_message_internet_connection": {
+      "message": "Es gibt ein Problem mit Ihrer Internetverbindung. Bitte versuchen Sie es erneut."
+   },
+   "error_message_please_login": {
+      "message": "Bitte melden Sie sich erneut an, um diesen Text zu übersetzen."
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "Sie haben das Nutzungslimit Ihres Kontos erreicht."
+   },
+   "error_message_session_expired": {
+      "message": "Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an."
+   },
+   "error_message_technical_issue": {
+      "message": "Ihr Text konnte aufgrund eines technischen Problems nicht übersetzt werden. Das Problem ist uns bereits bekannt, und wir arbeiten an einer Lösung."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "Ihr Text konnte nicht übersetzt werden. Ihr Netzwerk scheint zu viele Anfragen an unsere Server zu senden."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "Sprache ändern"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "Text übersetzen"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "Mit der DeepL-Erweiterung für Firefox können Sie die unvergleichliche Übersetzungsqualität von DeepL direkt in Ihrem Browser erleben.\n\nDie Erweiterung ermöglicht es Ihnen, alles, was Sie lesen oder schreiben, schnell und einfach direkt in Firefox zu übersetzen. Als DeepL Pro-Abonnent können Sie sogar komplette Webseiten übersetzen. \nFür Nutzer der kostenlosen Version steht diese Funktion demnächst zur Verfügung. Bis dahin können Sie einfach den zu übersetzenden Text markieren und anschließend über das DeepL-Symbol in Ihre gewünschte Zielsprache übersetzen.  Wenn Sie noch schneller übersetzen möchten, können Sie in den Einstellungen eine eigene Tastenkombination festlegen, über die Sie Texte, die Sie gerade lesen oder schreiben, mit DeepL in Firefox sofort übersetzen können.\n\nVon nun an brauchen Sie sich also keine Gedanken mehr darüber zu machen, dass Ihnen aufgrund von Sprachbarrieren wichtige Informationen entgehen könnten. \n\nLaden Sie die DeepL-Erweiterung für Firefox jetzt kostenlos herunter und legen Sie direkt mit dem Übersetzen los!\n\nÜbersetzen, was Sie lesen\nKlicken Sie nie wieder eine E-Mail, einen Artikel oder eine Website weg, nur weil Sie den Inhalt nicht auf Anhieb verstehen. Alles, was Sie in Firefox aufrufen, können Sie mit der DeepL-Erweiterung in Ihre bevorzugte Sprache übersetzen. \n\nGeschriebenes übersetzen\nEgal, ob Sie einen Social-Media-Post, eine Chat-Nachricht oder eine E-Mail schreiben: Übersetzen Sie Ihre eigenen Texte direkt in eine andere Sprache. Sie müssen Texte also nicht mehr kopieren, wieder einfügen, abtippen oder sogar Firefox verlassen, um in einer anderen Sprache zu kommunizieren.\n\nÜbersetzen ganzer Seiten\nAls DeepL Pro-Nutzer können Sie ganze Webseiten mit nur einem Klick in Ihre gewünschte Sprache übersetzen. Sie können sogar alle Websites, die in einer bestimmten Sprache verfasst sind, automatisch übersetzen lassen, um Ihr Browsererlebnis noch angenehmer zu gestalten. Wir arbeiten daran, diese Funktion bald auch für Nutzer der kostenlosen Version anzubieten. \n\nAnmelden bei DeepL Pro \nDeepL Pro-Abonnenten können sich über die Erweiterung bei ihrem Konto anmelden.\n\nTastenkombinationen\nVerwenden Sie einfache Tastenkombinationen, um noch schneller zu übersetzen. In den Einstellungen können Sie Ihre eigene Tastenkombination festlegen.\n\nUnvergleichliche Präzision\nWir garantieren Ihnen, dass Sie die bestmögliche Übersetzung erhalten, egal welche Website oder Anwendung Sie nutzen. Die Übersetzungen von DeepL sind durchweg besser als die der Konkurrenz und nachweislich dreimal genauer als die der großen Tech-Unternehmen.\n\nMillionen begeisterte Nutzer\nMillionen von Menschen auf der ganzen Welt nutzen DeepL täglich, um ihre Kommunikation zu verbessern.\n\nWählen Sie aus über 30 Sprachen\nEine Liste aller Sprachen, die in der Erweiterung verfügbar sind, finden Sie in diesem Artikel in unserem Hilfecenter: https://support.deepl.com/hc/de/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "Übersetzen Sie beim Lesen und Schreiben mit dem DeepL Übersetzer – dem präzisesten Übersetzer der Welt."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL Übersetzer: Sprachen lesen und schreiben"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "Helfen Sie uns, die DeepL-Erweiterung für Firefox fertigzustellen, indem Sie uns \u003CfeedbackLink>Ihr Feedback mitteilen\u003C/feedbackLink>"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "Erlauben und fortfahren"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>DeepL für Firefox benötigt Ihre Berechtigung, \u003Cstrong>um auf Texte, die Sie beim Surfen übersetzen oder verbessern möchten, zuzugreifen und diese zu verarbeiten\u003C/strong>. Nur wenn Sie die Funktion „Übersetzung ganzer Seiten“ aktivieren, kann die Erweiterung den Inhalt ganzer Webseiten verarbeiten.\u003C/p>\n\u003Cp>Wenn Sie sich bei der Erweiterung mit Ihrem Konto anmelden, werden Ihre personenbezogenen Daten verarbeitet, um Ihnen Zugriff auf den Funktionsumfang Ihres Pakets zu gewähren.\u003C/p>\n\u003Cp>Zudem werden Geräte-, Nutzungs- und weitere technische Daten erhoben, um eine ordnungsgemäße Funktion der Erweiterung in Ihrem Browser sicherzustellen und um betrügerisches Verhalten zu erkennen und zu verhindern.\u003C/p> \n\u003Cp>Weitere Informationen finden Sie hier:\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "Nicht erlauben und deinstallieren"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "Datenschutzerklärung"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>Nutzungsbedingungen\u003C/termsLink> für Nutzer ohne DeepL (Pro)-Konto\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL benötigt Ihre Berechtigung"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "Tastenkombinationen verwalten"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "Sprache wird erkannt ..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "Webseiten automatisch in diese Sprache übersetzen"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "Automatisch aus dieser Sprache übersetzt:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "Leider können wir diese Seite nicht übersetzen, da sie das Zeichenlimit überschreitet."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "Die Übersetzung ganzer Seiten ist derzeit leider nicht möglich. Wir versuchen, dieses Problem so schnell wie möglich zu beheben."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "Scheinbar verwenden Sie auch den Google Übersetzer. Bitte deaktivieren Sie den Google Übersetzer, damit die DeepL-Erweiterung richtig funktioniert."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "Immer übersetzen:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "Nein, danke"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "Diese Sprache nicht übersetzen:"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "Diese Website nicht übersetzen"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "Diese Seite übersetzen?"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "Übersetzen"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "Ändern"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "Sie möchten nicht aus diesen Sprachen übersetzen:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "Ändern"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "Folgendes soll nicht übersetzt werden:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "Wir konnten keine Daten von dieser Website abrufen. Wenn möglich, laden Sie die Seite bitte neu."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "Wird übersetzt ..."
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "Abbrechen"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "Speichern"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "Fertig"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "Einstellungen"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "Automatisch aus diesen Sprachen übersetzen"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "Nie aus diesen Sprachen übersetzen"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "Diese Seiten nie übersetzen"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "Webseiten übersetzen"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "Übersetzen nach"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "Geschriebenes übersetzen"
+   },
+   "full_page_translation_show_original": {
+      "message": "Original anzeigen"
+   },
+   "full_page_translation_target_label": {
+      "message": "Webseite übersetzen von und nach:"
+   },
+   "full_page_translation_translate_button": {
+      "message": "Webseite übersetzen"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "Ihre Glossare konnten nicht geladen werden."
+   },
+   "glossary_failed_try_again": {
+      "message": "Erneut versuchen"
+   },
+   "glossary_label": {
+      "message": "Glossar"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "Glossar erstellen"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "Wählen Sie ein Glossar aus, das Sie auf Ihre Übersetzungen anwenden möchten."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "Sie haben bereits DeepL Pro gebucht? \u003CloginLink>Jetzt anmelden\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "Sie möchten festlegen, dass bestimmte Wörter und Wendungen immer nach Ihren Vorgaben übersetzt werden? Testen Sie die Glossarfunktion mit einem DeepL Pro-Probeabo \u003Cstrong>jetzt 30 Tage lang kostenlos\u003C/strong>."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "Für Ihr Konto liegen keine Glossare vor. Erstellen Sie jetzt Ihr erstes Glossar, um Übersetzungsregeln für wichtige Wörter und Wendungen festzulegen."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "Mehr anzeigen"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "Kostenlos testen"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "Aktuell können Sie \u003Cstrong>maximal 1.500 Zeichen\u003C/strong> auf einmal übersetzen.\n\u003Cstrong>Erstellen Sie ein DeepL-Konto\u003C/strong>, um dieses Limit zu erhöhen."
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "Anmelden"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "Kostenlos registrieren"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "Zeichenlimit"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "Aktuell können Sie maximal \u003Cstrong>5.000 Zeichen\u003C/strong> auf einmal übersetzen.\nUm von unbegrenzter Textübersetzung zu profitieren, \u003Cstrong>testen Sie DeepL Pro jetzt 30 Tage lang kostenlos\u003C/strong>."
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Kostenlos testen"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "Unbegrenzte Textübersetzung mit DeepL Pro"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "Um E-Mails mit mehr als 5.000 Zeichen zu übersetzen, benötigen Sie ein DeepL Pro-Paket."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "Später erinnern"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "Nutzungslimit erreicht"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "Änderungen annehmen"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "Text übersetzen oder verbessern"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "Verbessern"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "Verbessern"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "Fehlerkorrektur und Textoptimierung\nfür deutsche und englische Texte."
+   },
+   "gmail_compose_translate_button": {
+      "message": "Übersetzen"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "Von:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "Übersetzen"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "Nach:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "Zurück zum Originaltext"
+   },
+   "gmail_forwarding_link": {
+      "message": "DeepL für Gmail kostenlos herunterladen"
+   },
+   "gmail_forwarding_title": {
+      "message": "Diese E-Mail wurde mit DeepL für Gmail übersetzt."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(erkannt)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "E-Mails mit nur einem Klick übersetzen"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "E-Mails in anderen Sprachen schreiben"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "E-Mails verbessern und Fehler korrigieren"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "Um E-Mails mit mehr als 5.000 Zeichen zu übersetzen, benötigen Sie ein DeepL Pro-Paket."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "Nutzungslimit erreicht"
+   },
+   "gmail_onboarding_title": {
+      "message": "Willkommen bei DeepL für Gmail"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "DeepL für Gmail aktivieren/deaktivieren"
+   },
+   "gmail_reading_forward_button": {
+      "message": "Übersetzte E-Mail weiterleiten"
+   },
+   "gmail_reading_translate_button": {
+      "message": "E-Mail übersetzen"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "Original anzeigen"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "Wählen Sie weniger Text aus, oder buchen Sie DeepL Pro, um unbegrenzt zu übersetzen."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "Wählen Sie weniger Text aus, oder buchen Sie DeepL Pro, um unbegrenzt Texte zu verbessern."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "Mit der kostenlosen Version können Sie maximal 2.000 Zeichen auf einmal verbessern."
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "Mit der kostenlosen Version können Sie maximal 5.000 Zeichen auf einmal übersetzen."
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "Verwenden Sie DeepL \u003Cb>direkt in Microsoft 365\u003C/b>."
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "Mehr erfahren "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "Ausgewählten Text mit DeepL übersetzen"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "Markieren Sie einfach Ihren Text und klicken Sie auf das DeepL-Symbol. Das war’s! "
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "DeepL-Symbol beim Lesen anzeigen"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "Ausgewählten Text übersetzen nach"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "Weitere Einstellungen"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "OK"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "Symbol deaktivieren"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "DeepL beim Lesen deaktivieren"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Nicht deaktivieren"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "Auf allen Seiten"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "Nur auf dieser Seite"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "Lesen"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "Rechtsklick zum Übersetzen nach"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "Mehr anzeigen"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "Deaktivieren"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Klicken Sie auf die Symbole, um den erweiterten Modus zu öffnen. In diesem Fenster können Sie Änderungen vornehmen und Versionen vergleichen."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "Texte direkt übersetzen und verbessern mit DeepL"
+   },
+   "input_selection_alternatives_label": {
+      "message": "Alternativen"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "Mehr anzeigen"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "Anredeform auswählen"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "Alternativen anzeigen"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "Übersetzen"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "Übersetzen"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "Texte effizient übersetzen und verbessern"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "Klicken Sie ganz einfach auf das DeepL-Symbol, um die Browsererweiterung zu nutzen."
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "DeepL-Symbol beim Schreiben anzeigen"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "Weitere Einstellungen"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "Sprache jedes Mal neu wählen"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "Immer in diese Sprache übersetzen"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "OK"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "Symbol deaktivieren"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "DeepL beim Schreiben deaktivieren"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "Nicht deaktivieren"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "Auf allen Seiten"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "Nur auf dieser Seite"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "Schreiben"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "Geschriebenes übersetzen nach"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "Zielsprache ändern"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "Deaktivieren"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "Um DeepL Write zu aktivieren, wenden Sie sich bitte an Ihren Administrator."
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "Text verbessern – verfügbar für Deutsch und Englisch"
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "Text verbessern"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "Zielsprache auswählen"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "Einstellungen"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "Übersetzen"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "Text übersetzen"
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "Übersetzen nach ..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "Deaktivieren"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "Übersetzen nach:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "Übersetzen nach:"
+   },
+   "layout_header_settings_icon": {
+      "message": "Einstellungen aufrufen"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Übersetzer"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "Anmelden"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "Kostenlos registrieren"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "Um mehr als 1.500 Zeichen auf einmal zu übersetzen, erstellen Sie jetzt ein \u003Cstrong>kostenloses DeepL-Konto\u003C/strong>."
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "Jetzt registrieren und mehr übersetzen"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "Um mehr als 5.000 Zeichen auf einmal zu übersetzen, testen Sie die kostenpflichtige Version des \u003Cstrong>DeepL Übersetzers\u003C/strong> jetzt 30 Tage lang kostenlos."
+   },
+   "limit_popup_translator_free_title": {
+      "message": "Zeichenlimit erreicht"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "Um mehr als 5.000 Zeichen auf einmal zu übersetzen, buchen Sie bitte die kostenpflichtige Version des DeepL Übersetzers."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "Kostenlos testen"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "Jetzt upgraden"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "Jetzt upgraden"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "Sie können nur 2.000 Zeichen auf einmal überprüfen. Wenn Sie Ihren gesamten Text verbessern möchten, buchen Sie jetzt \u003Cstrong>DeepL Write Pro\u003C/strong>."
+   },
+   "limit_popup_write_title": {
+      "message": "Zeichenlimit erreicht"
+   },
+   "link_get_pro_license": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "link_try_deepl": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "Übersetzen mit DeepL"
+   },
+   "login_error_default_message": {
+      "message": "Anmeldung fehlgeschlagen."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "Anmelden bei DeepL Pro"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "DeepL Write Pro kostenlos testen"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "Webseiten übersetzen"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "Anmelden"
+   },
+   "login_widget_pro_user_label": {
+      "message": "Als \u003Cstrong>DeepL Pro-Abonnent\u003C/strong> können Sie ganze Webseiten mit nur einem Klick übersetzen."
+   },
+   "login_widget_try_pro_label": {
+      "message": "Noch kein Abonnent? \u003CtryOutLink>Jetzt kostenlos testen\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "DeepL Pro buchen"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>Übersetzung ganzer Seiten\u003C/strong> mit nur einem Klick\u003C/li>\n\u003Cli>\u003Cstrong>Unbegrenzte\u003C/strong> Textübersetzung\u003C/li>\n\u003Cli>\u003Cstrong>Höchste Datensicherheit\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "Testen Sie \u003Cstrong>DeepL Pro\u003C/strong> jetzt 30 Tage lang kostenlos, und sichern Sie sich folgende Vorteile:"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "Einstellungen"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "Symbole verwalten"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "DeepL-Symbol einblenden"
+   },
+   "main_popup_info_box_translator": {
+      "message": "Sie haben ein \u003Cstrong>DeepL Pro-Paket\u003C/strong> gebucht und genießen somit höchste Datensicherheit."
+   },
+   "main_popup_info_box_write": {
+      "message": "Sie haben ein \u003Cstrong>DeepL Write Pro-Paket\u003C/strong> gebucht und genießen somit höchste Datensicherheit."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "Kostenlos testen"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "Ganze Webseite übersetzen"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "Zielsprache für ausgewählten Text:"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "Zielsprache für selbstgeschriebenen Text:"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "Mit DeepL Write Pro können Sie \u003Cstrong>unbegrenzt Texte verbessern\u003C/strong> und \u003Cstrong>höchste Datensicherheit\u003C/strong> genießen."
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "Jetzt upgraden"
+   },
+   "main_popup_write_target_language": {
+      "message": "Texte in folgender Sprache verbessern:"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "Anmelden bei DeepL Pro"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "Abmelden"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "Menü"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "Einstellungen"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "Einstellungen"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "Feedback teilen"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Texte mit DeepL für Microsoft 365 effizient übersetzen und verbessern"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "Mehr erfahren"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "Mit unseren Add‑ins für Outlook, Word und PowerPoint können Sie Ihre Texte übersetzen und optimieren, ohne zwischen verschiedenen Anwendungen hin- und herwechseln zu müssen."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "Mit einem \u003Cstrong>kostenlosen\u003C/strong> DeepL-Konto können Sie mehr als $limit$ Zeichen auf einmal übersetzen.",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "Jetzt registrieren und mehr übersetzen"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "Anmelden"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "Kostenlos registrieren"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "Mit DeepL Pro können Sie mehr als $limit$ Zeichen auf einmal übersetzen. \u003Cstrong>Testen Sie es jetzt 30 Tage lang kostenlos!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "Mehr übersetzen mit DeepL Pro"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "Das DeepL-Symbol ist beim Lesen jetzt deaktiviert. Sie können dies in den $linkToSettings$ ändern.",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "Das DeepL-Symbol ist beim Lesen jetzt deaktiviert. Sie können dies in den $linkToSettings$ ändern.",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "Einstellungen"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "Das DeepL-Symbol wird beim Schreiben nicht mehr angezeigt. Sie können dies in den $linkToSettings$ ändern.",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "Das DeepL-Symbol wird auf $currentWebsite$ nicht mehr angezeigt. Sie können dies in den $linkToSettings$ ändern.",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "Einstellungen"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Legen Sie Ihre eigene Tastenkombination für die Übersetzung von Text in den $settings$ fest.",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "Einstellungen"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "Ihr Konto wurde erfolgreich erstellt."
+   },
+   "onboarding_back_button": {
+      "message": "Zurück"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "Sie möchten die DeepL-Erweiterung nur auf bestimmten Seiten verwenden? Kein Problem! In den Einstellungen können Sie festlegen, welche Seiten nicht übersetzt werden sollen."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "Deaktivieren von Übersetzungen"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "Übersetzen Sie ganze Webseiten mit nur einem Klick in Ihre gewünschte Sprache."
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "Kostenlos testen"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "Weitere Funktionen im Web-Übersetzer und den Apps:"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "Ganze Dateien übersetzen"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "Glossar (begrenzte Sprachauswahl)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "Anredeform festlegen"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "Sie zahlen 0,00 EUR in den ersten 30 Tagen. Jederzeit kündbar."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "... und vieles mehr!"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "Übersetzung ganzer Seiten"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "Übersetzen Sie Ihren markierten Text, indem Sie auf das DeepL-Symbol klicken oder Ihre bevorzugte Tastenkombination verwenden."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "Übersetzung von ausgewähltem Text"
+   },
+   "onboarding_input_translation_description": {
+      "message": "Übersetzen Sie Ihre selbstgeschriebenen Texte auf Tausenden von Plattformen, indem Sie auf das DeepL-Symbol  klicken oder Ihre bevorzugte Tastenkombination verwenden."
+   },
+   "onboarding_input_translation_title": {
+      "message": "Übersetzung eigener Texte"
+   },
+   "onboarding_last_step_description": {
+      "message": "Schließen Sie sich den Tausenden von Nutzern an, die beim Browsen bereits mit DeepL übersetzen."
+   },
+   "onboarding_last_step_title": {
+      "message": "Legen Sie direkt los!"
+   },
+   "onboarding_next_button": {
+      "message": "Weiter"
+   },
+   "onboarding_pin_extension": {
+      "message": "Pinnen Sie die DeepL-Erweiterung an Ihre Symbolleiste, um jederzeit direkt auf sie zuzugreifen."
+   },
+   "onboarding_promotion_body": {
+      "message": "Die DeepL-Browsererweiterung lässt sich in verschiedene Anwendungen integrieren. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>Wählen Sie die Tools aus, die Sie am häufigsten verwenden,\u003C/strong> und integrieren Sie DeepL in Ihre Workflows."
+   },
+   "onboarding_promotion_header": {
+      "message": "Übersetzung und Textoptimierung in allen Ihren Anwendungen"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "DeepL und Gmail"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "DeepL und Google Docs"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "DeepL und Google Präsentationen"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "Alle Integrationen anzeigen"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "Sie sind mit Ihrem neuen DeepL-Konto angemeldet."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "Profitieren Sie von präzisen Übersetzungen und besseren Texten, ohne Ihren Browsertab zu verlassen."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "Zum Add-in"
+   },
+   "onboarding_signup_body": {
+      "message": "Erstellen Sie jetzt kostenlos ein DeepL-Konto, um mit der DeepL-Erweiterung noch mehr Vorteile zu genießen."
+   },
+   "onboarding_signup_cta": {
+      "message": "Kostenlos registrieren"
+   },
+   "onboarding_signup_header": {
+      "message": "Sie haben noch kein Konto?"
+   },
+   "onboarding_signup_login_option": {
+      "message": "Sie haben bereits ein Konto? \u003CloginLink>Jetzt anmelden\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "Überspringen"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "Sie sind jetzt angemeldet."
+   },
+   "onboarding_title_free": {
+      "message": "KOSTENLOS"
+   },
+   "onboarding_title_pro": {
+      "message": "DEEPL PRO"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Klicken Sie auf das DeepL-Symbol oder verwenden Sie unsere praktischen Tastenkombinationen, um Texte ganz einfach und unkompliziert zu übersetzen – und das ohne zwischen verschiedenen Tabs hin- und herwechseln zu müssen."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "Übersetzen leicht gemacht"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Mit DeepL Write profitieren Sie beim Verfassen Ihrer Texte von einer automatischen Fehlerkorrektur und können den Stil und Ton Ihrer Texte ganz einfach an Ihr Zielpublikum anpassen. Klicken Sie dazu einfach auf das DeepL-Symbol."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Verfügbar für Deutsch, Englisch, Französisch, Spanisch und weitere Sprachen."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "Die richtigen Worte finden mit DeepL Write"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "Berechtigungen verwalten"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Erlauben Sie der DeepL-Erweiterung den Zugriff auf Ihre besuchten Websites."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox benötigt Ihre Berechtigung"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Ihr Arbeitgeber erfordert, dass Sie sich bei DeepL Pro anmelden, um Ihre Daten besser zu schützen."
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "Anmelden"
+   },
+   "position_options_bottom": {
+      "message": "Unten"
+   },
+   "position_options_left": {
+      "message": "Links"
+   },
+   "position_options_right": {
+      "message": "Rechts"
+   },
+   "position_options_top": {
+      "message": "Oben"
+   },
+   "reading_config_tab_description": {
+      "message": "Ausgewählten Text übersetzen nach:"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "DeepL-Symbol beim Lesen anzeigen"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "\u003Cstrong>Rechts\u003C/strong> klicken"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "\u003Cstrong>Tastenkombination\u003C/strong> drücken"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "Lesen"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "Ihr Setup"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "Schreiben"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "Ersetzen im Textfeld"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "Dieses Fenster kann in den Einstellungen deaktiviert werden."
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "Sie können dieses Fenster jederzeit in den Einstellungen der Erweiterung aktivieren oder deaktivieren."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "Erweiterter Modus nicht immer benötigt?"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "Text mit DeepL verbessern"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "Übersetzen mit DeepL"
+   },
+   "segmentation_survey_button": {
+      "message": "An Umfrage teilnehmen"
+   },
+   "segmentation_survey_copy": {
+      "message": "Helfen Sie uns, DeepL zu verbessern, indem Sie ein paar Fragen beantworten."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "Sprache auswählen"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "Englisch (UK)"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "Englisch (US)"
+   },
+   "selected_languages_PT_BR": {
+      "message": "Portugiesisch (BR)"
+   },
+   "selected_languages_PT_PT": {
+      "message": "Portugiesisch"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "Fenster für erweiterten Modus zum Übersetzen/Verbessern von Texten anzeigen"
+   },
+   "settings_aknowledgements": {
+      "message": "Anerkennungen"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "Bald verfügbar"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "Verfassen Sie aussagekräftige Dokumente, und übersetzen Sie sie mühelos in andere Sprachen."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Google Docs öffnen"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "Übersetzen Sie Ihre E-Mails automatisch in andere Sprachen, und optimieren Sie Ihren Schreibstil."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Gmail öffnen"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "Erstellen Sie überzeugende Präsentationen in anderen Sprachen."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Google Präsentationen öffnen"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "Hinterlassen Sie bei potenziellen Arbeitgebern und Arbeitnehmern den bestmöglichen Eindruck."
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "LinkedIn öffnen"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "Übersetzen Sie im Handumdrehen alle Tweets, die Sie lesen und schreiben."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "X öffnen"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X (ehemals Twitter)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "Übersetzen Sie Nachrichten, um sofort in verschiedenen Sprachen kommunizieren zu können."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "WhatsApp öffnen"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "Übersetzen Sie die Kommentare anderer Nutzer, um Gedanken auszutauschen."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "YouTube öffnen"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "DeepL-Symbol einblenden"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Immer automatisch aus diesen Sprachen übersetzen:"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Ganze Seiten automatisch in diese Sprache übersetzen"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "Pop-up für die Übersetzung ganzer Seiten nie auf den folgenden Websites anzeigen:"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "Pop-up für die Übersetzung ganzer Seiten nie für diese Sprachen anzeigen:"
+   },
+   "settings_fpt_lang_select": {
+      "message": "Websites in die folgende Sprache übersetzen:"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Nie automatisch aus diesen Sprachen übersetzen"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "Diese Seiten nie automatisch übersetzen"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "Sie haben noch keine Seiten hinzugefügt."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "Über das DeepL-Symbol können Sie Webseiten hinzufügen, die Sie von der Übersetzung ausschließen möchten."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "Pop-up für die Übersetzung ganzer Seiten anzeigen"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "Das Pop-up, das angezeigt wird, wenn eine ganze Webseite übersetzt werden kann."
+   },
+   "settings_fpt_reset": {
+      "message": "Pop-up-Einstellungen für die Übersetzung ganzer Seiten zurücksetzen"
+   },
+   "settings_fpt_reset_button": {
+      "message": "Alle zurücksetzen"
+   },
+   "settings_language_selector_empty": {
+      "message": "Sprache"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "Sprache hinzufügen"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "Übersetzung ganzer Seiten"
+   },
+   "settings_menu_reading": {
+      "message": "Lesen"
+   },
+   "settings_menu_writing": {
+      "message": "Schreiben"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "Integrationen"
+   },
+   "settings_navigation_general_settings": {
+      "message": "Allgemeine Einstellungen"
+   },
+   "settings_reading_adjust_position": {
+      "message": "Fenster anpassen an:"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "Standardposition"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Ausgewählten Text immer in diese Sprache übersetzen"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "DeepL-Symbol beim Lesen dieser Seiten nie anzeigen:"
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "Das Symbol wird angezeigt, wenn Sie Text auswählen."
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "DeepL-Symbol beim Lesen immer anzeigen"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "Tastenkombination ändern"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "Tastenkombination, um zu übersetzen, was Sie lesen"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "Tastenkombinationen"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "Tastenkombinationen festlegen"
+   },
+   "settings_title": {
+      "message": "Einstellungen"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "Selbst geschriebene Texte immer in diese Sprache übersetzen"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "DeepL-Symbol beim Schreiben auf diesen Seiten nie anzeigen:"
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "Das Symbol wird angezeigt, wenn Sie etwas schreiben."
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "DeepL-Symbol beim Schreiben immer anzeigen"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "Tastenkombination ändern"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "Tastenkombination ändern"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "Tastenkombination, um zu übersetzen, was Sie schreiben"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "Tastenkombination, um die Zielsprache zu ändern"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "Tastenkombination, um zu übersetzen, was Sie schreiben"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "DeepL-Symbol beim Schreiben immer anzeigen"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "Das Symbol, das angezeigt wird, wenn Sie etwas schreiben."
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "Text hier eingeben oder einfügen"
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "Die Übersetzung wird unten angezeigt."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "An Umfrage teilnehmen"
+   },
+   "sidepanel_survey_content": {
+      "message": "Das Ausfüllen dieser Umfrage dauert nur 2 Minuten."
+   },
+   "sidepanel_survey_header": {
+      "message": "Teilen Sie uns Ihr Feedback zu unseren Neuerungen mit."
+   },
+   "supported_languages_AR": {
+      "message": "Arabisch"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "Bulgarisch"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "Tschechisch"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "Dänisch"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "Deutsch"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "Griechisch"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "Englisch"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "Englisch (britisch)"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "Englisch (amerikanisch)"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "Spanisch"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "Estnisch"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "Finnisch"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "Französisch"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "Ungarisch"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "Indonesisch"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "Italienisch"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "Japanisch"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "Koreanisch"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "Litauisch"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "Lettisch"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "Norwegisch (Bokmål)"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "Niederländisch"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "Polnisch"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "Portugiesisch"
+   },
+   "supported_languages_PT_BR": {
+      "message": "Portugiesisch (brasilianisch)"
+   },
+   "supported_languages_PT_PT": {
+      "message": "Portugiesisch"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "Rumänisch"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "Russisch"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "Slowakisch"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "Slowenisch"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "Schwedisch"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "Türkisch"
+   },
+   "supported_languages_UK": {
+      "message": "Ukrainisch"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "Chinesisch (vereinfacht)"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "Chinesisch (traditionell)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "Sprache auswählen"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "Zur Umfrage"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "Wir freuen uns über Ihr Feedback!"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "Das Ausfüllen dieser Umfrage dauert nur 2 Minuten."
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "AUS"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "EIN"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "Deaktivierter Umschalter"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "Aktivierter Umschalter"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "Upgraden"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "Mit der kostenlosen Version können Sie nur begrenzt Texte übersetzen."
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "Ihre Übersetzungen werden vollständig verschlüsselt."
+   },
+   "tooltip_write_free_limited": {
+      "message": "Mit der kostenlosen Version können Sie nur begrenzt Texte verbessern."
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "Ihre Texte werden vollständig verschlüsselt."
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "Der DeepL Übersetzer unterstützt diese Sprache noch nicht."
+   },
+   "twitter_web_alternatives_link": {
+      "message": "Auf DeepL.com anzeigen"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "Übersetzen mit DeepL"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "Ganzer Satz"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "Wort"
+   },
+   "ui_alternatives_title": {
+      "message": "Alternativen"
+   },
+   "ui_auto_translate_label": {
+      "message": "Automatisch übersetzen"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "Seiten, die auf $sourceLang$ verfasst sind, werden automatisch übersetzt.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "Übersetzen Sie komplette Dokumente auf \u003CdeeplLink>DeepL.com\u003C/deeplLink>"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "automatisch"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "formell"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "informell"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "Zurück"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "Diese Meldung nicht mehr anzeigen"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "OK"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "Pop-up für die Übersetzung ganzer Seiten deaktivieren:"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "Nur auf dieser Seite"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "Auf allen Seiten"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "Nur für diese Sprache"
+   },
+   "ui_fpt_translate_button": {
+      "message": "Seite übersetzen"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "Ganze Seiten übersetzen"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "Ausgewählten Text verbessern"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "Text auswählen und auf das Symbol klicken"
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Präzise übersetzen\u003Cbr> in Google Docs"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "\u003Cstrong>Lesen\u003C/strong> Sie die Übersetzung im \u003Cstrong>Kontext\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>Ersetzen Sie Text\u003C/strong> durch seine Übersetzung und \u003Cstrong>behalten Sie die Formatierung bei\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>Üben Sie die Aussprache\u003C/strong> von Wörtern und \u003Cstrong>schlagen Sie Begriffe im Wörterbuch nach\u003C/strong>"
+   },
+   "ui_gdocs_replace": {
+      "message": "Ersetzen"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "Im Dokument ersetzen"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "Ausgewählten Text durch diese Übersetzung ersetzen"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "DeepL für Google Docs aktivieren"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "Übersetzen mit DeepL"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "Ausgewählten Text übersetzen"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "DeepL deaktivieren"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Willkommen bei DeepL für Google Docs"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Übersetzen Sie Texte\u003C/strong> mit nur wenigen Klicks."
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>Optimieren Sie Ihre Texte\u003C/strong> mit präzisen, fehlerfreien Formulierungen."
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "Lassen Sie sich von hilfreichen \u003Cstrong>Alternativvorschlägen\u003C/strong> inspirieren."
+   },
+   "ui_gdocs_write_accept": {
+      "message": "Im Dokument ersetzen"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "Schließen"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "Ihr Text wurde verbessert:"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "Ihr Text wird verbessert ..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "Änderungen annehmen"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "Nehmen Sie sich 2 Minuten Zeit, um uns Feedback zu geben. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "Zur Umfrage"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "Was halten Sie von DeepL?"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "Aktuell können Sie maximal 1.500 Zeichen auf einmal übersetzen. Erstellen Sie ein DeepL-Konto, um dieses Limit zu erhöhen."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "Anmelden"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "Kostenlos registrieren"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "Zeichenlimit"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "Aktuell können Sie maximal 5.000 Zeichen auf einmal übersetzen. Um von unbegrenzter Textübersetzung zu profitieren, testen Sie DeepL Pro jetzt 30 Tage lang kostenlos. "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Kostenlos testen"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "Unbegrenzte Textübersetzung mit DeepL Pro"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "BETA"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "Willkommen bei DeepL für Google Präsentationen"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "Ausgewählten Text oder ganze Folien direkt übersetzen"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "Texte auf Folien prüfen und verbessern"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "Zurück zum Originaltext"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "DeepL für Google Präsentationen aktivieren"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "Übersetzen"
+   },
+   "ui_gslides_translate_from": {
+      "message": "Von:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "Nach:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Wenn Sie keinen Text auswählen, wird die gesamte Folie verarbeitet, wodurch kürzlich hinzugefügte Bild-, Video- oder Audiodateien möglicherweise verloren gehen."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "Wählen Sie den Text aus, den Sie übersetzen oder verbessern möchten."
+   },
+   "ui_gslides_write_cta": {
+      "message": "Verbessern"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "Fehlerkorrektur und Textoptimierung für deutsche und englische Texte. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "Übersetzen Sie Ihre Texte und verbessern Sie Ihren Schreibstil\u003Cspan> direkt in Gmail und Google Docs.\u003C/span>"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "Integrationen anzeigen"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "Nicht mehr anzeigen"
+   },
+   "ui_hub_tip_badge": {
+      "message": "Tipp"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "Ausgewählten Text übersetzen"
+   },
+   "ui_inline_translation_copied": {
+      "message": "Übersetzung kopiert"
+   },
+   "ui_inline_translation_copy": {
+      "message": "In Zwischenablage kopieren"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "Wörterbuch"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "Anhören"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "Beenden"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "Neue Version anhören"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "Ausgangstext anhören"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "Übersetzung anhören"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "Keine Einträge gefunden für „\u003Cstrong>$originalSnippet$\u003C/strong>“.",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "Der Wörterbucheintrag konnte nicht geladen werden. Bitte versuchen Sie es noch einmal."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "Alternativen auf DeepL.com anzeigen"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "Auf DeepL.com anzeigen"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "Weitere Funktionen entdecken"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(erkannt)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "Nicht verfügbare Sprache"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "Übersetzen Sie jedes Wort einzeln, um Wörterbucheinträge zu sehen."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "Das Wörterbuch ist für diese Sprachkombination nicht verfügbar."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "Selbstgeschriebenen Text übersetzen"
+   },
+   "ui_login_body": {
+      "message": "\u003CloginLink>Melden Sie sich an\u003C/loginLink> oder \u003CtryLink>testen Sie DeepL Pro kostenlos\u003C/tryLink>, um ganze Seiten zu übersetzen."
+   },
+   "ui_login_header": {
+      "message": "Diese Seite übersetzen? \u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "Nie aus dieser Sprache übersetzen: $sourceLang$",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "Diese Seite nie übersetzen"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "Sie können dies in den \u003CsettingsLink>Einstellungen\u003C/settingsLink> ändern."
+   },
+   "ui_notice_no_translate_language": {
+      "message": "Sie möchten nicht aus dieser Sprache übersetzen: \u003Cstrong>$sourceLang$\u003C/strong>.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "Sie möchten \u003Cstrong>$website$\u003C/strong> nicht übersetzen.",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "Sie möchten \u003Cstrong>$website$\u003C/strong> nicht übersetzen und auch nicht aus der folgenden Sprache übersetzen: \u003Cstrong>$sourceLang$\u003C/strong>.",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "Sie möchten das Pop-up für die Übersetzung ganzer Seiten nicht angezeigt bekommen. Sie können dies jederzeit in den Einstellungen ändern."
+   },
+   "ui_read_more": {
+      "message": "Mehr erfahren"
+   },
+   "ui_share_button": {
+      "message": "Kopieren"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "Kopiert"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "Link kopieren"
+   },
+   "ui_share_error": {
+      "message": "Beim Kopieren des Textes ist ein Fehler aufgetreten."
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "Feedback zur Erweiterung"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "Link kopiert"
+   },
+   "ui_share_title": {
+      "message": "DeepL mit Freunden teilen"
+   },
+   "ui_target_language_select": {
+      "message": "In welche Sprache möchten Sie übersetzen?"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "Danke für Ihr Feedback!"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "Möchten Sie an einer kurzen, einminütigen Umfrage teilnehmen, um uns zu helfen, die Erweiterung zu verbessern?"
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "Zur Umfrage"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "Nehmen Sie sich 2 Minuten Zeit, um uns Feedback zu geben."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "Was halten Sie von DeepL?"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "Schlecht"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "Gut"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "Teilen Sie uns Ihr Feedback mit"
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "Teilen Sie uns Ihr Feedback mit."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "Teilen Sie uns Ihr Feedback mit."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "Wie gefällt Ihnen die Erweiterung „DeepL für Chrome“?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "Wie gefällt Ihnen die Erweiterung „DeepL für Edge“?"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "Wie gefällt Ihnen die Erweiterung „DeepL für Firefox“?"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "Bewertung schreiben"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "Danke! Das freut uns sehr."
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Möchten Sie Ihr Feedback auch im Chrome Web Store abgeben?"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Möchten Sie Ihr Feedback auch im Edge-Add-on-Store abgeben?"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "Möchten Sie uns eine Bewertung hinterlassen?"
+   },
+   "ui_translated_automatically": {
+      "message": "Automatisch übersetzt aus dieser Sprache: \u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "Kostenlos testen"
+   },
+   "ui_widget_feature_free": {
+      "message": "KOSTENLOS"
+   },
+   "ui_widget_feature_pro": {
+      "message": "DEEPL PRO"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "Thread übersetzen"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "Übersetzung beenden"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "Die Sprache Ihrer Nachricht stimmt nicht mit der Sprache des Empfängers überein. Trotzdem einreichen?"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "Übersetzen"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(erkannt)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "Dieses Ticket übersetzen"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "Übersetzen nach:"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL unterstützt diese Sprache noch nicht"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "Wir benachrichtigen Sie, sobald sie verfügbar ist."
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "OK"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "DeepL deaktivieren"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "DeepL aktivieren"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "Willkommen bei DeepL für Zendesk"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "Welche Sprache verwenden Sie hauptsächlich?"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "Diese Erweiterung ist \u003Cstrong>für kurze Zeit kostenlos\u003C/strong> verfügbar. Probieren Sie sie direkt aus und \u003CloginLink>teilen Sie uns Ihr Feedback mit\u003C/loginLink>!"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "Tickets in mehreren\u003Cbr> Sprachen verwalten"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "Übersetzen Sie \u003Cstrong>Nachrichten oder ganze Threads\u003C/strong> im Handumdrehen"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "\u003Cstrong>Antworten\u003C/strong> Sie Ihren Kunden in ihrer Muttersprache"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "Schreiben Sie \u003Cstrong>natürlich klingende und professionelle Nachrichten\u003C/strong> in jeder Situation"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "Sprache des Absenders"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "Gestalten Sie die Produktstrategie von DeepL mit, indem Sie an unserer Umfrage teilnehmen."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "Später erinnern"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "Zur Umfrage"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "Sie haben das Nutzungslimit für Ihr Konto erreicht. Bitte kontaktieren Sie den \u003CdeeplSupportLink>DeepL-Support\u003C/deeplSupportLink>, um Ihr Limit zu erhöhen."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "Diese Funktion ist in Ihrem Paket leider nicht enthalten."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "Sie haben das Limit für die kostenlose Nutzung erreicht. Sie möchten mehr übersetzen?"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "Chat übersetzen nach:"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "Einstellungen"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "Chat übersetzen"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "Nachricht übersetzen nach:"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "Alternativen auf DeepL.com anzeigen"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "Einstellungen"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "Übersetzen"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Write unterstützt diese Sprache noch nicht."
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Write unterstützt diese Sprache noch nicht."
+   },
+   "write_see_language_supported": {
+      "message": "Unterstützte Sprachen anzeigen"
+   },
+   "write_style_options_button_label": {
+      "message": "Stil"
+   },
+   "write_style_options_cta_apply": {
+      "message": "Anwenden"
+   },
+   "write_style_options_cta_reset": {
+      "message": "Zurücksetzen"
+   },
+   "write_style_options_description_style": {
+      "message": "Passen Sie Ihren Text genau an Ihre Zielgruppe an."
+   },
+   "write_style_options_description_tone": {
+      "message": "Ihr Text wird in dem gewünschten Ton umformuliert."
+   },
+   "write_style_options_headline_style": {
+      "message": "Schreibstil auswählen"
+   },
+   "write_style_options_headline_tone": {
+      "message": "Ton auswählen"
+   },
+   "writing_config_tab_description": {
+      "message": "Selbst geschriebenen Text übersetzen nach:"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "Sprache auswählen"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "DeepL-Symbol beim Schreiben anzeigen"
+   },
+   "writing_style_academic": {
+      "message": "Akademisch"
+   },
+   "writing_style_business": {
+      "message": "Geschäftlich"
+   },
+   "writing_style_casual": {
+      "message": "Locker"
+   },
+   "writing_style_simple": {
+      "message": "Einfach"
+   },
+   "writing_tone_confident": {
+      "message": "Souverän"
+   },
+   "writing_tone_diplomatic": {
+      "message": "Diplomatisch"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "Enthusiastisch"
+   },
+   "writing_tone_friendly": {
+      "message": "Freundlich"
+   },
+   "youtube_alternatives_link": {
+      "message": "Auf DeepL.com anzeigen"
+   },
+   "youtube_translate_comment_link": {
+      "message": "Übersetzen mit DeepL"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "Entfernen"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "Glossar"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "Um unbegrenzt übersetzen zu können, testen Sie DeepL Pro Advanced jetzt 30 Tage lang kostenlos."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "Sie nutzen die kostenlose Version von DeepL"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "Um unbegrenzt übersetzen zu können, buchen Sie DeepL Pro Advanced oder Ultimate."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "Ihr Paket enthält keine unbegrenzte Übersetzung in Zendesk"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "\u003Cstrong>Testen Sie DeepL Pro Advanced\u003C/strong> jetzt 30 Tage lang kostenlos, um mehr zu übersetzen."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "Sie nutzen die kostenlose Version von DeepL "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "Sie haben das Übersetzungslimit der kostenlosen Version erreicht."
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "\u003Cstrong>Buchen Sie DeepL Pro Advanced oder Ultimate\u003C/strong>, um mehr zu übersetzen.\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "Ihr Paket enthält keine unbegrenzte Übersetzung in Zendesk"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "Wir konnten keine mit Ihrem Konto verknüpften Glossare finden."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "Die Glossarfunktion ist nur für DeepL Pro-Abonnenten verfügbar."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "Übersetzen Sie Tickets in Echtzeit – \u003Cstrong>bis zu $translationLimit$ Übersetzungen kostenlos\u003C/strong>.",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "Drücken Sie sich in jeder Situation \u003Cstrong>natürlich und professionell\u003C/strong> aus."
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "\u003Cstrong>Antworten\u003C/strong> Sie Ihren Kunden in ihrer Muttersprache."
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "Übersetzen Sie in Sekundenschnelle jedes Ticket, das Sie lesen oder erstellen."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL ist startklar"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "Wir haben das Plug-in durch eine vollständig integrierte Erweiterung ersetzt."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "Kostenlos herunterladen"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "Mehr Freude am Übersetzen"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "Um unbegrenzt übersetzen zu können, testen Sie DeepL Pro Advanced jetzt 30 Tage lang kostenlos."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "Noch $remainingTranslations$ Übersetzungen möglich",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "DeepL für Zendesk aktivieren"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>Verbleibende Übersetzungen:\u003C/strong> $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "DeepL Pro Advanced kostenlos testen"
+   },
+   "zendesk_try_pro_link": {
+      "message": "DeepL Pro kostenlos testen"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "Sie haben bereits ein \u003Cstrong>DeepL Pro Advanced- oder Ultimate-Abonnement\u003C/strong>? \u003C/loginLink>Jetzt anmelden\u003CloginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "Paket upgraden"
+   }
+}

@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Налаштуйте параметри, щоб покращити свій досвід."
+   },
+   "affected_page": {
+      "message": "Уражена сторінка"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly може бути заблоковано іншим розширенням, яке ви встановили, наприклад, блокувальником реклами. Тимчасово вимкніть інші розширення і спробуйте знову створити PDF."
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "capture_screenshot_manually": {
+      "message": "Використовуйте нашу функцію скріншота, щоб зафіксувати цю сторінку, а потім експортувати її у вигляді зображення або PDF."
+   },
+   "capturing": {
+      "message": "Захоплення"
+   },
+   "capturing_desc": {
+      "message": "Знімок екрана…"
+   },
+   "choose_paper_size": {
+      "message": "Виберіть бажаний розмір паперу для PDF."
+   },
+   "compress_pdf": {
+      "message": "Стиснути PDF"
+   },
+   "contact_us": {
+      "message": "Зв'яжіться з нами:"
+   },
+   "convert_pdf": {
+      "message": "Конвертувати PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Скріншот перегляду"
+   },
+   "default_button": {
+      "message": "Кнопка за замовчуванням"
+   },
+   "default_mode": {
+      "message": "Режим за замовчуванням"
+   },
+   "default_mode_checkbox": {
+      "message": "Більше не показувати ці опції. Ви можете увімкнути їх у Налаштуваннях."
+   },
+   "default_mode_desc": {
+      "message": "Виберіть дію, яка автоматично вибирається при натисканні кнопки."
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "dialog_close": {
+      "message": "Закрити"
+   },
+   "dialog_text": {
+      "message": "Надсилання на ваш принтер."
+   },
+   "dialog_text_btn": {
+      "message": "Надіслати повторно"
+   },
+   "dialog_title": {
+      "message": "Друк вашої сторінки"
+   },
+   "dont_show_again": {
+      "message": "Більше не показувати"
+   },
+   "edit_pdf": {
+      "message": "Редагувати PDF"
+   },
+   "email": {
+      "message": "Ел.пошта"
+   },
+   "email_article_sent": {
+      "message": "вам надіслана стаття"
+   },
+   "email_from": {
+      "message": "Від"
+   },
+   "email_message": {
+      "message": "Повідомлення"
+   },
+   "email_product_sent_message": {
+      "message": "Ваше повідомлення було надіслано. Можете закрити цю сторінку"
+   },
+   "email_send": {
+      "message": "Надіслати"
+   },
+   "email_sent_message": {
+      "message": "Ваше повідомлення було надіслано"
+   },
+   "email_title": {
+      "message": "Надіслати сторінку"
+   },
+   "email_to": {
+      "message": "До"
+   },
+   "full_page_screenshot": {
+      "message": "Повний вигляд"
+   },
+   "get_pro": {
+      "message": "Оновити"
+   },
+   "got_it": {
+      "message": "Зрозуміло"
+   },
+   "image": {
+      "message": "Фото"
+   },
+   "image_size_pref": {
+      "message": "Налаштування розміру зображення"
+   },
+   "image_size_pref_desc": {
+      "message": "Встановіть розмір зображень під час перегляду сторінок із розширенням."
+   },
+   "images": {
+      "message": "Зображення"
+   },
+   "lang_display_name": {
+      "message": "Українська (Ukrainian)"
+   },
+   "language_setting": {
+      "message": "Мова"
+   },
+   "language_setting_desc": {
+      "message": "Виберіть бажану мову."
+   },
+   "letter_paper_size": {
+      "message": "Лист"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "margin": {
+      "message": "Маржа"
+   },
+   "no": {
+      "message": "Ні"
+   },
+   "off": {
+      "message": "Вимкнено"
+   },
+   "other_tools": {
+      "message": "Інструменти"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Ця сторінка блокує PrintFriendly"
+   },
+   "page_size": {
+      "message": "Розмір сторінки"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Завантажити PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Помилка створення PDF"
+   },
+   "pdf_head": {
+      "message": "Генерується PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Розмір паперу PDF"
+   },
+   "print": {
+      "message": "Друк"
+   },
+   "print_pdf": {
+      "message": "Друк і PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Видаліть рекламу та навігацію. Добре підходить для тексту й статей."
+   },
+   "printer_friendly_page": {
+      "message": "Сторінка для друку"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Версія для друку не така"
+   },
+   "printfriendly_page": {
+      "message": "Сторінка PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Ця функція потребує оновлення."
+   },
+   "reach_out_for_support": {
+      "message": "Для отримання додаткової інформації або підтримки, будь ласка, зв'яжіться з нами за адресою"
+   },
+   "read_more": {
+      "message": "Читати більше"
+   },
+   "remove_ads_description": {
+      "message": "Видалення реклами та навігації з веб-сторінок. Добре працює зі статтями та сторінками з акцентом на текст."
+   },
+   "remove_images": {
+      "message": "Вилучити зображення"
+   },
+   "report": {
+      "message": "Повідомити"
+   },
+   "resolve_issue": {
+      "message": "і ми допоможемо вам вирішити проблему."
+   },
+   "save_as_image": {
+      "message": "Зберегти як зображення"
+   },
+   "save_as_pdf": {
+      "message": "Зберегти як PDF"
+   },
+   "save_changes": {
+      "message": "Зберегти"
+   },
+   "screenshot": {
+      "message": "Знімок екрану"
+   },
+   "screenshot_image_format": {
+      "message": "Формат зображення знімка екрану"
+   },
+   "screenshot_ready_soon": {
+      "message": "Ваш знімок екрану буде готовий через мить."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly працює на більшості веб-сайтів, спрощуючи створення чистіших, дружніх до друку сторінок і знімків екрана. Однак певні сторінки—такі як налаштування браузера, магазини розширень і інші обмежені зони—недоступні через політики браузера. Будь ласка, зв’яжіться з нами, якщо у вас є запитання."
+   },
+   "settings": {
+      "message": "Опції"
+   },
+   "settings_saved": {
+      "message": "Ваші налаштування були збережені."
+   },
+   "show_screenshot_message": {
+      "message": "Показати повідомлення про знімок екрана у вигляді для друку"
+   },
+   "something_went_wrong": {
+      "message": "Щось пішло не так"
+   },
+   "still_does_not_work": {
+      "message": "Якщо це все ще не працює, зв’яжіться з нами за адресою"
+   },
+   "stop_capturing": {
+      "message": "Зупинити захоплення"
+   },
+   "strict_security_settings": {
+      "message": "Вибачте, але ця сторінка має суворі налаштування безпеки (Політика безпеки вмісту), які заважають нам створити PrintFriendly версію сторінки."
+   },
+   "style": {
+      "message": "Стиль"
+   },
+   "take_screenshot": {
+      "message": "Зробіть скріншот:"
+   },
+   "text_size_pref": {
+      "message": "Налаштування розміру тексту"
+   },
+   "text_size_pref_desc": {
+      "message": "Встановіть розмір тексту під час перегляду сторінок із розширенням."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly, можливо, перевищив час очікування під час створення PDF. Можливо, він був занадто великим для нашої системи."
+   },
+   "txt_size": {
+      "message": "Розмір тексту"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Нам не вдалося створити PDF для цієї сторінки."
+   },
+   "undo": {
+      "message": "Відмінити"
+   },
+   "what_you_can_do": {
+      "message": "Що ви можете зробити"
+   },
+   "yes": {
+      "message": "Так"
+   }
+}

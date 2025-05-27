@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Rólunk..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Böngésző ablakos képernyőkép és"
+   },
+   "action_capture_entire": {
+      "message": "Teljes oldalas képernyőkép és"
+   },
+   "action_capture_entire_lite": {
+      "message": "Teljes oldalas képernyőkép"
+   },
+   "action_capture_selection": {
+      "message": "Kijelölt elemekről képernyőkép és"
+   },
+   "action_capture_selection_lite": {
+      "message": "Kijelölt elemekről képernyőkép"
+   },
+   "action_capture_tabs": {
+      "message": "Összes fülről képernyőkép és"
+   },
+   "action_capture_visible": {
+      "message": "Látható felületről képernyőkép és"
+   },
+   "action_capture_visible_lite": {
+      "message": "Látható felületről képernyőkép"
+   },
+   "action_copy": {
+      "message": "Másolás vágólapra"
+   },
+   "action_edit": {
+      "message": "Szerkesztés"
+   },
+   "action_email": {
+      "message": "E-Mail"
+   },
+   "action_enter_license": {
+      "message": "Licenc adatok megadása"
+   },
+   "action_external": {
+      "message": "Megnyitás külső szerkesztőben"
+   },
+   "action_install_native": {
+      "message": "Próbáld ki a haladó lehetőségeket"
+   },
+   "action_license_info": {
+      "message": "Licenc infó..."
+   },
+   "action_micsellaneous": {
+      "message": "Egyebek"
+   },
+   "action_onenote": {
+      "message": "Küldés OneNote-ba"
+   },
+   "action_open_clipboard": {
+      "message": "Fájl vágólapról"
+   },
+   "action_open_file": {
+      "message": "Fájl megnyitása"
+   },
+   "action_options": {
+      "message": "Beállítások"
+   },
+   "action_print": {
+      "message": "Nyomtatás"
+   },
+   "action_register": {
+      "message": "Regisztráció"
+   },
+   "action_resume": {
+      "message": "Szerkesztés folytatása"
+   },
+   "action_save": {
+      "message": "Mentés"
+   },
+   "action_save_pdf": {
+      "message": "Mentés PDF-ként"
+   },
+   "action_save_pdf_single": {
+      "message": "Mentés egy PDF-be"
+   },
+   "action_support": {
+      "message": "Ügyfélszolgálat"
+   },
+   "action_switch_pro": {
+      "message": "Válts Pro változatra"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Pro funkciók engedélyezése..."
+   },
+   "action_upload": {
+      "message": "Feltöltés"
+   },
+   "action_view_demo": {
+      "message": "Demo megtekintése"
+   },
+   "application_description": {
+      "message": "Készíts TELJES oldalas képernyőképet. Készíts képernyőmentést, szerkeszd és mentsd le PDF/JPEG/GIF/PING fájlba, töltsd fel, nyomtasd ki, küldd el e-mailben vagy OneNote-ba vagy helyezd vágólapra."
+   },
+   "application_title": {
+      "message": "Teljes oldalas képernyőkép- FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Pro megvásárlása"
+   },
+   "captured_copy_clipboard": {
+      "message": "Vágólapra helyezés"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Ismerd meg hogyan..."
+   },
+   "captured_get_free_button": {
+      "message": "Ingyenes próba"
+   },
+   "captured_print": {
+      "message": "Nyomtatás"
+   },
+   "captured_print_button": {
+      "message": "Nyomtatás"
+   },
+   "captured_recommend_us": {
+      "message": "Ajánld a FireShotot"
+   },
+   "captured_save_as_image": {
+      "message": "Mentés képként"
+   },
+   "captured_save_as_image_button": {
+      "message": "Mentés képként"
+   },
+   "captured_save_as_pdf": {
+      "message": "Mentés PDF-ként"
+   },
+   "captured_save_panel_title": {
+      "message": "Képernyőkép Mentése"
+   },
+   "captured_saving_options": {
+      "message": "testreszabás"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Gyorsbillentyűk és fájl beállítások..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Készíts képernyőképet, Írj jegyzeteket, Nyomtasd ki és Ments, Szerkeszd, Töltsd fel, küldd el E-Mailben / OneNote-ba, vagy Exportáld ki más alkalmazásokba."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Váltsd FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Más FireShot verziót használok"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Visszakaphatom?"
+   },
+   "enable_checkbox": {
+      "message": "Engedélyezés"
+   },
+   "options_button_apply": {
+      "message": "Alkalmaz"
+   },
+   "options_button_save_close": {
+      "message": "Mentés és bezárás"
+   },
+   "options_button_setup": {
+      "message": "Kattints a beállításhoz"
+   },
+   "options_label_and": {
+      "message": "és"
+   },
+   "options_label_capturing": {
+      "message": "Képlopás"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Fül bezárása a mentést követően"
+   },
+   "options_label_customize_saving": {
+      "message": "Mentés testreszabása"
+   },
+   "options_label_default_filename_template": {
+      "message": "Alapértelmezett fájlnév sablon"
+   },
+   "options_label_default_folder": {
+      "message": "Alapértelmezett könyvtár"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Egy fájl relatív útvonala tartalmazhat alkönyvtárakat a Letöltések mappán belül.\nAz abszolút útvonalak, az üres útvonalak, és a perjeles útvonalak «..» hibás működéshez vezethetnek."
+   },
+   "options_label_editor_options": {
+      "message": "Szerkesztő beállítások"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FireShot lehetőségek megjelenítése jobb kattintásra"
+   },
+   "options_label_file_settings": {
+      "message": "Fájl beállítások"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot beállítások"
+   },
+   "options_label_hotkey": {
+      "message": "Gyorsbillentyűk"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Legutóbbi művelet"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Ne mutasd a \"Mentés, mint...\" dialógust"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Mutasd a letöltött fájl mappáját a mentést követően"
+   },
+   "options_label_save_image_as": {
+      "message": "Mentés másként:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Szerkesztési, mentési, fájl elnevezési és stílus beállítások"
+   },
+   "options_label_specify_hotkey": {
+      "message": "Állíts be a gyorsbillentyűt a FireShot indításához"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Méretezési opciók és hangok beállítása"
+   },
+   "options_label_template_day": {
+      "message": "Nap"
+   },
+   "options_label_template_hour": {
+      "message": "Óra"
+   },
+   "options_label_template_limit_1": {
+      "message": "Limitáld a fájlnév hosszát erre"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakter"
+   },
+   "options_label_template_minutes": {
+      "message": "Perc"
+   },
+   "options_label_template_month": {
+      "message": "Hónap"
+   },
+   "options_label_template_pad_1": {
+      "message": "Töltsd ki a számokat ezzel"
+   },
+   "options_label_template_pad_2": {
+      "message": "nullák"
+   },
+   "options_label_template_seconds": {
+      "message": "Másodperc"
+   },
+   "options_label_template_title": {
+      "message": "Weboldal Cím"
+   },
+   "options_label_template_url": {
+      "message": "Weboldal URL"
+   },
+   "options_label_template_website": {
+      "message": "Domain Név"
+   },
+   "options_label_template_year": {
+      "message": "Év"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Mutasd a fájlnév sablon beállításokat..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Rejtsd el a fájlnév sablon beállításokat..."
+   }
+}

@@ -1,0 +1,61 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "images/copyfish-128.png",
+         "16": "images/copyfish-16.png",
+         "32": "images/copyfish-32.png",
+         "48": "images/copyfish-48.png"
+      },
+      "default_title": "__MSG_appName__"
+   },
+   "background": {
+      "service_worker": "scripts/background.js"
+   },
+   "commands": {
+      "desktop-text-capture-3s-delay": {
+         "description": "Desktop Text Capture (3s delay)",
+         "suggested_key": {
+            "default": "Ctrl+Shift+U",
+            "mac": "Command+Shift+U"
+         }
+      },
+      "desktop-text-capture-instant": {
+         "description": "Desktop Text Capture (Instant)",
+         "suggested_key": {
+            "default": "Ctrl+Shift+I",
+            "mac": "Command+Shift+I"
+         }
+      },
+      "get-image-from-clipboard": {
+         "description": "Get image from clipboard",
+         "suggested_key": {
+            "default": "Ctrl+Shift+C",
+            "mac": "Command+Shift+C"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/copyfish-128.png",
+      "16": "images/copyfish-16.png",
+      "32": "images/copyfish-32.png",
+      "48": "images/copyfish-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi0HbNToHIsaFwQDEe/kC9hMNpwjY4iiocSAG0tRHqvm2dTenLPhVwLObwLdBrJTz1lo3Ih1Q/lWfN3ppJdc47aXWpqOR8fanL3qDMGCRcFAzo6E1rS7iomJi0Fjbjfn+T1R6ch/APyvHeMFAHQGEsR+kzxp/ewLzv9HS6pC7AjAQM/gF5CJQQUITfcPHkGL3OHq7V7Vbq0a64WCZnagYVRoYRJdS2PxJqohKpGFOxl4GNOxGSd64o4vDlnqQ6qEgFSJVVOyAw/H275mCb6oISf3hLSu6RhHZ/x6efcrJJSE9Ysxw62STDzZyKha3qA0J88+REzwE8LnpcH2W1ZJ0JwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "contextMenus", "activeTab", "scripting", "storage", "notifications", "nativeMessaging", "clipboardRead", "commands" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.2.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "message-dialog.html", "dialog.html", "config/config.json", "images/gear.png", "images/outside.png", "images/close.png", "images/translate.png", "images/deepl.jpg", "images/copyfish-32.png" ],
+      "use_dynamic_url": true
+   } ]
+}

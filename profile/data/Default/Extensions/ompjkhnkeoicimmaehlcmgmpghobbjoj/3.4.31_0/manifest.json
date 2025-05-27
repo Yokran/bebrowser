@@ -1,0 +1,29 @@
+{
+   "author": "Opera",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "developer": {
+      "name": "Opera",
+      "url": "https://cashback.opera.com"
+   },
+   "homepage_url": "https://cashback.opera.com",
+   "icons": {
+      "128": "icons/128/Icon_Light_Neutral.png",
+      "32": "icons/32/Icon_Light_Neutral.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4j6ZDsOJNdYzgS5bVM3z54+vVPK0MAhUtO1FGP6f/ugfMaN6dfO6aUlMEkaNuJn3OPp8kk9uP2NIABZjCVHFnI0yo4No8yCXfhp7ogLSs9bGXS9pv0dKb4ch/3gB8UIXJPgVhNLt7cPXEfM9jy/mHfx1PG4QJC2n7WAr669QZaUlOR7Yd5k8lWG+3jfZjw9PpCjWEhcZOQLWEi10SMk5Rho6smdib3tJHcBAYde+vpVvfZLhUvVlHrBbL18lVs9mXDzSv0ChuH3povUCGfcUfmdZHLj7C9DcuCUKqLVOIWaCHo0IPt5AVuSWulR4B051GlyIlfCn/MWXqLDqxR9X0wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionLongName__",
+   "page_action": {
+      "default_icon": "icons/128/Icon_Light_Neutral.png",
+      "default_popup": "index.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "permissions": [ "storage", "webRequest", "webRequestBlocking", "tabs", "activeTab", "\u003Call_urls>", "cookies" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "3.4.31"
+}

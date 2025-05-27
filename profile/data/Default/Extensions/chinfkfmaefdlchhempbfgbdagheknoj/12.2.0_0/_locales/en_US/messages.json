@@ -1,0 +1,737 @@
+{
+   "aLittle": {
+      "message": "A little"
+   },
+   "aLot": {
+      "message": "A lot"
+   },
+   "aTon": {
+      "message": "A ton"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + Up/Down Arrows"
+   },
+   "alternateDesigns": {
+      "message": "Alternate designs"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "Appear distance"
+   },
+   "arrowOnly": {
+      "message": "Arrows only"
+   },
+   "askingToRateLinkTooltip": {
+      "description": "Message encouraging user to rate the extension.",
+      "message": "Do you like this extension?\n\nLet others know what you like the most!\nRate it now"
+   },
+   "authorsSettings": {
+      "message": "Author's settings"
+   },
+   "barelyAny": {
+      "message": "Barely any"
+   },
+   "black": {
+      "message": "Black"
+   },
+   "blue": {
+      "message": "Blue"
+   },
+   "bottomCenter": {
+      "message": "Bottom center"
+   },
+   "bottomLeft": {
+      "message": "Bottom left"
+   },
+   "bottomRight": {
+      "message": "Bottom right"
+   },
+   "breakingChangesUpgradingVersion8Message": {
+      "description": "Message/warning displayed to users who had had version 8 of the extension before. Context: ",
+      "message": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+   },
+   "brokenOnUnsupportedSetting": {
+      "description": "Message displayed for a possible error when handling (for example, saving) the settings.",
+      "message": "'A broken or an unsupported setting (option) detected.'"
+   },
+   "browserActionPageTitle": {
+      "message": "Active tab settings | Scroll To Top Button"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "Reload tab"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "Disable STTB for this domain"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "Disable STTB for this URL"
+   },
+   "browserActionSttbEnabled": {
+      "message": "Enable STTB"
+   },
+   "browserActionTitle": {
+      "message": "Active tab settings"
+   },
+   "buttonDesign": {
+      "message": "Button design"
+   },
+   "buttonDisplaySettings": {
+      "description": "Heading for the group of settings related to the look and feel of the button.",
+      "message": "Button display settings"
+   },
+   "buttonDisplaySettingsTooltip": {
+      "description": "Tooltip for the button display settings.",
+      "message": "Settings related to the look and feel of the button(s)."
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "Button height in pixels"
+   },
+   "buttonLocation": {
+      "message": "Button location"
+   },
+   "buttonMode": {
+      "message": "Button mode"
+   },
+   "buttonModeAdvanced": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "No button on page until click | Advanced"
+   },
+   "buttonModeAdvancedBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an advanced button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518776-dd309b00-380a-11ea-81d8-e229571b71ba.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nClick to add button(s) to currently active page*.\nRight-click (open context menu) to find Options.\n\n\n$BREAKING_CHANGES_MESSAGE$* Might not work on some pages/websites:\nPlease don't leave a negative review.\nInstead, let us know – we might be able to fix.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeAdvancedDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "To scroll page, add the button(s) onto page by clicking the extension icon next to the address bar."
+   },
+   "buttonModeBasic": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "No button on page | Basic"
+   },
+   "buttonModeBasicBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when a basic button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518629-9e024a00-380a-11ea-9d59-90b858f0aa0c.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nClick to scroll*.\nRight-click (open context menu) to find Options.\n\n\n$BREAKING_CHANGES_MESSAGE$* Might not work on some pages/websites:\nPlease don't leave a negative review.\nInstead, let us know – we might be able to fix.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeBasicDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "To scroll page, click the extension icon next to the address bar."
+   },
+   "buttonModeBrowserActionButtonTitle": {
+      "message": "Scroll to top of this page"
+   },
+   "buttonModeExpert": {
+      "description": "Group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "Button always on page + button settings | Expert"
+   },
+   "buttonModeExpertBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an expert button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518945-40223200-380b-11ea-9856-cbbb78f00edf.png",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$\n\nClick to open active tab settings.\nRight-click (open context menu) to find Options.\n\n\n$BREAKING_CHANGES_MESSAGE$Extension might not work on some pages/websites:\nPlease don't leave a negative review.\nInstead, let us know – we might be able to fix.",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeExpertDescription": {
+      "description": "Description of a group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "To scroll page, use the on-page button(s).\nThis mode allows button customizations.\nThis used to be the only option before version 9 released in January 2020."
+   },
+   "buttonSettings": {
+      "description": "(Deprecated: this string is not used at the moment, but might get reused in the future.) Settings of the button(s) that appears on the page when the button mode is set to one from the Advanced or Expert group.",
+      "message": "Button settings"
+   },
+   "buttonSize": {
+      "message": "Button size"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "$LENGTH$x$WIDTH$ pixels",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "Button width in pixels"
+   },
+   "centerLeft": {
+      "message": "Center left"
+   },
+   "centerRight": {
+      "message": "Center right"
+   },
+   "clickthroughKeys": {
+      "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element.",
+      "message": "Click element behind button"
+   },
+   "clickthroughKeysTooltip": {
+      "description": "The tooltip that explains the “clickthrough keys” option in detail.",
+      "message": "Before, you might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button.\n\nNow, you can hold a certain key on your keyboard and hover over the button and the button will disappear, allowing you to comfortably click the previously inaccessible element."
+   },
+   "close": {
+      "message": "Close"
+   },
+   "closeModal": {
+      "description": "Text of a button that closes a modal.",
+      "message": "Close"
+   },
+   "colors": {
+      "message": "Colors"
+   },
+   "containerStyleAttributeRepeatedChangesIssue": {
+      "description": "When a third-party script (the current page's or another extension's) is messing with the button's container's style attribute, adding unwanted rules, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that this issue might lead to an increase in CPU usage.",
+      "message": "A website script or another extension (addon) is trying to change the look of Scroll To Top Button.\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\nTo help resolve the issue sooner, please consider including a list of the installed extensions in your browser.\n\nIf the issue persists, you might see increased CPU usage.\n\n\nPoziWorld,\ndeveloper of Scroll To Top Button extension",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Context (right-click) menu"
+   },
+   "copiedToClipboard": {
+      "message": "Copied to clipboard"
+   },
+   "copyToClipboard": {
+      "message": "Copy to clipboard"
+   },
+   "copyingToClipboardFailed": {
+      "message": "Copying to clipboard failed"
+   },
+   "ctrlKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) key + Click button.",
+      "message": "Ctrl (Control) + Click"
+   },
+   "ctrlKeyOrShiftKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button.",
+      "message": "Ctrl/Shift + Click"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Let me specify..."
+   },
+   "debuggingInformationConfirmation": {
+      "description": "When there is an issue starting the extension in an Expert-type mode user selected in the Options, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "Press OK to report the issue in a new tab with the following debugging information included.\n\nIt will be helpful if you also provide your email, so we can get in touch with you to get more details and/or notify you when the issue is resolved.\n$DEBUGGING_INFORMATION$",
+      "placeholders": {
+         "debugging_information": {
+            "content": "$1",
+            "example": "Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "disableExpertButtonModes": {
+      "description": "Title of a button that triggers a revocation of the previously granted permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties). Context: https://user-images.githubusercontent.com/5961162/71878081-aa3a2900-30df-11ea-8be1-393dcf6578d0.png",
+      "message": "Revoke permissions"
+   },
+   "dislike": {
+      "description": "Message (currently, a “thumbs down” emoji) asking user to contact developer if that user is not (completely) satisfied with the extension.",
+      "message": "👎"
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Dual arrows"
+   },
+   "expertModeActivationIssue": {
+      "description": "When there is an issue starting the extension in an Expert-type mode user selected in the Options, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "There was an issue activating an Expert mode.\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\nWhile developer is looking into the issue, you can re-enable an Expert mode in Options.\n\nSorry for the inconvenience.",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "exportSettings": {
+      "message": "Export settings"
+   },
+   "exportedSettingsNotOfExpectedFormat": {
+      "description": "When user tries to export the extension settings, the extension first checks whether the format of settings is of an expected format. And, if not, the export process terminates and an error message is shown to the user.",
+      "message": "Failed to export settings. Please try reloading the page. If the problem persists, please notify the developer via $ISSUE_REPORTING_LINK$",
+      "placeholders": {
+         "issue_reporting_link": {
+            "content": "$1",
+            "example": "https://goo.gl/forms/QMZFZfgKjQHOnRCX2"
+         }
+      }
+   },
+   "exportedSettingsPreviewElementMissing": {
+      "description": "When user tries to export the extension settings, the extension is expected to show a preview of the exported settings in the text format. If the page element for the preview is missing, the export process terminates and an error message is shown to the user.",
+      "message": "Failed to show a preview of the exported settings. Please try reloading the page. If the problem persists, please notify the developer via $ISSUE_REPORTING_LINK$",
+      "placeholders": {
+         "issue_reporting_link": {
+            "content": "$1",
+            "example": "https://goo.gl/forms/QMZFZfgKjQHOnRCX2"
+         }
+      }
+   },
+   "exportedSettingsTitle": {
+      "message": "Exported settings"
+   },
+   "extensionDescription": {
+      "description": "In other words, “Adds a button (that allows) to scroll to top or bottom.”",
+      "message": "Scroll to top, bottom, or both. Click extension icon, on-page button, use context menu options, and/or keyboard shortcuts."
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "extensionReloadConfirmationMessage": {
+      "description": "If an Options change requires an extension restart, ask user whether he/she wants to do it now.",
+      "message": "Would you like to restart the extension now to apply the changes?"
+   },
+   "extensionReloadIssue": {
+      "description": "When there is an issue reloading the extension, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised to close and open the browser again to apply the changes.",
+      "message": "There was an issue reloading the extension.\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\nWhile developer is looking into the issue, you can close your browser and open it again to apply the changes.\n\nSorry for the inconvenience.",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "fast": {
+      "message": "Fast"
+   },
+   "faster": {
+      "message": "Faster"
+   },
+   "fastest": {
+      "message": "Fastest (instant)"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Flip between top &amp; bottom"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "Flip distance"
+   },
+   "genericContactFormLinkText": {
+      "description": "Text of a link to contact developer about an issue/bug and/or with a suggestion/question/other feedback.",
+      "message": "Get support / Give feedback"
+   },
+   "green": {
+      "message": "Green"
+   },
+   "grey": {
+      "message": "Gray"
+   },
+   "hadVersion8InstalledBeforeMessage": {
+      "description": "Message displayed to existing users when their extension gets updated from version 8 to version 9. Context: ",
+      "message": "Dear $EXTENSION_NAME$ user,\n\n\nTo give all users a choice of improved security, the following changes to the way the extension works were made in version 9 (compared to version 8 and earlier):\n\nTo install, it now does not need any permissions.\n\nFor existing users, unfortunately, there was no way for us to keep the permissions you had granted upon the installation.\n\n\n\u003Cspan data-context=\"expertModes\">To restore how it used to work, please enable one of the expert button modes.\u003C/span>\n\n\u003Cspan data-context=\"otherModes\">Or, you can give a try to the new basic and advanced button modes, which work without any permissions.\u003C/span>\n\n\nWe deeply apologize for the inconvenience.\nYour trust and support have always been paramount to us.\n\nTechnical details of the changes: \u003Cspan data-context=\"activeTabInfoUrlPlaceholder\">\u003C/span>.\n\n\nPoziWorld,\ndeveloper of $EXTENSION_NAME$",
+      "placeholders": {
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         }
+      }
+   },
+   "hadVersion8InstalledBeforeMessageAcknowledgment": {
+      "description": "Acknowledgement call-to-action (button) text for the message displayed to existing users when their extension gets updated from version 8 to version 9. Context: ",
+      "message": "Okay, I will check the expert button modes"
+   },
+   "hadVersion8InstalledBeforeMessageRemoval": {
+      "description": "Text of a call-to-action (button) that removes the message displayed to existing users when their extension gets updated from version 8 to version 9. Context: ",
+      "message": "Don't show this message again"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">Help translate\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "Home &amp; End keys controlled by"
+   },
+   "infiniteScrollDown": {
+      "message": "Infinite scroll down"
+   },
+   "infiniteScrollDownRecheckDelay": {
+      "message": "Delay to check for ability to continue scrolling"
+   },
+   "infiniteScrollDownRecheckDelayActiveIndicator": {
+      "message": "Indicator when waiting"
+   },
+   "infiniteScrollDownRecheckDelayActiveIndicatorTooltip": {
+      "message": "When the extension is waiting (see the delay setting above) to recheck whether more content will have been loaded, it can show an indicator underneath the button.\n\nThe indicator should look like the infinity symbol (∞)."
+   },
+   "infiniteScrollDownRecheckDelayTooltip": {
+      "message": "If the infinite scrolling enabled website hadn't loaded more content by the time the extension finished scrolling down, the extension will wait the number of milliseconds specified by this setting to check again whether more content will have been loaded, in which case the extension will continue scrolling down."
+   },
+   "infiniteScrollDownTooltip": {
+      "message": "Some websites, such as Twitter, Instagram, Facebook, and Quora, keep loading more content as you scroll down.\n\nEnabling this setting makes the extension check whether the page height has increased while the scroll was in-progress, which most likely would mean more content got loaded, and if that is the case then the extension can continue scrolling down.\n\nTip: you can stop the in-progress (infinite) scrolling by clicking the “Scroll down” button."
+   },
+   "invisible": {
+      "message": "Invisible"
+   },
+   "issueReportingLinkTooltip": {
+      "description": "Message encouraging user to contact developer.",
+      "message": "Something is not working?\nFound a bug?\nHave a question?\nSomething else?\n\nContact the extension developer now"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Keyboard only"
+   },
+   "keyboardSettings": {
+      "message": "Keyboard settings"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Keyboard shortcuts"
+   },
+   "language_bg": {
+      "description": "Language option: bg (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Bulgarian - български"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "Automatic (browser default)"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "If the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States)."
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Czech - čeština"
+   },
+   "language_da": {
+      "description": "Language option: da (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Danish - dansk"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "English (United States)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Galician - galego"
+   },
+   "language_ja": {
+      "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Japanese - 日本語"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Dutch - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Polish - polski"
+   },
+   "language_ru": {
+      "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Russian - русский"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Turkish - Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "Chinese (China) - 中文（中国）"
+   },
+   "like": {
+      "description": "Message (currently, a “thumbs up” emoji) asking user to indicate whether that user is satisfied with the extension.",
+      "message": "👍"
+   },
+   "medium": {
+      "message": "Medium"
+   },
+   "moreThanAverage": {
+      "message": "More than average"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "Not active button opacity"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">Homepage\u003C/a>"
+   },
+   "on": {
+      "message": "On"
+   },
+   "opaque": {
+      "message": "Opaque"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Operating system"
+   },
+   "optionsContextMenuItemTitle": {
+      "description": "Title of a context (right-click) menu item, which the extension Options page. Context: https://user-images.githubusercontent.com/5961162/73048636-ad971980-3e2e-11ea-8531-b3226ec71a44.png",
+      "message": "Options"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Options | Scroll To Top Button"
+   },
+   "optionsSaved": {
+      "message": "Options saved."
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Scroll To Top Button Options"
+   },
+   "orange": {
+      "message": "Orange"
+   },
+   "otherSettings": {
+      "message": "Other settings"
+   },
+   "permissionDetailsOrigins": {
+      "description": "Name and description of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "“$PERMISSION_NAME$” is used to add the button(s) itself, its logic, and its design properties onto all websites without extra actions from you.",
+      "placeholders": {
+         "permission_name": {
+            "content": "$1",
+            "example": "Read and change all your data on the websites you visit"
+         }
+      }
+   },
+   "permissionDetailsTabs": {
+      "description": "Name and description of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "“$PERMISSION_NAME$” is used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) You have the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option.",
+      "placeholders": {
+         "permission_name": {
+            "content": "$1",
+            "example": "Read your browsing history"
+         }
+      }
+   },
+   "permissionNameOriginsChromium": {
+      "description": "Chromium-based browsers-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png",
+      "message": "Read and change all your data on the websites you visit"
+   },
+   "permissionNameOriginsFirefox": {
+      "description": "Firefox-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "Access your data for all websites"
+   },
+   "permissionNameTabsChromium": {
+      "description": "Chromium-based browsers-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png",
+      "message": "Read your browsing history"
+   },
+   "permissionNameTabsFirefox": {
+      "description": "Firefox-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "Access browser tabs"
+   },
+   "permissionsCheckIssue": {
+      "description": "When there is an issue checking for the required permissions, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "There was an issue checking for the required permissions.\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\nWhile developer is looking into the issue, you can re-enable an Expert mode in Options, if you had one enabled before.\n\nSorry for the inconvenience.",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "permissionsListExplanation": {
+      "description": "A sentence that is followed by a list of individual permissions and their descriptions. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "The following permissions are required for the expert button modes – modes that work by adding the button(s) onto all pages unless you choose to disable it for certain pages or websites:"
+   },
+   "permissionsRequestIssue": {
+      "description": "When there is an issue with user's request for the permissions, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised to make the request again.",
+      "message": "There was an issue with your request for the permissions.\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\nWhile developer is looking into the issue, you can try requesting the permissions again.\n\nSorry for the inconvenience.",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "pink": {
+      "message": "Pink"
+   },
+   "pixelDesign": {
+      "message": "Pixel design"
+   },
+   "privacyDetails": {
+      "description": "Re-affirmation that the extension doesn't steal user's data. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "This extension does not read, change, store, or transmit any of your personal data (e.g., logins, passwords, messages, contacts) from any of the sites or your computer in absolutely any form."
+   },
+   "purple": {
+      "message": "Purple"
+   },
+   "red": {
+      "message": "Red"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">Release notes\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "Restore defaults"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saveToFile": {
+      "message": "Save to file"
+   },
+   "savedToFile": {
+      "message": "Saved to file"
+   },
+   "savingToFileFailed": {
+      "message": "Saving to file failed"
+   },
+   "scrollDownSpeed": {
+      "message": "Scroll down speed"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Scroll down speed in milliseconds"
+   },
+   "scrollSettings": {
+      "description": "Heading for the group of settings related to the scrolling of the page, such as the scrolling speed and when the button should appear when the scrolling starts.",
+      "message": "Scroll settings"
+   },
+   "scrollSettingsTooltip": {
+      "description": "Tooltip for the scroll settings.",
+      "message": "Settings related to the scrolling of the page, such as the scrolling speed and when the button should appear when the scrolling starts."
+   },
+   "scrollToBottomOnly": {
+      "description": "Name of a button mode that allows scrolling only to the bottom of a page.",
+      "message": "Scroll to bottom only"
+   },
+   "scrollToBottomOnlyBasicContextMenuItemTitle": {
+      "description": "Title of a context (right-click) menu item, which scrolls page to its bottom. Name of the button mode and its group (in parentheses).",
+      "message": "Scroll to bottom (Basic)"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "Scroll to top only"
+   },
+   "scrollToTopOnlyBasicContextMenuItemTitle": {
+      "description": "Title of a context (right-click) menu item, which scrolls page to its top. Name of the button mode and its group (in parentheses). Context: https://user-images.githubusercontent.com/5961162/73048563-6f99f580-3e2e-11ea-9b6a-a2cae9526f1b.png",
+      "message": "Scroll to top (Basic)"
+   },
+   "scrollUpSpeed": {
+      "message": "Scroll up speed"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "Scroll up speed in milliseconds"
+   },
+   "shiftKey": {
+      "description": "Shift key + Click button.",
+      "message": "Shift + Click"
+   },
+   "slow": {
+      "message": "Slow"
+   },
+   "slower": {
+      "message": "Slower"
+   },
+   "slowest": {
+      "message": "Slowest"
+   },
+   "sourceCodeOpenlyAvailableDetails": {
+      "description": "Statement that the extension has nothing to hide. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "Free extension. Code available for your review at https://github.com/PoziWorld/Scroll-To-Top-Button-extension"
+   },
+   "topCenter": {
+      "message": "Top center"
+   },
+   "topLeft": {
+      "message": "Top left"
+   },
+   "topRight": {
+      "message": "Top right"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": " "
+   },
+   "transparent": {
+      "message": "Transparent"
+   },
+   "tumblerBlue": {
+      "message": "Tumblr blue"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "Language"
+   },
+   "versionAndLicense": {
+      "description": "Shows the extension name, extension version, and license information. “fair-code” and “Sustainable Use License” shouldn't be translated.",
+      "message": "$EXTENSION_NAME$ v$EXTENSION_VERSION$ is [fair-code]($FAIR_CODE_URL$) distributed under the [Sustainable Use License]($SUSTAINABLE_USE_LICENSE_URL$)\u003C/a>",
+      "placeholders": {
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "11.0.0"
+         },
+         "fair_code_url": {
+            "content": "$3",
+            "example": "https://faircode.io"
+         },
+         "sustainable_use_license_url": {
+            "content": "$4",
+            "example": "https://github.com/PoziWorld/Scroll-To-Top-Button-extension/blob/v11.0.0/LICENSE.md"
+         }
+      }
+   },
+   "watchDemo": {
+      "description": "Link/button that opens/triggers a URL/page/modal featuring a demo (video).",
+      "message": "Watch demo"
+   },
+   "yellow": {
+      "message": "Yellow"
+   }
+}

@@ -1,0 +1,594 @@
+{
+   "aLittle": {
+      "message": "一点点"
+   },
+   "aLot": {
+      "message": "很多"
+   },
+   "aTon": {
+      "message": "超多"
+   },
+   "altTB": {
+      "message": "Alt + T/B"
+   },
+   "altUpDownArrows": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Alt + Up/Down 箭头"
+   },
+   "alternateDesigns": {
+      "message": "备用样式"
+   },
+   "appearDistance": {
+      "description": "In other words, “distance after which the button appears.”",
+      "message": "偏移显示距离"
+   },
+   "arrowOnly": {
+      "message": "仅箭头"
+   },
+   "askingToRateLinkTooltip": {
+      "description": "Message encouraging user to rate the extension.",
+      "message": "您喜欢本扩展么？\n\n让其他人知道您最喜欢什么！\n立即评分"
+   },
+   "authorsSettings": {
+      "message": "作者的设置"
+   },
+   "barelyAny": {
+      "message": "几乎没有"
+   },
+   "black": {
+      "message": "黑色"
+   },
+   "blue": {
+      "message": "蓝色"
+   },
+   "bottomCenter": {
+      "message": "底部中间"
+   },
+   "bottomLeft": {
+      "message": "底部左边"
+   },
+   "bottomRight": {
+      "message": "底部右边"
+   },
+   "breakingChangesUpgradingVersion8Message": {
+      "description": "Message/warning displayed to users who had had version 8 of the extension before. Context: ",
+      "message": "重要事项：\n从版本8升级时有重大更改！\n请转到选项页以了解详细信息。\n\n\n"
+   },
+   "browserActionPageTitle": {
+      "message": "活动标签页设置 | Scroll To Top Button"
+   },
+   "browserActionReloadActiveTab": {
+      "message": "刷新页面"
+   },
+   "browserActionSttbDisabledDomain": {
+      "message": "对这个域名禁用 STTB"
+   },
+   "browserActionSttbDisabledUrl": {
+      "message": "对这个 URL 禁用 STTB"
+   },
+   "browserActionSttbEnabled": {
+      "message": "启用 STTB"
+   },
+   "browserActionTitle": {
+      "message": "活动标签页设置"
+   },
+   "buttonDesign": {
+      "message": "按钮样式"
+   },
+   "buttonHeightCustom": {
+      "description": "Lets user specify button height value in pixels instead of selecting a pre-set size.",
+      "message": "按钮高度（单位：像素）"
+   },
+   "buttonLocation": {
+      "message": "按钮位置"
+   },
+   "buttonMode": {
+      "message": "按钮模式"
+   },
+   "buttonModeAdvanced": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "除非点击图标，否则网页上不显示任何按钮 | 高级"
+   },
+   "buttonModeAdvancedBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an advanced button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518776-dd309b00-380a-11ea-81d8-e229571b71ba.png",
+      "message": "$EXTENSION_NAME$v$EXTENSION_VERSION$\n\n\n单击以将按钮添加到当前活动页面。\n右键单击（打开上下文菜单）以找到选项。\n\n\n$BREAKING_CHANGES_MESSAGE$在某些页面/网站上可能不起作用：\n请不要急着留下负面评价，\n而是，通知我们——因为我们也许可以修复。",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeAdvancedDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. User first needs to click the extension icon, which adds the scroll button(s) onto the page. Context: ",
+      "message": "要滚动至顶部，点击地址栏右侧的拓展程序图标来向页面添加按钮。"
+   },
+   "buttonModeBasic": {
+      "description": "Group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "在网页中不显示按钮 | 基本"
+   },
+   "buttonModeBasicBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when a basic button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518629-9e024a00-380a-11ea-9d59-90b858f0aa0c.png",
+      "message": "$EXTENSION_NAME$v$EXTENSION_VERSION$\n\n单击滚动\n右键单击（打开上下文菜单）以找到选项\n\n$BREAKING_CHANGES_MESSAGE$可能在某些页面上无法生效：\n请不要急着留下负面评价，\n而是，通知我们——因为我们也许可以修复。",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeBasicDescription": {
+      "description": "Description of a group of button modes that don't require any special permissions during installation or while in use. Since these modes don't have those permissions, the feature scope is limited. Scrolling is triggered by clicking the extension icon. Context: ",
+      "message": "通过点击浏览器地址栏附近的本扩展程序图标来滚动页面。"
+   },
+   "buttonModeBrowserActionButtonTitle": {
+      "message": "滚动到本页面顶部"
+   },
+   "buttonModeExpert": {
+      "description": "Group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "按钮一直在页面上 + 按钮设定 | 专业"
+   },
+   "buttonModeExpertBrowserActionTitle": {
+      "description": "Tooltip of the extension icon next to the address bar when an expert button mode is selected in Options. Context: https://user-images.githubusercontent.com/5961162/72518945-40223200-380b-11ea-9856-cbbb78f00edf.png",
+      "message": "$EXTENSION_NAME$v$EXTENSION_VERSION$\n\n单击以打开页面设置。\n右键单击（打开上下文菜单）以找到选项。\n\n\n$BREAKING_CHANGES_MESSAGE$在某些页面/网站上可能不起作用：\n请不要急着留下负面评价，\n而是，通知我们——因为我们也许可以修复。",
+      "placeholders": {
+         "breaking_changes_message": {
+            "content": "$3",
+            "example": "IMPORTANT:\nBreaking changes when upgrading from version 8!\nPlease go to Options for details.\n\n\n"
+         },
+         "extension_name": {
+            "content": "$1",
+            "example": "Scroll To Top Button"
+         },
+         "extension_version": {
+            "content": "$2",
+            "example": "9.0.0"
+         }
+      }
+   },
+   "buttonModeExpertDescription": {
+      "description": "Description of a group of button modes that require special permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties) to be granted. Allows to have the scroll button(s) always on page. Context: ",
+      "message": "使用添加到网页上的按钮来滚动页面。\n在此模式中您可以个性化按钮。\n本选项曾经是 2020 年 1 月发布版本 9 之前的唯一选项。"
+   },
+   "buttonSettings": {
+      "message": "按钮设置"
+   },
+   "buttonSize": {
+      "message": "按钮尺寸"
+   },
+   "buttonSizeInPixels": {
+      "description": "Button size in pixels (length, width): 35x40 pixels",
+      "message": "$LENGTH$x$WIDTH$ 像素",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "35"
+         },
+         "width": {
+            "content": "$2",
+            "example": "40"
+         }
+      }
+   },
+   "buttonWidthCustom": {
+      "description": "Lets user specify button width value in pixels instead of selecting a pre-set size.",
+      "message": "按钮宽度（单位：像素）"
+   },
+   "centerLeft": {
+      "message": "中间左侧"
+   },
+   "centerRight": {
+      "message": "中间右侧"
+   },
+   "clickthroughKeys": {
+      "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element.",
+      "message": "点击按钮下面的元素"
+   },
+   "clickthroughKeysTooltip": {
+      "description": "The tooltip that explains the “clickthrough keys” option in detail.",
+      "message": "以前，单击位于按钮下方/后面的元素是不方便的，因为该按钮会将其遮挡住。\n\n现在，按住键盘上的某个键然后将鼠标悬停在该按钮上，即可将按钮隐藏起来，从而实现点击以前无法访问的元素。"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "colors": {
+      "message": "颜色"
+   },
+   "containerStyleAttributeRepeatedChangesIssue": {
+      "description": "When a third-party script (the current page's or another extension's) is messing with the button's container's style attribute, adding unwanted rules, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that this issue might lead to an increase in CPU usage.",
+      "message": "网站脚本或其他扩展（插件）正在尝试更改“Scroll To Top Button”的外观。\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\n为帮助尽快解决此问题，请考虑在浏览器中包括已安装扩展的列表。\n\n如果问题仍然存在，则可能会看到 CPU 使用率增加。\n\n——PoziWorld（Scroll To Top Button开发者）",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "contextRightClickMenu": {
+      "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "右键菜单"
+   },
+   "ctrlKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) key + Click button.",
+      "message": "Ctrl (Control) + 点击"
+   },
+   "ctrlKeyOrShiftKey": {
+      "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button.",
+      "message": "Ctrl/Shift+点击"
+   },
+   "custom": {
+      "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "让我来指定…"
+   },
+   "debuggingInformationConfirmation": {
+      "description": "When there is an issue starting the extension in an Expert-type mode user selected in the Options, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "点击 OK 进入新页面报告问题，其中包含以下调试信息。\n\n提供您的电子邮件将很有帮助，因为我们可以与您联系以获取更多详细信息或在问题解决后通知您。\n$DEBUGGING_INFORMATION$",
+      "placeholders": {
+         "debugging_information": {
+            "content": "$1",
+            "example": "Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "disableExpertButtonModes": {
+      "description": "Title of a button that triggers a revocation of the previously granted permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “\u003Call_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties). Context: https://user-images.githubusercontent.com/5961162/71878081-aa3a2900-30df-11ea-8be1-393dcf6578d0.png",
+      "message": "撤销权限"
+   },
+   "dualArrows": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "双箭头"
+   },
+   "expertModeActivationIssue": {
+      "description": "When there is an issue starting the extension in an Expert-type mode user selected in the Options, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "激活专家模式时出现问题。\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\n在开发人员解决问题之前，可以尝试在选项中重新启用专家模式。\n\n抱歉给您带来不便。",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "extensionName": {
+      "description": "Please copy and paste the original/source string. Should NOT be translated.",
+      "message": "Scroll To Top Button"
+   },
+   "extensionReloadConfirmationMessage": {
+      "description": "If an Options change requires an extension restart, ask user whether he/she wants to do it now.",
+      "message": "你是否愿意立即重启扩展程序来应用这些更改？"
+   },
+   "extensionReloadIssue": {
+      "description": "When there is an issue reloading the extension, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised to close and open the browser again to apply the changes.",
+      "message": "重新加载扩展程序时出现问题。\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\n当开发人员调查问题时，您可以尝试关闭浏览器，然后再次打开以应用更改。\n\n很抱歉给您带来了不便。",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "fast": {
+      "message": "快"
+   },
+   "faster": {
+      "message": "较快"
+   },
+   "fastest": {
+      "message": "最快（立即）"
+   },
+   "flipBetweenTopBottom": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "翻转 顶部 &amp; 按钮"
+   },
+   "flipDistance": {
+      "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom.",
+      "message": "翻转距离"
+   },
+   "genericContactFormLinkText": {
+      "description": "Text of a link to contact developer about an issue/bug and/or with a suggestion/question/other feedback.",
+      "message": "寻求帮助/提出反馈"
+   },
+   "green": {
+      "message": "绿色"
+   },
+   "grey": {
+      "message": "灰色"
+   },
+   "hadVersion8InstalledBeforeMessageAcknowledgment": {
+      "description": "Acknowledgement call-to-action (button) text for the message displayed to existing users when their extension gets updated from version 8 to version 9. Context: ",
+      "message": "好，我将检查专业按钮模式"
+   },
+   "hadVersion8InstalledBeforeMessageRemoval": {
+      "description": "Text of a call-to-action (button) that removes the message displayed to existing users when their extension gets updated from version 8 to version 9. Context: ",
+      "message": "不要再显示此消息"
+   },
+   "helpTranslate": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"translateLink\">帮我们翻译\u003C/a>"
+   },
+   "homeEndKeysControlledBy": {
+      "message": "Home &amp; End 键已被控制"
+   },
+   "invisible": {
+      "message": "隐藏"
+   },
+   "issueReportingLinkTooltip": {
+      "description": "Message encouraging user to contact developer.",
+      "message": "有无法使用的功能？\n发现 BUG 了？\n有疑问？\n有其他问题？\n\n联系扩展开发者"
+   },
+   "keyboardOnly": {
+      "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "仅键盘"
+   },
+   "keyboardSettings": {
+      "message": "键盘设置"
+   },
+   "keyboardShortcuts": {
+      "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "键盘快捷键"
+   },
+   "language_bg": {
+      "description": "Language option: bg (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "保加利亚语 - български"
+   },
+   "language_browserDefault": {
+      "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States).",
+      "message": "自动（浏览器默认）"
+   },
+   "language_browserDefault_tooltip": {
+      "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip.",
+      "message": "如果扩展程序支持在浏览器中选择为默认语言，请使用该语言。 否则，请使用英语（美国）。"
+   },
+   "language_cs": {
+      "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "捷克语 - čeština"
+   },
+   "language_en_US": {
+      "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "英语（美国）- English (United States)"
+   },
+   "language_gl": {
+      "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "加利西亚语 - galego"
+   },
+   "language_ja": {
+      "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "日语 - 日本語"
+   },
+   "language_nl": {
+      "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "荷兰语 - Nederlands"
+   },
+   "language_pl": {
+      "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "波兰语 - polski"
+   },
+   "language_ru": {
+      "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "俄语 - русский"
+   },
+   "language_tr": {
+      "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "土耳其语 - Türkçe"
+   },
+   "language_zh_CN": {
+      "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States).",
+      "message": "中文（中国）"
+   },
+   "medium": {
+      "message": "中等"
+   },
+   "moreThanAverage": {
+      "message": "高于平均值"
+   },
+   "notActiveButtonOpacity": {
+      "description": "In other words, “Opacity of inactive button.”",
+      "message": "未激活按钮透明度"
+   },
+   "off": {
+      "message": "关"
+   },
+   "officialWebsite": {
+      "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable.",
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">主页\u003C/a>"
+   },
+   "on": {
+      "message": "启用"
+   },
+   "opaque": {
+      "message": "不透明"
+   },
+   "operatingSystem": {
+      "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "操作系统"
+   },
+   "optionsContextMenuItemTitle": {
+      "description": "Title of a context (right-click) menu item, which the extension Options page. Context: https://user-images.githubusercontent.com/5961162/73048636-ad971980-3e2e-11ea-8531-b3226ec71a44.png",
+      "message": "选项"
+   },
+   "optionsPageTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "设置 | Scroll To Top Button"
+   },
+   "optionsSaved": {
+      "message": "选项已保存。"
+   },
+   "optionsTitle": {
+      "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place.",
+      "message": "Scroll To Top Button 设置"
+   },
+   "orange": {
+      "message": "橙色"
+   },
+   "otherSettings": {
+      "message": "其他设置"
+   },
+   "permissionDetailsOrigins": {
+      "description": "Name and description of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "“$PERMISSION_NAME$”用于在无需您执行额外操作的情况下将按钮本身、其运行逻辑及其设计属性添加到所有网站上。",
+      "placeholders": {
+         "permission_name": {
+            "content": "$1",
+            "example": "Read and change all your data on the websites you visit"
+         }
+      }
+   },
+   "permissionDetailsTabs": {
+      "description": "Name and description of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "“$PERMISSION_NAME$”用于检查选项卡的 URL：\n1）在某些默认网站上，由于该按钮在那里不起作用因而不会添加按钮（例如 Google Docs 和 Google Sheets）。\n2）通过单击地址栏旁边的扩展图标并选择适当的选项，您可以禁用任何域名（example.org）或 URL（example.org/blog?page=1）上的按钮。",
+      "placeholders": {
+         "permission_name": {
+            "content": "$1",
+            "example": "Read your browsing history"
+         }
+      }
+   },
+   "permissionNameOriginsChromium": {
+      "description": "Chromium-based browsers-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png",
+      "message": "读取和改写你访问的网站的所有数据"
+   },
+   "permissionNameOriginsFirefox": {
+      "description": "Firefox-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "对所有的网站存取你的数据"
+   },
+   "permissionNameTabsChromium": {
+      "description": "Chromium-based browsers-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png",
+      "message": "读取您的浏览历史记录"
+   },
+   "permissionNameTabsFirefox": {
+      "description": "Firefox-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "访问浏览器标签"
+   },
+   "permissionsCheckIssue": {
+      "description": "When there is an issue checking for the required permissions, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised that the preferred Expert-type mode can be enabled in the Options again.",
+      "message": "检查所需的权限时出现问题。\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\n当开发人员调查问题时，如果之前启用了专家模式，则可以尝试在选项页中重启专家模式。\n\n很抱歉给您带来了不便。",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "permissionsListExplanation": {
+      "description": "A sentence that is followed by a list of individual permissions and their descriptions. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "专家模式需要以下权限——专家模式通过将按钮添加到所有页面上才能起作用，除非您选择为某些页面或网站禁用它："
+   },
+   "permissionsRequestIssue": {
+      "description": "When there is an issue with user's request for the permissions, then user is presented with a dialog asking user to submit an issue report to the developer. User is also advised to make the request again.",
+      "message": "您的权限请求出现问题。\n\n$DEBUGGING_INFORMATION_CONFIRMATION$\n\n在开发人员调查问题时，您可以尝试再次请求权限。\n\n很抱歉给您带来了不便。",
+      "placeholders": {
+         "debugging_information_confirmation": {
+            "content": "$1",
+            "example": "Press OK to send the following: Variable 1 key: variable 1 value\nVariable 2 key: variable 2 value"
+         }
+      }
+   },
+   "pink": {
+      "message": "粉色"
+   },
+   "pixelDesign": {
+      "message": "像素风格"
+   },
+   "privacyDetails": {
+      "description": "Re-affirmation that the extension doesn't steal user's data. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "该拓展程序不会以任何形式，从任何站点或您的计算机中，读取、修改、存储或发送任何您的个人数据（例如登录信息、密码、消息、联系人等）。"
+   },
+   "purple": {
+      "message": "紫色"
+   },
+   "red": {
+      "message": "红色"
+   },
+   "releaseNotes": {
+      "message": "\u003Ca href=\"#\" target=\"_blank\" id=\"releaseLink\">发行说明\u003C/a>"
+   },
+   "restoreDefaults": {
+      "message": "恢复默认"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "scrollDownSpeed": {
+      "message": "向下滚动速度"
+   },
+   "scrollDownSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "向下滚动速度（单位：毫秒）"
+   },
+   "scrollToTopOnly": {
+      "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png",
+      "message": "仅滚动到顶部"
+   },
+   "scrollToTopOnlyBasicContextMenuItemTitle": {
+      "description": "Title of a context (right-click) menu item, which scrolls page to its top. Name of the button mode and its group (in parentheses). Context: https://user-images.githubusercontent.com/5961162/73048563-6f99f580-3e2e-11ea-9b6a-a2cae9526f1b.png",
+      "message": "滚动至顶部（基础）"
+   },
+   "scrollUpSpeed": {
+      "message": "向上滚动速度"
+   },
+   "scrollUpSpeedCustom": {
+      "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one.",
+      "message": "向上滚动速度（单位：毫秒）"
+   },
+   "shiftKey": {
+      "description": "Shift key + Click button.",
+      "message": "Shift+点击"
+   },
+   "slow": {
+      "message": "慢"
+   },
+   "slower": {
+      "message": "较慢"
+   },
+   "slowest": {
+      "message": "最慢"
+   },
+   "sourceCodeOpenlyAvailableDetails": {
+      "description": "Statement that the extension has nothing to hide. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png",
+      "message": "免费的开扩，代码可在 https://github.com/PoziWorld/Scroll-To-Top-Button-extension 查看。"
+   },
+   "topCenter": {
+      "message": "顶部中间"
+   },
+   "topLeft": {
+      "message": "顶部左侧"
+   },
+   "topRight": {
+      "message": "顶部右侧"
+   },
+   "translatedBy": {
+      "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by \u003Ca href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb\u003C/a>”",
+      "message": "简体中文翻译 \u003Ca href=\"https://twitter.com/pluwen\" target=\"_blank\" id=\"translatorLink\">Pluwen\u003C/a>, \u003Ca href=\"https://www.transifex.com/user/profile/whaat7er/\" target=\"_blank\" id=\"translatorLink\">Bright X\u003C/a>, \u003Ca href=\"https://www.transifex.com/user/profile/LiLuwei/\" target=\"_blank\" id=\"translatorLink\">Luwei Li\u003C/a>, \u003Ca href=\"https://www.transifex.com/user/profile/Liu.Hao/\" target=\"_blank\" id=\"translatorLink\">浩 刘\u003C/a>, \u003Ca href=\"https://www.transifex.com/user/profile/ZDHJ9EZW/\" target=\"_blank\" id=\"translatorLink\">Ziyang Liu\u003C/a>, \u003Ca href=\"https://www.transifex.com/user/profile/Vikarna/\" target=\"_blank\" id=\"translatorLink\">Nick NY\u003C/a>"
+   },
+   "transparent": {
+      "message": "透明"
+   },
+   "tumblerBlue": {
+      "message": "Tumblr 蓝"
+   },
+   "uiLanguage": {
+      "description": "Setting on the Options page: language of the user interface.",
+      "message": "语言"
+   },
+   "watchDemo": {
+      "description": "Link/button that opens/triggers a URL/page/modal featuring a demo (video).",
+      "message": "观看演示"
+   },
+   "yellow": {
+      "message": "黄色"
+   }
+}

@@ -1,0 +1,376 @@
+body {
+  padding: 0 10px;
+  min-width: 500px;
+  margin: 10px auto;
+  align-items: center;
+  background-color: #fff;
+}
+
+label {
+  color: #333;
+  padding: 5px;
+  font-size: 13px;
+  padding-right: 10px;
+  display: inline-block;
+  font-family: arial, sans-serif;
+}
+
+details {
+  padding: 5px;
+  outline: none;
+  margin: 5px auto;
+  border: solid 1px rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.05);
+}
+
+details[open] {
+  background-color: #fff;
+}
+
+summary {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  height: 38px;
+  outline: none;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 38px;
+  user-select: none;
+  text-indent: 10px;
+  font-family: arial, sans-serif;
+}
+
+summary:focus {
+  outline: none;
+}
+
+a {
+  color: #fff;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+table {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  border-spacing: 5px;
+}
+
+thead {
+  font-family: monospace;
+}
+
+body, table {
+  color: #333;
+  font-size: 13px;
+  font-family: arial, sans-serif;
+}
+
+table tr td {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  border-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  transition: 300ms ease all;
+}
+
+table thead tr td {
+  color: #555;
+  height: 32px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 32px;
+  user-select: none;
+  text-align: center;
+  letter-spacing: 1px;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+table tbody tr td {
+  height: 48px;
+  line-height: 48px;
+}
+
+table tr td[type='number'] {
+  width: 32px;
+  color: #fff;
+  min-width: 32px;
+  max-width: 32px;
+  text-align: center;
+  font-family: monospace;
+  border: solid 1px #78a4f1;
+  background-color: #78a4f1;
+}
+
+table tr td[type='url'] {
+  width: 280px;
+  min-width: 280px;
+  background-color: #fff;
+}
+
+table tr td[type='useragent'] textarea {
+  background-color: #fff;
+}
+
+table tr td[type='check'] {
+  width: 64px;
+  min-width: 28px;
+  max-width: 64px;
+  text-align: center;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+table tr td[type='toggle'] {
+  width: 64px;
+  min-width: 28px;
+  max-width: 64px;
+  cursor: pointer;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+table tr td[type="ajax-item"] {
+  margin: 0;
+}
+
+table tr td[type='toggle'][state='inactive'] {
+  color: #C75050 !important;
+}
+
+table tr td[type='close'] {
+  width: 64px;
+  font-size: 10px;
+  min-width: 28px;
+  max-width: 64px;
+  cursor: pointer;
+  user-select: none;
+  text-align: center;
+  font-family: monospace;
+  transition: 300ms ease color;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+table tr td[type='close']:hover {
+  color: #C75050;
+}
+
+table tr td[type='close'], table tr td[type='toggle'] {
+  font-size: 16px;
+}
+
+table tr td[type="ajax-item-add"] {
+  width: 48px;
+  height: 64px;
+  min-width: 48px;
+  max-width: 48px;
+  cursor: pointer;
+  display: inline-block;
+  background: rgba(0,0,0,0.6) url('icons/add.png') no-repeat center center;
+  background-size: 12px;
+}
+
+textarea {
+  margin: 0;
+  width: 100%;
+  color: #333;
+  height: 64px;
+  padding: 10px;
+  outline: none;
+  font-size: 13px;
+  overflow: hidden;
+  line-height: 22px;
+  vertical-align: middle;
+  font-family: monospace;
+  box-sizing: border-box;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+@supports (-moz-appearance:none) {
+  textarea {
+    height: 52px;
+    width: calc(100% - 22px);
+  }
+}
+
+select {
+  margin: 0;
+  color: #333;
+  height: 42px;
+  outline: none;
+  font-size: 13px;
+  text-indent: 5px;
+  background-color: #fff;
+  font-family: monospace;
+  width: calc(100% - 10px);
+  text-transform: capitalize;
+  transition: 300ms ease all;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+input {
+  box-sizing: border-box;
+  vertical-align: middle;
+}
+
+input[type="checkbox"] {
+  margin: 0;
+  margin-top: -2px;
+  vertical-align: middle;
+}
+
+input[rule="domain"] {
+  margin: 0 5px;
+}
+
+input[type="text"] {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-indent: 10px;
+}
+
+table tr td[type='ajax-item-add']:hover {
+  background-color: #777;
+}
+
+table tr[state='inactive'] {
+  opacity: 0.5;
+}
+
+table tr[state='inactive'] input,
+table tr[state='inactive'] textarea {
+  pointer-events: none;
+}
+
+.add-ua {
+  margin-top: 5px;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+.add-button-header {
+  width: 32px;
+  min-width: 32px;
+  max-width: 32px;
+}
+
+.note {
+  padding: 5px;
+  color: #fff !important;
+}
+
+.item-title {
+  font-weight: bold;
+}
+
+.information {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  margin-top: 5px;
+  text-align: justify;
+}
+
+.information p {
+  margin: 0;
+  padding: 10px;
+  font-size: 13px;
+  user-select: none;
+  line-height: 24px;
+  text-align: justify;
+  background-color: #ecd57f;
+  font-family: arial, sans-serif;
+}
+
+.section {
+  margin: 0;
+  padding: 0;
+}
+
+.custom-fn-list {
+  width: 270px;
+}
+
+.select {
+  margin: 0;
+  padding: 5px 0;
+  border-spacing: 0;
+  border: solid 1px #78a4f1;
+}
+
+.space {
+  width: 1px;
+  background-color: rgba(0,0,0,0.1);
+}
+
+.separator {
+  width: 100%;
+  height: 48px;
+  line-height: 48px;
+  user-select: none;
+  text-align: center;
+}
+
+.separator svg {
+  fill: #727272;
+  vertical-align: middle;
+}
+
+.line td {
+  color: #fff;
+  padding: 5px;
+  height: 18px;
+  font-size: 13px;
+  text-align: left;
+  line-height: 18px;
+  user-select: none;
+  background-color: #78a4f1;
+  border-top: solid 5px #fff;
+  border-bottom: solid 5px #fff;
+  font-family: arial, sans-serif;
+}
+
+.logo {
+  width: 100%;
+  height: 128px;
+  background: url('../icons/128.png') no-repeat center center;
+  background-size: 64px;
+}
+
+#header-value-table {
+  padding: 0;
+  margin-top: 5px;
+  border-spacing: 5px;
+  border: solid 1px rgba(0,0,0,0.1);
+}
+
+#header-value-table tbody tr {
+  cursor: move;
+}
+
+#search-box {
+  width: 100%;
+  color: #333;
+  height: 42px;
+  display: block;
+  border-radius: 0;
+  margin: 5px auto;
+  font-family: monospace;
+  border: solid 1px #448fff;
+  image-rendering: -webkit-optimize-contrast;
+  background: url('icons/search.png') no-repeat calc(100% - 12px) center;
+  background-size: 12px;
+}
+
+@supports (-moz-appearance:none) {
+  #search-box {
+    width: calc(100% - 22px);
+  }
+}

@@ -1,0 +1,47 @@
+scroll-to-top-button {
+  display: inline-flex;
+  pointer-events: all;
+  cursor: pointer;
+}
+
+#scroll-to-top-button-2 {
+  margin-top: 2px;
+  transform: rotate( -180deg ) !important; /* !important to override Togglific's CSS - see https://github.com/PoziWorld/Scroll-To-Top-Button-extension/issues/9 */
+}
+
+scroll-to-top-button[data-state-disabled] {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+#scroll-to-top-button-1[data-infinite][data-mode="flip"]::after,
+#scroll-to-top-button-2[data-infinite]::after {
+  content: '∞';
+  display: block;
+  position: absolute;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-size: 30px;
+  line-height: 15px;
+  width: 100%;
+  height: 15px;
+  color: #000;
+  text-align: center;
+  text-shadow: 1px 1px #fff;
+}
+
+#scroll-to-top-button-1[data-infinite][data-mode="flip"]::after {
+  bottom: -15px;
+}
+
+#scroll-to-top-button-2[data-infinite]::after {
+  top: calc( -1 * ( 15px + 5px ) ); /* Button is rotated :-) */
+}
+
+/**
+ * @todo Add accessibility setting in Options that doesn't disable outline.
+ */
+
+scroll-to-top-button:focus {
+  outline: none;
+}
+

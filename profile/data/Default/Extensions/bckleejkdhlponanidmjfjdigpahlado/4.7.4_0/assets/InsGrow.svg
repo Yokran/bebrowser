@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>InsGrow Copy</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="256" height="256" rx="36"></rect>
+        <path d="M255.545822,14.9830581 L255.99056,250.990578 C255.995764,253.751997 253.76141,255.994787 250.999991,255.999991 C250.99685,255.999997 250.99371,256 250.990569,256 L73.9849292,256 C71.2235054,256 68.9849292,253.761424 68.9849292,251 C68.9849292,249.920214 69.3344822,248.869441 69.9813107,248.004831 L246.542213,11.9973109 C248.196399,9.78617347 251.329863,9.33467542 253.541001,10.9888618 C254.800214,11.9308993 255.542859,13.4104661 255.545822,14.9830581 Z" id="path-3"></path>
+        <filter x="-3.6%" y="-2.0%" width="107.3%" height="105.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M68.7126589,131.141773 L242.259623,246.839749 C244.557266,248.371511 245.178136,251.475858 243.646373,253.773501 C242.719044,255.164494 241.157888,256 239.486122,256 L8.09016994,256 C5.32874619,256 3.09016994,253.761424 3.09016994,251 C3.09016994,250.223775 3.2708954,249.458209 3.61803399,248.763932 L61.467022,133.065956 C62.7019682,130.596064 65.7053334,129.594942 68.1752259,130.829888 C68.3606631,130.922607 68.540154,131.026769 68.7126589,131.141773 Z" id="path-5"></path>
+        <filter x="-2.7%" y="-3.9%" width="105.5%" height="110.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="InsGrow-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#F85064" xlink:href="#path-1"></use>
+        <g id="Triangle" mask="url(#mask-2)">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#F8CF00" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="Triangle" mask="url(#mask-2)">
+            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+            <use fill="#FFAF4E" fill-rule="evenodd" xlink:href="#path-5"></use>
+        </g>
+    </g>
+</svg>

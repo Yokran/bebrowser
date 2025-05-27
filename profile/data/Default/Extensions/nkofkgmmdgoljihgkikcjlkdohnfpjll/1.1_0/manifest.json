@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "css": [ "styles.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "https://web.whatsapp.com/*" ]
+   } ],
+   "description": "Allows you to customize the WhatsApp Web for privacy and productivity, hide the chat list, and more.",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAryqWMN0/ksi7JMds1lvn4qDbfn6t+oi9Un3FU+esXpU4ErYYg2qT3v+u5AfXB+lCvG94g7KMdodEo/afkem5FtRKOGH9F+J7VuqthI0nTFXPlkPopLdd2M7chArUjGwRkGXjL0HczmKk6qUvx1sIdZy5rH+yvklFxRG/0j7Mw2qfK86FEJi4ff+uN3FTn/3YRJ+biZ/lNh819G+sJPOo5Mf7eYPYXaa0UGDr72nIqb6Mpgakj6Sk3ESmo4wYtyjQ3tZq8T9fLEy6DmAg3yDA5toMsfEGmtWKKJgF/300xlOkP+cEAiR4hMX3eI3TPITIkLXg5NDLbAjPtxswZn9UhQIDAQAB",
+   "manifest_version": 3,
+   "name": "WhatsApp Web Toolkit",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

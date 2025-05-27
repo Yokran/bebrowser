@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "I-adjust ang iyong mga setting upang mapahusay ang iyong karanasan."
+   },
+   "affected_page": {
+      "message": "Apektadong Pahina"
+   },
+   "blocked_by_extension": {
+      "message": "Maaaring hinarangan ng ibang extension na naka-install sa iyong browser ang PrintFriendly, tulad ng isang ad blocker. Pansamantalang huwag paganahin ang iyong iba pang mga extension at subukang gumawa ng PDF ulit."
+   },
+   "cancel": {
+      "message": "Kanselahin"
+   },
+   "capture_screenshot_manually": {
+      "message": "Gamitin ang aming Screenshot na tampok upang makuha ang pahinang ito at pagkatapos ay i-export ito sa isang imahe o PDF."
+   },
+   "capturing": {
+      "message": "Kinukuha"
+   },
+   "capturing_desc": {
+      "message": "Kinukunan screenshot…"
+   },
+   "choose_paper_size": {
+      "message": "Piliin ang iyong gustong laki ng papel para sa mga PDF."
+   },
+   "compress_pdf": {
+      "message": "I-compress ang PDF"
+   },
+   "contact_us": {
+      "message": "Makipag-ugnayan sa Amin:"
+   },
+   "convert_pdf": {
+      "message": "I-convert ang PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Screenshot"
+   },
+   "default_button": {
+      "message": "Default na Button"
+   },
+   "default_mode": {
+      "message": "Default Mode"
+   },
+   "default_mode_checkbox": {
+      "message": "Huwag ipakita ang mga ito muli. Maaari mo silang paganahin sa Settings."
+   },
+   "default_mode_desc": {
+      "message": "Piliin ang aksyon na dapat awtomatikong piliin kapag nag-click ka sa pindutan ng extension."
+   },
+   "delete": {
+      "message": "Burahin"
+   },
+   "dialog_close": {
+      "message": "Isara"
+   },
+   "dialog_text": {
+      "message": "Pinapadala sa iyong printer"
+   },
+   "dialog_text_btn": {
+      "message": "Ipadala muli"
+   },
+   "dialog_title": {
+      "message": "Pag-print ng Iyong Pahina"
+   },
+   "dont_show_again": {
+      "message": "Huwag ipakita ito muli"
+   },
+   "edit_pdf": {
+      "message": "I-edit ang PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "Nagpadala sa iyo ng artikulo"
+   },
+   "email_from": {
+      "message": "Mula sa"
+   },
+   "email_message": {
+      "message": "Mensahe"
+   },
+   "email_product_sent_message": {
+      "message": "Naipadala na ang iyong email na mensahe. Maaari mong isara ang pahina"
+   },
+   "email_send": {
+      "message": "Ipadala"
+   },
+   "email_sent_message": {
+      "message": "Naipadala na ang iyong email na mensahe"
+   },
+   "email_title": {
+      "message": "I-email ang Pahinang Ito"
+   },
+   "email_to": {
+      "message": "Para sa"
+   },
+   "full_page_screenshot": {
+      "message": "Screenshot ng pahina"
+   },
+   "get_pro": {
+      "message": "Kunin ang Pro"
+   },
+   "got_it": {
+      "message": "Naintindihan"
+   },
+   "image": {
+      "message": "Larawan"
+   },
+   "image_size_pref": {
+      "message": "Kagustuhan sa Laki ng Imahe"
+   },
+   "image_size_pref_desc": {
+      "message": "Itakda ang laki ng mga imahe kapag tinitingnan ang mga pahina gamit ang extension."
+   },
+   "images": {
+      "message": "Mga larawan"
+   },
+   "lang_display_name": {
+      "message": "Filipino"
+   },
+   "language_setting": {
+      "message": "Wika"
+   },
+   "language_setting_desc": {
+      "message": "Piliin ang iyong gustong wika."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Mag-login"
+   },
+   "margin": {
+      "message": "Margin"
+   },
+   "no": {
+      "message": "Hindi"
+   },
+   "off": {
+      "message": "Patay"
+   },
+   "other_tools": {
+      "message": "PDF Gamit"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Ang Pahinang ito ay Hinaharangan ang PrintFriendly"
+   },
+   "page_size": {
+      "message": "Laki ng pahina"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "I-download ang Iyong PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Error sa Paggawa ng PDF"
+   },
+   "pdf_head": {
+      "message": "Binubuo ang Iyong PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Laki ng Paper ng PDF"
+   },
+   "print": {
+      "message": "I-print"
+   },
+   "print_pdf": {
+      "message": "I-print at PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Alisin ang ad at navigation. Mahusay sa articles at text pages."
+   },
+   "printer_friendly_page": {
+      "message": "Pahina na Madaling I-print"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Hindi ba ang inaasahan mo ang bersyong Madaling I-print? Subukang gumawa ng Screenshot."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly Page"
+   },
+   "pro_alert": {
+      "message": "Pro Feature"
+   },
+   "reach_out_for_support": {
+      "message": "Para sa karagdagang detalye o suporta, mangyaring makipag-ugnayan sa amin sa"
+   },
+   "read_more": {
+      "message": "Magbasa pa"
+   },
+   "remove_ads_description": {
+      "message": "Alisin ang mga ad at navigation mula sa mga web page. Gumagana nang maayos sa mga artikulo at mga pahinang nakatuon sa teksto."
+   },
+   "remove_images": {
+      "message": "Alisin ang mga larawan"
+   },
+   "report": {
+      "message": "Mag-ulat"
+   },
+   "resolve_issue": {
+      "message": "at tutulungan ka namin na malutas ang isyu."
+   },
+   "save_as_image": {
+      "message": "I-save bilang Larawan"
+   },
+   "save_as_pdf": {
+      "message": "I-save bilang PDF"
+   },
+   "save_changes": {
+      "message": "I-save"
+   },
+   "screenshot": {
+      "message": "Screenshot"
+   },
+   "screenshot_image_format": {
+      "message": "Format ng Larawan ng Screenshot"
+   },
+   "screenshot_ready_soon": {
+      "message": "Magiging handa ang iyong screenshot sa ilang sandali."
+   },
+   "screenshot_restriction_message": {
+      "message": "Gumagana ang PrintFriendly sa karamihan ng mga website, ginagawa nitong madali ang paglikha ng malinis, printer-friendly na mga pahina at mga screenshot. Gayunpaman, ang ilang mga pahina—tulad ng mga setting ng browser, mga tindahan ng extension, at iba pang mga pinaghihigpitang lugar—ay hindi magagamit dahil sa mga patakaran ng browser. Mangyaring makipag-ugnay sa amin kung mayroon kang anumang mga katanungan."
+   },
+   "settings": {
+      "message": "Mga Setting"
+   },
+   "settings_saved": {
+      "message": "Nai-save na ang iyong mga setting."
+   },
+   "show_screenshot_message": {
+      "message": "Ipakita ang Screenshot Message sa Printer-Friendly View"
+   },
+   "something_went_wrong": {
+      "message": "May Mali"
+   },
+   "still_does_not_work": {
+      "message": "Kung hindi pa rin gumagana, mangyaring makipag-ugnayan sa amin sa"
+   },
+   "stop_capturing": {
+      "message": "Itigil ang Pagkuha"
+   },
+   "strict_security_settings": {
+      "message": "Paumanhin, ngunit ang pahinang ito ay may mahigpit na mga setting ng seguridad (Content Security Policy) na pumipigil sa amin na gumawa ng PrintFriendly na bersyon ng pahina."
+   },
+   "style": {
+      "message": "Istilo"
+   },
+   "take_screenshot": {
+      "message": "Kumuha ng Screenshot:"
+   },
+   "text_size_pref": {
+      "message": "Kagustuhan sa Laki ng Teksto"
+   },
+   "text_size_pref_desc": {
+      "message": "Itakda ang laki ng teksto kapag tinitingnan ang mga pahina gamit ang extension."
+   },
+   "timed_out_pdf": {
+      "message": "Maaaring nag-time out ang PrintFriendly habang nagge-generate ng PDF. Maaari itong masyadong malaki para i-handle ng aming system."
+   },
+   "txt_size": {
+      "message": "Laki ng teksto"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Hindi namin magawang bumuo ng PDF para sa pahinang ito."
+   },
+   "undo": {
+      "message": "I-undo"
+   },
+   "what_you_can_do": {
+      "message": "Ano ang Maaari Mong Gawin"
+   },
+   "yes": {
+      "message": "Oo"
+   }
+}

@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Despre"
+   },
+   "action_api": {
+      "message": "FireShot API-ul"
+   },
+   "action_capture_browser": {
+      "message": "Capturează fereastra browserului și"
+   },
+   "action_capture_entire": {
+      "message": "Capturează întreaga pagină și"
+   },
+   "action_capture_entire_lite": {
+      "message": "Capturați întreaga pagină"
+   },
+   "action_capture_selection": {
+      "message": "Captură selecție / element și"
+   },
+   "action_capture_selection_lite": {
+      "message": "Captură de selecție"
+   },
+   "action_capture_tabs": {
+      "message": "Captură toate filele și"
+   },
+   "action_capture_visible": {
+      "message": "Capturați o parte vizibilă și"
+   },
+   "action_capture_visible_lite": {
+      "message": "Capturați o parte vizibilă"
+   },
+   "action_copy": {
+      "message": "Copiați în clipboard"
+   },
+   "action_edit": {
+      "message": "Edita"
+   },
+   "action_email": {
+      "message": "E-M​a​​i​l"
+   },
+   "action_enter_license": {
+      "message": "Introduceți informații privind licența"
+   },
+   "action_external": {
+      "message": "Deschideți în editorul extern"
+   },
+   "action_install_native": {
+      "message": "Testați funcțiile avansate"
+   },
+   "action_license_info": {
+      "message": "Informații privind licența"
+   },
+   "action_micsellaneous": {
+      "message": "Miscelaneu"
+   },
+   "action_onenote": {
+      "message": "Trimiteți la OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Deschis în clipboard"
+   },
+   "action_open_file": {
+      "message": "Deschideți fișierul"
+   },
+   "action_options": {
+      "message": "Opțiuni"
+   },
+   "action_print": {
+      "message": "Imprimare"
+   },
+   "action_register": {
+      "message": "Înregistrare"
+   },
+   "action_resume": {
+      "message": "Continuați editarea"
+   },
+   "action_save": {
+      "message": "Salva"
+   },
+   "action_save_pdf": {
+      "message": "Salvați ca pdf"
+   },
+   "action_save_pdf_single": {
+      "message": "Salvați ca un singur PDF"
+   },
+   "action_support": {
+      "message": "Suport"
+   },
+   "action_switch_pro": {
+      "message": "Treceți la Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Activează funcțiile PRO pentru a avansa"
+   },
+   "action_upload": {
+      "message": "Încărcați"
+   },
+   "action_view_demo": {
+      "message": "Vedeți demo"
+   },
+   "application_description": {
+      "message": "Ia capturi de ecran de pe ecran complet. Captura, edita și salvați în PDF/JPEG/GIF/PNG, Încărcați, imprimați, trimiteți la, clipboard sau e-mail."
+   },
+   "application_title": {
+      "message": "Ia capturi de ecran de pe ecran complet - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Cumpărați Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Copiați în clipboard"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Aflați cum .."
+   },
+   "captured_get_free_button": {
+      "message": "Încercați gratuit"
+   },
+   "captured_print": {
+      "message": "Imprimare"
+   },
+   "captured_print_button": {
+      "message": "Imprimare"
+   },
+   "captured_recommend_us": {
+      "message": "Recomanda FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Salvați ca imagine"
+   },
+   "captured_save_as_image_button": {
+      "message": "Salvați ca imagine"
+   },
+   "captured_save_as_pdf": {
+      "message": "Salvați ca PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Salvați captura de ecran"
+   },
+   "captured_saving_options": {
+      "message": "personaliza"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Configurați comenzile rapide de la tastatură și preferințele fișierelor"
+   },
+   "captured_upgrade_link_1": {
+      "message": "Captura, notați-vă, Imprimați și salvați mai bine, edita, Trimiteți la e-mail / OneNote sau exportați în alt program"
+   },
+   "captured_upgrade_link_2": {
+      "message": "Treceți la FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Am folosit o altă versiune de FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Pot să o am din nou?"
+   },
+   "enable_checkbox": {
+      "message": "Activa"
+   },
+   "options_button_apply": {
+      "message": "Aplica"
+   },
+   "options_button_save_close": {
+      "message": "Salvați și închideți"
+   },
+   "options_button_setup": {
+      "message": "Apăsați pentru a începe"
+   },
+   "options_label_and": {
+      "message": "și"
+   },
+   "options_label_capturing": {
+      "message": "Captură"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Închideți fila după salvare"
+   },
+   "options_label_customize_saving": {
+      "message": "Personalizați procesul de salvare"
+   },
+   "options_label_default_filename_template": {
+      "message": "Numele șablonului prestabilit:"
+   },
+   "options_label_default_folder": {
+      "message": "Implicit captura de ieșire"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Director aferent \"Descărcări\" sau subdirectoare.\nAdrese absolute, goale sau conținând referințe anterioare, va provoca o eroare"
+   },
+   "options_label_editor_options": {
+      "message": "Opțiunile editorului"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integrați FireShot în meniul contextual"
+   },
+   "options_label_file_settings": {
+      "message": "Setările fișierelor"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot opțiuni"
+   },
+   "options_label_hotkey": {
+      "message": "Tastele de viteză"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Ultima acțiune utilizată"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Ascundeți \"Salvați ca\""
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Afișați fișierul descărcat în dosar după salvare"
+   },
+   "options_label_save_image_as": {
+      "message": "Salvați imaginea ca:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Specificați editorul și opțiunile de salvare, preferințele nume de fișier, stilurile etc."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Specificați selecția de taste pentru a porni FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Specificați opțiunile de dimensiune și sunet"
+   },
+   "options_label_template_day": {
+      "message": "Zi"
+   },
+   "options_label_template_hour": {
+      "message": "Ore"
+   },
+   "options_label_template_limit_1": {
+      "message": "Limitați numele fișierului la:"
+   },
+   "options_label_template_limit_2": {
+      "message": "caractere"
+   },
+   "options_label_template_minutes": {
+      "message": "Minute"
+   },
+   "options_label_template_month": {
+      "message": "Lună"
+   },
+   "options_label_template_pad_1": {
+      "message": "Completați numărul cu"
+   },
+   "options_label_template_pad_2": {
+      "message": "zerouri"
+   },
+   "options_label_template_seconds": {
+      "message": "Secunde"
+   },
+   "options_label_template_title": {
+      "message": "Titlul paginii"
+   },
+   "options_label_template_url": {
+      "message": "Adresa URL a paginii"
+   },
+   "options_label_template_website": {
+      "message": "Nume de domeniu"
+   },
+   "options_label_template_year": {
+      "message": "An"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Consultați șablonul preferințelor fișierelor"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Ascundeți șablonul preferințelor fișierelor"
+   }
+}

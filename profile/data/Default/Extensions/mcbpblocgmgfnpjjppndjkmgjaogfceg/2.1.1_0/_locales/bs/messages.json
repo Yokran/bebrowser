@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "O ovome..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Uhvatite internet prozor i "
+   },
+   "action_capture_entire": {
+      "message": "Uhvatite cijelu stranicu i "
+   },
+   "action_capture_entire_lite": {
+      "message": "Uhvatite cijelu stranicu "
+   },
+   "action_capture_selection": {
+      "message": "Uhvatite selekciju / elemenat i "
+   },
+   "action_capture_selection_lite": {
+      "message": "Uhvatite selekciju"
+   },
+   "action_capture_tabs": {
+      "message": "Uhvatite sve uši i "
+   },
+   "action_capture_visible": {
+      "message": "Uhvatite vidljivi dio i "
+   },
+   "action_capture_visible_lite": {
+      "message": "Uhvatite vidljivi dio"
+   },
+   "action_copy": {
+      "message": "Postavite u trenutnu memoriju"
+   },
+   "action_edit": {
+      "message": "Promijena"
+   },
+   "action_email": {
+      "message": "E-M​a​​i​l"
+   },
+   "action_enter_license": {
+      "message": "Upišite informacije licencije"
+   },
+   "action_external": {
+      "message": "Otvorite u drugom programu za izmjenu"
+   },
+   "action_install_native": {
+      "message": "Probajte ostale napredne opcije"
+   },
+   "action_license_info": {
+      "message": "Informacije o licenciji..."
+   },
+   "action_micsellaneous": {
+      "message": "Ostalo"
+   },
+   "action_onenote": {
+      "message": "Pošaljite u OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Otvorite iz trenutne memorije"
+   },
+   "action_open_file": {
+      "message": "Otvorite dokument"
+   },
+   "action_options": {
+      "message": "Opcije"
+   },
+   "action_print": {
+      "message": "Printajte"
+   },
+   "action_register": {
+      "message": "Registracija"
+   },
+   "action_resume": {
+      "message": "Nastavite izmjenu"
+   },
+   "action_save": {
+      "message": "Sačuvanje"
+   },
+   "action_save_pdf": {
+      "message": "Sačuvajte kao PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Sačuvajte kao jedan PDF "
+   },
+   "action_support": {
+      "message": "Pomoč"
+   },
+   "action_switch_pro": {
+      "message": "Promijenite na Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktivirajte Pro opcije da idete dalje..."
+   },
+   "action_upload": {
+      "message": "Postavite"
+   },
+   "action_view_demo": {
+      "message": "Pogledajte demo"
+   },
+   "application_description": {
+      "message": "Napravite screenshots od pune stranice. Uhvatite, izmijenite i sačuvajte ih u PDF/JPEG/GIF/PNG formatu, postavite, printajte, pošaljite u OneNote, zahvatite u trenutnu memoriju, ili pošaljite u email."
+   },
+   "application_title": {
+      "message": "Napravite scr​e​​e​nshᴏts od cijele stranice - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Kupite Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Duplicirajte u trenutnu memoriju"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Naučite kako..."
+   },
+   "captured_get_free_button": {
+      "message": "Probajte besplatno"
+   },
+   "captured_print": {
+      "message": "Printajte"
+   },
+   "captured_print_button": {
+      "message": "Printajte"
+   },
+   "captured_recommend_us": {
+      "message": "Preporučite FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Sačuvajte kao sliku"
+   },
+   "captured_save_as_image_button": {
+      "message": "Sačuvajte kao sliku"
+   },
+   "captured_save_as_pdf": {
+      "message": "Sačuvajte kao PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Sačuvajte Screenshot"
+   },
+   "captured_saving_options": {
+      "message": "promijenite kako hoćete"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Postavite hᴏtk​e​​​y​s i "
+   },
+   "captured_upgrade_link_1": {
+      "message": "Uhvatite, upišite, printajte i sačuvajte bolje, izmjenite, postavite, pošaljite na E-M​a​​i​l / On​e​Nᴏt​e​, ili drugi program."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Unaprijedite na FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Ja sam koristio-koristila drugu verziju FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Mogu li to dobiti nazad?"
+   },
+   "enable_checkbox": {
+      "message": "Dozvolite"
+   },
+   "options_button_apply": {
+      "message": "Potvrdite"
+   },
+   "options_button_save_close": {
+      "message": "Sačuvajte i zatvorite"
+   },
+   "options_button_setup": {
+      "message": "Kliknite da pripremite"
+   },
+   "options_label_and": {
+      "message": "i"
+   },
+   "options_label_capturing": {
+      "message": "Hvatanje"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Zatvorite uho za podjelu poslije sačuvanja"
+   },
+   "options_label_customize_saving": {
+      "message": "Promijenite kako hoćete postupak sačuvanja"
+   },
+   "options_label_default_filename_template": {
+      "message": "Zadani dokumentni prijedlog:"
+   },
+   "options_label_default_folder": {
+      "message": "Zadani odvodni folder"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Dokumentna linija koja vodi do adresara koji ima preuzeti dokument, možda ima dodatni adresar."
+   },
+   "options_label_editor_options": {
+      "message": "Opcije za izmjenu"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Ukomponujte FireShot u kontekst menu"
+   },
+   "options_label_file_settings": {
+      "message": "Dokumentni postavljači"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot opcije"
+   },
+   "options_label_hotkey": {
+      "message": "Hᴏtk​e​​​y​s"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Zadnja korištena akcija"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Ne pokazujte 'Sačuvajte kao' dialog "
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Pokažite sačuvani dokument u svom folderu poslije sačuvanja"
+   },
+   "options_label_save_image_as": {
+      "message": "Sačuvajte sliku kao:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Prijavite opcije za promjenu i sačuvanje, imenovanje novih dokumenata, stilova, itd."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Prijavite ključnu kombinaciju da otvorite FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Prijavite opcije za mjenjanje veličine i zvukova."
+   },
+   "options_label_template_day": {
+      "message": "Dan"
+   },
+   "options_label_template_hour": {
+      "message": "Sahat"
+   },
+   "options_label_template_limit_1": {
+      "message": "Ograničite naziv dokumenta na dužinu od"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakteri"
+   },
+   "options_label_template_minutes": {
+      "message": "Minuta"
+   },
+   "options_label_template_month": {
+      "message": "Mjesec"
+   },
+   "options_label_template_pad_1": {
+      "message": "Tipkarski broj sa"
+   },
+   "options_label_template_pad_2": {
+      "message": "nule"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekunda"
+   },
+   "options_label_template_title": {
+      "message": "Naziv Stranice"
+   },
+   "options_label_template_url": {
+      "message": "URL Stranice"
+   },
+   "options_label_template_website": {
+      "message": "Naziv Domaina"
+   },
+   "options_label_template_year": {
+      "message": "Godina"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Prikažite naziv dokumenta prijedložni postavljači..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Skrijte naziv dokumenta prijedložni postavljači..."
+   }
+}

@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "Acerca del programa..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "Capturar lista de URL"
+   },
+   "action_capture_browser": {
+      "message": "Capturar ventana del navegador y"
+   },
+   "action_capture_entire": {
+      "message": "Capturar página entera y"
+   },
+   "action_capture_entire_lite": {
+      "message": "Capturar página entera"
+   },
+   "action_capture_selection": {
+      "message": "Capturar elemento / área seleccionada y"
+   },
+   "action_capture_selection_lite": {
+      "message": "Capturar área seleccionada"
+   },
+   "action_capture_stop": {
+      "message": "Deja de capturar"
+   },
+   "action_capture_stop_short": {
+      "message": "Detener"
+   },
+   "action_capture_tabs": {
+      "message": "Capturar todas las pestañas y"
+   },
+   "action_capture_visible": {
+      "message": "Capturar área visible y"
+   },
+   "action_capture_visible_lite": {
+      "message": "Capturar área visible"
+   },
+   "action_copy": {
+      "message": "Copiar al portapapeles"
+   },
+   "action_edit": {
+      "message": "Editar"
+   },
+   "action_email": {
+      "message": "Enviar por correo electrónico"
+   },
+   "action_enter_license": {
+      "message": "Introducir clave de licencia"
+   },
+   "action_external": {
+      "message": "Abrir en editor externo"
+   },
+   "action_install_native": {
+      "message": "Instalar funciones avanzadas"
+   },
+   "action_license_info": {
+      "message": "Información de licencia..."
+   },
+   "action_micsellaneous": {
+      "message": "Varios"
+   },
+   "action_ok": {
+      "message": "OK"
+   },
+   "action_onenote": {
+      "message": "Enviar a OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Abrir desde portapapeles"
+   },
+   "action_open_file": {
+      "message": "Abrir archivo"
+   },
+   "action_options": {
+      "message": "Preferencias"
+   },
+   "action_print": {
+      "message": "Imprimir"
+   },
+   "action_register": {
+      "message": "Registrar"
+   },
+   "action_resume": {
+      "message": "Reanudar edición"
+   },
+   "action_save": {
+      "message": "Guardar"
+   },
+   "action_save_pdf": {
+      "message": "Guardar como PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Guardar como único PDF"
+   },
+   "action_show": {
+      "message": "Mostrar..."
+   },
+   "action_support": {
+      "message": "Soporte"
+   },
+   "action_switch_pro": {
+      "message": "Cambiar a Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Activar funciones Pro para continuar ..."
+   },
+   "action_upload": {
+      "message": "Subir"
+   },
+   "action_view_demo": {
+      "message": "Ver demo"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "Gracias por concedernos permisos. Los trataremos con cuidado."
+   },
+   "application_description": {
+      "message": "Captura imagenes de pagina web,editar y guardar en PDF/JPEG/GIF/PNG/BMP. Subir,imprimir,enviar al portapapeles o correo electronico"
+   },
+   "application_title": {
+      "message": "Captura de página completa - FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "Modo por lotes de FireShot"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "capturar Página"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "esperando a que la página se renderice..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "Página siguiente"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "Abortar tarea"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "de"
+   },
+   "button_dismiss": {
+      "message": "entendido"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "Licencia de por vida y garantía de devolución del dinero en 30 días"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "Comprar FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "Funciones avanzadas de captura"
+   },
+   "captured_ads_feature_2": {
+      "message": "Editar capturas de pantalla"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "PDF con búsqueda de texto,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "encabezados y pies de página"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "comparar FireShot Lite y FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "más prestaciones premium"
+   },
+   "captured_ads_title": {
+      "message": "Eliminar anuncios"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "Hazte PRO y contribuye activamente al desarrollo"
+   },
+   "captured_ads_title_desc_2": {
+      "message": "de esta ampliación"
+   },
+   "captured_beta_disabled": {
+      "message": "Gracias. Todas las funciones beta han sido desactivadas."
+   },
+   "captured_button_continue": {
+      "message": "Continuar"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Prueba gratuita de 10 días"
+   },
+   "captured_button_no_credit_card": {
+      "message": "No se requiere tarjeta de crédito"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "No me gusta"
+   },
+   "captured_button_rate_later": {
+      "message": "Quizas mas tarde"
+   },
+   "captured_button_rate_like": {
+      "message": "Me gusta"
+   },
+   "captured_buy_pro_button": {
+      "message": "Comprar Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "Puedes volver a cambiar a Lite en cualquier momento."
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Tamaño de página personalizado"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Enlaces directos"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Deshabilitar la selección de texto"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Dividir en páginas"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "Búsqueda de texto"
+   },
+   "captured_copy_clipboard": {
+      "message": "Copiar al portapapeles"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Aprenda como ..."
+   },
+   "captured_error_pdf": {
+      "message": "Lo sentimos, se ha producido un error inesperado durante la creación del PDF"
+   },
+   "captured_exit_beta_program": {
+      "message": "Salir del programa Insider"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Siga las instrucciones para instalar funciones avanzadas"
+   },
+   "captured_get_free_button": {
+      "message": "Recibe Gratis"
+   },
+   "captured_how_to_copy": {
+      "message": "Cómo copiar una captura de pantalla en el portapapeles"
+   },
+   "captured_information": {
+      "message": "información"
+   },
+   "captured_label_actions": {
+      "message": "acciones"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "Vista previa de las funciones avanzadas"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Esta página se puede capturar mejor con las funciones avanzadas instaladas."
+   },
+   "captured_label_limited_functionality": {
+      "message": "Sólo se puede guardar una pequeña parte de esta página debido a las limitaciones del navegador. Puede utilizar FireShot Pro para guardar toda la página en PDF."
+   },
+   "captured_label_new": {
+      "message": "nuevo"
+   },
+   "captured_label_participate_beta": {
+      "message": "Únase al programa FireShot Pro Insider"
+   },
+   "captured_label_progress_sign": {
+      "message": "Casi listo"
+   },
+   "captured_label_remove_adv": {
+      "message": "Eliminar la publicidad"
+   },
+   "captured_label_try_enchancements": {
+      "message": "Durante el periodo de prueba, lo proporcionamos GRATIS. Pruebe las siguientes mejoras"
+   },
+   "captured_label_using_beta_version": {
+      "message": "Está utilizando las funciones de la versión Insider de FireShot Pro: funciones avanzadas de captura de pantalla y funciones de PDF (configuración de páginas, encabezados/pies de página/marcas de agua, enlaces directos y texto con capacidad de búsqueda)."
+   },
+   "captured_li_1": {
+      "message": "Crear PDFs con búsqueda de texto y enlaces directos"
+   },
+   "captured_li_2": {
+      "message": "Añadir cabeceras, pies de página y marcas de agua personalizadas"
+   },
+   "captured_li_3": {
+      "message": "Personalizar el tamaño de la página, opciones multipágina"
+   },
+   "captured_li_4": {
+      "message": "Captura avanzada: contenido complejo, selección de objetos"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Obtén FireShot para"
+   },
+   "captured_link_read_more": {
+      "message": "Lee mas"
+   },
+   "captured_link_report_problem": {
+      "message": "Reportar problema"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "Ver condiciones generales"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Actualice a Pro para habilitar extras"
+   },
+   "captured_print": {
+      "message": "Imprimir"
+   },
+   "captured_print_button": {
+      "message": "Imprimir"
+   },
+   "captured_purchase_license": {
+      "message": "Comprar licencia"
+   },
+   "captured_rate_button": {
+      "message": "Califica FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "El desarrollo de FireShot requiere mucho tiempo personal"
+   },
+   "captured_rate_line2": {
+      "message": "Ese tiempo se puede dedicar a la familia o al descanso."
+   },
+   "captured_rate_line3": {
+      "message": "Como agradecimiento a nuestros esfuerzos, ¿sería tan amable de calificar FireShot?"
+   },
+   "captured_rate_line4": {
+      "message": "Esto ayudaría a las personas a descubrir FireShot más rápido."
+   },
+   "captured_rate_question": {
+      "message": "¿Podría compartir con nosotros si le gusta FireShot o no?"
+   },
+   "captured_recommend_us": {
+      "message": "Recomendar FireShot"
+   },
+   "captured_report_problem": {
+      "message": "Informar del problema"
+   },
+   "captured_save_as_image": {
+      "message": "Guardar"
+   },
+   "captured_save_as_image_button": {
+      "message": "Como Imagen"
+   },
+   "captured_save_as_pdf": {
+      "message": "Guardar como PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Guardar Imagen"
+   },
+   "captured_saving_options": {
+      "message": "personalizar"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Configuración de plantilla de nombre de archivo ..."
+   },
+   "captured_step1_right_click": {
+      "message": "Haga clic con el botón derecho del ratón en la imagen"
+   },
+   "captured_step2_copy": {
+      "message": "Elija \"Copiar imagen\" en el menú emergente"
+   },
+   "captured_success": {
+      "message": "Éxito"
+   },
+   "captured_upgrade_features_list": {
+      "message": "Obtenga funciones avanzadas para anotar, imprimir y guardar mejor, editar, cargar, enviar al correo electrónico o a OneNote, o exportar a otro programa"
+   },
+   "captured_upgrade_link_1": {
+      "message": "PDF con capacidad de búsqueda de texto, Captura, anotar, imprimir y guardar mejor, Editar, Subir, enviar a correo electrónico / OneNote, o Exportar a otro programa."
+   },
+   "captured_upgrade_link_2": {
+      "message": "Actualizar a FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Yo estaba usando otra versión de FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Puedo recuperarlo?"
+   },
+   "collapse": {
+      "message": "Colapso"
+   },
+   "enable_checkbox": {
+      "message": "Habilitar"
+   },
+   "history_banner_line1": {
+      "message": "Para continuar, por favor, libera algo de espacio eliminando las capturas innecesarias del Historial."
+   },
+   "history_banner_line2": {
+      "message": "Para su comodidad, FireShot ha preseleccionado los elementos que tendrán un impacto más significativo en la reducción del tamaño de almacenamiento."
+   },
+   "history_banner_title": {
+      "message": "El tamaño de almacenamiento ha superado su cuota."
+   },
+   "history_btn_delete_selected": {
+      "message": "Borrar seleccionados"
+   },
+   "history_button_select_all": {
+      "message": "Seleccionar/deseleccionar todo"
+   },
+   "history_clear_filter_button": {
+      "message": "Limpiar filtro"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "¿Borrar los elementos seleccionados? No se puede deshacer esta operación."
+   },
+   "history_filter_text": {
+      "message": "Filtro"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite proporciona el historial de los últimos 7 días. El historial completo está disponible en FireShot Pro."
+   },
+   "infinite_mode_warning": {
+      "message": "Modo de desplazamiento infinito detectado. Detener el FireShot cuando sea necesario."
+   },
+   "label_processing": {
+      "message": "Procesando..."
+   },
+   "label_start": {
+      "message": "Comienza"
+   },
+   "label_total": {
+      "message": "total"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "¿Realmente quieres desactivar la licencia de este navegador?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "Información sobre la licencia"
+   },
+   "licensing_popup_registered_to": {
+      "message": "Registrado en"
+   },
+   "licensing_popup_remove_key": {
+      "message": "Eliminar la licencia de este navegador"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Permitir páginas de desplazamiento infinito"
+   },
+   "options_api_hint": {
+      "message": "Inicie y configure FireShot mediante JavaScript."
+   },
+   "options_button_apply": {
+      "message": "Aplicar"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "Configurar las opciones de guardado de PDF"
+   },
+   "options_button_save_close": {
+      "message": "Guardar y cerrar"
+   },
+   "options_button_setup": {
+      "message": "Haga clic para instalación"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "El comando 'Capturar todas las pestañas' captura sólo la parte visible de la página"
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "Tiempo máximo permitido para capturar una página:"
+   },
+   "options_history_confirm_erase": {
+      "message": "Confirme el borrado del historial. Esta operación no se puede deshacer."
+   },
+   "options_history_delete_all": {
+      "message": "Borrar todo el historial..."
+   },
+   "options_label_and": {
+      "message": "y"
+   },
+   "options_label_capturing": {
+      "message": "Captura"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Cerrar ficha después de guardar"
+   },
+   "options_label_customize_saving": {
+      "message": "Personalizar proceso de ahorro"
+   },
+   "options_label_default_filename_template": {
+      "message": "plantilla de nombre de archivo predeterminado:"
+   },
+   "options_label_default_folder": {
+      "message": "Carpeta de salida predeterminada"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Una ruta de archivo relativa al directorio de descargas para contener el archivo almacenado, que posiblemente contenga subdirectorios.\nLas rutas absolutas y las rutas que contienen referencias inversas «..» provocarán un error."
+   },
+   "options_label_editor_options": {
+      "message": "Opciones del Editor"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integración de menú contextual"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "Cuando FireShot no funciona, informa automáticamente de los errores para ayudar a mejorar FireShot."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "Enviar datos de uso anónimos a Google Analytics para ayudar a mejorar FireShot"
+   },
+   "options_label_file_saving": {
+      "message": "Ahorro"
+   },
+   "options_label_file_settings": {
+      "message": "Configuración de archivos"
+   },
+   "options_label_fireshot_options": {
+      "message": "Opciones FireShot"
+   },
+   "options_label_history": {
+      "message": "Historia"
+   },
+   "options_label_hotkey": {
+      "message": "Hotkey"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Los últimos de acción"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "No mostrar el cuadro de diálogo 'Guardar como'"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Mostrar archivo descargado en su carpeta después de guardar"
+   },
+   "options_label_pdf_settings": {
+      "message": "Configuraciones PDF"
+   },
+   "options_label_save_image_as": {
+      "message": "Guardar como"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Especifique el editor y el ahorro de las opciones, preferencias, estilos de nomenclatura de archivos, etc."
+   },
+   "options_label_specify_hotkey": {
+      "message": "Especificar la combinación de teclas para lanzar FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Especifique las opciones de cambio de tamaño y sonidos."
+   },
+   "options_label_template_day": {
+      "message": "Día"
+   },
+   "options_label_template_hour": {
+      "message": "La Hora"
+   },
+   "options_label_template_limit_1": {
+      "message": "Límite de longitud de nombre de archivo a"
+   },
+   "options_label_template_limit_2": {
+      "message": "símbolos"
+   },
+   "options_label_template_minutes": {
+      "message": "Minutos"
+   },
+   "options_label_template_month": {
+      "message": "Mes"
+   },
+   "options_label_template_pad_1": {
+      "message": "Número de pad con"
+   },
+   "options_label_template_pad_2": {
+      "message": "ceros"
+   },
+   "options_label_template_seconds": {
+      "message": "Segundos"
+   },
+   "options_label_template_title": {
+      "message": "Título"
+   },
+   "options_label_template_url": {
+      "message": "URL de la página"
+   },
+   "options_label_template_website": {
+      "message": "Website name"
+   },
+   "options_label_template_year": {
+      "message": "Año"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "Notifícame cuando se actualice FireShot."
+   },
+   "options_link_filename_template_settings": {
+      "message": "Mostrar configuración de la plantilla de nombre de archivo ..."
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Ocultar configuración de la plantilla de nombre de archivo ..."
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "Abrir la pestaña de captura de pantalla junto a la pestaña de origen"
+   },
+   "options_option_history_180": {
+      "message": "6 meses"
+   },
+   "options_option_history_30": {
+      "message": "30 días"
+   },
+   "options_option_history_365": {
+      "message": "Año"
+   },
+   "options_option_history_7": {
+      "message": "Semana"
+   },
+   "options_option_history_90": {
+      "message": "3 meses"
+   },
+   "options_option_history_all": {
+      "message": "Para siempre"
+   },
+   "options_page_delay_screenshot": {
+      "message": "Retraso antes de hacer la captura de pantalla:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "Active este modo manteniendo pulsada la tecla Alt al iniciar FireShot."
+   },
+   "options_page_scrolling_speed": {
+      "message": "Modificar la velocidad de desplazamiento de la página:"
+   },
+   "options_retain_history": {
+      "message": "Período para almacenar capturas de pantalla capturadas en el Historial"
+   },
+   "pdf_dialog_align": {
+      "message": "alineación"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "Color de fondo"
+   },
+   "pdf_dialog_bottom": {
+      "message": "En el fondo"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "Centro inferior"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "Abajo a la izquierda"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "Abajo a la derecha"
+   },
+   "pdf_dialog_cancel": {
+      "message": "Cancelar"
+   },
+   "pdf_dialog_center": {
+      "message": "centro"
+   },
+   "pdf_dialog_centered": {
+      "message": "Centrado"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "Haga clic para configurar la plantilla"
+   },
+   "pdf_dialog_color": {
+      "message": "Color"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "Configurar la plantilla"
+   },
+   "pdf_dialog_confirm": {
+      "message": "Confirme"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "Cree un PDF con selección de texto y búsqueda"
+   },
+   "pdf_dialog_defaults": {
+      "message": "Restablecer los valores predeterminados"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "Activar los saltos de página inteligentes"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "Activar los enlaces web"
+   },
+   "pdf_dialog_extras": {
+      "message": "extras"
+   },
+   "pdf_dialog_font": {
+      "message": "Fuente"
+   },
+   "pdf_dialog_footers": {
+      "message": "Pies de página"
+   },
+   "pdf_dialog_frame": {
+      "message": "marco"
+   },
+   "pdf_dialog_headers": {
+      "message": "Encabezados"
+   },
+   "pdf_dialog_height": {
+      "message": "Altura"
+   },
+   "pdf_dialog_inches": {
+      "message": "Pulgadas"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "Se pueden utilizar los siguientes valores predefinidos (haga clic para insertar)"
+   },
+   "pdf_dialog_left": {
+      "message": "izquierda"
+   },
+   "pdf_dialog_margin": {
+      "message": "Margen"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "Margen en píxeles"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "Centro izquierda"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "Medio derecho"
+   },
+   "pdf_dialog_month_name": {
+      "message": "Nombre del mes"
+   },
+   "pdf_dialog_opacity": {
+      "message": "opacidad"
+   },
+   "pdf_dialog_orientation": {
+      "message": "orientación"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "paisaje"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "retrato"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF Número de página"
+   },
+   "pdf_dialog_page_size": {
+      "message": "Tamaño de la página"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "Auto"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "Ancho y alto personalizados"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "Anchura personalizada"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "Opciones de búsqueda"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "Seleccione"
+   },
+   "pdf_dialog_placement": {
+      "message": "Colocación"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "Por favor, especifique la plantilla"
+   },
+   "pdf_dialog_position": {
+      "message": "Posición"
+   },
+   "pdf_dialog_right": {
+      "message": "A la derecha"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "pantalla Altura"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "pantalla Anchura"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "Configurar la plantilla de pie de página"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "Configurar el estilo del pie de página"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "Configurar la plantilla de la cabecera"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "Configurar el estilo de la cabecera"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "Configurar la plantilla de la marca de agua"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "Configurar el estilo de la marca de agua"
+   },
+   "pdf_dialog_size": {
+      "message": "Tamaño"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "Especifique el estilo de la fuente"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "Dividir las capturas de pantalla largas en páginas"
+   },
+   "pdf_dialog_style": {
+      "message": "estilo"
+   },
+   "pdf_dialog_template": {
+      "message": "Plantilla"
+   },
+   "pdf_dialog_text": {
+      "message": "Texto"
+   },
+   "pdf_dialog_top": {
+      "message": "top"
+   },
+   "pdf_dialog_top_center": {
+      "message": "Centro Superior"
+   },
+   "pdf_dialog_top_left": {
+      "message": "Arriba a la izquierda"
+   },
+   "pdf_dialog_top_right": {
+      "message": "Arriba a la derecha"
+   },
+   "pdf_dialog_units": {
+      "message": "Unidades"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "Marcas de agua"
+   },
+   "pdf_dialog_weekday": {
+      "message": "Día de la semana"
+   },
+   "pdf_dialog_width": {
+      "message": "anchura"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "El tamaño de la página se ajustará a la captura por completo."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "La altura de la página se ajustará a la captura por completo."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "La anchura de la página se ajustará por completo y la altura de la página se ajustará según la proporción del formato A4."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "Si el documento resultante consta de 2 páginas, y la última página está vacía en un 50% o más, las páginas se unirán en su totalidad."
+   },
+   "popup_action_required": {
+      "message": "Acción requerida"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 segundos"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 segundos"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 segundos"
+   },
+   "popup_label_60_seconds": {
+      "message": "60 segundos"
+   },
+   "popup_label_additional_options": {
+      "message": "Opciones adicionales"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "Crear una carpeta separada para esta tarea"
+   },
+   "popup_label_do_not_wait": {
+      "message": "No espere"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "Seleccione cómo guardar las capturas"
+   },
+   "popup_label_long_batch": {
+      "message": "Para tareas de larga duración, asegúrate de que tu ordenador no se duerme, ya que esto interrumpiría la tarea."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "Tiempo máximo de espera hasta que se carga la página"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "La versión Lite se limita a capturar sólo una parte visible de las páginas."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "Anular la velocidad de desplazamiento"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "Mostrar archivos en carpeta al finalizar"
+   },
+   "popup_label_specify_mode": {
+      "message": "Especifique el modo"
+   },
+   "popup_label_specify_urls": {
+      "message": "Especifique las URL que desea capturar"
+   },
+   "popup_label_unlimited": {
+      "message": "No limitado"
+   },
+   "popup_label_when_loaded": {
+      "message": "Una vez cargado, espere a que se procese por completo."
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "APRENDA MÁS"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "Para proporcionar una mejor experiencia de captura, FireShot necesita permisos adicionales."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "Está bien ignorar esta petición para capturar esta página por defecto, pero algunos elementos de la página pueden ser capturados incorrectamente."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "por qué FireShot pide permisos adicionales y cómo afecta a su experiencia."
+   },
+   "promo_enable_history": {
+      "message": "Acceda a la Historia"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "Mantén $key$ para capturar un elemento HTML específico.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "Mantén $key$ y haz clic en esta área para capturar este elemento por completo",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "Haz clic para capturar desde este punto hasta el final de la página"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "Haz clic para capturar desde el inicio de la página hasta este punto"
+   },
+   "selection_hint": {
+      "message": "SUGERENCIA:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "Captura con desplazamiento:"
+   },
+   "title_suppress_warning": {
+      "message": "Suprimir esta advertencia durante 10 días"
+   },
+   "void": {
+      "message": ""
+   }
+}

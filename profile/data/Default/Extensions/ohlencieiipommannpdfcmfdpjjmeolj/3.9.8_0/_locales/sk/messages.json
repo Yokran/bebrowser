@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Upravte svoje nastavenia pre vylepšenie vášho zážitku."
+   },
+   "affected_page": {
+      "message": "Ovplyvnená stránka"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly môže byť blokovaný iným rozšírením, ktoré ste nainštalovali, ako je napríklad blokovač reklám. Dočasne deaktivujte svoje ostatné rozšírenia a skúste znova vytvoriť PDF."
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "capture_screenshot_manually": {
+      "message": "Použite našu funkciu Screenshot na zachytenie tejto stránky a potom ju exportujte ako obrázok alebo PDF."
+   },
+   "capturing": {
+      "message": "Zachytávanie"
+   },
+   "capturing_desc": {
+      "message": "Snímanie obrazovky…"
+   },
+   "choose_paper_size": {
+      "message": "Vyberte preferovanú veľkosť papiera pre PDF."
+   },
+   "compress_pdf": {
+      "message": "Komprimovať PDF"
+   },
+   "contact_us": {
+      "message": "Kontaktujte nás:"
+   },
+   "convert_pdf": {
+      "message": "Konvertovať PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Snímka zobrazenia"
+   },
+   "default_button": {
+      "message": "Predvolené tlačidlo"
+   },
+   "default_mode": {
+      "message": "Predvolený režim"
+   },
+   "default_mode_checkbox": {
+      "message": "Znova nezobrazovať možnosti. Aktivujte ich v Nastaveniach."
+   },
+   "default_mode_desc": {
+      "message": "Vyberte akciu, ktorá sa automaticky vyberie pri kliknutí na tlačidlo."
+   },
+   "delete": {
+      "message": "Zmazanie Kliknutím"
+   },
+   "dialog_close": {
+      "message": "Zatvoriť"
+   },
+   "dialog_text": {
+      "message": "Odosielanie na tlačiareň."
+   },
+   "dialog_text_btn": {
+      "message": "preposlať"
+   },
+   "dialog_title": {
+      "message": "Prebieha tlač stránky"
+   },
+   "dont_show_again": {
+      "message": "Nezobrazovať znova."
+   },
+   "edit_pdf": {
+      "message": "Upraviť PDF"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_article_sent": {
+      "message": "vám poslal článok"
+   },
+   "email_from": {
+      "message": "Od"
+   },
+   "email_message": {
+      "message": "Správa"
+   },
+   "email_product_sent_message": {
+      "message": "Vaša e-mailová správa bola odoslaná. Môžete zavrieť stránku"
+   },
+   "email_send": {
+      "message": "Odoslať"
+   },
+   "email_sent_message": {
+      "message": "Vaša e-mailová správa bola odoslaná"
+   },
+   "email_title": {
+      "message": "Poslať túto stránku"
+   },
+   "email_to": {
+      "message": "Komu"
+   },
+   "full_page_screenshot": {
+      "message": "Snímka celej stránky"
+   },
+   "get_pro": {
+      "message": "zvýšiť výkon"
+   },
+   "got_it": {
+      "message": "Rozumiem"
+   },
+   "image": {
+      "message": "Obraz"
+   },
+   "image_size_pref": {
+      "message": "Predvoľba veľkosti obrázka"
+   },
+   "image_size_pref_desc": {
+      "message": "Nastavte veľkosť obrázkov pri prezeraní stránok s rozšírením."
+   },
+   "images": {
+      "message": "Snímky"
+   },
+   "lang_display_name": {
+      "message": "Slovenčina (Slovak)"
+   },
+   "language_setting": {
+      "message": "Jazyk"
+   },
+   "language_setting_desc": {
+      "message": "Vyberte si preferovaný jazyk."
+   },
+   "letter_paper_size": {
+      "message": "List"
+   },
+   "login": {
+      "message": "Prihlásiť sa"
+   },
+   "margin": {
+      "message": "Okraj"
+   },
+   "no": {
+      "message": "Nie"
+   },
+   "off": {
+      "message": "Vypnuté"
+   },
+   "other_tools": {
+      "message": "Ďalšie nástroje"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Táto stránka blokuje PrintFriendly"
+   },
+   "page_size": {
+      "message": "Veľkosť stránky"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Automaticky Vaša PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Chyba pri generovaní PDF"
+   },
+   "pdf_head": {
+      "message": "Generovanie PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Veľkosť papiera PDF"
+   },
+   "print": {
+      "message": "Tlačiť"
+   },
+   "print_pdf": {
+      "message": "Tlač & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Odstráňte reklamy a navigáciu. Skvelé na články a texty."
+   },
+   "printer_friendly_page": {
+      "message": "Stránka vhodná na tlač"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Verzia vhodná na tlač nie je taká ako ste očakávali? Skúste urobiť snímku obrazovky."
+   },
+   "printfriendly_page": {
+      "message": "Stránka PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Táto funkcia vyžaduje zvýšiť výkon"
+   },
+   "reach_out_for_support": {
+      "message": "Pre viac informácií alebo podporu nás kontaktujte na"
+   },
+   "read_more": {
+      "message": "Prečítajte si viac"
+   },
+   "remove_ads_description": {
+      "message": "Odstráňte reklamy a navigáciu z webových stránok. Dobre funguje s článkami a stránkami zameranými na text."
+   },
+   "remove_images": {
+      "message": "Odstrániť obrázky"
+   },
+   "report": {
+      "message": "Nahlásiť"
+   },
+   "resolve_issue": {
+      "message": "a pomôžeme vám vyriešiť problém."
+   },
+   "save_as_image": {
+      "message": "Uložiť ako obrázok"
+   },
+   "save_as_pdf": {
+      "message": "Uložiť ako PDF"
+   },
+   "save_changes": {
+      "message": "Uložiť"
+   },
+   "screenshot": {
+      "message": "Snímka obrazovky"
+   },
+   "screenshot_image_format": {
+      "message": "Formát obrázka snímky obrazovky"
+   },
+   "screenshot_ready_soon": {
+      "message": "Vaša snímka obrazovky bude o chvíľu pripravená."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly funguje na väčšine webových stránok, čo uľahčuje vytváranie čistejších, tlačovo priateľských stránok a snímok obrazovky. Niektoré stránky—ako nastavenia prehliadača, obchody s rozšíreniami a ďalšie obmedzené oblasti—sú však neprístupné kvôli pravidlám prehliadača. Ak máte akékoľvek otázky, kontaktujte nás."
+   },
+   "settings": {
+      "message": "Nastavenia"
+   },
+   "settings_saved": {
+      "message": "Vaše nastavenia boli uložené."
+   },
+   "show_screenshot_message": {
+      "message": "Zobraziť správu o snímke obrazovky v tlačovom zobrazení"
+   },
+   "something_went_wrong": {
+      "message": "Niečo sa pokazilo"
+   },
+   "still_does_not_work": {
+      "message": "Ak to stále nefunguje, kontaktujte nás na"
+   },
+   "stop_capturing": {
+      "message": "Zastaviť zachytávanie"
+   },
+   "strict_security_settings": {
+      "message": "Ospravedlňujeme sa, ale táto stránka má prísne nastavenia zabezpečenia (Politika bezpečnosti obsahu), ktoré nám bránia vytvoriť PrintFriendly verziu stránky."
+   },
+   "style": {
+      "message": "Štýl"
+   },
+   "take_screenshot": {
+      "message": "Urobte snímku obrazovky:"
+   },
+   "text_size_pref": {
+      "message": "Predvoľba veľkosti textu"
+   },
+   "text_size_pref_desc": {
+      "message": "Nastavte veľkosť textu pri prezeraní stránok s rozšírením."
+   },
+   "timed_out_pdf": {
+      "message": "Čas na vygenerovanie PDF mohol na PrintFriendly vypršať. Možno bol príliš veľký na to, aby ho náš systém spracoval."
+   },
+   "txt_size": {
+      "message": "Veľkosť písma"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Nepodarilo sa nám pre túto stránku vygenerovať PDF."
+   },
+   "undo": {
+      "message": "Späť"
+   },
+   "what_you_can_do": {
+      "message": "Čo môžete urobiť"
+   },
+   "yes": {
+      "message": "Áno"
+   }
+}

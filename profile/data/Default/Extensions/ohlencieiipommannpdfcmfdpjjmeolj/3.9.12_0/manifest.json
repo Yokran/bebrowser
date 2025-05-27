@@ -1,0 +1,42 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "action/16_16.png",
+         "24": "action/32_32.png",
+         "32": "action/32_32.png"
+      },
+      "default_title": "PrintFriendly - Print, PDF, and Screenshot Web Pages"
+   },
+   "background": {
+      "service_worker": "background/service_worker.js",
+      "type": "module"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';",
+      "sandbox": "sandbox allow-scripts allow-popups allow-modals allow-downloads; script-src 'self'; child-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "Make web pages printer-friendly, convert to PDFs, or capture screenshots. Remove ads for clean pages ready to print or save as PDFs.",
+   "differential_fingerprint": "1.b7bc96f215d01ce584e91b17fc1124edf5965fb534161d013e0c49aa96c9462f",
+   "homepage_url": "https://www.printfriendly.com",
+   "icons": {
+      "128": "icons/128_128.png",
+      "16": "icons/16_16.png",
+      "48": "icons/48_48.png"
+   },
+   "incognito": "split",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCv9zsC6sxYyVj0O0JqoH8ZHAeUVP/cOG5cNqf88kID0LgwIaPWWXQB4vAfwOyHGV7ZaN5IEgngd11MU3iiGa0STjlDeZD0neeTHLIyvovz3q6v+9fAeOtcyPcexNbPvGO9AU+aWRBtBf8+xUwUOEdlB9joM/E4xcx/V44XyRsZXwIDAQAB",
+   "manifest_version": 3,
+   "name": "PrintFriendly - Print, PDF, and Screenshot Web Pages",
+   "options_page": "options_ui/page.html",
+   "permissions": [ "activeTab", "contextMenus", "scripting", "storage", "unlimitedStorage" ],
+   "sandbox": {
+      "pages": [ "sandbox/page-0.html" ]
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.9.12",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "logo.png", "pages/core.html", "pages/print_sandbox_page.html", "pages/print-in-tab.html", "sandbox/page-0.html", "pf-styles.css" ]
+   } ]
+}

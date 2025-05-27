@@ -1,0 +1,25 @@
+{
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Makes JSON easy to read. Open source.",
+   "homepage_url": "https://github.com/callumlocke/json-formatter",
+   "host_permissions": [ "*://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/128.png",
+      "32": "icons/32.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCqG3lHX5IxspFMDxlInApdzwJ5prcP4k/5tU5R3roeoU+hhdFFgl5rHcdzj+C4G3ExES4cpUvo2rPDEmcKJHJdmw7x2v9FL7eugyPL6MvZNDlY/h6BTP1Y37Cogyz6K5+zgND+pkmHIXQ86Pf8LwU0iO0YKfekFDsM219fr1iXvQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "JSON Formatter",
+   "options_ui": {
+      "open_in_tab": false,
+      "page": "options/options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.7.3"
+}

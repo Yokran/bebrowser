@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "તમારા અનુભવને વધારવા માટે તમારી સેટિંગ્સ સમાયોજિત કરો."
+   },
+   "affected_page": {
+      "message": "અસરગ્રસ્ત પાનું"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly તમારા દ્વારા સ્થાપિત કરવામાં આવેલ બીજા એક્સ્ટેન્શન દ્વારા બ્લોક થઈ શકે છે, જેમ કે એક એડ બ્લોકર. કૃપા કરીને તમારું બીજું એક્સ્ટેન્શન તાત્કાલિક અક્ષમ કરો અને ફરીથી PDF બનાવવા માટે પ્રયાસ કરો."
+   },
+   "cancel": {
+      "message": "રદ કરો"
+   },
+   "capture_screenshot_manually": {
+      "message": "અમારી સ્ક્રીનશોટ ફીચરનો ઉપયોગ કરીને આ પેજને કૅપ્ચર કરો અને પછી તેને ઇમેજ અથવા PDFમાં એક્સપોર્ટ કરો."
+   },
+   "capturing": {
+      "message": "કેપ્ચર કરી રહ્યું છે"
+   },
+   "capturing_desc": {
+      "message": "તમારું સ્ક્રીનશોટ…"
+   },
+   "choose_paper_size": {
+      "message": "PDF માટે તમારું પસંદગીનું કાગળનું કદ પસંદ કરો."
+   },
+   "compress_pdf": {
+      "message": "PDF સંકુચિત કરો"
+   },
+   "contact_us": {
+      "message": "અમારો સંપર્ક કરો:"
+   },
+   "convert_pdf": {
+      "message": "PDF રૂપાંતરિત કરો"
+   },
+   "current_view_screenshot": {
+      "message": "વર્તમાન સ્ક્રીનશોટ"
+   },
+   "default_button": {
+      "message": "ડિફૉલ્ટ બટન"
+   },
+   "default_mode": {
+      "message": "ડિફોલ્ટ મોડ"
+   },
+   "default_mode_checkbox": {
+      "message": "આ વિકલ્પો ફરીથી ન બતાવો. તમે સેટિંગ્સમાં તેને ફરીથી સક્રિય કરી શકો છો."
+   },
+   "default_mode_desc": {
+      "message": "એક્શન પસંદ કરો કે જે તમે એક્સટેન્શન બટન ક્લિક કરો ત્યારે આપમેળે પસંદ થવું જોઈએ."
+   },
+   "delete": {
+      "message": "કાઢી નાખવા માટે ક્લિક કરો"
+   },
+   "dialog_close": {
+      "message": "બંધ કરો"
+   },
+   "dialog_text": {
+      "message": "તમારા પ્રિન્ટર પર મોકલી રહ્યું છે."
+   },
+   "dialog_text_btn": {
+      "message": "ફરીથી મોકલો"
+   },
+   "dialog_title": {
+      "message": "તમારું પૃષ્ઠ છાપી રહ્યું છે"
+   },
+   "dont_show_again": {
+      "message": "આ ફરીથી બતાવશો નહીં."
+   },
+   "edit_pdf": {
+      "message": "PDF સંપાદિત કરો"
+   },
+   "email": {
+      "message": "ઇમેઇલ"
+   },
+   "email_article_sent": {
+      "message": "તમને એક લેખ મોકલ્યો છે"
+   },
+   "email_from": {
+      "message": "થી"
+   },
+   "email_message": {
+      "message": "સંદેશ"
+   },
+   "email_product_sent_message": {
+      "message": "તમારો ઇમેઇલ સંદેશ મોકલવામાં આવ્યો છે. તમે પૃષ્ઠ બંધ કરી શકો છો."
+   },
+   "email_send": {
+      "message": "મોકલો"
+   },
+   "email_sent_message": {
+      "message": "તમારો ઈમેલ સંદેશ મોકલવામાં આવ્યો છે"
+   },
+   "email_title": {
+      "message": "આ પૃષ્ઠને ઇમેઇલ કરો"
+   },
+   "email_to": {
+      "message": "પ્રતિ"
+   },
+   "full_page_screenshot": {
+      "message": "સંપૂર્ણ પાનું સ્ક્રીનશોટ"
+   },
+   "get_pro": {
+      "message": "પ્રો મેળવો"
+   },
+   "got_it": {
+      "message": "સમજાયું"
+   },
+   "image": {
+      "message": "છબી"
+   },
+   "image_size_pref": {
+      "message": "છબીનું કદ પસંદગી"
+   },
+   "image_size_pref_desc": {
+      "message": "એક્સ્ટેન્શન સાથે પૃષ્ઠો જોતી વખતે છબીનું કદ સેટ કરો."
+   },
+   "images": {
+      "message": "છબીઓ"
+   },
+   "lang_display_name": {
+      "message": "ગુજરાતી (Gujarati)"
+   },
+   "language_setting": {
+      "message": "ભાષા"
+   },
+   "language_setting_desc": {
+      "message": "તમારી પસંદની ભાષા પસંદ કરો."
+   },
+   "letter_paper_size": {
+      "message": "પત્ર"
+   },
+   "login": {
+      "message": "પ્રવેશ કરો"
+   },
+   "margin": {
+      "message": "માર્જિન"
+   },
+   "no": {
+      "message": "ના"
+   },
+   "off": {
+      "message": "બંધ"
+   },
+   "other_tools": {
+      "message": "અન્ય સાધનો"
+   },
+   "page_blocking_printfriendly": {
+      "message": "આ પૃષ્ઠ PrintFriendly ને અવરોધિત કરી રહ્યું છે"
+   },
+   "page_size": {
+      "message": "પૃષ્ઠનું કદ"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "તમારી PDF ડાઉનલોડ કરો"
+   },
+   "pdf_generation_error": {
+      "message": "PDF જનરેશન ભૂલ"
+   },
+   "pdf_head": {
+      "message": "તમારી PDF જનરેટ કરી રહ્યું છે"
+   },
+   "pdf_paper_size": {
+      "message": "PDF પેપર સાઇઝ"
+   },
+   "print": {
+      "message": "છાપો"
+   },
+   "print_pdf": {
+      "message": "પ્રિન્ટ અને PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "વેબ પેજ પરથી જાહેરાતો અને નૅવિગેશન દૂર કરો. આર્ટિકલ્સ અને ટેક્સ્ટ પેજ માટે સારી રીતે કામ કરે છે."
+   },
+   "printer_friendly_page": {
+      "message": "પ્રિન્ટર-અનુકૂળ પૃષ્ઠ"
+   },
+   "printer_friendly_suggestion": {
+      "message": "પ્રિન્ટર-અનુકૂળ સંસ્કરણ તમારી અપેક્ષા મુજબ નથી? સ્ક્રીનશોટ લેવાનો પ્રયાસ કરો."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly પેજ"
+   },
+   "pro_alert": {
+      "message": "પ્રો સુવિધા"
+   },
+   "reach_out_for_support": {
+      "message": "વધુ વિગતો અથવા સમર્થન માટે, કૃપા કરીને અમારો સંપર્ક કરો"
+   },
+   "read_more": {
+      "message": "વધુ વાંચો"
+   },
+   "remove_ads_description": {
+      "message": "વેબ પેજમાંથી જાહેરાતો અને નેવિગેશન દૂર કરો. લેખો અને ટેક્સ્ટ-કેન્દ્રિત પૃષ્ઠો સાથે સારી રીતે કાર્ય કરે છે."
+   },
+   "remove_images": {
+      "message": "છબીઓ દૂર કરો"
+   },
+   "report": {
+      "message": "રિપોર્ટ"
+   },
+   "resolve_issue": {
+      "message": "અને અમે તમને સમસ્યાનું નિરાકરણ કાઢવામાં મદદ કરીશું."
+   },
+   "save_as_image": {
+      "message": "છબી તરીકે સાચવો"
+   },
+   "save_as_pdf": {
+      "message": "PDF તરીકે સાચવો"
+   },
+   "save_changes": {
+      "message": "સાચવો"
+   },
+   "screenshot": {
+      "message": "સ્ક્રીનશોટ"
+   },
+   "screenshot_image_format": {
+      "message": "સ્ક્રીનશોટ છબી ફોર્મેટ"
+   },
+   "screenshot_ready_soon": {
+      "message": "તમારો સ્ક્રીનશોટ થોડી વારમાં તૈયાર થઈ જશે."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly મોટાભાગની વેબસાઇટ્સ પર કામ કરે છે, જે તે જલદી સાફ અને પ્રિન્ટર-મૈત્રીપૂર્ણ પૃષ્ઠો અને સ્ક્રીનશૉટ્સ બનાવવાનું સરળ બનાવે છે. જો કે, કેટલીક પૃષ્ઠો—જેમ કે બ્રાઉઝર સેટિંગ્સ, એક્સ્ટેન્શન સ્ટોર અને અન્ય પ્રતિબંધિત વિસ્તારો—બ્રાઉઝર નીતિઓને કારણે મર્યાદિત છે. જો તમારી પાસે કોઈ પ્રશ્ન હોય તો કૃપા કરીને અમારો સંપર્ક કરો."
+   },
+   "settings": {
+      "message": "સેટિંગ્સ"
+   },
+   "settings_saved": {
+      "message": "તમારી સેટિંગ્સ સાચવી લેવામાં આવી છે."
+   },
+   "show_screenshot_message": {
+      "message": "પ્રિન્ટર-મિત્રત્વપૂર્ણ દૃશ્ય પર સ્ક્રીનશોટ સંદેશ બતાવો"
+   },
+   "something_went_wrong": {
+      "message": "કંઈક ખોટું ગયું"
+   },
+   "still_does_not_work": {
+      "message": "જો તે હજી પણ કામ ન કરે, તો કૃપા કરીને અમારો સંપર્ક કરો"
+   },
+   "stop_capturing": {
+      "message": "કેપ્ચર કરવાનું બંધ કરો"
+   },
+   "strict_security_settings": {
+      "message": "અમને દુખ છે, પરંતુ આ પૃષ્ઠમાં કડક સુરક્ષા સેટિંગ્સ છે (કન્ટેન્ટ સિક્યુરિટી પૉલિસી) જે અમને પૃષ્ઠનું PrintFriendly આવૃત્તિ બનાવવાથી રોકે છે."
+   },
+   "style": {
+      "message": "શૈલી"
+   },
+   "take_screenshot": {
+      "message": "સ્ક્રીનશોટ લો:"
+   },
+   "text_size_pref": {
+      "message": "લખાણનું કદ પસંદગી"
+   },
+   "text_size_pref_desc": {
+      "message": "એક્સ્ટેન્શન સાથે પૃષ્ઠો જોતી વખતે લખાણનું કદ સેટ કરો."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly PDF બનાવતી વખતે સમય સમાંતરે સમાપ્ત થઈ શકે છે. કદાચ અમારી સિસ્ટમને સંભાળી શકતી કરતાં આ ફાઇલ મોટી હશે."
+   },
+   "txt_size": {
+      "message": "ટેક્સ્ટ કદ"
+   },
+   "unable_to_generate_pdf": {
+      "message": "આ પેજ માટે અમે PDF બનાવવામાં અસમર્થ હતા."
+   },
+   "undo": {
+      "message": "પૂર્વવત્ કરો"
+   },
+   "what_you_can_do": {
+      "message": "તમે શું કરી શકો છો"
+   },
+   "yes": {
+      "message": "હા"
+   }
+}

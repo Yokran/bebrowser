@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "경험을 향상시키려면 설정을 조정하세요."
+   },
+   "affected_page": {
+      "message": "영향받은 페이지"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly는 광고 차단기와 같은 설치된 다른 확장 프로그램에 의해 차단되었을 수 있습니다. 다른 확장 프로그램을 일시적으로 비활성화하고 PDF를 다시 생성해 보십시오."
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "capture_screenshot_manually": {
+      "message": "우리의 스크린샷 기능을 사용하여 이 페이지를 캡처한 다음 이미지 또는 PDF로 내보내세요."
+   },
+   "capturing": {
+      "message": "캡처 중"
+   },
+   "capturing_desc": {
+      "message": "스크린샷을 캡처하는 중입니다…"
+   },
+   "choose_paper_size": {
+      "message": "PDF용 선호하는 용지 크기를 선택하세요."
+   },
+   "compress_pdf": {
+      "message": "PDF 압축"
+   },
+   "contact_us": {
+      "message": "문의하기:"
+   },
+   "convert_pdf": {
+      "message": "PDF 변환"
+   },
+   "current_view_screenshot": {
+      "message": "현재 보기 스크린샷"
+   },
+   "default_button": {
+      "message": "기본 버튼"
+   },
+   "default_mode": {
+      "message": "기본 모드"
+   },
+   "default_mode_checkbox": {
+      "message": "이 옵션을 다시 표시하지 마세요. 설정에서 활성화할 수 있습니다."
+   },
+   "default_mode_desc": {
+      "message": "확장 버튼을 클릭할 때 자동으로 선택될 작업을 선택하세요."
+   },
+   "delete": {
+      "message": "삭제하려면 클릭하세요"
+   },
+   "dialog_close": {
+      "message": "닫기"
+   },
+   "dialog_text": {
+      "message": "프린터로 전송 중입니다."
+   },
+   "dialog_text_btn": {
+      "message": "다시 보내기"
+   },
+   "dialog_title": {
+      "message": "페이지 인쇄 중"
+   },
+   "dont_show_again": {
+      "message": "다시 표시하지 않음"
+   },
+   "edit_pdf": {
+      "message": "PDF 편집"
+   },
+   "email": {
+      "message": "이메일"
+   },
+   "email_article_sent": {
+      "message": "당신에게 기사를 보냈습니다"
+   },
+   "email_from": {
+      "message": "보내는 사람"
+   },
+   "email_message": {
+      "message": "메시지"
+   },
+   "email_product_sent_message": {
+      "message": "이메일 메시지가 전송되었습니다. 페이지를 닫으셔도 됩니다."
+   },
+   "email_send": {
+      "message": "보내기"
+   },
+   "email_sent_message": {
+      "message": "이메일 메시지가 전송되었습니다"
+   },
+   "email_title": {
+      "message": "이 페이지 이메일로 보내기"
+   },
+   "email_to": {
+      "message": "받는 사람"
+   },
+   "full_page_screenshot": {
+      "message": "전체 페이지 스크린샷"
+   },
+   "get_pro": {
+      "message": "프로 버전 구입"
+   },
+   "got_it": {
+      "message": "알겠습니다"
+   },
+   "image": {
+      "message": "이미지"
+   },
+   "image_size_pref": {
+      "message": "이미지 크기 설정"
+   },
+   "image_size_pref_desc": {
+      "message": "확장 프로그램으로 페이지를 볼 때 이미지 크기를 설정하세요."
+   },
+   "images": {
+      "message": "이미지"
+   },
+   "lang_display_name": {
+      "message": "한국어 (Korean)"
+   },
+   "language_setting": {
+      "message": "언어"
+   },
+   "language_setting_desc": {
+      "message": "선호하는 언어를 선택하세요."
+   },
+   "letter_paper_size": {
+      "message": "레터"
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "margin": {
+      "message": "여백"
+   },
+   "no": {
+      "message": "아니요"
+   },
+   "off": {
+      "message": "끔"
+   },
+   "other_tools": {
+      "message": "기타 도구"
+   },
+   "page_blocking_printfriendly": {
+      "message": "이 페이지가 PrintFriendly를 차단하고 있습니다"
+   },
+   "page_size": {
+      "message": "페이지 크기"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "PDF 다운로드"
+   },
+   "pdf_generation_error": {
+      "message": "PDF 생성 오류"
+   },
+   "pdf_head": {
+      "message": "PDF 생성 중"
+   },
+   "pdf_paper_size": {
+      "message": "PDF 용지 크기"
+   },
+   "print": {
+      "message": "인쇄"
+   },
+   "print_pdf": {
+      "message": "인쇄 및 PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "광고와 내비 제거. 기사와 텍스트에 적합."
+   },
+   "printer_friendly_page": {
+      "message": "프린터 친화적 페이지"
+   },
+   "printer_friendly_suggestion": {
+      "message": "프린터 친화적 버전이 예상과 다른가요? 스크린샷을 시도해 보세요."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly 페이지"
+   },
+   "pro_alert": {
+      "message": "프로 기능"
+   },
+   "reach_out_for_support": {
+      "message": "자세한 내용이나 지원이 필요하시면 다음 주소로 연락해 주세요"
+   },
+   "read_more": {
+      "message": "더 보기"
+   },
+   "remove_ads_description": {
+      "message": "웹 페이지에서 광고와 네비게이션을 제거합니다. 기사 및 텍스트 중심 페이지에 적합합니다."
+   },
+   "remove_images": {
+      "message": "이미지 제거"
+   },
+   "report": {
+      "message": "신고"
+   },
+   "resolve_issue": {
+      "message": "문제 해결을 도와드리겠습니다."
+   },
+   "save_as_image": {
+      "message": "이미지로 저장"
+   },
+   "save_as_pdf": {
+      "message": "PDF로 저장"
+   },
+   "save_changes": {
+      "message": "저장"
+   },
+   "screenshot": {
+      "message": "스크린샷"
+   },
+   "screenshot_image_format": {
+      "message": "스크린샷 이미지 형식"
+   },
+   "screenshot_ready_soon": {
+      "message": "잠시 후 스크린샷이 준비됩니다."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly는 대부분의 웹사이트에서 작동하여 더 깨끗하고 인쇄 친화적인 페이지와 스크린샷을 쉽게 생성할 수 있습니다. 그러나 브라우저 설정, 확장 프로그램 스토어 및 기타 제한된 영역과 같은 특정 페이지는 브라우저 정책으로 인해 액세스할 수 없습니다. 질문이 있으면 문의해 주세요."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "settings_saved": {
+      "message": "설정이 저장되었습니다."
+   },
+   "show_screenshot_message": {
+      "message": "인쇄 친화적 보기에서 스크린샷 메시지 표시"
+   },
+   "something_went_wrong": {
+      "message": "문제가 발생했습니다"
+   },
+   "still_does_not_work": {
+      "message": "여전히 작동하지 않으면"
+   },
+   "stop_capturing": {
+      "message": "캡처 중지"
+   },
+   "strict_security_settings": {
+      "message": "죄송합니다. 이 페이지는 엄격한 보안 설정(콘텐츠 보안 정책)을 가지고 있어 PrintFriendly 버전을 생성할 수 없습니다."
+   },
+   "style": {
+      "message": "스타일"
+   },
+   "take_screenshot": {
+      "message": "스크린샷 찍기:"
+   },
+   "text_size_pref": {
+      "message": "텍스트 크기 설정"
+   },
+   "text_size_pref_desc": {
+      "message": "확장 프로그램으로 페이지를 볼 때 텍스트 크기를 설정하세요."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly에서 PDF 생성 중에 시간이 초과되었을 수 있습니다. 시스템에서 처리하기에 너무 컸을 수 있습니다."
+   },
+   "txt_size": {
+      "message": "텍스트 크기"
+   },
+   "unable_to_generate_pdf": {
+      "message": "이 페이지에 대한 PDF를 생성할 수 없습니다."
+   },
+   "undo": {
+      "message": "실행 취소"
+   },
+   "what_you_can_do": {
+      "message": "할 수 있는 일"
+   },
+   "yes": {
+      "message": "예"
+   }
+}

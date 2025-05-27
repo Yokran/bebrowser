@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": "src/assets/logo/favicon-128.png",
+      "default_popup": "src/pages/popup/index.html"
+   },
+   "author": "William Chen",
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "assets/index.ts-loader-D0mcVr9y.js" ],
+      "matches": [ "https://www.facebook.com/*", "https://web.facebook.com/*", "https://business.facebook.com/*", "https://www.messenger.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "externally_connectable": {
+      "matches": [ "https://www.facebook.com/*", "https://web.facebook.com/*", "https://business.facebook.com/*", "https://www.messenger.com/*" ]
+   },
+   "host_permissions": [ "https://www.facebook.com/*", "https://web.facebook.com/*", "https://business.facebook.com/*", "https://www.messenger.com/*" ],
+   "icons": {
+      "128": "src/assets/logo/favicon-128.png",
+      "16": "src/assets/logo/favicon-16.png",
+      "19": "src/assets/logo/favicon-19.png",
+      "32": "src/assets/logo/favicon-32.png",
+      "38": "src/assets/logo/favicon-38.png",
+      "48": "src/assets/logo/favicon-48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwBKe5f/IUnjjQVjfv0GP3qiV2nWq8w37EYPa0phFnWnP0dsvRzoPrvX6pcwKs+35xxGonnbrta9kDmFX4Hd/t0d/4OH03DS5WrZwK2WjfEvAeOXZHgHpHxqogbnIDVV/uLL/OWldICXuzd9c1ekaVUNy3Z8a9KmOiNBm4snDuvNsu2NWi0Vh/KZdL85pCUDkyocw94SExkRge3rW8bx7P/TPMNc9/cCrVC/NC3QMNMUPOE5U18TvBp47yS92yEz07oh8NyIcHZAfyNh7HhY8YNXJoIm7txtv4aDu8eqeC4DgSdKuXeyibkz6kO5Sa5so+GOL/TOtbrzA2SzDq3SWgwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "103",
+   "name": "__MSG_name__",
+   "permissions": [ "scripting", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.10.3",
+   "version_name": "1.10.3",
+   "web_accessible_resources": [ {
+      "matches": [ "https://business.facebook.com/*", "https://web.facebook.com/*", "https://www.facebook.com/*", "https://www.messenger.com/*" ],
+      "resources": [ "*", "assets/const-iCDGZOtf.js", "assets/index.ts-EiwmrE8T.js" ],
+      "use_dynamic_url": false
+   } ]
+}

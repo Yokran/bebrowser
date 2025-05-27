@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>InsFo</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="256" height="256" rx="36"></rect>
+    </defs>
+    <g id="InsFo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#FCD813" xlink:href="#path-1"></use>
+        <path d="M0,-6.03961325e-14 L114,-6.03961325e-14 L114,23 C114,42.882251 97.882251,59 78,59 L0,59 L0,59 L0,-6.03961325e-14 Z" id="Rectangle" fill="#AF30BC" mask="url(#mask-2)"></path>
+        <text mask="url(#mask-2)" font-family="PingFangSC-Semibold, PingFang SC" font-size="36" font-weight="500" fill="#FFFFFF">
+            <tspan x="13.19" y="43">InsFo</tspan>
+        </text>
+        <path d="M164,204" id="Path-2" stroke="#979797" mask="url(#mask-2)"></path>
+        <g id="Group-5" mask="url(#mask-2)" stroke-linecap="round" stroke-linejoin="round">
+            <g transform="translate(50.000000, 59.000000)" id="follower">
+                <ellipse id="Oval" stroke="#000000" stroke-width="10" cx="75.7128065" cy="43.7349746" rx="44.0779292" ry="43.7349746"></ellipse>
+                <path d="M75.9237057,87.4699491 C33.9922009,87.4699491 2.84217094e-14,121.197669 2.84217094e-14,162.80292" id="Shape" stroke="#000000" stroke-width="10"></path>
+            </g>
+        </g>
+        <g id="Group-9" mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+            <g transform="translate(142.000000, 164.000000)">
+                <polyline id="Path-7" points="20.5851731 29 72 29 51.5 0"></polyline>
+                <polyline id="Path-7" transform="translate(51.500000, 43.500000) scale(1, -1) translate(-51.500000, -43.500000) " points="31 58 72 58 51.5 29"></polyline>
+                <polyline id="Path" points="26 58 0 58 0 0 26 0"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

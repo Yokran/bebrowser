@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/global/css/global.css">
+    <link rel="stylesheet" href="/browser-action/css/browser-action.css">
+    <script src="/global/js/browser-polyfill.min.js"></script>
+    <script src="/global/js/bowser.js"></script>
+    <script src="/global/js/punycode.min.js"></script>
+    <script src="/global/js/global.js"></script>
+    <script src="/global/js/utils.js"></script>
+    <script src="/global/js/const.js"></script>
+    <script src="/global/js/log.js"></script>
+    <script src="/global/js/i18next/i18next.min.js"></script>
+    <script src="/global/js/i18next/i18nextXHRBackend.js"></script>
+    <script src="/shared/legacy/i18n.js"></script>
+    <script src="/global/js/page.js"></script>
+    <script src="/global/js/incentive.js"></script>
+    <script src="/browser-action/js/browser-action.js"></script>
+  </head>
+  <body>
+    <header id="header" class="none">
+      <h1 i18n-content="extensionName"></h1>
+    </header>
+    <aside id="bractToolbar">
+      <ul>
+        <li class="bractToolbarItem">
+          <button
+            id="bractOpenOptionsPage"
+            class="bractBtn i18nTitle"
+            i18n-content="optionsTitle"
+              ></button>
+        </li>
+        <li class="bractToolbarItem">
+          <button
+            id="bractClosePage"
+            class="bractBtn i18nTitle"
+            i18n-content="close"
+              ></button>
+        </li>
+      </ul>
+    </aside>
+    <main id="content">
+      <section id="browserActionSettings" class="page">
+        <h1 i18n-content="browserActionTitle" class="pageHeading"></h1>
+        <form id="sttbModeForm">
+          <fieldset class="pwFieldset">
+            <ul class="pwList">
+              <li class="pwListItem">
+                <label class="pwLabel">
+                  <input
+                    type="radio" name="sttbMode"
+                    id="sttbModeOptionEnabled" class="sttbModeOption"
+                      >
+                  <span i18n-content="browserActionSttbEnabled"></span>
+                </label>
+              </li>
+              <li class="pwListItem">
+                <label class="pwLabel">
+                  <input
+                    type="radio" name="sttbMode"
+                    id="sttbModeOptionUrl" class="sttbModeOption"
+                      >
+                  <span i18n-content="browserActionSttbDisabledUrl"></span>
+                  <span
+                    id="sttbModeTabAddressUrl" class="sttbModeTabAddress"
+                      ></span>
+                </label>
+              </li>
+              <li class="pwListItem">
+                <label class="pwLabel">
+                  <input
+                    type="radio" name="sttbMode"
+                    id="sttbModeOptionDomain" class="sttbModeOption"
+                      >
+                  <span i18n-content="browserActionSttbDisabledDomain"></span>
+                  <span
+                    id="sttbModeTabAddressDomain" class="sttbModeTabAddress"
+                      ></span>
+                </label>
+              </li>
+            </ul>
+          </fieldset>
+        </form>
+        <button
+          id="browserActionReloadActiveTabCta" class="pwCta hasText none"
+          i18n-content="browserActionReloadActiveTab"
+          hidden aria-hidden="true"
+            ></button>
+      </section>
+    </main>
+    <script src="/global/js/page-v2.js"></script>
+  </body>
+</html>

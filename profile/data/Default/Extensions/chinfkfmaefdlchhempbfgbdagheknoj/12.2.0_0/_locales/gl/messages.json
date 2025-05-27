@@ -1,0 +1,392 @@
+{
+  "extensionName": {
+    "message": "Scroll To Top Button",
+    "description": "Please copy and paste the original/source string. Should NOT be translated."
+  },
+  "optionsPageTitle": {
+    "message": "Opcións | Scroll To Top Button",
+    "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "optionsTitle": {
+    "message": "Opcións do Scroll To Top Button",
+    "description": "Go to https://support.google.com/chrome/answer/7040464?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "close": {
+    "message": "Pechar"
+  },
+  "buttonModeBrowserActionButtonTitle": {
+    "message": "Desprazamento á parte superior desta páxina"
+  },
+  "browserActionPageTitle": {
+    "message": "Axustes da lapela activa | Scroll To Top Button"
+  },
+  "browserActionTitle": {
+    "message": "Axustes da lapela activa"
+  },
+  "browserActionSttbEnabled": {
+    "message": "Activar STTB"
+  },
+  "browserActionSttbDisabledUrl": {
+    "message": "Desactivar STTB neste URL"
+  },
+  "browserActionSttbDisabledDomain": {
+    "message": "Desactivar STTB neste dominio"
+  },
+  "browserActionReloadActiveTab": {
+    "message": "Recargar lapela"
+  },
+  "buttonSettings": {
+    "message": "Axustes dos botóns"
+  },
+  "buttonMode": {
+    "message": "Modo botón"
+  },
+  "scrollToTopOnly": {
+    "message": "Só desprazamento cara enriba",
+    "description": "Name of a button mode that allows scrolling only to the top of a page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png"
+  },
+  "flipBetweenTopBottom": {
+    "message": "Mudar entre enriba e embaixo",
+    "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png"
+  },
+  "dualArrows": {
+    "message": "Dobre frecha",
+    "description": "Name of a button mode that allows scrolling to the top or bottom of a page. Always shows two arrows. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png"
+  },
+  "keyboardOnly": {
+    "message": "Só teclado",
+    "description": "Name of a button mode that allows scrolling to the top or bottom of a page only with the help of keyboard shortcuts. No button(s) present on the page. Context: https://user-images.githubusercontent.com/5961162/71781066-3254ed00-2f7f-11ea-8dbf-8d61ed0fc9a2.png"
+  },
+  "disableExpertButtonModes": {
+    "message": "Revogar permisos",
+    "description": "Title of a button that triggers a revocation of the previously granted permissions (“tabs” - allows disabling the extension on a whole domain or a specific URL; “<all_urls>” for content_scripts - adds a button(s) to the specified location of a page in the specified design, size, and other properties). Context: https://user-images.githubusercontent.com/5961162/71878081-aa3a2900-30df-11ea-8be1-393dcf6578d0.png"
+  },
+  "permissionNameOriginsChromium": {
+    "message": "Ler e cambiar todos os seus datos nos sitios web que visite",
+    "description": "Chromium-based browsers-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png"
+  },
+  "permissionNameOriginsFirefox": {
+    "message": "Acceder aos seus datos en todos os sitios web",
+    "description": "Firefox-specific name of the permission used to add the button(s) itself, its logic, and its design properties onto all websites. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png"
+  },
+  "permissionNameTabsChromium": {
+    "message": "Ler o seu historial de navegación",
+    "description": "Chromium-based browsers-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318977-ae6fc480-3652-11ea-8407-96e6b2909ee3.png"
+  },
+  "permissionNameTabsFirefox": {
+    "message": "Acceder ás lapelas do navegador",
+    "description": "Firefox-specific name of the permission used to check the URL of a tab:\n1) There are some default websites where the button doesn't get added because it wouldn't work there (for example, Google Docs and Google Sheets).\n2) User has the ability to disable the button(s) on any website (example.org) or URL (example.org/blog?page=1) by clicking the extension icon next to the address bar and selecting the appropriate option. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png"
+  },
+  "privacyDetails": {
+    "message": "Esta extensión non le, cambia, garda ou transmite ningún dos seus datos persoais p.e: datos de inicio de sesión, contrasinais, mensaxes, contactos) de ningún sitio web nin no seu computador.",
+    "description": "Re-affirmation that the extension doesn't steal user's data. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png"
+  },
+  "sourceCodeOpenlyAvailableDetails": {
+    "message": "Extensión gratuíta. O código está dispoñíbel en https://github.com/PoziWorld/Scroll-To-Top-Button-extension",
+    "description": "Statement that the extension has nothing to hide. Context: https://user-images.githubusercontent.com/5961162/72318802-2ab5d800-3652-11ea-9181-215d491cf244.png"
+  },
+  "scrollUpSpeed": {
+    "message": "Velocidade cara enriba"
+  },
+  "scrollUpSpeedCustom": {
+    "message": "Velocidade cara enriba en milisegundos",
+    "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one."
+  },
+  "scrollDownSpeed": {
+    "message": "Velocidade cara embaixo"
+  },
+  "scrollDownSpeedCustom": {
+    "message": "Velocidade cara embaixo en milisegundos",
+    "description": "Lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one."
+  },
+  "slowest": {
+    "message": "Moito máis amodo"
+  },
+  "slower": {
+    "message": "Máis amodo"
+  },
+  "slow": {
+    "message": "Amodo"
+  },
+  "fast": {
+    "message": "Axiña"
+  },
+  "faster": {
+    "message": "Máis axiña"
+  },
+  "fastest": {
+    "message": "Moito máis axiña (instantáneo)"
+  },
+  "custom": {
+    "message": "Permitídeme especificar...",
+    "description": "Shows a number input field that lets user specify scroll up speed value in milliseconds instead of selecting a pre-set one."
+  },
+  "appearDistance": {
+    "message": "Distancia da aparición",
+    "description": "In other words, “distance after which the button appears.”"
+  },
+  "flipDistance": {
+    "message": "Distancia do xiro",
+    "description": "The “flip” is when the button changes the direction: when you scroll down, the arrow points towards the top; when you scroll up, the arrow points towards the bottom."
+  },
+  "barelyAny": {
+    "message": "Apenas nada"
+  },
+  "aLittle": {
+    "message": "Algo"
+  },
+  "medium": {
+    "message": "Media"
+  },
+  "moreThanAverage": {
+    "message": "Máis da media"
+  },
+  "aLot": {
+    "message": "Moita"
+  },
+  "aTon": {
+    "message": "Moitísima"
+  },
+  "buttonSize": {
+    "message": "Tamaño do botón"
+  },
+  "buttonSizeInPixels": {
+    "message": "$LENGTH$x$WIDTH$ pixels",
+    "description": "Button size in pixels (length, width): 35x40 pixels",
+    "placeholders": {
+      "length": {
+        "content": "$1",
+        "example": "35"
+      },
+      "width": {
+        "content": "$2",
+        "example": "40"
+      }
+    }
+  },
+  "buttonWidthCustom": {
+    "message": "Largura do botón en píxeles",
+    "description": "Lets user specify button width value in pixels instead of selecting a pre-set size."
+  },
+  "buttonHeightCustom": {
+    "message": "Altura do botón en píxeles",
+    "description": "Lets user specify button height value in pixels instead of selecting a pre-set size."
+  },
+  "buttonDesign": {
+    "message": "Deseño do botón"
+  },
+  "colors": {
+    "message": "Cores"
+  },
+  "tumblerBlue": {
+    "message": " Azul de Tumblr"
+  },
+  "grey": {
+    "message": "Gris"
+  },
+  "black": {
+    "message": "Negro"
+  },
+  "red": {
+    "message": "Vermello"
+  },
+  "orange": {
+    "message": "Laranxa"
+  },
+  "yellow": {
+    "message": "Amarelo"
+  },
+  "green": {
+    "message": "Verde"
+  },
+  "blue": {
+    "message": "Azul"
+  },
+  "purple": {
+    "message": "Púrpura"
+  },
+  "pink": {
+    "message": "Rosa"
+  },
+  "arrowOnly": {
+    "message": "Só frechas"
+  },
+  "alternateDesigns": {
+    "message": "Deseños alternativos"
+  },
+  "pixelDesign": {
+    "message": "Deseño dos píxeles"
+  },
+  "buttonLocation": {
+    "message": "Localización do botón"
+  },
+  "topRight": {
+    "message": "Enriba dereita"
+  },
+  "topLeft": {
+    "message": "Enriba esquerda"
+  },
+  "topCenter": {
+    "message": "Enriba central"
+  },
+  "centerRight": {
+    "message": "Central dereita"
+  },
+  "centerLeft": {
+    "message": "Central esquerda"
+  },
+  "bottomRight": {
+    "message": "Embaixo dereita"
+  },
+  "bottomLeft": {
+    "message": "Embaixo esquerda"
+  },
+  "bottomCenter": {
+    "message": "Embaixo central"
+  },
+  "notActiveButtonOpacity": {
+    "message": "Opacidade do botón inactivo",
+    "description": "In other words, “Opacity of inactive button.”"
+  },
+  "invisible": {
+    "message": "Invisíbel"
+  },
+  "transparent": {
+    "message": "Transparente"
+  },
+  "opaque": {
+    "message": "Opaco"
+  },
+  "keyboardShortcuts": {
+    "message": "Atallos do teclado",
+    "description": "Go to https://support.google.com/chrome/answer/157179?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "altUpDownArrows": {
+    "message": "Alt + Frechas Arriba/Abaixo",
+    "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en#pageshortcuts. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "altTB": {
+    "message": "Alt + T/B"
+  },
+  "off": {
+    "message": "Desactivado"
+  },
+  "homeEndKeysControlledBy": {
+    "message": "Teclas de Inicio e Fin controladas por"
+  },
+  "operatingSystem": {
+    "message": "Sistema operativo",
+    "description": "Go to https://support.google.com/chromebook/answer/177889?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "contextRightClickMenu": {
+    "message": "Menú contextual (clic dereito)",
+    "description": "Go to https://support.google.com/chromebook/answer/183101?hl=en. Find text that resembles the source string. Replace “en” in the end of the URL with your language code. And find the translation in the same place."
+  },
+  "on": {
+    "message": "Activado"
+  },
+  "keyboardSettings": {
+    "message": "Axustes do teclado"
+  },
+  "clickthroughKeys": {
+    "message": "Premer un elemento debaixo do botón",
+    "description": "Before, user might have wanted to click an element located underneath/behind the button, but the button was in the way and there was no way to get rid of the button. Now, such user can hold a certain key on his/her keyboard and hover over the button and the button will disappear, allowing the user to comfortably click the previously inaccessible element."
+  },
+  "clickthroughKeysTooltip": {
+    "message": "Antes, vostede non era quen de premer nun elemento situado debaixo/detrás do botón porque o botón estaba no medio e impedíao.\n\nAgora, pode manter premida unha tecla determinada e situar o cursor sobre o botón para que este desapareza, permitíndolle comodamente premer no elemento previamente inaccesíbel.",
+    "description": "The tooltip that explains the “clickthrough keys” option in detail."
+  },
+  "ctrlKey": {
+    "message": "Ctrl (Control) + Clic",
+    "description": "Ctrl (Control on Macintosh keyboards) key + Click button."
+  },
+  "shiftKey": {
+    "message": "Maiús + Clic",
+    "description": "Shift key + Click button."
+  },
+  "ctrlKeyOrShiftKey": {
+    "message": "Ctrl/Maiús + Clic",
+    "description": "Ctrl (Control on Macintosh keyboards) or Shift key + Click button."
+  },
+  "otherSettings": {
+    "message": "Outros axustes"
+  },
+  "restoreDefaults": {
+    "message": "Restabelecer predefinicións"
+  },
+  "authorsSettings": {
+    "message": "Axustes polo autor"
+  },
+  "uiLanguage": {
+    "message": "Idioma",
+    "description": "Setting on the Options page: language of the user interface."
+  },
+  "language_browserDefault": {
+    "message": "Automático (predeterminado no navegador)",
+    "description": "Language option.\n\nIf the extension supports the language that is chosen as default in the browser, use that one. Otherwise, use English (United States)."
+  },
+  "language_browserDefault_tooltip": {
+    "message": "Se a extensión acepta o idioma seleccionado como predeterminado no navegador, usará este. En caso contrario, usará o inglés (Estados Unidos).",
+    "description": "Explanation of the “Automatic (browser default)” language option that should be shown in a tooltip."
+  },
+  "language_bg": {
+    "message": "Búlgaro - български",
+    "description": "Language option: bg (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_cs": {
+    "message": "Checo - čeština",
+    "description": "Language option: cs (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_en_US": {
+    "message": "Inglés (Estados Unidos) - English (United States)",
+    "description": "Language option: en-US (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes - https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_gl": {
+    "message": "Galego",
+    "description": "Language option: gl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_ja": {
+    "message": "Xaponés - 日本語",
+    "description": "Language option: ja (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_nl": {
+    "message": "Neerlandés - Nederlands",
+    "description": "Language option: nl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_pl": {
+    "message": "Polaco - polski",
+    "description": "Language option: pl (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_ru": {
+    "message": "Ruso - русский",
+    "description": "Language option: ru (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_tr": {
+    "message": "Turco - Türkçe",
+    "description": "Language option: tr (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "language_zh_CN": {
+    "message": "Chino (China) - 中文（中国）",
+    "description": "Language option: zh_CN (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes).\n\nIf it doesn't match the current language, then write: *name of this language in the current language* - *native name of this language*.\nIf it does match the current language, then write: *native name of this language*.\n\nExamples:\nIf the current language isn't English (United States) but Russian, this should say: Английский (Соединённые Штаты) - English (United States).\nIf the current language is English (United States), this should match it: English (United States)."
+  },
+  "save": {
+    "message": "Gardar"
+  },
+  "optionsSaved": {
+    "message": "Opcións gardadas."
+  },
+  "helpTranslate": {
+    "message": "<a href=\"#\" target=\"_blank\" id=\"translateLink\">Axudar cas traducións</a>"
+  },
+  "translatedBy": {
+    "message": "Traducido por <a href=\"https://www.transifex.com/user/profile/antiparvos/\" target=\"_blank\" id=\"translatorLink\">antiparvos</a> e <a href=\"https://www.transifex.com/user/profile/Iv%C3%A1ns/\" target=\"_blank\" id=\"translatorLink\">Iváns</a>",
+    "description": "To give translators proper credit, this will be displayed somewhere on the Options page, so that people know who translated it for them. Example: “Translated by <a href=\"https://www.transifex.com/user/profile/johndoesttb/\" target=\"_blank\" id=\"translatorLink\">John Doe aka johndoesttb</a>”"
+  },
+  "releaseNotes": {
+    "message": "<a href=\"#\" target=\"_blank\" id=\"releaseLink\">Notas da versión</a>"
+  },
+  "officialWebsite": {
+    "message": "<a href=\"#\" target=\"_blank\" id=\"officialWebsiteLink\">Páxina web</a>",
+    "description": "It might be called an “official website”, but since it's more of a landing page (for now) than a full website calling it just a “homepage” seems reasonable."
+  }
+}

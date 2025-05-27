@@ -1,0 +1,275 @@
+{
+   "action_about": {
+      "message": "સંબંધિત..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "બ્રાઉઝર વિન્ડો કેપ્ચર કરો અને "
+   },
+   "action_capture_entire": {
+      "message": "સંપૂર્ણ પૃષ્ઠને કેપ્ચર કરો અને"
+   },
+   "action_capture_entire_lite": {
+      "message": "સંપૂર્ણ પૃષ્ઠને કેપ્ચર કરો "
+   },
+   "action_capture_selection": {
+      "message": "પસંદ કરેલા ભાગ/એકમ કેપ્ચર કરો અને "
+   },
+   "action_capture_selection_lite": {
+      "message": "પસંદ કરેલા ભાગ કેપ્ચર કરો"
+   },
+   "action_capture_tabs": {
+      "message": "બધા ટૅબ્સ કેપ્ચર કરો અને"
+   },
+   "action_capture_visible": {
+      "message": "દૃશ્યમાન ભાગને કેપ્ચર કરો અને "
+   },
+   "action_capture_visible_lite": {
+      "message": "દૃશ્યમાન ભાગને કેપ્ચર કરો"
+   },
+   "action_copy": {
+      "message": "ક્લિપબોર્ડ પર નકલ કરો "
+   },
+   "action_edit": {
+      "message": "સંપાદિત કરો"
+   },
+   "action_email": {
+      "message": "ઈ મેલ"
+   },
+   "action_enter_license": {
+      "message": "લાઇસન્સ દાખલ કરો"
+   },
+   "action_external": {
+      "message": "બાહ્ય સંપાદન માં ખોલો"
+   },
+   "action_install_native": {
+      "message": "અદ્યતન સુવિધાઓનો પ્રયાસ કરો"
+   },
+   "action_license_info": {
+      "message": "લાઇસન્સિંગ માહિતી"
+   },
+   "action_micsellaneous": {
+      "message": "વિવિધ"
+   },
+   "action_onenote": {
+      "message": "OneNᴏte માં મોકલો"
+   },
+   "action_open_clipboard": {
+      "message": "ક્લિપબર્ડ માંથી ખોલો"
+   },
+   "action_open_file": {
+      "message": "ફાઇલ ખોલો"
+   },
+   "action_options": {
+      "message": "વિકલ્પો "
+   },
+   "action_print": {
+      "message": "પ્રિન્ટ"
+   },
+   "action_register": {
+      "message": "નોંધણી કરો"
+   },
+   "action_resume": {
+      "message": "સંપાદન ફરી શરૂ કરો"
+   },
+   "action_save": {
+      "message": "સાચવો"
+   },
+   "action_save_pdf": {
+      "message": "પીડીએફ તરીકે સાચવો"
+   },
+   "action_save_pdf_single": {
+      "message": "એક પીડીએફ તરીકે સાચવો"
+   },
+   "action_support": {
+      "message": "મદદ"
+   },
+   "action_switch_pro": {
+      "message": "Pro માં બદલો "
+   },
+   "action_switch_pro_tabs": {
+      "message": "આગળ વધવા Pro સુવિધા સક્રિય કરો..."
+   },
+   "action_upload": {
+      "message": "અપલોડ "
+   },
+   "action_view_demo": {
+      "message": "નિદર્શન જુવો"
+   },
+   "activity": {
+      "message": "5"
+   },
+   "application_description": {
+      "message": "પૂર્ણ વેબપેજ સ્ક્રીનશૉટ્સ લો. કેપ્ચર, સંપાદિત કરો અને તેમને PDF/JPEG/GIF/PNG, અપલોડ, પ્રિન્ટ, OneNᴏte, ક્લીપબોર્ડ અથવા ઇમેઇલ માં મોકલો."
+   },
+   "application_title": {
+      "message": "સંપૂર્ણ વેબપૃષ્ઠ સ્ક્રીનશૉટ્સ લો - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Pro ખરીદો"
+   },
+   "captured_copy_clipboard": {
+      "message": "ક્લિપબોર્ડ પર નકલ કરો"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "જાણો..."
+   },
+   "captured_get_free_button": {
+      "message": "મફત અજમાવો"
+   },
+   "captured_print": {
+      "message": "પ્રિન્ટ"
+   },
+   "captured_print_button": {
+      "message": "પ્રિન્ટ"
+   },
+   "captured_recommend_us": {
+      "message": "FireShot ની ભલામણ કરો"
+   },
+   "captured_save_as_image": {
+      "message": "છબી તરીકે સાચવો"
+   },
+   "captured_save_as_image_button": {
+      "message": "છબી તરીકે સાચવો"
+   },
+   "captured_save_as_pdf": {
+      "message": "પીડીએફ માં સાચવો"
+   },
+   "captured_save_panel_title": {
+      "message": "સ્ક્રીનશૉટ સાચવો"
+   },
+   "captured_saving_options": {
+      "message": "તેમાં બદલાવ કરો"
+   },
+   "captured_setup_hotkeys": {
+      "message": "સેટઅપ હોટ કી અને ફાઇલ સેટિંગ્સ ..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "કૅપ્ચર, નોંધ, પ્રિન્ટ અને વધુ સારી રીતે સાચવો, સંપાદિત કરો, અપલોડ કરો, ઇમેઇલ કરો / OneNᴏte, અથવા અન્ય પ્રોગ્રામ માં  મોકલો."
+   },
+   "captured_upgrade_link_2": {
+      "message": "FireShot Prᴏ માં અપગ્રેડ કરો"
+   },
+   "captured_upgrade_link_3": {
+      "message": "હું FireShot ના બીજા વર્ઝનનો ઉપયોગ કરી રહ્યો હતો"
+   },
+   "captured_upgrade_link_4": {
+      "message": "શું હું તેને પાછું મેળવી શકું?"
+   },
+   "enable_checkbox": {
+      "message": "સક્ષમ કરો"
+   },
+   "options_button_apply": {
+      "message": "અરજી કરો"
+   },
+   "options_button_save_close": {
+      "message": "સાચવો અને બંધ કરો"
+   },
+   "options_button_setup": {
+      "message": "સુયોજન માટે ક્લિક કરો"
+   },
+   "options_label_and": {
+      "message": "અને"
+   },
+   "options_label_capturing": {
+      "message": "કેપ્ચર"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "સંચય પછી ટેબ બંધ કરો"
+   },
+   "options_label_customize_saving": {
+      "message": "વૈવિધ્યપૂર્ણ સાચવવાની પ્રક્રિયા"
+   },
+   "options_label_default_filename_template": {
+      "message": "મૂળભૂત ફાઈલ ના નામનો નમૂનો:"
+   },
+   "options_label_default_folder": {
+      "message": "મૂળભૂત આઉટપુટ ફોલ્ડર"
+   },
+   "options_label_default_folder_hint": {
+      "message": "સાચવેલ ફાઈલ રાખનાર ડાઉનલોડ ડિરેક્ટરી નો ફાઈલ પાથ, પેટા ડિરેક્ટરી પણ હોઈ શકે છે  સંપૂર્ણ પાથ, ખાલી પાથ અને પાથ મન પાછલા સંદર્ભો «..» ભૂલ કરશે."
+   },
+   "options_label_editor_options": {
+      "message": "સંપાદન વિકલ્પો"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FireShot ને કોન્ટેક્સટ મેનૂમાં એકીકૃત કરો"
+   },
+   "options_label_file_settings": {
+      "message": "ફાઇલ સુયોજનો"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot વિકલ્પો"
+   },
+   "options_label_hotkey": {
+      "message": "હોટ કીઝ"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "છેલ્લે વપરાયેલ ક્રિયા"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "'Save as' નો ડાયલોગ ના બતાવો"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "સંચય કર્યા પછી ફાઈલ ને ડાઉનલોડ ફોલ્ડર માં બતાવો "
+   },
+   "options_label_save_image_as": {
+      "message": "છબીને આ રીતે સાચવો:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "સંપાદક અને સાચવાના વિકલ્પ, ફાઇલ નામકરણ પસંદગીઓ, શૈલીઓ, વગેરે.સ્પષ્ટ કરો"
+   },
+   "options_label_specify_hotkey": {
+      "message": "FireShot ખોલવા માટે કી ની સ્પષ્ટતા કરો "
+   },
+   "options_label_specify_resizing_options": {
+      "message": "માપ અને અવાજ બદલવાની સ્પષ્ટતા કરો."
+   },
+   "options_label_template_day": {
+      "message": "દિવસ"
+   },
+   "options_label_template_hour": {
+      "message": "કલાક"
+   },
+   "options_label_template_limit_1": {
+      "message": "ફાઇલનામ લંબાઈ મર્યાદિત કરો"
+   },
+   "options_label_template_limit_2": {
+      "message": "અક્ષરો"
+   },
+   "options_label_template_minutes": {
+      "message": "મિનિટ"
+   },
+   "options_label_template_month": {
+      "message": "મહિન"
+   },
+   "options_label_template_pad_1": {
+      "message": "પૅડ નંબર સાથે"
+   },
+   "options_label_template_pad_2": {
+      "message": "શૂન્ય"
+   },
+   "options_label_template_seconds": {
+      "message": "સિકન્ડ્સ"
+   },
+   "options_label_template_title": {
+      "message": "પૃષ્ઠ શીર્ષક"
+   },
+   "options_label_template_url": {
+      "message": "પૃષ્ઠ URL"
+   },
+   "options_label_template_website": {
+      "message": "ડોમેન નામ"
+   },
+   "options_label_template_year": {
+      "message": "વર્ષ"
+   },
+   "options_link_filename_template_settings": {
+      "message": "ફાઈલ નામ ના નમૂના નું સેટિંગ બતાવો…"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "ફાઈલ નામ ના નમૂના નું સેટિંગ છુપાવો…"
+   }
+}

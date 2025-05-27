@@ -1,0 +1,7 @@
+.designArrowOnly #canvas {
+  fill-opacity: 0;
+}
+
+.designArrowOnly #arrow {
+  fill-opacity: 1;
+}

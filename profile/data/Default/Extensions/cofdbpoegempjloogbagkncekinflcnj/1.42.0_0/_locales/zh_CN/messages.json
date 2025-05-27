@@ -1,0 +1,2188 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "使用全世界最准确的翻译器——DeepL翻译，在你阅读和写作时进行翻译。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL：人工智能翻译器和写作助手"
+   },
+   "config_tab_click_icon": {
+      "message": "点击\u003Cstrong>DeepL图标\u003C/strong>"
+   },
+   "config_tab_customize_link": {
+      "message": "自定义快捷键"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "如需启用 DeepL 翻译器，请联系管理员。"
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "如需启用 DeepL Write，请联系管理员。"
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "翻译该文本"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepL 徽标"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "完成"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "自动检测语言"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "抱歉，我们无法翻译你的文本。请稍后再试。"
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "抱歉，暂时无法改进文本。请稍后再试。"
+   },
+   "error_message_internet_connection": {
+      "message": "抱歉，网络连接似乎有问题。请再试一次。"
+   },
+   "error_message_please_login": {
+      "message": "请再次登录并翻译该文本。"
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "你已达到账户用量限额。"
+   },
+   "error_message_session_expired": {
+      "message": "抱歉，该会话已过期。请重新登录。"
+   },
+   "error_message_technical_issue": {
+      "message": "抱歉，由于特定技术原因，我们无法翻译你的文本。我们会在不久的将来解决该问题。"
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "抱歉，我们无法翻译你的文本。你的网络似乎向我们的服务器发送了过多请求。"
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "更改语言"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "翻译文本"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "通过DeepL Firefox浏览器扩展程序，无需离开浏览器，你便可以享受DeepL无与伦比的翻译质量。\n\n你可以轻松地翻译在Firefox浏览器内阅读或输入的任何内容。DeepL Pro用户还可以进行全网页翻译。\n我们也将在不久的未来向免费用户发布该功能。此前，你可以简单地选择任何文本，DeepL图标将会弹出。要翻译所选文本，请点击该图标。如果你想在Firefox浏览器上使用DeepL更快捷地翻译你所读写的内容，你还可以在设置中自定义快捷方式。\n\n你无需再担心由于语言障碍而错过网络上的任何信息。\n\n免费下载DeepL Firefox扩展，即刻开始翻译。\n\n边读边译\n你将不必再跳过任何电子邮件、文章或网站。无需离开Firefox浏览器，你便可以用你选择的语言在原始语境中查看你正在浏览的内容。\n\n翻译你的文本\n无论你是在写社交媒体帖子、聊天信息还是电子邮件，你都可以在打字后立即翻译自己的文本。这意味着当你需要使用另一种语言时，你无需复制、粘贴、重新输入或离开Firefox浏览器。\n\n全页翻译\n如果你是DeepL Pro用户，你只需点击一下就可以将整个网页翻译成你的目标语言。你甚至可以选择让所有特定语言的网站自动翻译，以获得无缝的浏览体验。我们正在致力于向免费用户发布该功能。\n\nDeepL Pro登录 \nDeepL Pro用户可以在扩展程序中登录账户。\n\n快捷键\n使用简单的快捷方式使翻译更快捷。你可以在设置中设置自定义快捷方式。\n\n无与伦比的准确性\n你可以放心的是，无论在使用任何网站或应用程序时，你都会得到高质量的翻译结果。DeepL的翻译效果一直优于竞争对手，并被证实比科技巨头公司的翻译结果准确三倍。\n\n受到数百万用户的喜爱\n世界各地数以百万计的人每天都在使用DeepL以改善他们的交流方式。\n\n30多种语言可供选择\n关于该扩展支持的语言，请在我们帮助中心查看相关文章：https://support.deepl.com/hc/zh-cn/articles/4407573562386-浏览器扩展支持的语言\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "使用全球领先的DeepL翻译，在阅读和写作时进行翻译。"
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL翻译： 读写翻译器"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "请与我们\u003CfeedbackLink>分享反馈\u003C/feedbackLink>以帮助我们改进DeepL Firefox扩展"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "允许并继续"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>要使用 DeepL Firefox 版，我们需要得到你的许可，\u003Cstrong>以访问并处理你在浏览时翻译或改进的文本\u003C/strong>。仅有在启用全页翻译功能的情况下，我们才能处理整个网页的内容。\u003C/p>\n\u003Cp>当你在使用 DeepL Firefox 版时登录你的账户，我们将处理你的个人数据，以便提供你的计划中可访问的功能。\u003C/p>\n\u003Cp>我们还将收集技术、设备和用量数据，以确保 DeepL Firefox 扩展在你的浏览器上正常运行，同时检测和防止欺诈行为。\u003C/p> \n\u003Cp>你可以在此处了解更多有关我们的政策的信息：\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "禁止并卸载"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "隐私政策"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "无 DeepL 或 DeepL Pro 账户用户的\u003CtermsLink>使用条款\u003C/termsLink>\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL 需要你的授权"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "如何管理快捷方式"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "正在检测语言…"
+   },
+   "full_page_translation_auto_translate": {
+      "message": "自动将页面翻译成此语言"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "已自动从该源语言翻译："
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "抱歉，由于超过字符限制，我们无法翻译该页面。"
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "抱歉，我们目前无法提供全页翻译。我们正在努力尽快修复该问题。"
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "似乎你同时还在使用Google翻译。请先将其禁用，以便我们的扩展能够正常运行。"
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "每次翻译："
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "不，谢谢"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "不翻译"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "不翻译该网站"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "翻译该网站？"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "翻译"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "变更"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "你已选择不翻译源语言："
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "变更"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "你已选择不翻译："
+   },
+   "full_page_translation_no_website_data": {
+      "message": "我们无法从该网站获得任何数据。请重新加载该页面。"
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "翻译中"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "关闭"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "保存"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "完成"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "设置"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "自动翻译该源语言"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "从不翻译该源语言"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "从不翻译以下网站"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "翻译网页"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "目标语言"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "翻译你的文本"
+   },
+   "full_page_translation_show_original": {
+      "message": "显示原页面"
+   },
+   "full_page_translation_target_label": {
+      "message": "将页面从一种语言翻译成其他语言"
+   },
+   "full_page_translation_translate_button": {
+      "message": "翻译页面"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "我们无法加载你的术语表。"
+   },
+   "glossary_failed_try_again": {
+      "message": "请重试"
+   },
+   "glossary_label": {
+      "message": "术语表"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "创建你的第一份术语表"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "选择一个术语表，将术语条目自动应用到读写的文本中。"
+   },
+   "glossary_settings_log_in_link": {
+      "message": "已注册 DeepL Pro？ \u003CloginLink>登录\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "你想为关键词和短语的翻译自定义规则吗？ 试用 DeepL Pro，可免费使用\u003Cstrong>术语表 30 天\u003C/strong>。"
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "你还没有术语表。立即创建你的第一份术语表，为关键词和短语的翻译制定规则。"
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "显示更多"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "免费试用"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "你每次只能翻译\u003Cstrong>不超过 1,500 个字符\u003C/strong>。\n如需提高限额，\u003Cstrong>请注册 DeepL 账户。\u003C/strong>"
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "登录"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "免费注册"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "字符限制"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "你每次只能翻译\u003Cstrong>不超过 5,000 个字符\u003C/strong>。\n如需无限量使用，\u003Cstrong>免费试用 DeepL Pro 30 天。\u003C/strong>"
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "免费试用 Pro"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "试用 DeepL Pro，翻译不再受限"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "如需翻译多于 5,000 个字符，请订阅 DeepL Pro。"
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "暂时不"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "你已达到了使用限额"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "免费试用 DeepL Pro"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "接受修订"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "翻译或修订文本"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "修订"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "修订"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "纠正错误并完善你的写作。\n目前仅支持英语和德语。"
+   },
+   "gmail_compose_translate_button": {
+      "message": "翻译"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "源语言："
+   },
+   "gmail_compose_translate_icon": {
+      "message": "翻译"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "目标语言："
+   },
+   "gmail_compose_undo_icon": {
+      "message": "恢复原句"
+   },
+   "gmail_forwarding_link": {
+      "message": "免费获取 DeepL Gmail 版"
+   },
+   "gmail_forwarding_title": {
+      "message": "本邮件由 DeepL Gmail 版翻译。"
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "（已检测）"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "一键翻译邮件"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "用其他语言撰写邮件"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "提高写作水平并且更快捷地创建准确无误的邮件"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "如需翻译多于 5,000 个字符，请订阅 DeepL Pro。"
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "免费试用 DeepL Pro"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "你已达到了使用限额"
+   },
+   "gmail_onboarding_title": {
+      "message": "欢迎来到 DeepL Gmail 版"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "启用/关闭 DeepL Gmail 版"
+   },
+   "gmail_reading_forward_button": {
+      "message": "转发已翻译的邮件"
+   },
+   "gmail_reading_translate_button": {
+      "message": "翻译邮件"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "显示原邮件"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "请缩短所选文本或订阅DeepL Pro以获取无限量翻译。"
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "请缩短所选文本，或订阅DeepL Pro以获取无限量修改建议。"
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "免费用户每次最多可以改进 2000 个字符"
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "免费用户每次仅可以翻译5000个字符"
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "\u003Cb>直接在 Microsoft 365 \u003C/b>中使用 DeepL"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "更多信息 "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "使用DeepL翻译所选文本"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "选择文本并点击DeepL图标即可进行翻译！"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "在阅读时显示DeepL图标"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "翻译已选文本至"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "更多设置"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "确认"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "关闭该图标"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "阅读时停用DeepL"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "保持开启状态"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "为所有网站关闭"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "仅为此网站关闭"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "阅读时翻译"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "点击右键翻译为"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "显示更多"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "关闭"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "点击图标打开高级模式窗口。在该窗口中，你可以进行编辑并比较版本。"
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "使用 DeepL 直接翻译和改进文本"
+   },
+   "input_selection_alternatives_label": {
+      "message": "其他翻译结果"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "显示更多"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "选择翻译基调"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "查看其他翻译结果"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "翻译器"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "翻译"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "即时翻译和文本优化"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "点击图标，并选择操作。实力亲眼见证！"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "在输入文本时显示DeepL图标"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "更多设置"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "每次选择"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "设置为默认目标语言"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "确认"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "关闭该图标"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "写作时停用DeepL"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "保持开启状态"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "为所有网站关闭"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "仅为此网站关闭"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "写作时翻译"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "将你输入的文本翻译为"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "变更目标语言"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "关闭"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "如需启用 DeepL Write，请联系管理员。"
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "改进文本。支持德语和英语。"
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "改进文本"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "选择目标语言"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "设置"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "翻译"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "将文本翻译成……"
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "翻译为..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "关闭"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "译为："
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "译为："
+   },
+   "layout_header_settings_icon": {
+      "message": "前往设置"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "翻译器"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "登录"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "免费注册"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "如需每次翻译超过 1,500 个字符，请\u003Cstrong>免费\u003C/strong>注册 DeepL 账户！"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "注册以提高字符限额"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "如需每次翻译超过 5,000 个字符，请试用 \u003Cstrong>DeepL 翻译器\u003C/strong>付费计划，免费试用 30 天！"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "翻译文本，无字符限制"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "如需每次翻译超过 5,000 个字符，请订阅 DeepL 翻译器付费计划。"
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "免费试用"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "升级翻译器"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "升级至 Write Pro"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "每次最多润色 2,000 个字符。使用 \u003Cstrong>DeepL Write Pro\u003C/strong> 完善全部文本。"
+   },
+   "limit_popup_write_title": {
+      "message": "改进文本，无字符限制"
+   },
+   "link_get_pro_license": {
+      "message": "免费试用DeepL Pro"
+   },
+   "link_try_deepl": {
+      "message": "免费试用DeepL Pro"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "使用 DeepL 翻译"
+   },
+   "login_error_default_message": {
+      "message": "登录失败。"
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "登录DeepL Pro账户"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "免费试用DeepL Pro"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "免费试用 Write Pro"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "翻译网页"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "登录"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>作为Pro用户\u003C/strong>，你可以一键翻译全页。"
+   },
+   "login_widget_try_pro_label": {
+      "message": "还不是Pro用户？\u003CtryOutLink>免费试用\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "升级至Pro"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>全页翻译\u003C/strong>一键完成\u003C/li>\n\u003Cli>\u003Cstrong>无限量\u003C/strong>翻译\u003C/li>\n\u003Cli>\u003Cstrong>数据绝对安全\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "使用 \u003Cstrong>DeepL Pro\u003C/strong> 享受高级功能，免费试用 30 天！"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "简单的使用方法"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "管理图标设置"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "显示 DeepL 浮动图标"
+   },
+   "main_popup_info_box_translator": {
+      "message": "你使用的是 \u003Cstrong>DeepL Pro 计划\u003C/strong>，数据绝对安全。"
+   },
+   "main_popup_info_box_write": {
+      "message": "你使用的是 \u003Cstrong>Write Pro 计划\u003C/strong>，数据绝对安全。"
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "开始免费试用"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "翻译全页"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "将选定文本翻译成"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "将你的写作翻译成"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "使用 DeepL Write Pro，获取\u003Cstrong>无限量文本修改建议\u003C/strong>和\u003Cstrong>数据绝对安全保证\u003C/strong>。"
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "升级至 Write Pro"
+   },
+   "main_popup_write_target_language": {
+      "message": "改善以下语言的写作"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "登录DeepL Pro账户"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "退出登录"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "主菜单"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "设置"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "设置"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "分享反馈"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "免费试用DeepL Pro"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "在 Microsoft 365 中使用 DeepL 翻译和写作"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "了解更多"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "通过 DeepL Outlook、Word 和 PowerPoint 加载项，你可以轻松翻译并完善你的文本，而无需在不同的应用程序之间来回切换。"
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "使用 DeepL\u003Cstrong>免费\u003C/strong>账户，你可以每次翻译超过 $limit$ 个字符。",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "注册以提高字符限额"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "登录"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "免费注册"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "订阅 Pro 计划后，每次翻译多于 $limit$ 个字符——\u003Cstrong>免费试用 30 天！\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "获取 DeepL Pro 并提高字符限额"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "免费试用 Pro"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "DeepL图标现已为阅读禁用。你可以在$linkToSettings$中变更该选项",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "已为$currentWebsite$禁用DeepL图标。你可以在$linkToSettings$中变更该选项",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "设置"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "你已选择在输入文本时不显示DeepL图标。你可以在$linkToSettings$中变更该选项",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "你已选择不为$currentWebsite$显示DeepL图标。你可以在$linkToSettings$中变更该选项",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "设置"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "在$settings$中自定义快捷方式以翻译文本",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "设置"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "你已成功创建账户！"
+   },
+   "onboarding_back_button": {
+      "message": "上一页"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "不想在某些页面上使用DeepL扩展？没问题！你可以在设置中为特定网站禁用该扩展。"
+   },
+   "onboarding_disable_pages_title": {
+      "message": "禁用特定网站"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "一键点击即可将网页翻译成你想要的语言。"
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "免费试用"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "此外，在网页版翻译器和应用程序中享受更多功能："
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "翻译完整文档"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "术语表（限特定语言）"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "正式/非正式语气"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "30天内免费试用。可随时取消。"
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "更多"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "全页翻译"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "通过点击DeepL图标或激活快捷方式翻译所选文本。"
+   },
+   "onboarding_inline_translation_title": {
+      "message": "翻译已选文本"
+   },
+   "onboarding_input_translation_description": {
+      "message": "通过点击DeepL图标或激活快捷方式，在数千个平台上翻译你所输入的内容。"
+   },
+   "onboarding_input_translation_title": {
+      "message": "一键翻译你输入的文本"
+   },
+   "onboarding_last_step_description": {
+      "message": "加入成千上万用户之列：在浏览时享受DeepL翻译的卓越品质。"
+   },
+   "onboarding_last_step_title": {
+      "message": "立即试用！"
+   },
+   "onboarding_next_button": {
+      "message": "下一页"
+   },
+   "onboarding_pin_extension": {
+      "message": "将DeepL扩展添加至此以便即时访问"
+   },
+   "onboarding_promotion_body": {
+      "message": "DeepL 浏览器扩展可轻松集成到当今最流行的生产力工具中。"
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>选择你最常用的工具\u003C/strong> ，并将 DeepL 无缝集成到你的工作流程中。"
+   },
+   "onboarding_promotion_header": {
+      "message": "在您常用的工具中高效地翻译和写作"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "在 Gmail 中试用"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "在 Google 文档中试用"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "在 Google 幻灯片中试用"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "查看所有集成"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "你已登录至新的 DeepL 账户。"
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "无需离开浏览器标签页，即可准确地翻译和写作。"
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "获取加载项"
+   },
+   "onboarding_signup_body": {
+      "message": "免费注册 DeepL 账户，充分利用 DeepL 扩展功能。"
+   },
+   "onboarding_signup_cta": {
+      "message": "免费注册"
+   },
+   "onboarding_signup_header": {
+      "message": "还没有账户？"
+   },
+   "onboarding_signup_login_option": {
+      "message": "已经有账户了？ \u003CloginLink>登录\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "跳过"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "你已登录！"
+   },
+   "onboarding_title_free": {
+      "message": "免费"
+   },
+   "onboarding_title_pro": {
+      "message": "PRO用户可用"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "单击 DeepL 图标或触发快捷键，即可翻译您正在读写的内容。可在数千种不同的平台上运行。"
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "翻译读写的内容"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "在撰写文本时，仅需点击 DeepL 图标，即可修正或转述您的文本，并根据受众应用恰当的风格和基调。"
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "支持英语、德语、法语、西班牙语以及更多语言。"
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "写作胸有成竹"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "管理权限"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "允许你的 Firefox 浏览器授权 DeepL 对网站进行访问。"
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefox 需要你的授权"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "出于贵公司对安全的考虑，你必须先登录DeepL Pro才可以使用。"
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "登录你的账户"
+   },
+   "position_options_bottom": {
+      "message": "底端"
+   },
+   "position_options_left": {
+      "message": "左侧"
+   },
+   "position_options_right": {
+      "message": "右侧"
+   },
+   "position_options_top": {
+      "message": "顶端"
+   },
+   "reading_config_tab_description": {
+      "message": "将选定文本翻译成"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "在阅读时显示DeepL图标"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "鼠标\u003Cstrong>右键\u003C/strong>"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "使用\u003Cstrong>快捷键\u003C/strong>"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "阅读"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "设置"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "写作"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "在原处替换"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "在设置中禁用该窗口"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "你可以随时在扩展设置中禁用/启用该窗口。"
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "不常使用高级模式？"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "通过 DeepL 改进文本"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "使用 DeepL 翻译"
+   },
+   "segmentation_survey_button": {
+      "message": "参与问卷调查"
+   },
+   "segmentation_survey_copy": {
+      "message": "请您回答几个问题，帮助我们改进DeepL。"
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "选择语言"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "英语（英国）"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "英语（美国）"
+   },
+   "selected_languages_PT_BR": {
+      "message": "葡萄牙语（巴西）"
+   },
+   "selected_languages_PT_PT": {
+      "message": "葡萄牙语"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "显示翻译/改进文本的高级模式窗口"
+   },
+   "settings_aknowledgements": {
+      "message": "特别鸣谢"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "即将推出"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "撰写清晰、准确的文档并轻松翻译。"
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "在 Google 文档中试用"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "轻松翻译电子邮件，快速改善写作。"
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "在 Gmail 中试用"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "用其他语言制作完美无瑕的演示文稿，自信地呈现你的想法。"
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "在 Google 幻灯片中试用"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "给潜在雇主或员工留下最佳印象。"
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "在领英中试用"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "即时翻译你所读写的推文。"
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "在 X 中试用"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X（原 Twitter）"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "翻译信息，实现多语言即时交流。"
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "在 WhatsApp 中试用"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "翻译其他用户的评论，参与互动。"
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "前往 YouTube"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "显示 DeepL 浮动图标"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "始终自动翻译源语言"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "自动翻译全页内容至"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "在以下网站不再显示全页翻译弹窗"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "不再为以下语言显示全页翻译弹窗"
+   },
+   "settings_fpt_lang_select": {
+      "message": "将网站译入"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "禁止自动翻译源语言"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "禁止自动翻译以下网站"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "你尚未添加任何网站。"
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "你可以为使用DeepL读写图标的网站禁用该功能。"
+   },
+   "settings_fpt_popup_heading": {
+      "message": "显示全页翻译弹窗"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "当全页翻译可用时该弹窗会自动显示"
+   },
+   "settings_fpt_reset": {
+      "message": "重置全页翻译弹窗设置"
+   },
+   "settings_fpt_reset_button": {
+      "message": "重置全部"
+   },
+   "settings_language_selector_empty": {
+      "message": "语言"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "添加语言"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "全页翻译"
+   },
+   "settings_menu_reading": {
+      "message": "阅读"
+   },
+   "settings_menu_writing": {
+      "message": "写作"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "集成"
+   },
+   "settings_navigation_general_settings": {
+      "message": "通用设置"
+   },
+   "settings_reading_adjust_position": {
+      "message": "调整窗口至"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "默认位置"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "始终翻译已选文本至"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "切勿在以下网站上在阅读时显示DeepL图标"
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "当你选择文本时该图标会显示"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "在阅读文本时始终显示DeepL图标"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "在此变更你的快捷键"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "使用快捷键在你阅读时进行翻译"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "快捷键"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "点击此处设置快捷键"
+   },
+   "settings_title": {
+      "message": "设置"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "始终翻译你所输入的文本至"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "切勿在以下网站上在输入文本时显示DeepL图标"
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "当你输入文本时该图标会显示"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "在输入文本时始终显示 DeepL 图标"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "另设置一个快捷方式"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "在此变更你的快捷键"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "使用快捷键在你阅读时进行翻译"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "使用该快捷方式来更改目标语言"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "使用该快捷方式来翻译你的写作"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "在输入文本时始终显示DeepL图标"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "当你输入文本时，该图标会显示"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "输入文本进行翻译。"
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "译文将显示在下方。"
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "参与调查"
+   },
+   "sidepanel_survey_content": {
+      "message": "此项调查将占用您约 2 分钟的时间。"
+   },
+   "sidepanel_survey_header": {
+      "message": "请与我们分享您对更新的反馈"
+   },
+   "supported_languages_AR": {
+      "message": "阿拉伯语"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "保加利亚语"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "捷克语"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "丹麦语"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "德语"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "希腊语"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "英语"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "英语（英式）"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "英语（美式）"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "西班牙语"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "爱沙尼亚语"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "芬兰语"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "法语"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "匈牙利语"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "印尼语"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "意大利语"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "日语"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "韩语"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "立陶宛语"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "拉脱维亚语"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "书面挪威语"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "荷兰语"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "波兰语"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "葡萄牙语"
+   },
+   "supported_languages_PT_BR": {
+      "message": "葡萄牙语（巴西）"
+   },
+   "supported_languages_PT_PT": {
+      "message": "葡萄牙语"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "罗马尼亚语"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "俄语"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "斯洛伐克语"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "斯洛文尼亚语"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "瑞典语"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "土耳其语"
+   },
+   "supported_languages_UK": {
+      "message": "乌克兰语"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "中文（简体）"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "中文（繁体）"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "请选择"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "参与调查"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "我们非常期待您的反馈意见"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "此项调查将占用您约 2 分钟的时间"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "已关闭"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "已开启"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "关闭"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "打开"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "升级"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "免费版 DeepL 翻译器有使用限制"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "你的译文是完全加密的"
+   },
+   "tooltip_write_free_limited": {
+      "message": "免费版 DeepL Write 有使用限制"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "你的文本是完全加密的"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "DeepL 翻译器尚未支持该语言。"
+   },
+   "twitter_web_alternatives_link": {
+      "message": "打开DeepL.com"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "使用DeepL翻译"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "整句"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "单词"
+   },
+   "ui_alternatives_title": {
+      "message": "其他选项"
+   },
+   "ui_auto_translate_label": {
+      "message": "自动翻译"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "每当你访问界面语言为$sourceLang$的页面时，该页面将被自动翻译",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "在\u003CdeeplLink>DeepL.com\u003C/deeplLink>翻译完整文档"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "正式"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "自动"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "非正式"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "返回"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "不再向我显示该弹窗"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "确认"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "不再显示全页翻译弹窗："
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "仅为此网站关闭"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "为所有网站关闭"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "仅为该语言关闭"
+   },
+   "ui_fpt_translate_button": {
+      "message": "翻译页面"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "全页翻译"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "修订已选文本"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "选择文本并点击DeepL图标。"
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "在Google文档\u003Cbr>中准确翻译"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "在原始语境中\u003Cstrong>检查译文\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "用译文\u003Cstrong>替换原文\u003C/strong>，且\u003C/strong>保留格式\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>练习\u003C/strong>发音，\u003Cstrong>扩展\u003C/strong>词汇"
+   },
+   "ui_gdocs_replace": {
+      "message": "替换"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "在文档中替换"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "用此译文替换所选文本"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "启用/关闭 DeepL Google 文档"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "使用DeepL翻译"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "翻译已选文本"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "关闭DeepL"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "欢迎来到 DeepL Google 文档"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "单击即可\u003Cstrong>翻译所选文本\u003C/strong>"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>润色你的写作\u003C/strong>，使文档清晰无误"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "使用\u003Cstrong>备选措辞\u003C/strong>，更准确地表达你的想法"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "在文档中替换"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "关闭"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "你的写作内容已被完善："
+   },
+   "ui_gdocs_write_loading": {
+      "message": "正在修订你的写作内容……"
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "接受修订"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "请花 2 分钟的时间为我们提供改进意见。"
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "参与调查"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "你对 DeepL 有何看法？"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "你每次只能翻译不超过 1,500 个字符。如需提高限额，请注册 DeepL 账户。"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "登录"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "免费注册"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "字符限制"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "你每次只能翻译不超过 5,000 个字符。如需无限量使用，免费试用 DeepL Pro 30 天。"
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "免费试用 Pro"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "试用 DeepL Pro，翻译不再受限"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "测试版"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "欢迎来到 DeepL Google 幻灯片"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "直接翻译选定文本或整张幻灯片"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "完善写作以确保幻灯片内容准确无误"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "恢复原句"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "启用/关闭 DeepL Google 幻灯片"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "翻译"
+   },
+   "ui_gslides_translate_from": {
+      "message": "源语言："
+   },
+   "ui_gslides_translate_into": {
+      "message": "目标语言："
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "否则，最近添加的图像、视频或音频文件可能会丢失。"
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "首先，请选择要翻译或改进的文本。"
+   },
+   "ui_gslides_write_cta": {
+      "message": "修订"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "纠正错误并完善你的写作。目前仅支持英语和德语。"
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "在\u003Cspan> Gmail 和 Google 文档\u003C/span>中即时翻译并快速改善写作。"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "查看集成"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "不再显示"
+   },
+   "ui_hub_tip_badge": {
+      "message": "提示"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "翻译已选文本"
+   },
+   "ui_inline_translation_copied": {
+      "message": "翻译已复制"
+   },
+   "ui_inline_translation_copy": {
+      "message": "复制到剪贴板"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "词典"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "朗读"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "停止播放"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "播放新版本"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "朗读原文"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "朗读译文"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "未找到“\u003Cstrong>$originalSnippet$\u003C/strong>”。",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "词典条目无法加载。请再试一次。"
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "在DeepL.com上查看其他译文"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "打开DeepL.com"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "查看更多功能"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "（已检测）"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "不支持的语言"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "对一个单词进行翻译，以查看其在词典中的释义。"
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "此语言对的词典暂不可用。"
+   },
+   "ui_input_translate_widget_text": {
+      "message": "一键翻译你输入的文本"
+   },
+   "ui_login_body": {
+      "message": "\u003CloginLink>登录\u003C/loginLink>DeepL Pro或\u003CtryLink>免费试用\u003C/tryLink>以进行全网页翻译"
+   },
+   "ui_login_header": {
+      "message": "翻译该页？\u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "禁止翻译$sourceLang$",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "不翻译该网址"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "你可以在\u003CsettingsLink>设置\u003C/settingsLink>中变更该选项"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "你已选择不为\u003Cstrong>$sourceLang$\u003C/strong>翻译",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "你已选择不为\u003Cstrong>$website$\u003C/strong>进行翻译",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "你已选择不为\u003Cstrong>$website$\u003C/strong>进行翻译且不翻译源语言\u003Cstrong>$sourceLang$\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "你已选择不再显示全页翻译弹窗。你可以在设置中变更该选项。"
+   },
+   "ui_read_more": {
+      "message": "了解更多"
+   },
+   "ui_share_button": {
+      "message": "复制"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "已复制"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "复制链接"
+   },
+   "ui_share_error": {
+      "message": "复制文本时出错"
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "分享反馈"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "链接已复制！分享就绪！"
+   },
+   "ui_share_title": {
+      "message": "将DeepL分享给朋友"
+   },
+   "ui_target_language_select": {
+      "message": "请选择你想译入的语言："
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "非常感谢你的评分！"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "你愿意通过一分钟的调查帮助我们改进吗？"
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "参与调查"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "请花 2 分钟的时间为我们提供改进意见。"
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "你对 DeepL 有何看法？"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "不佳"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "非常棒"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "你对DeepL Chrome扩展的反馈对我们而言十分宝贵。"
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "你对 DeepL Edge 扩展的反馈对我们十分宝贵。"
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "你对DeepL Firefox扩展的反馈对我们十分宝贵。"
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "你的体验如何？"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "你的体验如何？"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "你的体验如何？"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "写评价"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "非常感谢你的评分！"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "你想在Chrome应用程序商店分享你的反馈吗？"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "你想在 Edge 扩展商店分享反馈吗？"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "你愿意为该扩展进行评价吗？"
+   },
+   "ui_translated_automatically": {
+      "message": "已由\u003Cstrong>$sourceLang$\u003C/strong>自动翻译",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "免费试用"
+   },
+   "ui_widget_feature_free": {
+      "message": "免费"
+   },
+   "ui_widget_feature_pro": {
+      "message": "PRO用户可用"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "翻译对话"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "停止翻译"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "该语言与收件人语言不符。仍然提交？"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "翻译"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "（检测）"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "翻译该信息"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "DeepL将翻译文本至："
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepL当前无法翻译你的语言"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "一旦我们支持该语言，我们会立即通知你。"
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "确认"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "关闭DeepL"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "启用DeepL"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "欢迎使用DeepL Zendesk"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "请选择你最常用的语言。"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "该扩展\u003Cstrong>限时免费\u003C/strong>。请试用后\u003CloginLink>分享你的反馈\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "多语言处理你的票据\u003Cbr>"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>即时翻译信息或完整对话\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "用客户的语言进行\u003Cstrong>回复\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "\u003Cstrong>准确、自然且专业地应答\u003C/strong>"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "发件人语言"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "你已经达到了账户用量的限额。请联系\u003CdeeplSupportLink>DeepL客服\u003C/deeplSupportLink>以提高该限额。"
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "抱歉，你当前的计划不包含此功能。"
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "你已经达到了免费使用的限额。你想翻译更多内容吗？"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "将聊天信息译成"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "设置"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "翻译聊天信息"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "将信息译入"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "在DeepL.com上查看其他译文"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "设置"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "翻译"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Write 尚未支持该语言。"
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Write 尚未支持该语言"
+   },
+   "write_see_language_supported": {
+      "message": "查看所有支持的语言"
+   },
+   "write_style_options_button_label": {
+      "message": "风格"
+   },
+   "write_style_options_cta_apply": {
+      "message": "应用"
+   },
+   "write_style_options_cta_reset": {
+      "message": "重置"
+   },
+   "write_style_options_description_style": {
+      "message": "我们将根据你的受众和目标为你量身定制译文"
+   },
+   "write_style_options_description_tone": {
+      "message": "我们将为你的文本应用选定的基调"
+   },
+   "write_style_options_headline_style": {
+      "message": "设定一种写作风格"
+   },
+   "write_style_options_headline_tone": {
+      "message": "设定一种基调"
+   },
+   "writing_config_tab_description": {
+      "message": "将你的写作翻译成"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "选择语言"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "在写作时显示DeepL图标"
+   },
+   "writing_style_academic": {
+      "message": "学术"
+   },
+   "writing_style_business": {
+      "message": "商业"
+   },
+   "writing_style_casual": {
+      "message": "日常"
+   },
+   "writing_style_simple": {
+      "message": "简约"
+   },
+   "writing_tone_confident": {
+      "message": "自信"
+   },
+   "writing_tone_diplomatic": {
+      "message": "委婉"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "热情"
+   },
+   "writing_tone_friendly": {
+      "message": "亲切"
+   },
+   "youtube_alternatives_link": {
+      "message": "前往 DeepL.com"
+   },
+   "youtube_translate_comment_link": {
+      "message": "使用 DeepL 翻译"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "移除"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "术语表"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "如需无限量翻译，可免费 30 天试用 DeepL Pro Advanced。"
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "你正在使用免费版 DeepL"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "如需无限量翻译，请订阅 DeepL Pro Advanced 或 Ultimate。"
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "你的计划不包括在 Zendesk 中无限量翻译"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "要继续翻译，请\u003Cstrong>注册 DeepL Pro Advanced\u003C/strong>，并免费使用 30 天。"
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "你正在使用免费版 DeepL "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "您已达到免费翻译限额。"
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "要继续翻译，请\u003Cstrong>订阅 DeepL Pro Advanced 或 Ultimate。\u003C/strong>\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "你的计划不包括在 Zendesk 中无限量翻译"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "我们在您的账户中未找到任何可用的术语表。"
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "仅 DeepL Pro 用户可以使用术语表。"
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "即时翻译票据\u003Cstrong>——可免费翻译 $translationLimit$ 次\u003C/strong>",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "提供\u003Cstrong>自然且专业的译文\u003C/strong>"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "用客户的语言进行\u003Cstrong>回复\u003C/strong>"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "在你读写票据时快速翻译。"
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepL已就绪"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "我们已用完全集成的扩展程序取代了该插件。"
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "免费下载"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "更优质的翻译体验"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "如需无限制翻译，可免费 30 天试用 DeepL Pro Advanced。"
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "您还可以翻译 $remainingTranslations$ 次",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "启用/关闭 DeepL Zendesk 版"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>翻译余量：\u003C/strong> $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "免费试用 Pro Advanced"
+   },
+   "zendesk_try_pro_link": {
+      "message": "免费试用 DeepL Pro"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "已经订阅了 \u003Cstrong>Pro Advanced 或 Ultimate\u003C/strong>？ \u003CloginLink>登录至账户\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "升级你的计划"
+   }
+}

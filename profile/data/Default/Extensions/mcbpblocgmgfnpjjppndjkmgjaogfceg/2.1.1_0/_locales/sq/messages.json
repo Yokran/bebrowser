@@ -1,0 +1,361 @@
+{
+	"application_title": {
+		"message": "Bere teresisht pamjen e ekranit te webfaqjes."
+	},
+
+	"application_description": {
+		"message": "Bere te gjithe webfaqjen \"screenshot\". Terheq, Redaktoj, edhe ruaj ne PDF / JPEG / GIF / PNG, ngarko, printo, dhe dergoni ne OneNote, klipboard ose e - mail."
+	},
+
+	"action_capture_entire": {
+		"message": "Terheq te gjithe faqjen edhe"
+	},
+
+	"action_capture_visible": {
+		"message": "Terheq pjensen e dukshme edhe"
+	},
+
+	"action_capture_selection": {
+		"message": "Terheq zgjidhjen / elementin edhe"
+	},
+
+	"action_capture_entire_lite": {
+		"message": "Terheq te gjithe faqjen"
+	},
+
+	"action_capture_visible_lite": {
+		"message": "Terheq pjesen e dukshme"
+	},
+
+	"action_capture_selection_lite": {
+		"message": "Terheq zgjidhjen"
+	},
+
+	"action_capture_browser": {
+		"message": "Terheq browserin edhe"
+	},
+
+	"action_resume": {
+		"message": "Vazhdo te redaktoj"
+	},
+
+	"action_open_file": {
+		"message": "Hapni/hape skedarin"
+	},
+
+	"action_open_clipboard": {
+		"message": "Hapni/hape prej klipboard"
+	},
+
+	"action_options": {
+		"message": "Opsione"
+	},
+
+	"action_register": {
+		"message": "Regjistrohu"
+	},
+
+	"action_enter_license": {
+		"message": "Shkruaje informatet e licenses"
+	},
+
+	"action_switch_pro": {
+		"message": "Transfero ne PRO"
+	},
+
+	"action_view_demo": {
+		"message": "Shiko demonstrim"
+	},
+
+	"action_support": {
+		"message": "Ndihm"
+	},
+
+	"action_api": {
+		"message": "FireShot API"
+	},
+
+	"action_edit": {
+		"message": "Redakto"
+	},
+
+	"action_save": {
+		"message": "Ruaje"
+	},
+
+	"action_save_pdf": {
+		"message": "Ruaje si PDF"
+	},
+
+	"action_copy": {
+		"message": "Kopjoni ne \"derrase\" klipboard"
+	},
+
+	"action_email": {
+		"message": "E-mail"
+	},
+
+	"action_external": {
+		"message": "Hape ne redactor te jashtem"
+	},
+
+	"action_onenote": {
+		"message": "Dergo/dergoni ne OneNote"
+	},
+
+	"action_upload": {
+		"message": "Ngarkoni"
+	},
+
+	"action_print": {
+		"message": "Printoni"
+	},
+
+	"options_label_fireshot_options": {
+		"message": "FireShot Opsionet"
+	},
+
+	"options_label_capturing": {
+		"message": "Kapjen"
+	},
+
+	"options_label_editor_options": {
+		"message": "Opsionet e redaktorit"
+	},
+
+	"options_label_hotkey": {
+		"message": "Hotkeys"
+	},
+
+	"options_label_specify_resizing_options": {
+		"message": "Specifikoni ndryshimet per opsionet dhe tingujt"
+	},
+
+	"options_label_specify_editor_options": {
+		"message": "Specifikoni opcionet per te redaktuar edhe te ruajni, te emertimoj, preferencat, stilet, etj."
+	},
+
+	"options_label_specify_hotkey": {
+		"message": "Specifikoni celcin e kompjuterit me kombinim per te filluar FireShot"
+	},
+
+	"options_button_setup": {
+		"message": "Klikoni per te konfiguruar"
+	},
+
+	"options_button_apply": {
+		"message": "Apliko"
+	},
+
+	"options_button_save_close": {
+		"message": "Ruaje dhe mbylle"
+	},
+
+	"action_license_info": {
+		"message": "Informata  per lisence"
+	},
+
+	"action_about": {
+		"message": "Për"
+	},
+
+	"options_label_file_settings": {
+		"message": "Cilesimet e skedarit"
+	},
+
+	"options_label_save_image_as": {
+		"message": "Ruaje fotografine/imazhin sikur:"
+	},
+
+	"options_label_default_filename_template": {
+		"message": "Templetu emri skedarit e parazgjedhur"
+	},
+
+	"options_label_template_url": {
+		"message": "Faqja URL"
+	},
+
+	"options_label_template_title": {
+		"message": "Emri Faqjes"
+	},
+
+	"options_label_template_website": {
+		"message": "Emri domainit"
+	},
+
+	"options_label_template_year": {
+		"message": "Viti"
+	},
+
+	"options_label_template_month": {
+		"message": "Muaj"
+	},
+
+	"options_label_template_day": {
+		"message": "Dita"
+	},
+
+	"options_label_template_hour": {
+		"message": "Ora"
+	},
+
+	"options_label_template_minutes": {
+		"message": "Minuta"
+	},
+
+	"options_label_template_seconds": {
+		"message": "Sekonda"
+	},
+
+	"options_label_template_pad_1": {
+		"message": "Numri me"
+	},
+
+	"options_label_template_pad_2": {
+		"message": "zero"
+	},
+
+	"options_label_template_limit_1": {
+		"message": "Limito emri skdarit tek"
+	},
+
+	"options_label_template_limit_2": {
+		"message": "karakter"
+	},
+
+	"options_link_filename_template_settings": {
+		"message": "Shfaqje emri skedarit ne templet tek cilesimet"
+	},
+
+	"options_link_filename_template_settings_hide": {
+		"message": "Fshehe emrin e skedarit per cilesimet ne templet"
+	},
+
+	"options_label_last_action_hotkey": {
+		"message": "Akcioni funit"
+	},
+
+	"options_label_and": {
+		"message": "edhe"
+	},
+
+	"captured_save_panel_title": {
+		"message": "Ruaje screenshot/shtenen ne ekran"
+	},
+
+	"captured_save_as_image": {
+		"message": "Ruaje imazhin"
+	},
+
+	"captured_save_as_pdf": {
+		"message": "Ruaje ne PDF"
+	},
+
+	"captured_copy_clipboard": {
+		"message": "Kopje tek klipboardi"
+	},
+
+	"captured_print": {
+		"message": "Printo"
+	},
+
+	"captured_save_as_image_button": {
+		"message": "Ruaje sikur imazh"
+	},
+
+	"captured_copy_clipboard_learn_button": {
+		"message": "Meso te..."
+	},
+
+	"captured_print_button": {
+		"message": "Printo"
+	},
+
+	"action_micsellaneous": {
+		"message": "Te tjera/ te tjer"
+	},
+
+	"action_install_native": {
+		"message": "Provoni karakteristika te perparuar"
+	},
+
+	"captured_upgrade_link_1": {
+		"message": "Terheq, jep shenime, printo edhe ruaje, redakto, ngarko, dergo ne e-mail / OneNote, ose ngarko tek nje program tjeter"
+	},
+
+	"captured_upgrade_link_2": {
+		"message": "Permiso tek Fireshot Pro"
+	},
+
+	"captured_upgrade_link_3": {
+		"message": "Isha duke perdoruar nje tjeter version te FireShot"
+	},
+
+	"captured_upgrade_link_4": {
+		"message": "Mund te e mar prape?"
+	},
+
+	"captured_setup_hotkeys": {
+		"message": "Regjistroni hotkeys edhe cilesimet te skedarit"
+	},
+
+	"captured_recommend_us": {
+		"message": "Rekomandoje FireSHot"
+	},
+
+	"action_capture_tabs": {
+		"message": "Terheq shfletuesit e skedarit"
+	},
+
+	"action_save_pdf_single": {
+		"message": "Ruaje sikur nje PDF"
+	},
+
+	"action_switch_pro_tabs": {
+		"message": "Aktivizo karakteristikat PRO per te vazhduar"
+	},
+
+	"captured_get_free_button": {
+		"message": "Provo falas"
+	},
+
+	"captured_buy_pro_button": {
+		"message": "Bleje pro"
+	},
+
+	"enable_checkbox": {
+		"message": "Mundeso"
+	},
+
+	"captured_saving_options": {
+		"message": "pershtateni"
+	},
+
+	"options_label_default_folder": {
+		"message": "Folder I dalese te parazgjedur "
+	},
+
+	"options_label_default_folder_hint": {
+		"message": "Nje shteg te skedarit qe perkrah ne drejtoritin Downloads per rekordin e skedarin me mundesi qe permban nendrejtorite. shtingje absolute, shtingje bosh, edhe shtingje me referenca mbrapsht \"..\" do kesin gabime"
+	},
+
+	"options_label_customize_saving": {
+		"message": "Regulloje procesin te ruajsh"
+	},
+
+	"options_label_no_saveas_dialog": {
+		"message": "Mos me tregojeni \"save as\" dialogun"
+	},
+
+	"options_label_open_folder_after_saving": {
+		"message": "Shfaqje skedarin ne downloads ne folder pasi te ruajsh"
+	},
+
+	"options_label_close_tab_after_saving": {
+		"message": "Mbylle skedarin I shfletuesit pasi te ruajsh"
+	},
+
+	"options_label_enable_context_menu": {
+		"message": "Integretoheni Fireshot ne meny kontekst"
+	}
+}

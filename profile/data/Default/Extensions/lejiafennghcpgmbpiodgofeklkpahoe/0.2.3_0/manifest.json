@@ -1,0 +1,49 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Custom UserAgent String"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "data/content_script/inject.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Add a custom useragent string for desired URLs or domains.",
+   "homepage_url": "https://mybrowseraddon.com/custom-useragent-string.html",
+   "host_permissions": [ "*://*/*", "ws://*/*", "wss://*/*" ],
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnwU70rXT7SwmbaHPfPxZR8Kx2MkR9FY4ctiyRGKegOcGvd5IEUCzmjp9aEY0KRKygUJom/IbWISvuz1lAgmWPzVzemaAZPljzK1ofSvCZWZYuIaQu9QsvWKCxLEZAJQaJ4cnj/S5j2bR526qS1JQqjebbqYxBrkaRCAIbf/4DSbYdmD1Fz7lkIUcx4KRAIv6OsbCCRmpgkoGbxXb1Zz5E+KB6GjP248CZVxKcfKKZRFUkt/z4lHTBp0pF8NH/R7j4c9xQPTWzRkMX3OUd7VF4jvPhgHrscTS+pPjdgzyiHn5kUnmWSqJEdy2g4rpbxnqjs7CoxTfY9HTHOa6SNrAywIDAQAB",
+   "manifest_version": 3,
+   "name": "Custom UserAgent String",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "data/options/options.html"
+   },
+   "permissions": [ "storage", "declarativeNetRequest" ],
+   "short_name": "custom-useragent-string",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.3",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "data/content_script/page_context/inject.js" ]
+   } ]
+}

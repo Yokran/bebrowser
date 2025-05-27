@@ -1,0 +1,281 @@
+{
+  "lang_display_name": {
+    "message": "Հայերեն (Armenian)"
+  },
+  "print": {
+    "message": "Տպել"
+  },
+  "pdf": {
+    "message": "PDF"
+  },
+  "email": {
+    "message": "էլ-նամակ"
+  },
+  "remove_images": {
+    "message": "Հեռացնել նկարները"
+  },
+  "images": {
+    "message": "Նկարներ"
+  },
+  "margin": {
+    "message": "Լուսանցք"
+  },
+  "undo": {
+    "message": "Հետ բերել"
+  },
+  "txt_size": {
+    "message": "Տեքստի չափ"
+  },
+  "delete": {
+    "message": "Սեղմեք հեռացնելու համար"
+  },
+  "dialog_close": {
+    "message": "Փակել"
+  },
+  "dialog_title": {
+    "message": "Տպել Ձեր Էջը"
+  },
+  "dialog_text": {
+    "message": "Ուղարկել Ձեր տպիչին"
+  },
+  "dialog_text_btn": {
+    "message": "Ուղարկել Ձեր տպիչին կրկին"
+  },
+  "pdf_head": {
+    "message": "Գեներացնել Ձեր PDF-ը"
+  },
+  "pdf_download": {
+    "message": "Ներբեռնել Ձեր PDF-ը"
+  },
+  "email_title": {
+    "message": "Ուղարկել էլ. նամակով"
+  },
+  "email_to": {
+    "message": "Հասցե"
+  },
+  "email_from": {
+    "message": "Ումից"
+  },
+  "email_message": {
+    "message": "Նամակ"
+  },
+  "email_send": {
+    "message": "Ուղարկել"
+  },
+  "email_product_sent_message": {
+    "message": "Ձեր նամակն ուղարկվել է։ Կարող եք փակել այս էջը"
+  },
+  "email_sent_message": {
+    "message": "Ձեր նամակն ուղարկված է"
+  },
+  "page_size": {
+    "message": "Էջի չափ"
+  },
+  "email_article_sent": {
+    "message": "Ուղարկել հոդված"
+  },
+  "read_more": {
+    "message": "Կարդալ ավելին"
+  },
+  "print_pdf": {
+    "message": "Տպել և PDF"
+  },
+  "get_pro": {
+    "message": "Ձեռք բերել Pro Տարբերակը"
+  },
+  "pro_alert": {
+    "message": "Pro Առանձնահատկություններ"
+  },
+  "login": {
+    "message": "Մուտք"
+  },
+  "printer_friendly_page": {
+    "message": "Տպիչի համար հարմար էջ"
+  },
+  "remove_ads_description": {
+    "message": "Հեռացնում է գովազդները և նավիգացիան վեբ էջերից: Լավ է աշխատում հոդվածների և տեքստակենտրոն էջերի հետ:"
+  },
+  "screenshot": {
+    "message": "Սքրինշոթ"
+  },
+  "style": {
+    "message": "Ոճ"
+  },
+  "other_tools": {
+    "message": "Գործիքներ"
+  },
+  "settings": {
+    "message": "Կարգեր"
+  },
+  "report": {
+    "message": "Զեկուցել"
+  },
+  "printer_friendly_suggestion": {
+    "message": "amire számított? Próbáljon képernyőképet készíteni."
+  },
+  "dont_show_again": {
+    "message": "Այլևս մի ցուցադրեք սա:"
+  },
+  "capturing": {
+    "message": "Նկարահանում"
+  },
+  "screenshot_ready_soon": {
+    "message": "Ձեր սքրինշոթը պատրաստ կլինի մի պահից:"
+  },
+  "stop_capturing": {
+    "message": "Դադարեցնել նկարահանումը"
+  },
+  "save_as_pdf": {
+    "message": "Պահպանել որպես PDF"
+  },
+  "save_as_image": {
+    "message": "Պահպանել որպես պատկեր"
+  },
+  "cancel": {
+    "message": "Չեղարկել"
+  },
+  "save_changes": {
+    "message": "Պահպանել"
+  },
+  "default_button": {
+    "message": "Լռելյայն կոճակ"
+  },
+  "pdf_paper_size": {
+    "message": "PDF թղթի չափը"
+  },
+  "screenshot_image_format": {
+    "message": "Սքրինշոթի պատկերի ձևաչափը"
+  },
+  "choose_paper_size": {
+    "message": "Ընտրեք PDF-ների համար նախընտրած թղթի չափը:"
+  },
+  "pdf_generation_error": {
+    "message": "PDF-ի ստեղծման սխալ"
+  },
+  "unable_to_generate_pdf": {
+    "message": "Մենք չկարողացանք այս էջի համար PDF ստեղծել:"
+  },
+  "timed_out_pdf": {
+    "message": "PrintFriendly-ը կարող է ժամանակը լրացել է PDF ստեղծելու ընթացքում: Դա կարող է շատ մեծ լինել մեր համակարգի համար:"
+  },
+  "blocked_by_extension": {
+    "message": "PrintFriendly-ը կարող է արգելափակվել այլ հավելվածով, որը տեղադրել եք, օրինակ՝ գովազդի արգելափակիչ։ Խնդրում ենք ժամանակավորապես անջատել ձեր մյուս հավելվածները և փորձել կրկին ստեղծել PDF։"
+  },
+  "still_does_not_work": {
+    "message": "Եթե դա դեռ չի աշխատում, խնդրում ենք կապվել մեզ հետ"
+  },
+  "resolve_issue": {
+    "message": "և մենք կօգնենք ձեզ լուծել խնդիրը:"
+  },
+  "something_went_wrong": {
+    "message": "Ինչ-որ բան սխալ գնաց"
+  },
+  "page_blocking_printfriendly": {
+    "message": "Այս էջը արգելափակում է PrintFriendly-ին"
+  },
+  "strict_security_settings": {
+    "message": "Կներեք, բայց այս էջն ունի խիստ անվտանգության կարգավորումներ (Բովանդակության անվտանգություն քաղաքականություն), որոնք թույլ չեն տալիս մեզ ստեղծել էջի PrintFriendly տարբերակը։"
+  },
+  "what_you_can_do": {
+    "message": "Ինչ կարող եք անել"
+  },
+  "take_screenshot": {
+    "message": "Էկրանի նկար վերցրեք."
+  },
+  "capture_screenshot_manually": {
+    "message": "Օգտագործեք մեր Screenshot գործիքը այս էջը գրավելու համար, ապա արտահանեք այն որպես նկար կամ PDF։"
+  },
+  "contact_us": {
+    "message": "Կապվեք մեզ հետ:"
+  },
+  "reach_out_for_support": {
+    "message": "Լրացուցիչ մանրամասների կամ աջակցության համար խնդրում ենք կապվել մեզ հետ"
+  },
+  "got_it": {
+    "message": "Հասկացա"
+  },
+  "compress_pdf": {
+    "message": "Սեղմել PDF-ը"
+  },
+  "convert_pdf": {
+    "message": "Փոխակերպել PDF-ը"
+  },
+  "edit_pdf": {
+    "message": "Խմբագրել PDF-ը"
+  },
+  "adjust_settings": {
+    "message": "Կարգավորեք ձեր կարգավորումները՝ ձեր փորձառությունը բարելավելու համար:"
+  },
+  "letter_paper_size": {
+    "message": "Նամակ"
+  },
+  "a4_paper_size": {
+    "message": "A4"
+  },
+  "affected_page": {
+    "message": "Տուժած էջ"
+  },
+  "text_size_pref": {
+    "message": "Տեքստի չափի նախընտրություն"
+  },
+  "text_size_pref_desc": {
+    "message": "Կարգավորեք տեքստի չափը՝ ընդլայնմամբ էջեր դիտելիս։"
+  },
+  "image_size_pref": {
+    "message": "Պատկերի չափի նախընտրություն"
+  },
+  "image_size_pref_desc": {
+    "message": "Կարգավորեք պատկերների չափը՝ ընդլայնմամբ էջեր դիտելիս։"
+  },
+  "language_setting": {
+    "message": "Լեզու"
+  },
+  "language_setting_desc": {
+    "message": "Ընտրեք ձեր նախընտրած լեզուն։"
+  },
+  "printfriendly_page": {
+    "message": "PrintFriendly էջ"
+  },
+  "printer_friendly_desc": {
+    "message": "Ջնջեք գովազդներն ու նավարկումը։ Լավ է հոդվածների և տեքստերի համար։"
+  },
+  "current_view_screenshot": {
+    "message": "Տեսքի նկարի գրավում"
+  },
+  "full_page_screenshot": {
+    "message": "Էջի նկար"
+  },
+  "capturing_desc": {
+    "message": "Սքրինշոթը…  "
+  },
+  "default_mode": {
+    "message": "Հիմնական ռեժիմ"
+  },
+  "default_mode_desc": {
+    "message": "Ընտրեք գործողությունը, որը կընտրվի ավտոմատ սեղմումով։"
+  },
+  "default_mode_checkbox": {
+    "message": "Այլևս մի ցուցադրեք։ Կարող եք միացնել Կարգավորումներում։"
+  },
+  "off": {
+    "message": "Անջատված"
+  },
+  "image": {
+    "message": "Նկար"
+  },
+  "show_screenshot_message": {
+    "message": "Ցույց տալ սքրինշոթի հաղորդագրությունը տպելու համար հարմար դիտման մեջ"
+  },
+  "yes": {
+    "message": "Այո"
+  },
+  "no": {
+    "message": "Ոչ"
+  },
+  "screenshot_restriction_message": {
+    "message": "PrintFriendly-ն աշխատում է կայքերի մեծ մասում՝ հեշտացնելով մաքուր, տպագրական հարմար էջերի և սքրինշոթների ստեղծումը։ Այնուամենայնիվ, որոշ էջեր՝ ինչպիսիք են դիտարկիչի կարգավորումները, հավելվածների խանութները և այլ սահմանափակ տարածքներ, սահմանափակ են դիտարկիչի քաղաքականությունների պատճառով։ Խնդրում ենք դիմել մեզ, եթե ունեք հարցեր։"
+  },
+  "settings_saved": {
+    "message": "Ձեր կարգավորումները պահպանվել են:"
+  }
+}

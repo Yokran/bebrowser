@@ -1,0 +1,361 @@
+{
+	"application_title": {
+		"message": "Taka Vefsíða Skjámyndir alfarið - FireShot"
+	},
+
+	"application_description": {
+		"message": "Taka FULLUR vefsíða skjámyndir. Fanga, breyta og vista þeim að PDF/JPEG/GIF/PNG, upphal, prenta, senda til OneNote, klemmuspjald or tölvupóstur."
+	},
+
+	"action_capture_entire": {
+		"message": "Fanga alfarið blaðsíða og"
+	},
+
+	"action_capture_visible": {
+		"message": "Fanga sýnilegur partur og"
+	},
+
+	"action_capture_selection": {
+		"message": "Fanga úrval/frumefni og"
+	},
+
+	"action_capture_entire_lite": {
+		"message": "Fanga alfarið blaðsíða"
+	},
+
+	"action_capture_visible_lite": {
+		"message": "Fanga sýnilegur partur"
+	},
+
+	"action_capture_selection_lite": {
+		"message": "Fanga úrval"
+	},
+
+	"action_capture_browser": {
+		"message": "Fanga vafri gluggi og"
+	},
+
+	"action_resume": {
+		"message": "Halda áfram klippingu"
+	},
+
+	"action_open_file": {
+		"message": "Opin skrá"
+	},
+
+	"action_open_clipboard": {
+		"message": "Opið frá klemmuspjaldi"
+	},
+
+	"action_options": {
+		"message": "Valkostir"
+	},
+
+	"action_register": {
+		"message": "Skrá"
+	},
+
+	"action_enter_license": {
+		"message": "Sláðu inn leyfis upplýsingar"
+	},
+
+	"action_switch_pro": {
+		"message": "Skiptu yfir í Pro"
+	},
+
+	"action_view_demo": {
+		"message": "Skoða demó"
+	},
+
+	"action_support": {
+		"message": "Stuðningur"
+	},
+
+	"action_api": {
+		"message": "FireShot API"
+	},
+
+	"action_edit": {
+		"message": "Breyta"
+	},
+
+	"action_save": {
+		"message": "Vista"
+	},
+
+	"action_save_pdf": {
+		"message": "Vista sem PDF"
+	},
+
+	"action_copy": {
+		"message": "Afrita á klemmuspjald"
+	},
+
+	"action_email": {
+		"message": "Tölvupóstur"
+	},
+
+	"action_external": {
+		"message": "Opið í Ytri ritstjóri"
+	},
+
+	"action_onenote": {
+		"message": "Senda til OneNote"
+	},
+
+	"action_upload": {
+		"message": "Upphal"
+	},
+
+	"action_print": {
+		"message": "Prenta"
+	},
+
+	"options_label_fireshot_options": {
+		"message": "FireShot valkostir"
+	},
+
+	"options_label_capturing": {
+		"message": "Fangandi"
+	},
+
+	"options_label_editor_options": {
+		"message": "Ritstjóri valkostir"
+	},
+
+	"options_label_hotkey": {
+		"message": "Flýtilyklar"
+	},
+
+	"options_label_specify_resizing_options": {
+		"message": "Tilgreina breyta stærð valkostir og hljómar"
+	},
+
+	"options_label_specify_editor_options": {
+		"message": "Tilgreina ritstjóri og sparnaður valkostir, óskir um nafngiftir skráa, Stíle, etc."
+	},
+
+	"options_label_specify_hotkey": {
+		"message": "Tilgreindu lyklasamsetninguna sem á að ræsa FireShot:"
+	},
+
+	"options_button_setup": {
+		"message": "Smelltu til uppsetning"
+	},
+
+	"options_button_apply": {
+		"message": "Beita"
+	},
+
+	"options_button_save_close": {
+		"message": "Vistaðu og lokaðu"
+	},
+
+	"action_license_info": {
+		"message": "Leyfismál upplýsingar..."
+	},
+
+	"action_about": {
+		"message": "Um..."
+	},
+
+	"options_label_file_settings": {
+		"message": "Stillingar skrá"
+	},
+
+	"options_label_save_image_as": {
+		"message": "Vista Mynd Sem..."
+	},
+
+	"options_label_default_filename_template": {
+		"message": "Sjálfgefið sniðmát skráarnafns:"
+	},
+
+	"options_label_template_url": {
+		"message": "Vefslóð síðu"
+	},
+
+	"options_label_template_title": {
+		"message": "Titill Síðu"
+	},
+
+	"options_label_template_website": {
+		"message": "Lén Nafn"
+	},
+
+	"options_label_template_year": {
+		"message": "Ár"
+	},
+
+	"options_label_template_month": {
+		"message": "Mánuður"
+	},
+
+	"options_label_template_day": {
+		"message": "Dagur"
+	},
+
+	"options_label_template_hour": {
+		"message": "Klukkustund"
+	},
+
+	"options_label_template_minutes": {
+		"message": "Fundargerð"
+	},
+
+	"options_label_template_seconds": {
+		"message": "Sekúndur"
+	},
+
+	"options_label_template_pad_1": {
+		"message": "Breidd númer púði"
+	},
+
+	"options_label_template_pad_2": {
+		"message": "púði númer breidd"
+	},
+
+	"options_label_template_limit_1": {
+		"message": "Takmarkaðu skráarheiti lengd að"
+	},
+
+	"options_label_template_limit_2": {
+		"message": "stafatafla"
+	},
+
+	"options_link_filename_template_settings": {
+		"message": "Sýna skráarheiti sniðmát stillingar..."
+	},
+
+	"options_link_filename_template_settings_hide": {
+		"message": "Fela skráarheiti sniðmát stillingar..."
+	},
+
+	"options_label_last_action_hotkey": {
+		"message": "Síðasta notaða aðgerð"
+	},
+
+	"options_label_and": {
+		"message": "og"
+	},
+
+	"captured_save_panel_title": {
+		"message": "Vista Skjámynd"
+	},
+
+	"captured_save_as_image": {
+		"message": "Vista sem mynd"
+	},
+
+	"captured_save_as_pdf": {
+		"message": "Vista í PDF"
+	},
+
+	"captured_copy_clipboard": {
+		"message": "Afrita á klemmuspjald"
+	},
+
+	"captured_print": {
+		"message": "Prenta"
+	},
+
+	"captured_save_as_image_button": {
+		"message": "Vista sem mynd"
+	},
+
+	"captured_copy_clipboard_learn_button": {
+		"message": "Lærðu hvernig..."
+	},
+
+	"captured_print_button": {
+		"message": "Prenta"
+	},
+
+	"action_micsellaneous": {
+		"message": "Ýmislegt"
+	},
+
+	"action_install_native": {
+		"message": "Prófaðu háþróaða eiginleika"
+	},
+
+	"captured_upgrade_link_1": {
+		"message": "Fanga, Athugasemd, Prenta, og Vista betri, Breyta, Senda til tölvupóstur / OneNote, eða Flytja út í annað forrit"
+	},
+
+	"captured_upgrade_link_2": {
+		"message": "Uppfærðu í FireShot Pro"
+	},
+
+	"captured_upgrade_link_3": {
+		"message": "Ég var nota önnur útgáfa af FireShot"
+	},
+
+	"captured_upgrade_link_4": {
+		"message": "Get ég fengið það aftur?"
+	},
+
+	"captured_setup_hotkeys": {
+		"message": "Setja upp flýtilykla og skráarstillingar..."
+	},
+
+	"captured_recommend_us": {
+		"message": "Mæla með FireShot"
+	},
+
+	"action_capture_tabs": {
+		"message": "Fanga alla flipa og"
+	},
+
+	"action_save_pdf_single": {
+		"message": "Vista sem einn PDF"
+	},
+
+	"action_switch_pro_tabs": {
+		"message": "Virkja Pro lögun að halda áfram..."
+	},
+
+	"captured_get_free_button": {
+		"message": "Prófaðu það Ókeypis"
+	},
+
+	"captured_buy_pro_button": {
+		"message": "Kauptu Pro"
+	},
+
+	"enable_checkbox": {
+		"message": "Virkja"
+	},
+
+	"captured_saving_options": {
+		"message": "aðlaga það"
+	},
+
+	"options_label_default_folder": {
+		"message": "Sjálfgefin framleiðsla mappa"
+	},
+
+	"options_label_default_folder_hint": {
+		"message": "Skráarslóð miðað við skráasafnið Niðurhal til að geyma vistaða skrá, hugsanlega inniheldur undirskrár. Algjört slóðir, auðar slóðir, og slóðir sem innihalda afturvísanir \"..\" mun valda villu."
+	},
+
+	"options_label_customize_saving": {
+		"message": "Aðlaga sparnaðar ferlið"
+	},
+
+	"options_label_no_saveas_dialog": {
+		"message": "Ekki sýna valmyndina „Vista sem“"
+	},
+
+	"options_label_open_folder_after_saving": {
+		"message": "Sýna hlaðið niður skrá í möppunni sinni eftir vistun"
+	},
+
+	"options_label_close_tab_after_saving": {
+		"message": "Lokaðu flipa eftir vistun"
+	},
+
+	"options_label_enable_context_menu": {
+		"message": "Samþætta FireShot í samhengisvalmynd"
+	}
+}

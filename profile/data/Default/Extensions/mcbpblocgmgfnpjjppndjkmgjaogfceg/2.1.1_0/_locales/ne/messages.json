@@ -1,0 +1,361 @@
+{
+	"application_title": {
+		"message": "वेबपृष्ठको पूर्ण रूपमा स्क्रीनशट लिनुहोस् - FireShot"
+	},
+
+	"application_description": {
+		"message": "पूर्ण वेबपृष्ठको स्क्रीनशट लिनुहोस्। खिच्नुहोस, सम्पादन गर्नुहोस्, पीडीएफ / जेपीईजी / जीआईएफ / पीएनजीमा सेभ गर्नुहोस् र वान्नोट, क्लिपबोर्ड वा इमेलमा अपलोड , प्रिन्ट, पठाउनुहोस्।"
+	},
+
+	"action_capture_entire": {
+		"message": "वेबपृष्ठको पूर्ण रूपमा स्क्रीनशट लिनुहोस् र"
+	},
+
+	"action_capture_visible": {
+		"message": "वेबपृष्ठको दृश्य भागको स्क्रीनशट लिनुहोस् र"
+	},
+
+	"action_capture_selection": {
+		"message": "वेबपृष्ठको चयनित भागको स्क्रीनशट लिनुहोस् र"
+	},
+
+	"action_capture_entire_lite": {
+		"message": "वेबपृष्ठको पूर्ण रूपमा स्क्रीनशट लिनुहोस्"
+	},
+
+	"action_capture_visible_lite": {
+		"message": "वेबपृष्ठको दृश्य भागको स्क्रीनशट लिनुहोस्"
+	},
+
+	"action_capture_selection_lite": {
+		"message": "वेबपृष्ठको चयनित भागको स्क्रीनशट लिनुहोस्"
+	},
+
+	"action_capture_browser": {
+		"message": "ब्राउजरको स्क्रीनशट लिनुहोस् र"
+	},
+
+	"action_resume": {
+		"message": "सम्पादन पुन: सुरू गर्नुहोस्"
+	},
+
+	"action_open_file": {
+		"message": "फाईल खोल्नुहोस्"
+	},
+
+	"action_open_clipboard": {
+		"message": "Clipboardबाट खोल्नुहोस्"
+	},
+
+	"action_options": {
+		"message": "विकल्पहरू"
+	},
+
+	"action_register": {
+		"message": "रेजिष्टर"
+	},
+
+	"action_enter_license": {
+		"message": "इजाजतपत्र जानकारी प्रविष्ट गर्नुहोस्"
+	},
+
+	"action_switch_pro": {
+		"message": "प्रो मा स्विच गर्नुहोस्"
+	},
+
+	"action_view_demo": {
+		"message": "डेमो हेर्नुहोस्"
+	},
+
+	"action_support": {
+		"message": "समर्थन"
+	},
+
+	"action_api": {
+		"message": "FireShot एपीआई"
+	},
+
+	"action_edit": {
+		"message": "सम्पादन"
+	},
+
+	"action_save": {
+		"message": "बचत"
+	},
+
+	"action_save_pdf": {
+		"message": "पीडीएफ को रूपमा बचत गर्नुहोस्"
+	},
+
+	"action_copy": {
+		"message": "क्लिपबोर्डमा प्रतिलिपि गर्नुहोस्"
+	},
+
+	"action_email": {
+		"message": "इमेल"
+	},
+
+	"action_external": {
+		"message": "बाह्य सम्पादकमा खोल्नुहोस्"
+	},
+
+	"action_onenote": {
+		"message": "वान्नोटमा पठाउनुहोस्"
+	},
+
+	"action_upload": {
+		"message": "अपलोड"
+	},
+
+	"action_print": {
+		"message": "प्रिन्ट"
+	},
+
+	"options_label_fireshot_options": {
+		"message": "FireShot विकल्पहरू"
+	},
+
+	"options_label_capturing": {
+		"message": "क्याप्चर गर्दै"
+	},
+
+	"options_label_editor_options": {
+		"message": "सम्पादक विकल्पहरू"
+	},
+
+	"options_label_hotkey": {
+		"message": "हटकीहरू"
+	},
+
+	"options_label_specify_resizing_options": {
+		"message": "पुन: आकार विकल्पहरू र ध्वनि निर्दिष्ट गर्नुहोस्।"
+	},
+
+	"options_label_specify_editor_options": {
+		"message": "सम्पादक र बचत विकल्पहरू, फाइल नाम प्राथमिकताहरू, शैलीहरू आदि निर्दिष्ट गर्नुहोस्।"
+	},
+
+	"options_label_specify_hotkey": {
+		"message": "FireShotको कुञ्जी संयोजन सुरू गर्नका लागि निर्दिष्ट गर्नुहोस्"
+	},
+
+	"options_button_setup": {
+		"message": "सेटअप गर्न क्लिक गर्नुहोस्"
+	},
+
+	"options_button_apply": {
+		"message": "निवेदन गर्नु"
+	},
+
+	"options_button_save_close": {
+		"message": "बचत गर्नुहोस् र बन्द गर्नुहोस्"
+	},
+
+	"action_license_info": {
+		"message": "इजाजतपत्र जानकारी.."
+	},
+
+	"action_about": {
+		"message": "बारेमा.."
+	},
+
+	"options_label_file_settings": {
+		"message": "फाइल सेटिंग्स"
+	},
+
+	"options_label_save_image_as": {
+		"message": "यस रूपमा छवि बचत गर्नुहोस्:"
+	},
+
+	"options_label_default_filename_template": {
+		"message": "पूर्वनिर्धारित फाइल नाम टेम्पलेट"
+	},
+
+	"options_label_template_url": {
+		"message": "पृष्ठ यूआरएल"
+	},
+
+	"options_label_template_title": {
+		"message": "पृष्ठ शीर्षक"
+	},
+
+	"options_label_template_website": {
+		"message": "डोमेन नाम"
+	},
+
+	"options_label_template_year": {
+		"message": "बर्ष"
+	},
+
+	"options_label_template_month": {
+		"message": "महिना"
+	},
+
+	"options_label_template_day": {
+		"message": "दिन"
+	},
+
+	"options_label_template_hour": {
+		"message": "घण्टा"
+	},
+
+	"options_label_template_minutes": {
+		"message": "मिनेट"
+	},
+
+	"options_label_template_seconds": {
+		"message": "सेकेन्ड"
+	},
+
+	"options_label_template_pad_1": {
+		"message": "प्याड संख्याको साथ"
+	},
+
+	"options_label_template_pad_2": {
+		"message": "शून्य"
+	},
+
+	"options_label_template_limit_1": {
+		"message": "फाइलनामको लम्बाइ सीमित गर्नुहोस्"
+	},
+
+	"options_label_template_limit_2": {
+		"message": "पात्रहरू"
+	},
+
+	"options_link_filename_template_settings": {
+		"message": "फाईल नाम टेम्पलेट सेटिंग्स देखाउनुहोस्.."
+	},
+
+	"options_link_filename_template_settings_hide": {
+		"message": "फाइल नाम टेम्पलेट सेटिंग्स लुकाउनुहोस्.."
+	},
+
+	"options_label_last_action_hotkey": {
+		"message": "अन्तिम प्रयोग गरिएको कार्य"
+	},
+
+	"options_label_and": {
+		"message": "र"
+	},
+
+	"captured_save_panel_title": {
+		"message": "स्क्रिनशट बचत गर्नुहोस्"
+	},
+
+	"captured_save_as_image": {
+		"message": "छवि को रूपमा बचत गर्नुहोस्"
+	},
+
+	"captured_save_as_pdf": {
+		"message": "पीडीएफमा बचत गर्नुहोस्"
+	},
+
+	"captured_copy_clipboard": {
+		"message": "क्लिपबोर्डमा प्रतिलिपि गर्नुहोस्"
+	},
+
+	"captured_print": {
+		"message": "प्रिन्ट"
+	},
+
+	"captured_save_as_image_button": {
+		"message": "छवि को रूपमा बचत गर्नुहोस्"
+	},
+
+	"captured_copy_clipboard_learn_button": {
+		"message": "कसरी सिक्नुहोस्..."
+	},
+
+	"captured_print_button": {
+		"message": "प्रिन्ट"
+	},
+
+	"action_micsellaneous": {
+		"message": "विविध"
+	},
+
+	"action_install_native": {
+		"message": "उन्नत सुविधाहरूको प्रयास गर्नुहोस्"
+	},
+
+	"captured_upgrade_link_1": {
+		"message": "राम्रोसंग क्याप्चर, एनोटेट, प्रिन्ट र सेभ गर्नुहोस्, सम्पादन गर्नुहोस् र वान्नोट,इमेलमा अपलोड गर्नुहोस्।"
+	},
+
+	"captured_upgrade_link_2": {
+		"message": "FireShot अपग्रेड गर्नुहोस्"
+	},
+
+	"captured_upgrade_link_3": {
+		"message": "म FireShotको अर्को संस्करण प्रयोग गर्दै थिए"
+	},
+
+	"captured_upgrade_link_4": {
+		"message": "के म यो फिर्ता पाउन सक्छु?"
+	},
+
+	"captured_setup_hotkeys": {
+		"message": "हटकीहरू र फाइल सेटिंग्स सेटअप गर्नुहोस्..."
+	},
+
+	"captured_recommend_us": {
+		"message": "Fireshotको सिफारिस गर्नुहोस्"
+	},
+
+	"action_capture_tabs": {
+		"message": "सबै ट्याबहरू समात्नुहोस् र"
+	},
+
+	"action_save_pdf_single": {
+		"message": "एकल पीडीएफ को रूपमा बचत गर्नुहोस्"
+	},
+
+	"action_switch_pro_tabs": {
+		"message": "अगाडि बढ्न प्रो सुविधाहरू सक्रिय गर्नुहोस्"
+	},
+
+	"captured_get_free_button": {
+		"message": "यसलाई नि: शुल्क प्रयोग गरेर हेर्नुहोस्"
+	},
+
+	"captured_buy_pro_button": {
+		"message": "प्रो खरीद गर्नुहोस्"
+	},
+
+	"enable_checkbox": {
+		"message": "सक्षम गर्नुहोस्"
+	},
+
+	"captured_saving_options": {
+		"message": "यसलाई अनुकूलन गर्नुहोस्"
+	},
+
+	"options_label_default_folder": {
+		"message": "पूर्वनिर्धारित आउटपुट फोल्डर"
+	},
+
+	"options_label_default_folder_hint": {
+		"message": "डाउनलोड मार्गनिर्देशन सम्बन्धित फाईल मार्ग भण्डारण गरिएको फाईललाई कोटेन गर्न सम्भवतः सबडाइरेक्टरीहरू समावेश गर्दछ। पूर्ण मार्गहरू, खाली मार्गहरू, र पछाडि - संदर्भहरू \"..\" भएको पथहरूले त्रुटि निम्त्याउनेछ।"
+	},
+
+	"options_label_customize_saving": {
+		"message": "बचत प्रक्रिया अनुकूलन गर्नुहोस्"
+	},
+
+	"options_label_no_saveas_dialog": {
+		"message": "'यस रूपमा बचत गर्नुहोस्' संवाद नदेखाउनुहोस्"
+	},
+
+	"options_label_open_folder_after_saving": {
+		"message": "बचत गरेपछि डाउनलोड गरिएको फाईल यसको फोल्डरमा देखाउनुहोस्"
+	},
+
+	"options_label_close_tab_after_saving": {
+		"message": "बचत गरेपछि ट्याब बन्द गर्नुहोस्"
+	},
+
+	"options_label_enable_context_menu": {
+		"message": "सन्दर्भ मेनूमा FireShot एकीकृत गर्नुहोस्"
+	}
+}

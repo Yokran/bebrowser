@@ -1,0 +1,33 @@
+[
+  {
+    "matchers": ["http(s)?:\\/\\/testsuites.bi.service.osa\\/.*/page1.html"],
+    "negative_matchers": [],
+    "active": true,
+    "min_matchers_to_qualify": 1,
+    "search_limit_days": 1,
+    "tag": "opauto_matcher"
+  },
+  {
+    "matchers": [
+      "http(s)?:\\/\\/testsuites.bi.service.osa\\/platforms\\/dna\\/resources\\/simple_pages\\/page2.html"
+    ],
+    "negative_matchers": [
+      "http(s)?:\\/\\/testsuites.bi.service.osa\\/platforms\\/dna\\/resources\\/simple_pages\\/page3.html"
+    ],
+    "active": true,
+    "min_matchers_to_qualify": 1,
+    "search_limit_days": 1,
+    "tag": "opauto_negative_matcher"
+  },
+  {
+    "matchers": [
+      "http(s)?:\\/\\/testsuites.bi.service.osa\\/.*/page4.html",
+      "http(s)?:\\/\\/testsuites.bi.service.osa\\/.*/page5.html"
+    ],
+    "negative_matchers": [],
+    "active": true,
+    "min_matchers_to_qualify": 2,
+    "search_limit_days": 1,
+    "tag": "opauto_2_matchers"
+  }
+]

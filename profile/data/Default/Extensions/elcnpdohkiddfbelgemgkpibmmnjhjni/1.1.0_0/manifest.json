@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "runtime.js" ],
+      "matches": [ "https://web.whatsapp.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj/ZteiOPAbOSZE/ofd8RuIgzMbLy2MRN9T/CfAC2bG1ifG+WLjOmCgZNrgh1WwF9m5USrfEg6eM7mx8OcVxfkq7Afg/hHkKAepWCqvJF5+xJwig1k3CDQ1VVEotv6tQEwXi9tUh8pANMNe9hVlrcW00VJ42viP00Fhw8dl1jQGXTRevKpZSBl/p6WjumQKTxFgVq8KNaF62Y+NmA9LDU9y6ltghGeUtClzqiAThflId5hV3WkQjREXhgyBSh03DGEoyefFV6lIRKF+9u4PTwmvRBWx7flq7Rywvh89/33g5lGdIxSx5EDdvBkzhXpyMVUPL5Vcix1+lQw5Ty3RMz4wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "page_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "permissions": [ "https://web.whatsapp.com/*", "declarativeContent", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0"
+}

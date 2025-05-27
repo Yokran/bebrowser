@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Adjust your settings to enhance your experience."
+   },
+   "affected_page": {
+      "message": "Affected Page"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly might be blocked by another extension you have installed, like an ad blocker. Please temporarily disable your other extensions and try to create a PDF again."
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "capture_screenshot_manually": {
+      "message": "Use our Screenshot feature to capture this page and then export it to an image or a PDF."
+   },
+   "capturing": {
+      "message": "Capturing"
+   },
+   "capturing_desc": {
+      "message": "Capturing your screenshot…"
+   },
+   "choose_paper_size": {
+      "message": "Choose your preferred paper size for PDFs."
+   },
+   "compress_pdf": {
+      "message": "Compress PDF"
+   },
+   "contact_us": {
+      "message": "Contact Us:"
+   },
+   "convert_pdf": {
+      "message": "Convert PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Current View Screenshot"
+   },
+   "default_button": {
+      "message": "Default Button"
+   },
+   "default_mode": {
+      "message": "Default Mode"
+   },
+   "default_mode_checkbox": {
+      "message": "Don’t show these options again. You can re-enable them anytime in Settings."
+   },
+   "default_mode_desc": {
+      "message": "Choose the action that should be automatically selected when you click the extension button."
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "dialog_close": {
+      "message": "Close"
+   },
+   "dialog_text": {
+      "message": "Sending to your printer."
+   },
+   "dialog_text_btn": {
+      "message": "Re-send"
+   },
+   "dialog_title": {
+      "message": "Printing Your Page"
+   },
+   "dont_show_again": {
+      "message": "Don't show this again."
+   },
+   "edit_pdf": {
+      "message": "Edit PDF"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "email_article_sent": {
+      "message": "sent you an article"
+   },
+   "email_from": {
+      "message": "From"
+   },
+   "email_message": {
+      "message": "Message"
+   },
+   "email_product_sent_message": {
+      "message": "Your email message has been sent. You may close the page"
+   },
+   "email_send": {
+      "message": "Send"
+   },
+   "email_sent_message": {
+      "message": "Your Email Message Has Been Sent"
+   },
+   "email_title": {
+      "message": "Email This Page"
+   },
+   "email_to": {
+      "message": "To"
+   },
+   "full_page_screenshot": {
+      "message": "Full Page Screenshot"
+   },
+   "get_pro": {
+      "message": "Get Pro"
+   },
+   "got_it": {
+      "message": "Got it"
+   },
+   "image": {
+      "message": "Image"
+   },
+   "image_size_pref": {
+      "message": "Image Size Preference"
+   },
+   "image_size_pref_desc": {
+      "message": "Set the size of images when viewing pages with the extension."
+   },
+   "images": {
+      "message": "Images"
+   },
+   "lang_display_name": {
+      "message": "English (Australia)"
+   },
+   "language_setting": {
+      "message": "Language"
+   },
+   "language_setting_desc": {
+      "message": "Select your preferred language."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "margin": {
+      "message": "Margin"
+   },
+   "no": {
+      "message": "No"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "other_tools": {
+      "message": "PDF Tools"
+   },
+   "page_blocking_printfriendly": {
+      "message": "This Page is Blocking PrintFriendly"
+   },
+   "page_size": {
+      "message": "Page Size"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Download Your PDF"
+   },
+   "pdf_generation_error": {
+      "message": "PDF Generation Error"
+   },
+   "pdf_head": {
+      "message": "Generating Your PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF Paper Size"
+   },
+   "print": {
+      "message": "Print"
+   },
+   "print_pdf": {
+      "message": "Print & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Remove ads and navigation from web pages. Works well with articles and text-focused pages."
+   },
+   "printer_friendly_page": {
+      "message": "Printer-Friendly Page"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Printer-Friendly version not what you expected? Try doing a Screenshot."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly Page"
+   },
+   "pro_alert": {
+      "message": "Pro Feature"
+   },
+   "reach_out_for_support": {
+      "message": "For more details or support, please reach out to us at"
+   },
+   "read_more": {
+      "message": "Read More"
+   },
+   "remove_ads_description": {
+      "message": "Remove ads and navigation from web pages. Works well with articles and text-focused pages."
+   },
+   "remove_images": {
+      "message": "Remove Images"
+   },
+   "report": {
+      "message": "Report"
+   },
+   "resolve_issue": {
+      "message": "and we will help you resolve the issue."
+   },
+   "save_as_image": {
+      "message": "Save as Image"
+   },
+   "save_as_pdf": {
+      "message": "Save as PDF"
+   },
+   "save_changes": {
+      "message": "Save"
+   },
+   "screenshot": {
+      "message": "Screenshot"
+   },
+   "screenshot_image_format": {
+      "message": "Screenshot Image Format"
+   },
+   "screenshot_ready_soon": {
+      "message": "Your screenshot will be ready in a moment."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly works on most websites, making it easy to create cleaner, printer-friendly pages and screenshots. However, certain pages—like browser settings, extension stores, and other restricted areas—are off-limits due to browser policies. Please contact us if you have any questions."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "settings_saved": {
+      "message": "Your settings have been saved."
+   },
+   "show_screenshot_message": {
+      "message": "Show Screenshot Message on Printer-Friendly View"
+   },
+   "something_went_wrong": {
+      "message": "Something Went Wrong"
+   },
+   "still_does_not_work": {
+      "message": "If it still does not work, please contact us at"
+   },
+   "stop_capturing": {
+      "message": "Stop Capturing"
+   },
+   "strict_security_settings": {
+      "message": "We're sorry, but this page has strict security settings (Content Security Policy) that prevent us from creating a PrintFriendly version of the page."
+   },
+   "style": {
+      "message": "Style"
+   },
+   "take_screenshot": {
+      "message": "Take a Screenshot:"
+   },
+   "text_size_pref": {
+      "message": "Text Size Preference"
+   },
+   "text_size_pref_desc": {
+      "message": "Set the size of text when viewing pages with the extension."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly may have timed out while creating the PDF. It may have been too large for our system to handle."
+   },
+   "txt_size": {
+      "message": "Text Size"
+   },
+   "unable_to_generate_pdf": {
+      "message": "We were unable to generate a PDF for this page."
+   },
+   "undo": {
+      "message": "Undo"
+   },
+   "what_you_can_do": {
+      "message": "What You Can Do"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

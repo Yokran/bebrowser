@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Deneyiminizi geliştirmek için ayarlarınızı düzenleyin."
+   },
+   "affected_page": {
+      "message": "Etkilenen Sayfa"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly başka bir eklenti, örneğin bir reklam engelleyici tarafından engellenmiş olabilir. Lütfen diğer eklentilerinizi geçici olarak devre dışı bırakın ve tekrar PDF oluşturmaya çalışın."
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "capture_screenshot_manually": {
+      "message": "Bu sayfayı yakalamak ve ardından bir resim veya PDF olarak dışa aktarmak için Ekran Görüntüsü özelliğimizi kullanın."
+   },
+   "capturing": {
+      "message": "Yakalama"
+   },
+   "capturing_desc": {
+      "message": "Ekran yakalanıyor…"
+   },
+   "choose_paper_size": {
+      "message": "PDF'ler için tercih ettiğiniz kağıt boyutunu seçin."
+   },
+   "compress_pdf": {
+      "message": "PDF'i Sıkıştır"
+   },
+   "contact_us": {
+      "message": "Bize Ulaşın:"
+   },
+   "convert_pdf": {
+      "message": "PDF'i Dönüştür"
+   },
+   "current_view_screenshot": {
+      "message": "Görünüm Ekran"
+   },
+   "default_button": {
+      "message": "Varsayılan Düğme"
+   },
+   "default_mode": {
+      "message": "Varsayılan Mod"
+   },
+   "default_mode_checkbox": {
+      "message": "Bu seçenekleri bir daha gösterme. Ayarlarda etkinleştirebilirsiniz."
+   },
+   "default_mode_desc": {
+      "message": "Uzantı düğmesine tıkladığınızda otomatik olarak seçilecek işlemi seçin."
+   },
+   "delete": {
+      "message": "Bu bölümü silmek için tıklayın"
+   },
+   "dialog_close": {
+      "message": "Kapat"
+   },
+   "dialog_text": {
+      "message": "Yazıcıya gönderiliyor."
+   },
+   "dialog_text_btn": {
+      "message": "Tekrar Gönder"
+   },
+   "dialog_title": {
+      "message": "Sayfa Yazdırılıyor"
+   },
+   "dont_show_again": {
+      "message": "Bunu bir daha gösterme."
+   },
+   "edit_pdf": {
+      "message": "PDF'i Düzenle"
+   },
+   "email": {
+      "message": "E-posta"
+   },
+   "email_article_sent": {
+      "message": "Size incelemeniz üzere bir konu iletti."
+   },
+   "email_from": {
+      "message": "Kimden"
+   },
+   "email_message": {
+      "message": "Mesaj"
+   },
+   "email_product_sent_message": {
+      "message": "E-posta iletiniz gönderildi. Sayfayı kapatabilirsiniz"
+   },
+   "email_send": {
+      "message": "Gönder"
+   },
+   "email_sent_message": {
+      "message": "E-posta iletiniz gönderildi"
+   },
+   "email_title": {
+      "message": "Bu Sayfayı E-postala"
+   },
+   "email_to": {
+      "message": "Kime"
+   },
+   "full_page_screenshot": {
+      "message": "Tam Sayfa Görüntüsü"
+   },
+   "get_pro": {
+      "message": "Yükselt"
+   },
+   "got_it": {
+      "message": "Anladım"
+   },
+   "image": {
+      "message": "Görüntü"
+   },
+   "image_size_pref": {
+      "message": "Görüntü Boyutu Tercihi"
+   },
+   "image_size_pref_desc": {
+      "message": "Uzantıyla sayfaları görüntülerken resim boyutunu ayarlayın."
+   },
+   "images": {
+      "message": "Görüntüler"
+   },
+   "lang_display_name": {
+      "message": "Türkçe (Turkish)"
+   },
+   "language_setting": {
+      "message": "Dil"
+   },
+   "language_setting_desc": {
+      "message": "Tercih ettiğiniz dili seçin."
+   },
+   "letter_paper_size": {
+      "message": "Mektup"
+   },
+   "login": {
+      "message": "Giriş"
+   },
+   "margin": {
+      "message": "Kenar"
+   },
+   "no": {
+      "message": "Hayır"
+   },
+   "off": {
+      "message": "Kapalı"
+   },
+   "other_tools": {
+      "message": "Diğer Araçlar"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Bu Sayfa PrintFriendly'yi Engelliyor"
+   },
+   "page_size": {
+      "message": "Sayfa Boyutu"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "PDF'i İndir"
+   },
+   "pdf_generation_error": {
+      "message": "PDF Oluşturma Hatası"
+   },
+   "pdf_head": {
+      "message": "PDF oluşturuluyor"
+   },
+   "pdf_paper_size": {
+      "message": "PDF Kağıt Boyutu"
+   },
+   "print": {
+      "message": "Yazdır"
+   },
+   "print_pdf": {
+      "message": "Yazdır ve PDF Oluştur"
+   },
+   "printer_friendly_desc": {
+      "message": "Reklam ve gezinmeyi kaldırın. Metin ve makalelere uygun."
+   },
+   "printer_friendly_page": {
+      "message": "Yazıcı Dostu Sayfa"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Yazıcı dostu sürüm beklediğiniz gibi değil mi? Ekran görüntüsü almayı deneyin."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly Sayfası"
+   },
+   "pro_alert": {
+      "message": "Bu özellik yükseltme gerektirir."
+   },
+   "reach_out_for_support": {
+      "message": "Daha fazla ayrıntı veya destek için lütfen bize ulaşın"
+   },
+   "read_more": {
+      "message": "Daha fazlası için tıklayın"
+   },
+   "remove_ads_description": {
+      "message": "Web sayfalarından reklamları ve navigasyonu kaldırın. Makaleler ve metin odaklı sayfalarla iyi çalışır."
+   },
+   "remove_images": {
+      "message": "Resimleri Kaldır"
+   },
+   "report": {
+      "message": "Bildir"
+   },
+   "resolve_issue": {
+      "message": "sorunu çözmenize yardımcı olacağız."
+   },
+   "save_as_image": {
+      "message": "Resim olarak Kaydet"
+   },
+   "save_as_pdf": {
+      "message": "PDF olarak Kaydet"
+   },
+   "save_changes": {
+      "message": "Kaydet"
+   },
+   "screenshot": {
+      "message": "Ekran Görüntüsü"
+   },
+   "screenshot_image_format": {
+      "message": "Ekran Görüntüsü Resim Formatı"
+   },
+   "screenshot_ready_soon": {
+      "message": "Ekran görüntünüz birazdan hazır olacak."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly çoğu web sitesinde çalışır ve daha temiz, yazıcı dostu sayfalar ve ekran görüntüleri oluşturmayı kolaylaştırır. Ancak, tarayıcı politikaları nedeniyle belirli sayfalar—tarayıcı ayarları, uzantı mağazaları ve diğer sınırlı alanlar—erişilemez. Herhangi bir sorunuz varsa lütfen bizimle iletişime geçin."
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "settings_saved": {
+      "message": "Ayarlarınız kaydedildi."
+   },
+   "show_screenshot_message": {
+      "message": "Yazıcı dostu görünümde Ekran Görüntüsü Mesajını Göster"
+   },
+   "something_went_wrong": {
+      "message": "Bir Şeyler Ters Gitti"
+   },
+   "still_does_not_work": {
+      "message": "Eğer hâlâ çalışmazsa, lütfen bizimle iletişime geçin"
+   },
+   "stop_capturing": {
+      "message": "Yakalamayı Durdur"
+   },
+   "strict_security_settings": {
+      "message": "Üzgünüz, ancak bu sayfa, sayfanın PrintFriendly sürümünü oluşturmamızı engelleyen katı güvenlik ayarlarına (İçerik Güvenliği Politikası) sahiptir."
+   },
+   "style": {
+      "message": "Stil"
+   },
+   "take_screenshot": {
+      "message": "Ekran Görüntüsü Alın:"
+   },
+   "text_size_pref": {
+      "message": "Metin Boyutu Tercihi"
+   },
+   "text_size_pref_desc": {
+      "message": "Uzantıyla sayfaları görüntülerken metin boyutunu ayarlayın."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly, PDF oluştururken zaman aşımına uğramış olabilir. Sistemimizin başa çıkamayacağı kadar büyük olabilir."
+   },
+   "txt_size": {
+      "message": "Yazı Boyutu"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Bu sayfa için PDF oluşturamadık."
+   },
+   "undo": {
+      "message": "Geri Al"
+   },
+   "what_you_can_do": {
+      "message": "Yapabilecekleriniz"
+   },
+   "yes": {
+      "message": "Evet"
+   }
+}

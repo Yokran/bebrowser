@@ -1,0 +1,232 @@
+{
+   "already_have_a_token": {
+      "message": "Vous avez déjà un jeton ?"
+   },
+   "basic": {
+      "message": "Basique"
+   },
+   "basic_profile_desc": {
+      "message": "Profil basique incluant l'ID, la photo de profil, le nom d'utilisateur, le nom complet et le statut de vérification."
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "chrome_extension_description": {
+      "message": "Growman vous permet d'extraire les e-mails d'Instagram à partir des abonnés/abonnements, des lieux et des hashtags."
+   },
+   "chrome_extension_name": {
+      "message": "Growman : Extracteur d'e-mails IG"
+   },
+   "click_here": {
+      "message": "Cliquez ici"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "continue": {
+      "message": "CONTINUER"
+   },
+   "continue_button": {
+      "message": "CONTINUER"
+   },
+   "continue_from_history": {
+      "message": "Souhaitez-vous reprendre là où vous vous étiez arrêté ?"
+   },
+   "copy": {
+      "message": "Copier"
+   },
+   "detailed": {
+      "message": "Détaillé"
+   },
+   "detailed_profile_desc": {
+      "message": "Profil détaillé incluant la bio, le nombre d'abonnés, l'adresse e-mail, etc."
+   },
+   "eg_username": {
+      "message": "ex : tottori ou https://www.instagram.com/tottori/"
+   },
+   "export_followers_of": {
+      "message": "Extraire les abonnés de"
+   },
+   "export_followings_of": {
+      "message": "Extraire les abonnements de"
+   },
+   "export_to_excel": {
+      "message": "EXPORTER $count$ $type$ VERS Excel",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "EXPORTATION..."
+   },
+   "exporting_status": {
+      "message": "Exportation"
+   },
+   "extract": {
+      "message": "Extraire"
+   },
+   "extract_by_hashtag": {
+      "message": "Extraire par hashtag"
+   },
+   "extract_by_location": {
+      "message": "Extraire par lieu"
+   },
+   "feature_detailed_profile": {
+      "message": "Profils détaillés"
+   },
+   "feature_export_followers": {
+      "message": "Exporter la liste des abonnés"
+   },
+   "feature_export_followings": {
+      "message": "Exporter la liste des abonnements"
+   },
+   "feature_free_amount": {
+      "message": "Extraire jusqu'à 500 profils"
+   },
+   "feature_unlimited_export": {
+      "message": "Extraction illimitée"
+   },
+   "feature_unsubscribe": {
+      "message": "Résiliation facile à tout moment"
+   },
+   "followers_label": {
+      "message": "abonnés"
+   },
+   "following_label": {
+      "message": "abonnements"
+   },
+   "found_extraction_from": {
+      "message": "Extraction sauvegardée trouvée de"
+   },
+   "free": {
+      "message": "Gratuit"
+   },
+   "go": {
+      "message": "DÉMARRER"
+   },
+   "hashtag_placeholder": {
+      "message": "Saisissez un hashtag ici. ex : hypercars"
+   },
+   "history": {
+      "message": "Historique d'extraction"
+   },
+   "history_found": {
+      "message": "Historique trouvé"
+   },
+   "history_notice": {
+      "message": "L'extension enregistre la progression des extractions récentes. Toutes les données d'historique sont stockées localement et seront perdues si vous désinstallez l'extension."
+   },
+   "interval_risk_notice": {
+      "message": "Un intervalle plus long réduit le risque d'être détecté par Instagram"
+   },
+   "invalid_location_url": {
+      "message": "URL de lieu invalide"
+   },
+   "invalid_token_format": {
+      "message": "Format de jeton invalide"
+   },
+   "items_extracted": {
+      "message": "éléments extraits"
+   },
+   "limit_max_number": {
+      "message": "Limiter le nombre max. d'extractions"
+   },
+   "location_example": {
+      "message": "Ex : https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "Collez l'URL du lieu ici"
+   },
+   "me": {
+      "message": "Moi"
+   },
+   "my_token": {
+      "message": "Mon jeton :"
+   },
+   "no_history": {
+      "message": "Aucun historique d'extraction disponible."
+   },
+   "not_public": {
+      "message": "Non public"
+   },
+   "paste_your_token": {
+      "message": "Collez votre jeton ici"
+   },
+   "pause_button": {
+      "message": "PAUSE"
+   },
+   "please_sign_in": {
+      "message": "Veuillez vous connecter à Instagram et réessayer."
+   },
+   "posts_label": {
+      "message": "publications"
+   },
+   "private": {
+      "message": "Privé"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "Utilisateur PRO"
+   },
+   "profile": {
+      "message": "Profil"
+   },
+   "progress": {
+      "message": "Progression : "
+   },
+   "required": {
+      "message": "Requis"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "start_new": {
+      "message": "Nouvelle extraction"
+   },
+   "subscription_canceled": {
+      "message": "Votre abonnement a été annulé avec succès et ne sera pas renouvelé automatiquement. Les fonctionnalités PRO restent actives jusqu'à la fin de la période de facturation en cours."
+   },
+   "target": {
+      "message": "Cible : "
+   },
+   "to_unsubscribe": {
+      "message": "pour résilier."
+   },
+   "type": {
+      "message": "Type : "
+   },
+   "unsubscribe_confirm_content": {
+      "message": "Après la résiliation, votre compte ne sera pas renouvelé automatiquement lors de la prochaine période de facturation. Les fonctionnalités Pro resteront actives jusqu'à la fin de la période en cours."
+   },
+   "unsubscribe_confirm_no": {
+      "message": "Annuler"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "Confirmer la résiliation"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "Confirmer"
+   },
+   "upgrade_to_pro": {
+      "message": "PASSER À PRO"
+   },
+   "upgrade_to_pro_button": {
+      "message": "PASSER À PRO"
+   },
+   "verified": {
+      "message": "Vérifié"
+   },
+   "wait_interval": {
+      "message": "Intervalle d'attente"
+   },
+   "wait_interval_seconds": {
+      "message": "Intervalle d'attente (secondes)"
+   }
+}

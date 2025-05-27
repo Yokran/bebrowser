@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "เกี่ยวกับ..."
+   },
+   "action_api": {
+      "message": "สนับสนุนการพัฒนาโปรแกรมด้วย API"
+   },
+   "action_capture_browser": {
+      "message": "คัดลอกข้อมูลจากวินโดว์เบราว์เซอร์"
+   },
+   "action_capture_entire": {
+      "message": "คัดลอกข้อมูลทุกอย่างที่อยู่ในหน้าเวป และ"
+   },
+   "action_capture_entire_lite": {
+      "message": "คัดลอกข้อมูลทุกอย่างที่อยู่ในหน้าเวป"
+   },
+   "action_capture_selection": {
+      "message": "คัดลอกเฉพาะข้อมูลที่ต้องการ หรือสนใจ และ"
+   },
+   "action_capture_selection_lite": {
+      "message": "คัดลอกเฉพาะข้อมูลที่ต้องการ หรือสนใจ"
+   },
+   "action_capture_tabs": {
+      "message": "คัดลอกทุกแท็ป และ"
+   },
+   "action_capture_visible": {
+      "message": "คัดลอกเฉพาะข้อมูลที่กำลังแสดงอยู่ และ"
+   },
+   "action_capture_visible_lite": {
+      "message": "คัดลอกเฉพาะข้อมูลที่กำลังแสดงอยู่"
+   },
+   "action_copy": {
+      "message": "บันทึกลงใน clipboard"
+   },
+   "action_edit": {
+      "message": "แก้ไข"
+   },
+   "action_email": {
+      "message": "อีเมล์"
+   },
+   "action_enter_license": {
+      "message": "กรอกข้อมูลอนุญาต"
+   },
+   "action_external": {
+      "message": "เปิดจากโปรแกรม editor อื่น"
+   },
+   "action_install_native": {
+      "message": "ลองใช้ฟังก์ชั่นที่นอกเหนือ"
+   },
+   "action_license_info": {
+      "message": "รายละเอียดการอนุญาต..."
+   },
+   "action_micsellaneous": {
+      "message": "อื่น ๆ"
+   },
+   "action_onenote": {
+      "message": "ส่งไปทำงานในโปรแกรม OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "เปิดจาก clipboard"
+   },
+   "action_open_file": {
+      "message": "เปิดแฟ้มข้อมูล"
+   },
+   "action_options": {
+      "message": "ฟังก์ชั่นการทำงาน"
+   },
+   "action_print": {
+      "message": "พิมพ์"
+   },
+   "action_register": {
+      "message": "ทะเบียน"
+   },
+   "action_resume": {
+      "message": "การแก้ไขแบบต่อเนื่อง"
+   },
+   "action_save": {
+      "message": "บันทึก"
+   },
+   "action_save_pdf": {
+      "message": "บันทึกในรูปแบบ PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "บันทึกข้อมูลในรูปแบบ PDF เพียงแฟ้มข้อมูลเดียวได้"
+   },
+   "action_support": {
+      "message": "การสนับสนุน"
+   },
+   "action_switch_pro": {
+      "message": "เปลี่ยนเป็นรุ่น Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "ดำเนินการเปลี่ยนการทำงานเป็นรุ่น Pro..."
+   },
+   "action_upload": {
+      "message": "ถ่ายโอน"
+   },
+   "action_view_demo": {
+      "message": "ดูตัวอย่าง"
+   },
+   "application_description": {
+      "message": "คัดลอกขัอมูลจากหน้าเวปได้ทุกส่วน และแก้ไข/บันทึกขัอมูลที่คัดลอกให้อยู่ในรูปแบบ PDF/JPEG/GIF/PNG รวมถึงการถ่ายโอน, พิมพ์ และส่งเข้า OneNote, clipboard หรือ email ได้"
+   },
+   "application_title": {
+      "message": "คัดลอกขัอมูลจากหน้าเวป - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "ซื้อรุ่น Pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "คัดลอกเก็บใน clipboard"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "เรียนรู้..."
+   },
+   "captured_get_free_button": {
+      "message": "ทดลองใช้ฟรี"
+   },
+   "captured_print": {
+      "message": "พิมพ์"
+   },
+   "captured_print_button": {
+      "message": "พิมพ์"
+   },
+   "captured_recommend_us": {
+      "message": "แนะนำโปรแกรม FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "บันทึกในรูปแบบรูปภาพ"
+   },
+   "captured_save_as_image_button": {
+      "message": "บันทึกในรูปแบบรูปภาพ"
+   },
+   "captured_save_as_pdf": {
+      "message": "บันทึกในรูปแบบ PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "บันทึกข้อมูลจอภาพ"
+   },
+   "captured_saving_options": {
+      "message": "ปรับปรุงแก้ไขได้"
+   },
+   "captured_setup_hotkeys": {
+      "message": "การกำหนดคีย์ลัดและการกำหนดค่าแฟ้มข้อมูล"
+   },
+   "captured_upgrade_link_1": {
+      "message": "คัดลอก, โน๊ต, พิมพ์ และบันทึก, แก้ไข, ถ่ายโอน, ส่งไปที่อีเมล์ / OneNote หรือโปรแกรมอื่น ๆ"
+   },
+   "captured_upgrade_link_2": {
+      "message": "เปลี่ยนมาใช้เป็นรุ่น FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "ฉันเคยใช้โปรแกรม FireShot รุ่นอื่น"
+   },
+   "captured_upgrade_link_4": {
+      "message": "ฉันขอกลับคืนได้ไหม"
+   },
+   "enable_checkbox": {
+      "message": "เริ่ม"
+   },
+   "options_button_apply": {
+      "message": "ยอมรับ"
+   },
+   "options_button_save_close": {
+      "message": "บันทึกและปิด"
+   },
+   "options_button_setup": {
+      "message": "กดปุ่มเพื่อติดตั้ง"
+   },
+   "options_label_and": {
+      "message": "และ"
+   },
+   "options_label_capturing": {
+      "message": "การคัดลอก"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "ปิดการทำงานหลังจากบันทึกข้อมูลแล้ว"
+   },
+   "options_label_customize_saving": {
+      "message": "ตั้งค่าการบันทึกข้อมูล"
+   },
+   "options_label_default_filename_template": {
+      "message": "กำหนดรูปแบบการตั้งชื่อแฟ้มข้อมูล:"
+   },
+   "options_label_default_folder": {
+      "message": "กำลังโฟลเดอร์ที่ต้องการบันทึกข้อมูล"
+   },
+   "options_label_default_folder_hint": {
+      "message": "สามารถกำหนดโฟลเดอร์ที่ต้องการดาวน์โหลดเพื่อเก็บแฟ้มข้อมูลแบบ Relative Path / Absolute path / Empty path แต่ไม่สามารถกำหนด path แบบย้อนหลังได้ เพราะจะทำให้โปรแกรมทำงานผิดพลาด"
+   },
+   "options_label_editor_options": {
+      "message": "มีอ๊อปชั่นการแก้ไข"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FireShot ทำงานกับเมนูได้"
+   },
+   "options_label_file_settings": {
+      "message": "การตั้งค่าแฟ้มข้อมูล"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot มีหลายฟังก์ชั่น"
+   },
+   "options_label_hotkey": {
+      "message": "คีย์ลัด"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "การกระทำล่าสุด"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "ตั้งค่าไม่แสดงหน้าต่าง \"Save as\""
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "แสดงแฟ้มข้อมูลที่ดาวน์โหลดแล้วเสร็จในโฟลเดอร์หลังจากบันทึกข้อมูลแล้ว"
+   },
+   "options_label_save_image_as": {
+      "message": "Lสามารถบันทึกในรูปแบบรูปภาพ:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "มีอ๊อปชั่นการแก้ไข และบันทึก, การตั้งชื่อแฟ้มข้อมูลด้วยตนเอง และอื่น ๆ"
+   },
+   "options_label_specify_hotkey": {
+      "message": "สามารถกำหนดรหัสเพื่อใช้เปิดในการเปิดโปรแกรม FireShot:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "มีอ๊อปชั่นการย่อ/ขยายขนาด และเสียง"
+   },
+   "options_label_template_day": {
+      "message": "วัน"
+   },
+   "options_label_template_hour": {
+      "message": "ชั่วโมง"
+   },
+   "options_label_template_limit_1": {
+      "message": "จำกัดความยาวชื่อแฟ้มข้อมูล"
+   },
+   "options_label_template_limit_2": {
+      "message": "ตัวอักษร"
+   },
+   "options_label_template_minutes": {
+      "message": "นาที"
+   },
+   "options_label_template_month": {
+      "message": "เดือน"
+   },
+   "options_label_template_pad_1": {
+      "message": "เลขที่ pad"
+   },
+   "options_label_template_pad_2": {
+      "message": "ศูนย์"
+   },
+   "options_label_template_seconds": {
+      "message": "วินาที"
+   },
+   "options_label_template_title": {
+      "message": "เพจหัวข้อ"
+   },
+   "options_label_template_url": {
+      "message": "เพจ URL"
+   },
+   "options_label_template_website": {
+      "message": "ชื่อโดเมน"
+   },
+   "options_label_template_year": {
+      "message": "ปี"
+   },
+   "options_link_filename_template_settings": {
+      "message": "แสดงรูปแบบการตั้งชื่อแฟ้มข้อมูลตามรูปแบบที่กำหนด"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "ซ่อนรูปแบบการตั้งชื่อแฟ้มข้อมูลตามรูปแบบที่กำหนด"
+   }
+}

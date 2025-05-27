@@ -1,0 +1,232 @@
+{
+   "already_have_a_token": {
+      "message": "هل لديك رمز مميز؟"
+   },
+   "basic": {
+      "message": "أساسي"
+   },
+   "basic_profile_desc": {
+      "message": "الملف الشخصي الأساسي يتضمن المعرف، صورة الملف الشخصي، اسم المستخدم، الاسم الكامل وحالة التوثيق"
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "chrome_extension_description": {
+      "message": "يمكنك Growman من استخراج عناوين البريد الإلكتروني من انستجرام بناءً على المتابعين/المتابَعين والمواقع والهاشتاج"
+   },
+   "chrome_extension_name": {
+      "message": "Growman: مستخرج البريد الإلكتروني من انستجرام"
+   },
+   "click_here": {
+      "message": "انقر هنا"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "continue": {
+      "message": "متابعة"
+   },
+   "continue_button": {
+      "message": "متابعة"
+   },
+   "continue_from_history": {
+      "message": "هل تريد المتابعة من حيث توقفت؟"
+   },
+   "copy": {
+      "message": "نسخ"
+   },
+   "detailed": {
+      "message": "مفصل"
+   },
+   "detailed_profile_desc": {
+      "message": "الملف الشخصي المفصل يتضمن السيرة الذاتية، عدد المتابعين، البريد الإلكتروني، إلخ"
+   },
+   "eg_username": {
+      "message": "مثال: tottori أو https://www.instagram.com/tottori/"
+   },
+   "export_followers_of": {
+      "message": "استخراج متابعي"
+   },
+   "export_followings_of": {
+      "message": "استخراج متابَعي"
+   },
+   "export_to_excel": {
+      "message": "تصدير $count$ $type$ إلى Excel",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "جارٍ التصدير..."
+   },
+   "exporting_status": {
+      "message": "جارٍ التصدير"
+   },
+   "extract": {
+      "message": "استخراج"
+   },
+   "extract_by_hashtag": {
+      "message": "استخراج حسب الهاشتاج"
+   },
+   "extract_by_location": {
+      "message": "استخراج حسب الموقع"
+   },
+   "feature_detailed_profile": {
+      "message": "ملفات شخصية مفصلة"
+   },
+   "feature_export_followers": {
+      "message": "تصدير قائمة المتابعين"
+   },
+   "feature_export_followings": {
+      "message": "تصدير قائمة المتابَعين"
+   },
+   "feature_free_amount": {
+      "message": "استخراج حتى 500 ملف شخصي"
+   },
+   "feature_unlimited_export": {
+      "message": "استخراج غير محدود"
+   },
+   "feature_unsubscribe": {
+      "message": "إلغاء الاشتراك بسهولة في أي وقت"
+   },
+   "followers_label": {
+      "message": "متابع"
+   },
+   "following_label": {
+      "message": "يتابع"
+   },
+   "found_extraction_from": {
+      "message": "تم العثور على استخراج محفوظ من"
+   },
+   "free": {
+      "message": "مجاني"
+   },
+   "go": {
+      "message": "ابدأ"
+   },
+   "hashtag_placeholder": {
+      "message": "أدخل الهاشتاج هنا. مثال: hypercars"
+   },
+   "history": {
+      "message": "سجل الاستخراج"
+   },
+   "history_found": {
+      "message": "تم العثور على سجل"
+   },
+   "history_notice": {
+      "message": "يحفظ الملحق تقدم عمليات الاستخراج الأخيرة. يتم تخزين جميع بيانات السجل محلياً وسيتم فقدها إذا قمت بإلغاء تثبيت الملحق"
+   },
+   "interval_risk_notice": {
+      "message": "فترة انتظار أطول تقلل من خطر الكشف من قبل انستجرام"
+   },
+   "invalid_location_url": {
+      "message": "رابط الموقع غير صالح"
+   },
+   "invalid_token_format": {
+      "message": "تنسيق الرمز المميز غير صالح"
+   },
+   "items_extracted": {
+      "message": "عناصر مستخرجة"
+   },
+   "limit_max_number": {
+      "message": "تحديد العدد الأقصى للاستخراج"
+   },
+   "location_example": {
+      "message": "مثال: https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "الصق رابط الموقع هنا"
+   },
+   "me": {
+      "message": "أنا"
+   },
+   "my_token": {
+      "message": "الرمز المميز الخاص بي:"
+   },
+   "no_history": {
+      "message": "لا يوجد سجل استخراج"
+   },
+   "not_public": {
+      "message": "غير عام"
+   },
+   "paste_your_token": {
+      "message": "الصق الرمز المميز الخاص بك هنا"
+   },
+   "pause_button": {
+      "message": "إيقاف مؤقت"
+   },
+   "please_sign_in": {
+      "message": "الرجاء تسجيل الدخول إلى انستجرام والمحاولة مرة أخرى"
+   },
+   "posts_label": {
+      "message": "منشور"
+   },
+   "private": {
+      "message": "خاص"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "مستخدم PRO"
+   },
+   "profile": {
+      "message": "الملف الشخصي"
+   },
+   "progress": {
+      "message": "التقدم: "
+   },
+   "required": {
+      "message": "مطلوب"
+   },
+   "save": {
+      "message": "حفظ"
+   },
+   "start_new": {
+      "message": "استخراج جديد"
+   },
+   "subscription_canceled": {
+      "message": "تم إلغاء اشتراكك بنجاح ولن يتم تجديده تلقائياً. ستظل ميزات PRO نشطة حتى نهاية فترة الفوترة الحالية"
+   },
+   "target": {
+      "message": "الهدف: "
+   },
+   "to_unsubscribe": {
+      "message": "لإلغاء الاشتراك"
+   },
+   "type": {
+      "message": "النوع: "
+   },
+   "unsubscribe_confirm_content": {
+      "message": "بعد الإلغاء، لن يتم تجديد حسابك تلقائياً في فترة الفوترة التالية. ستظل ميزات Pro نشطة حتى نهاية الفترة الحالية"
+   },
+   "unsubscribe_confirm_no": {
+      "message": "إلغاء"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "تأكيد إلغاء الاشتراك"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "تأكيد"
+   },
+   "upgrade_to_pro": {
+      "message": "الترقية إلى PRO"
+   },
+   "upgrade_to_pro_button": {
+      "message": "الترقية إلى PRO"
+   },
+   "verified": {
+      "message": "موثق"
+   },
+   "wait_interval": {
+      "message": "فترة الانتظار"
+   },
+   "wait_interval_seconds": {
+      "message": "فترة الانتظار (ثواني)"
+   }
+}

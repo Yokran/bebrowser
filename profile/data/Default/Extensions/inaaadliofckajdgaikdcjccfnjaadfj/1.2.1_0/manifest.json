@@ -1,0 +1,37 @@
+{
+   "action": {
+      "default_icon": "assets/icon-512.png",
+      "default_popup": "./dist/popup/index.html"
+   },
+   "background": {
+      "service_worker": "./dist/background/index.mjs"
+   },
+   "content_scripts": [ {
+      "js": [ "./dist/contentScripts/index.global.js" ],
+      "matches": [ "https://*.twitter.com/*", "https://*.x.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "differential_fingerprint": "1.db127bf6f129801d4f455eaee5ba251115a2e750667cdd1a9f3fe8f80fabaea5",
+   "homepage_url": "https://twfollowexport.extensionsfox.com/",
+   "host_permissions": [ "*://*.twitter.com/*", "*://*.x.com/*" ],
+   "icons": {
+      "128": "assets/icon-512.png",
+      "16": "assets/icon-512.png",
+      "48": "assets/icon-512.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmML/NshRxpEQ2LJpoxbkWhpRfIuo8AODZn8U3U+PmAApKz0F7r6AqGA53lon4pI1VLGBKCiuPV9bVwJhoCqyCZ6OD8e7HR6/mOcvV5hWUGWWRFFXqljm4BwKaX5SCbaE6+bGbcim7/E9TWixCEWRfXRcAFDeYWfaxPe+/+gVnPpdiM+g8EB0FYHzpsKiN1IPKXbf3qPi+firGnulIFq2Xj5JviAh31WAjU4r4UIdetTnK2pGSW+2ts7tLUEhayxEvNi+2yTHD8lYrOGe2F/+bgZzzQ9PPRq5IHe5LGxu81NCSx+NLg0RYrAZ/u/yv/sXdroLdl/c+WlUCCrm+NZrawIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "permissions": [ "storage", "webRequest", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.1",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "dist/contentScripts/style.css", "assets/*" ]
+   } ]
+}

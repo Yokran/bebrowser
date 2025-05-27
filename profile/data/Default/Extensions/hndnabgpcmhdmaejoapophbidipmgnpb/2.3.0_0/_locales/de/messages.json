@@ -1,0 +1,232 @@
+{
+   "already_have_a_token": {
+      "message": "Haben Sie bereits einen Token?"
+   },
+   "basic": {
+      "message": "Basis"
+   },
+   "basic_profile_desc": {
+      "message": "Basisprofil mit ID, Profilbild, Benutzername, vollständigem Namen und Verifizierungsstatus."
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "chrome_extension_description": {
+      "message": "Growman ermöglicht es Ihnen, E-Mails von Instagram basierend auf Followern/Followings, Standorten und Hashtags zu extrahieren."
+   },
+   "chrome_extension_name": {
+      "message": "Growman: IG E-Mail-Extraktor"
+   },
+   "click_here": {
+      "message": "Hier klicken"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "continue": {
+      "message": "FORTSETZEN"
+   },
+   "continue_button": {
+      "message": "FORTSETZEN"
+   },
+   "continue_from_history": {
+      "message": "Möchten Sie dort fortfahren, wo Sie aufgehört haben?"
+   },
+   "copy": {
+      "message": "Kopieren"
+   },
+   "detailed": {
+      "message": "Detailliert"
+   },
+   "detailed_profile_desc": {
+      "message": "Detailliertes Profil mit Bio, Follower-Anzahl, E-Mail-Adresse usw."
+   },
+   "eg_username": {
+      "message": "z.B. tottori oder https://www.instagram.com/tottori/"
+   },
+   "export_followers_of": {
+      "message": "Follower extrahieren von"
+   },
+   "export_followings_of": {
+      "message": "Followings extrahieren von"
+   },
+   "export_to_excel": {
+      "message": "$count$ $type$ IN EXCEL EXPORTIEREN",
+      "placeholders": {
+         "count": {
+            "content": "$1"
+         },
+         "type": {
+            "content": "$2"
+         }
+      }
+   },
+   "exporting": {
+      "message": "EXPORTIERE..."
+   },
+   "exporting_status": {
+      "message": "Exportiere"
+   },
+   "extract": {
+      "message": "Extrahieren"
+   },
+   "extract_by_hashtag": {
+      "message": "Nach Hashtag extrahieren"
+   },
+   "extract_by_location": {
+      "message": "Nach Standort extrahieren"
+   },
+   "feature_detailed_profile": {
+      "message": "Detaillierte Profile"
+   },
+   "feature_export_followers": {
+      "message": "Follower-Liste exportieren"
+   },
+   "feature_export_followings": {
+      "message": "Following-Liste exportieren"
+   },
+   "feature_free_amount": {
+      "message": "Bis zu 500 Profile exportieren"
+   },
+   "feature_unlimited_export": {
+      "message": "Unbegrenzter Export"
+   },
+   "feature_unsubscribe": {
+      "message": "Jederzeit einfach kündigen"
+   },
+   "followers_label": {
+      "message": "Follower"
+   },
+   "following_label": {
+      "message": "Following"
+   },
+   "found_extraction_from": {
+      "message": "Gespeicherte Extraktion gefunden von"
+   },
+   "free": {
+      "message": "Kostenlos"
+   },
+   "go": {
+      "message": "LOS"
+   },
+   "hashtag_placeholder": {
+      "message": "Geben Sie hier einen Hashtag ein. z.B. hypercars"
+   },
+   "history": {
+      "message": "Extraktionsverlauf"
+   },
+   "history_found": {
+      "message": "Verlauf gefunden"
+   },
+   "history_notice": {
+      "message": "Die Erweiterung speichert den Fortschritt der letzten Extraktionen. Alle Verlaufsdaten werden lokal gespeichert und gehen bei Deinstallation der Erweiterung verloren."
+   },
+   "interval_risk_notice": {
+      "message": "Längere Intervalle reduzieren das Risiko, von Instagram erkannt zu werden"
+   },
+   "invalid_location_url": {
+      "message": "Ungültige Standort-URL"
+   },
+   "invalid_token_format": {
+      "message": "Ungültiges Token-Format"
+   },
+   "items_extracted": {
+      "message": "Elemente extrahiert"
+   },
+   "limit_max_number": {
+      "message": "Maximale Extraktionsanzahl begrenzen"
+   },
+   "location_example": {
+      "message": "Z.B. https://www.instagram.com/explore/locations/151769/mezz/"
+   },
+   "location_placeholder": {
+      "message": "Standort-URL hier einfügen"
+   },
+   "me": {
+      "message": "Ich"
+   },
+   "my_token": {
+      "message": "Mein Token:"
+   },
+   "no_history": {
+      "message": "Es gibt noch keinen Extraktionsverlauf."
+   },
+   "not_public": {
+      "message": "Nicht öffentlich"
+   },
+   "paste_your_token": {
+      "message": "Fügen Sie hier Ihren Token ein"
+   },
+   "pause_button": {
+      "message": "PAUSE"
+   },
+   "please_sign_in": {
+      "message": "Bitte melden Sie sich bei Instagram an und versuchen Sie es erneut."
+   },
+   "posts_label": {
+      "message": "Beiträge"
+   },
+   "private": {
+      "message": "Privat"
+   },
+   "pro": {
+      "message": "Pro"
+   },
+   "pro_user": {
+      "message": "PRO-Benutzer"
+   },
+   "profile": {
+      "message": "Profil"
+   },
+   "progress": {
+      "message": "Fortschritt: "
+   },
+   "required": {
+      "message": "Erforderlich"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "start_new": {
+      "message": "Neu starten"
+   },
+   "subscription_canceled": {
+      "message": "Ihr Abonnement wurde erfolgreich gekündigt und wird nicht automatisch verlängert. Die PRO-Funktionen bleiben für den aktuellen Abrechnungszeitraum erhalten."
+   },
+   "target": {
+      "message": "Ziel: "
+   },
+   "to_unsubscribe": {
+      "message": "zum Kündigen."
+   },
+   "type": {
+      "message": "Typ: "
+   },
+   "unsubscribe_confirm_content": {
+      "message": "Nach der Kündigung wird Ihr Konto im nächsten Abrechnungszeitraum nicht automatisch verlängert. Die Pro-Funktionen bleiben bis zum Ende des aktuellen Abrechnungszeitraums aktiv."
+   },
+   "unsubscribe_confirm_no": {
+      "message": "Abbrechen"
+   },
+   "unsubscribe_confirm_title": {
+      "message": "Kündigung bestätigen"
+   },
+   "unsubscribe_confirm_yes": {
+      "message": "Bestätigen"
+   },
+   "upgrade_to_pro": {
+      "message": "AUF PRO UPGRADEN"
+   },
+   "upgrade_to_pro_button": {
+      "message": "Auf PRO upgraden"
+   },
+   "verified": {
+      "message": "Verifiziert"
+   },
+   "wait_interval": {
+      "message": "Warteintervall"
+   },
+   "wait_interval_seconds": {
+      "message": "Warteintervall (Sekunden)"
+   }
+}

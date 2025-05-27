@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Ajuste suas configurações para melhorar sua experiência."
+   },
+   "affected_page": {
+      "message": "Página afetada"
+   },
+   "blocked_by_extension": {
+      "message": "O PrintFriendly pode estar sendo bloqueado por outra extensão que você instalou, como um bloqueador de anúncios. Desative temporariamente as outras extensões e tente criar um PDF novamente."
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "capture_screenshot_manually": {
+      "message": "Use nosso recurso de captura de tela para capturar esta página e exportá-la como imagem ou PDF."
+   },
+   "capturing": {
+      "message": "Capturando"
+   },
+   "capturing_desc": {
+      "message": "Capturando tela…"
+   },
+   "choose_paper_size": {
+      "message": "Escolha o tamanho de papel preferido para PDFs."
+   },
+   "compress_pdf": {
+      "message": "Comprimir PDF"
+   },
+   "contact_us": {
+      "message": "Entre em contato:"
+   },
+   "convert_pdf": {
+      "message": "Converter PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Captura Atual"
+   },
+   "default_button": {
+      "message": "Botão padrão"
+   },
+   "default_mode": {
+      "message": "Modo padrão"
+   },
+   "default_mode_checkbox": {
+      "message": "Não mostre estas opções novamente. Reative-as nas Configurações."
+   },
+   "default_mode_desc": {
+      "message": "Escolha a ação que será selecionada automaticamente ao clicar no botão."
+   },
+   "delete": {
+      "message": "Clique para Excluir"
+   },
+   "dialog_close": {
+      "message": "Fechar"
+   },
+   "dialog_text": {
+      "message": "Enviando para a impressora."
+   },
+   "dialog_text_btn": {
+      "message": "Reenviar"
+   },
+   "dialog_title": {
+      "message": "Imprimir Sua Página"
+   },
+   "dont_show_again": {
+      "message": "Não mostrar isso novamente."
+   },
+   "edit_pdf": {
+      "message": "Editar PDF"
+   },
+   "email": {
+      "message": "E-mail"
+   },
+   "email_article_sent": {
+      "message": "enviou um artigo"
+   },
+   "email_from": {
+      "message": "Remetente"
+   },
+   "email_message": {
+      "message": "Mensagem"
+   },
+   "email_product_sent_message": {
+      "message": "Seu e-mail foi enviado. Você pode fechar a página"
+   },
+   "email_send": {
+      "message": "Enviar"
+   },
+   "email_sent_message": {
+      "message": "Seu e-mail foi enviado"
+   },
+   "email_title": {
+      "message": "Envie esta página por Email"
+   },
+   "email_to": {
+      "message": "Para"
+   },
+   "full_page_screenshot": {
+      "message": "Captura Completa"
+   },
+   "get_pro": {
+      "message": "Atualize"
+   },
+   "got_it": {
+      "message": "Entendi"
+   },
+   "image": {
+      "message": "Imagem"
+   },
+   "image_size_pref": {
+      "message": "Preferência de tamanho de imagem"
+   },
+   "image_size_pref_desc": {
+      "message": "Defina o tamanho das imagens ao visualizar páginas com a extensão."
+   },
+   "images": {
+      "message": "Imagens"
+   },
+   "lang_display_name": {
+      "message": "Português (Brasil)"
+   },
+   "language_setting": {
+      "message": "Idioma"
+   },
+   "language_setting_desc": {
+      "message": "Selecione o seu idioma preferido."
+   },
+   "letter_paper_size": {
+      "message": "Carta"
+   },
+   "login": {
+      "message": "Entrar"
+   },
+   "margin": {
+      "message": "Margem"
+   },
+   "no": {
+      "message": "Não"
+   },
+   "off": {
+      "message": "Desligado"
+   },
+   "other_tools": {
+      "message": "Ferramentas"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Esta página está bloqueando o PrintFriendly"
+   },
+   "page_size": {
+      "message": "Tamanho da página"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Baixe o seu PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Erro na geração do PDF"
+   },
+   "pdf_head": {
+      "message": "Seu gerando PDF"
+   },
+   "pdf_paper_size": {
+      "message": "Tamanho do papel PDF"
+   },
+   "print": {
+      "message": "Imprimir"
+   },
+   "print_pdf": {
+      "message": "Impressão e PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Remova anúncios e navegação. Bom para texto e artigos."
+   },
+   "printer_friendly_page": {
+      "message": "Página para impressão"
+   },
+   "printer_friendly_suggestion": {
+      "message": "A versão para impressão não é o que você esperava? Tente fazer uma captura de tela."
+   },
+   "printfriendly_page": {
+      "message": "Página PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Este recurso requer atualização"
+   },
+   "reach_out_for_support": {
+      "message": "Para mais detalhes ou suporte, entre em contato conosco em"
+   },
+   "read_more": {
+      "message": "Leia mais"
+   },
+   "remove_ads_description": {
+      "message": "Remover anúncios e navegação das páginas da web. Funciona bem com artigos e páginas focadas em texto."
+   },
+   "remove_images": {
+      "message": "Remover Imagens"
+   },
+   "report": {
+      "message": "Reportar"
+   },
+   "resolve_issue": {
+      "message": "e nós o ajudaremos a resolver o problema."
+   },
+   "save_as_image": {
+      "message": "Salvar como imagem"
+   },
+   "save_as_pdf": {
+      "message": "Salvar como PDF"
+   },
+   "save_changes": {
+      "message": "Guardar"
+   },
+   "screenshot": {
+      "message": "Captura de tela"
+   },
+   "screenshot_image_format": {
+      "message": "Formato de imagem da captura de tela"
+   },
+   "screenshot_ready_soon": {
+      "message": "Sua captura de tela ficará pronta em um momento."
+   },
+   "screenshot_restriction_message": {
+      "message": "O PrintFriendly funciona na maioria dos sites, facilitando a criação de páginas e capturas de tela mais limpas e amigáveis para impressão. No entanto, algumas páginas—como as configurações do navegador, lojas de extensões e outras áreas restritas—não estão disponíveis devido às políticas do navegador. Entre em contato conosco se tiver alguma dúvida."
+   },
+   "settings": {
+      "message": "Config"
+   },
+   "settings_saved": {
+      "message": "Suas configurações foram salvas."
+   },
+   "show_screenshot_message": {
+      "message": "Mostrar mensagem de captura de tela na visualização para impressão"
+   },
+   "something_went_wrong": {
+      "message": "Algo deu errado"
+   },
+   "still_does_not_work": {
+      "message": "Se ainda não funcionar, entre em contato conosco pelo endereço"
+   },
+   "stop_capturing": {
+      "message": "Parar captura"
+   },
+   "strict_security_settings": {
+      "message": "Sentimos muito, mas esta página possui configurações de segurança rigorosas (Política de Segurança de Conteúdo) que nos impedem de criar uma versão PrintFriendly da página."
+   },
+   "style": {
+      "message": "Estilo"
+   },
+   "take_screenshot": {
+      "message": "Tire uma captura de tela:"
+   },
+   "text_size_pref": {
+      "message": "Preferência de tamanho de texto"
+   },
+   "text_size_pref_desc": {
+      "message": "Defina o tamanho do texto ao visualizar páginas com a extensão."
+   },
+   "timed_out_pdf": {
+      "message": "O PrintFriendly pode ter expirado enquanto criava o PDF. Pode ter sido grande demais para o nosso sistema processar."
+   },
+   "txt_size": {
+      "message": "Tamanho texto"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Não conseguimos gerar um PDF para esta página."
+   },
+   "undo": {
+      "message": "Desfazer"
+   },
+   "what_you_can_do": {
+      "message": "O que você pode fazer"
+   },
+   "yes": {
+      "message": "Sim"
+   }
+}

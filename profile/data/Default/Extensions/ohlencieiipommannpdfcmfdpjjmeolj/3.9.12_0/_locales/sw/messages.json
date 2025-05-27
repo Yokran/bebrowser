@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Rekebisha mipangilio yako ili kuboresha uzoefu wako."
+   },
+   "affected_page": {
+      "message": "Ukurasa Ulioathiriwa"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly inaweza kuwa imezuiwa na kiendelezi kingine ulichoongeza, kama kizuizi cha matangazo. Tafadhali zima kwa muda viendelezi vyako vingine na ujaribu kuunda PDF tena."
+   },
+   "cancel": {
+      "message": "Ghairi"
+   },
+   "capture_screenshot_manually": {
+      "message": "Tumia kipengele chetu cha Picha ya Skrini kukamata ukurasa huu na kisha uuhamishe kuwa picha au PDF."
+   },
+   "capturing": {
+      "message": "Kunasa"
+   },
+   "capturing_desc": {
+      "message": "Inakamata skrini…"
+   },
+   "choose_paper_size": {
+      "message": "Chagua ukubwa wa karatasi unaopendelea kwa PDF."
+   },
+   "compress_pdf": {
+      "message": "Bana PDF"
+   },
+   "contact_us": {
+      "message": "Wasiliana Nasi:"
+   },
+   "convert_pdf": {
+      "message": "Geuza PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Picha ya Skrini"
+   },
+   "default_button": {
+      "message": "Kitufe cha Chaguo-Msingi"
+   },
+   "default_mode": {
+      "message": "Hali ya Kawaida"
+   },
+   "default_mode_checkbox": {
+      "message": "Usionyeshe chaguo hizi tena. Unaweza kuziwezesha katika Mipangilio."
+   },
+   "default_mode_desc": {
+      "message": "Chagua kitendo kinachochaguliwa kiotomatiki unapobofya kitufe."
+   },
+   "delete": {
+      "message": "Futa"
+   },
+   "dialog_close": {
+      "message": "Funga"
+   },
+   "dialog_text": {
+      "message": "Kutuma kwa printa yako"
+   },
+   "dialog_text_btn": {
+      "message": "Tuma tena"
+   },
+   "dialog_title": {
+      "message": "Kuchapisha Ukurasa Wako"
+   },
+   "dont_show_again": {
+      "message": "Usionyeshe hii tena."
+   },
+   "edit_pdf": {
+      "message": "Hariri PDF"
+   },
+   "email": {
+      "message": "Barua pepe"
+   },
+   "email_article_sent": {
+      "message": "Amekutumia makala"
+   },
+   "email_from": {
+      "message": "Kutoka"
+   },
+   "email_message": {
+      "message": "Ujumbe"
+   },
+   "email_product_sent_message": {
+      "message": "Ujumbe wako wa barua pepe umetumwa. Unaweza kufunga ukurasa"
+   },
+   "email_send": {
+      "message": "Tuma"
+   },
+   "email_sent_message": {
+      "message": "Ujumbe wako wa barua pepe umetumwa"
+   },
+   "email_title": {
+      "message": "Tuma ukurasa huu kwa barua pepe"
+   },
+   "email_to": {
+      "message": "Kwa"
+   },
+   "full_page_screenshot": {
+      "message": "Picha ukurasa mzima"
+   },
+   "get_pro": {
+      "message": "Pata Pro"
+   },
+   "got_it": {
+      "message": "Nimeelewa"
+   },
+   "image": {
+      "message": "Picha"
+   },
+   "image_size_pref": {
+      "message": "Kipaumbele cha Ukubwa wa Picha"
+   },
+   "image_size_pref_desc": {
+      "message": "Weka saizi ya picha wakati wa kutazama kurasa na kiendelezi."
+   },
+   "images": {
+      "message": "Picha"
+   },
+   "lang_display_name": {
+      "message": "Kiswahili (Swahili)"
+   },
+   "language_setting": {
+      "message": "Lugha"
+   },
+   "language_setting_desc": {
+      "message": "Chagua lugha unayopendelea."
+   },
+   "letter_paper_size": {
+      "message": "Barua"
+   },
+   "login": {
+      "message": "Ingia"
+   },
+   "margin": {
+      "message": "Ukingo"
+   },
+   "no": {
+      "message": "Hapana"
+   },
+   "off": {
+      "message": "Zima"
+   },
+   "other_tools": {
+      "message": "Zana Zingine"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Ukurasa huu unazuia PrintFriendly"
+   },
+   "page_size": {
+      "message": "Ukubwa wa ukurasa"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Pakua PDF Yako"
+   },
+   "pdf_generation_error": {
+      "message": "Hitilafu ya Kutengeneza PDF"
+   },
+   "pdf_head": {
+      "message": "Kuzalisha PDF Yako"
+   },
+   "pdf_paper_size": {
+      "message": "Ukubwa wa Karatasi ya PDF"
+   },
+   "print": {
+      "message": "Chapisha"
+   },
+   "print_pdf": {
+      "message": "Chapisha & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Ondoa matangazo na urambazaji. Inafaa kwa makala na maandishi."
+   },
+   "printer_friendly_page": {
+      "message": "Ukurasa Rafiki kwa Printa"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Toleo rafiki la printa sio ulichotarajia? Jaribu kuchukua Picha ya Skrini."
+   },
+   "printfriendly_page": {
+      "message": "Ukurasa wa PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "Kipengele cha Pro"
+   },
+   "reach_out_for_support": {
+      "message": "Kwa maelezo zaidi au usaidizi, tafadhali wasiliana nasi kupitia"
+   },
+   "read_more": {
+      "message": "Soma zaidi"
+   },
+   "remove_ads_description": {
+      "message": "Ta bort annonser och navigering från webbsidor. Fungerar bra med artiklar och texfokuserade sidor."
+   },
+   "remove_images": {
+      "message": "Ondoa picha"
+   },
+   "report": {
+      "message": "Ripoti"
+   },
+   "resolve_issue": {
+      "message": "na tutakusaidia kutatua tatizo."
+   },
+   "save_as_image": {
+      "message": "Hifadhi kama Picha"
+   },
+   "save_as_pdf": {
+      "message": "Hifadhi kama PDF"
+   },
+   "save_changes": {
+      "message": "Hifadhi"
+   },
+   "screenshot": {
+      "message": "Picha ya Skrini"
+   },
+   "screenshot_image_format": {
+      "message": "Muundo wa Picha ya Skrini"
+   },
+   "screenshot_ready_soon": {
+      "message": "Picha yako ya skrini itakuwa tayari kwa muda mfupi."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly inafanya kazi kwenye tovuti nyingi, ikirahisisha kuunda kurasa safi, zinazofaa kwa printa, na picha za skrini. Hata hivyo, kurasa fulani—kama vile mipangilio ya kivinjari, maduka ya viendelezi, na maeneo mengine yaliyowekwa vikwazo—hazifanyi kazi kutokana na sera za kivinjari. Tafadhali wasiliana nasi ikiwa una maswali yoyote."
+   },
+   "settings": {
+      "message": "Mipangilio"
+   },
+   "settings_saved": {
+      "message": "Mipangilio yako imehifadhiwa."
+   },
+   "show_screenshot_message": {
+      "message": "Onyesha Ujumbe wa Picha ya Skrini katika Mwonekano Rafiki wa Kuchapa"
+   },
+   "something_went_wrong": {
+      "message": "Kitu Kimeenda Vibaya"
+   },
+   "still_does_not_work": {
+      "message": "Ikiwa bado haifanyi kazi, tafadhali wasiliana nasi kwa"
+   },
+   "stop_capturing": {
+      "message": "Acha Kunasa"
+   },
+   "strict_security_settings": {
+      "message": "Tunaomba radhi, lakini ukurasa huu una mipangilio madhubuti ya usalama (Sera ya Usalama wa Yaliyomo) inayotuzuia kuunda toleo la PrintFriendly la ukurasa."
+   },
+   "style": {
+      "message": "Mtindo"
+   },
+   "take_screenshot": {
+      "message": "Chukua Picha ya Skrini:"
+   },
+   "text_size_pref": {
+      "message": "Kipaumbele cha Ukubwa wa Maandishi"
+   },
+   "text_size_pref_desc": {
+      "message": "Weka saizi ya maandishi wakati wa kutazama kurasa na kiendelezi."
+   },
+   "timed_out_pdf": {
+      "message": "Huenda PrintFriendly ilichukua muda mrefu wakati wa kuunda PDF. Inaweza kuwa kubwa sana kwa mfumo wetu kushughulikia."
+   },
+   "txt_size": {
+      "message": "Ukubwa wa maandishi"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Hatukuweza kuunda PDF kwa ukurasa huu."
+   },
+   "undo": {
+      "message": "Tendua"
+   },
+   "what_you_can_do": {
+      "message": "Unachoweza Kufanya"
+   },
+   "yes": {
+      "message": "Ndiyo"
+   }
+}

@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "اضبط إعداداتك لتحسين تجربتك."
+   },
+   "affected_page": {
+      "message": "الصفحة المتأثرة"
+   },
+   "blocked_by_extension": {
+      "message": "قد يتم حظر PrintFriendly بواسطة ملحق آخر قمت بتثبيته، مثل مانع الإعلانات. يرجى تعطيل الإضافات الأخرى مؤقتًا وحاول إنشاء ملف PDF مرة أخرى."
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "capture_screenshot_manually": {
+      "message": "استخدم ميزة لقطة الشاشة لدينا لالتقاط هذه الصفحة ثم تصديرها كصورة أو ملف PDF."
+   },
+   "capturing": {
+      "message": "جارٍ الالتقاط"
+   },
+   "capturing_desc": {
+      "message": "يتم التقاط لقطة الشاشة الخاصة بك…"
+   },
+   "choose_paper_size": {
+      "message": "اختر حجم الورق المفضل لديك لملفات PDF."
+   },
+   "compress_pdf": {
+      "message": "ضغط ملف PDF"
+   },
+   "contact_us": {
+      "message": "اتصل بنا:"
+   },
+   "convert_pdf": {
+      "message": "تحويل ملف PDF"
+   },
+   "current_view_screenshot": {
+      "message": "صورة الشاشة الحالية"
+   },
+   "default_button": {
+      "message": "زر افتراضي"
+   },
+   "default_mode": {
+      "message": "الوضع الافتراضي"
+   },
+   "default_mode_checkbox": {
+      "message": "لا تعرض هذه الخيارات مرة أخرى. يمكنك إعادة تمكينها في أي وقت من صفحة الإعدادات."
+   },
+   "default_mode_desc": {
+      "message": "اختر الإجراء الذي يتم تحديده تلقائيًا عند النقر فوق زر الامتداد."
+   },
+   "delete": {
+      "message": "انقر للحذف"
+   },
+   "dialog_close": {
+      "message": "إغلاق"
+   },
+   "dialog_text": {
+      "message": "جاري الإرسال إلى الطابعة."
+   },
+   "dialog_text_btn": {
+      "message": "إعادة الإرسال"
+   },
+   "dialog_title": {
+      "message": "جاري طباعة الصفحة"
+   },
+   "dont_show_again": {
+      "message": "لا تظهر هذا مرة أخرى."
+   },
+   "edit_pdf": {
+      "message": "تحرير ملف PDF"
+   },
+   "email": {
+      "message": "بريد"
+   },
+   "email_article_sent": {
+      "message": "أرسل لك مقال"
+   },
+   "email_from": {
+      "message": "من"
+   },
+   "email_message": {
+      "message": "رسالة"
+   },
+   "email_product_sent_message": {
+      "message": "تم إرسال رسالة البريد الإلكتروني. قد تقوم بإغلاق الصفحة"
+   },
+   "email_send": {
+      "message": "إرسال"
+   },
+   "email_sent_message": {
+      "message": "تم إرسال رسالة البريد الإلكتروني"
+   },
+   "email_title": {
+      "message": "أرسل هذه الصفحة"
+   },
+   "email_to": {
+      "message": "إلى"
+   },
+   "full_page_screenshot": {
+      "message": "لقطة شاشة الصفحة كاملة"
+   },
+   "get_pro": {
+      "message": "تطوير"
+   },
+   "got_it": {
+      "message": "فهمت"
+   },
+   "image": {
+      "message": "صورة"
+   },
+   "image_size_pref": {
+      "message": "تفضيل حجم الصورة"
+   },
+   "image_size_pref_desc": {
+      "message": "قم بتعيين حجم الصور عند عرض الصفحات باستخدام الامتداد."
+   },
+   "images": {
+      "message": "صور"
+   },
+   "lang_display_name": {
+      "message": "العربية (Arabic)"
+   },
+   "language_setting": {
+      "message": "اللغة"
+   },
+   "language_setting_desc": {
+      "message": "يرجى اختيار لغتك المفضلة."
+   },
+   "letter_paper_size": {
+      "message": "خطاب"
+   },
+   "login": {
+      "message": "تسجيل الدخول"
+   },
+   "margin": {
+      "message": "هامش"
+   },
+   "no": {
+      "message": "لا"
+   },
+   "off": {
+      "message": "إيقاف"
+   },
+   "other_tools": {
+      "message": "أدوات أخرى"
+   },
+   "page_blocking_printfriendly": {
+      "message": "هذه الصفحة تمنع PrintFriendly"
+   },
+   "page_size": {
+      "message": "حجم الصفحة"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "تحميل PDF الخاص بك"
+   },
+   "pdf_generation_error": {
+      "message": "خطأ في إنشاء ملف PDF"
+   },
+   "pdf_head": {
+      "message": "يتم توليد الملف"
+   },
+   "pdf_paper_size": {
+      "message": "حجم ورق PDF"
+   },
+   "print": {
+      "message": "طباعة"
+   },
+   "print_pdf": {
+      "message": "الطباعة و PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "إزالة الإعلانات والتنقل من صفحات الويب. يعمل جيدًا مع المقالات وصفحات النصوص."
+   },
+   "printer_friendly_page": {
+      "message": "صفحة مناسبة للطباعة"
+   },
+   "printer_friendly_suggestion": {
+      "message": "النسخة المناسبة للطباعة ليست كما توقعت؟ جرب التقاط لقطة شاشة."
+   },
+   "printfriendly_page": {
+      "message": "صفحة PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "ميزة الترقية"
+   },
+   "reach_out_for_support": {
+      "message": "لمزيد من التفاصيل أو الدعم، يرجى التواصل معنا على"
+   },
+   "read_more": {
+      "message": "اقرأ المزيد"
+   },
+   "remove_ads_description": {
+      "message": "إزالة الإعلانات والتنقل من صفحات الويب. يعمل بشكل جيد مع المقالات والصفحات التي تركز على النص."
+   },
+   "remove_images": {
+      "message": "إزالة الصور"
+   },
+   "report": {
+      "message": "تقرير"
+   },
+   "resolve_issue": {
+      "message": "وسنساعدك في حل المشكلة."
+   },
+   "save_as_image": {
+      "message": "حفظ كصورة"
+   },
+   "save_as_pdf": {
+      "message": "حفظ كملف PDF"
+   },
+   "save_changes": {
+      "message": "حفظ"
+   },
+   "screenshot": {
+      "message": "لقطة شاشة"
+   },
+   "screenshot_image_format": {
+      "message": "تنسيق صورة لقطة الشاشة"
+   },
+   "screenshot_ready_soon": {
+      "message": "ستكون لقطة الشاشة الخاصة بك جاهزة في لحظة."
+   },
+   "screenshot_restriction_message": {
+      "message": "يعمل PrintFriendly على معظم مواقع الويب، مما يسهل إنشاء صفحات ولقطات شاشة نظيفة وصديقة للطباعة. ومع ذلك، هناك صفحات معينة - مثل إعدادات المتصفح، ومتاجر الإضافات، والمناطق الأخرى المحظورة - محظورة بسبب سياسات المتصفح. يرجى الاتصال بنا إذا كان لديك أي أسئلة."
+   },
+   "settings": {
+      "message": "إعدادات"
+   },
+   "settings_saved": {
+      "message": "تم حفظ إعداداتك."
+   },
+   "show_screenshot_message": {
+      "message": "عرض رسالة لقطة الشاشة في العرض المناسب للطباعة"
+   },
+   "something_went_wrong": {
+      "message": "حدث خطأ ما"
+   },
+   "still_does_not_work": {
+      "message": "إذا لم تنجح المحاولة مرة أخرى، يرجى الاتصال بنا على"
+   },
+   "stop_capturing": {
+      "message": "إيقاف الالتقاط"
+   },
+   "strict_security_settings": {
+      "message": "نحن آسفون، ولكن تحتوي هذه الصفحة على إعدادات أمان صارمة (سياسة أمان المحتوى) تمنعنا من إنشاء نسخة PrintFriendly من الصفحة."
+   },
+   "style": {
+      "message": "نمط"
+   },
+   "take_screenshot": {
+      "message": "التقاط لقطة شاشة:"
+   },
+   "text_size_pref": {
+      "message": "تفضيل حجم النص"
+   },
+   "text_size_pref_desc": {
+      "message": "قم بتعيين حجم النص عند عرض الصفحات باستخدام الامتداد."
+   },
+   "timed_out_pdf": {
+      "message": "قد يكون PrintFriendly قد انتهت مهلة أثناء إنشاء ملف PDF. ربما كان الملف كبيرًا جدًا بالنسبة لنظامنا للتعامل معه."
+   },
+   "txt_size": {
+      "message": "حجم الخط"
+   },
+   "unable_to_generate_pdf": {
+      "message": "تعذر علينا إنشاء ملف PDF لهذه الصفحة."
+   },
+   "undo": {
+      "message": "تراجع"
+   },
+   "what_you_can_do": {
+      "message": "ما يمكنك فعله"
+   },
+   "yes": {
+      "message": "نعم"
+   }
+}

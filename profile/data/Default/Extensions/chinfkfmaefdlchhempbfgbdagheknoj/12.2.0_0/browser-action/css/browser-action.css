@@ -1,0 +1,170 @@
+/* =============================================================================
+
+  General
+
+ ============================================================================ */
+
+body
+  {
+    min-width: 0;
+  }
+input.pwCheckable
+  {
+    -webkit-appearance: none;
+    -webkit-user-select: none;
+    position: relative;
+    bottom: .2rem;
+    vertical-align: middle;
+    margin: 0 .5rem 0 0;
+    width: 1.3rem;
+    height: 1.3rem;
+    background-image: -webkit-linear-gradient( #ededed, #ededed 38%, #dedede );
+    border: .1rem solid rgba( 0, 0, 0, .25 );
+    border-radius: .2rem;
+    box-shadow: 0 .1rem 0 rgba( 0, 0, 0, .08 ), inset 0 .1rem .2rem rgba( 255, 255, 255, .75 );
+    color: #444;
+    cursor: pointer;
+    font: inherit;
+    text-shadow: 0 .1rem 0 rgb( 240, 240, 240 );
+  }
+input.pwCheckable:focus
+  {
+    background-image: -webkit-linear-gradient( #fff, #fff 38%, #eee );
+    border-color: rgba( 0, 0, 0, .75 );
+    box-shadow: 0 .1rem 0 rgba( 0, 0, 0, .08 ), inset 0 .1rem .2rem rgba( 255, 255, 255, 1 );
+  }
+input.pwCheckable:checked:before
+  {
+    -webkit-user-select: none;
+    content: '';
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-image: url(/global/img/tick-icon-11.png);
+    background-size: 100% 100%;
+  }
+input.pwRadio
+  {
+    border-radius: 100%;
+  }
+input.pwRadio:checked:before
+  {
+    content: '';
+    display: block;
+    position: absolute;
+    top: .3rem;
+    right: .3rem;
+    bottom: .3rem;
+    left: .3rem;
+    background-color: #666;
+    border-radius: 100%;
+  }
+
+/* =============================================================================
+
+  Toolbar
+
+ ============================================================================ */
+
+  #bractToolbar
+    {
+      position:               absolute;
+      z-index:                2;
+      top:                    .5rem;
+      right:                  .5rem;
+    }
+  .bractToolbarItem
+    {
+      float:                  left;
+    }
+  .bractBtn
+    {
+      font-size:              1em;
+      margin:                 .5rem;
+      width:                  1.6rem;
+      height:                 1.6rem;
+      background-color:       #fff;
+      background-repeat:      no-repeat;
+      cursor:                 pointer;
+      opacity:                .25;
+      text-indent:            -9999rem;
+    }
+  .bractBtn:hover
+, .bractBtn:active
+    {
+      opacity:                1;
+    }
+  #bractOpenOptionsPage
+    {
+      background-image:       url(/browser-action/img/cog_icon&16.png);
+    }
+  #bractOpenOptionsPage:hover
+    {
+      -webkit-animation-duration:         .5s;
+      -webkit-animation-iteration-count:  1;
+      -webkit-animation-name:             spin;
+      -webkit-animation-timing-function:  linear;
+    }
+  @-webkit-keyframes spin
+    {
+      from  { -webkit-transform: scale(1) rotate(0deg); }
+      to    { -webkit-transform: scale(1) rotate(360deg); }
+    }
+  #bractClosePage
+    {
+      background-image:       url(/global/img/delete_icon&16.png);
+      background-position:    center;
+      background-size:        75%;
+    }
+  #bractClosePage:hover
+    {
+      -webkit-animation-duration:         .3s;
+      -webkit-animation-iteration-count:  1;
+      -webkit-animation-name:             breathe;
+      -webkit-animation-timing-function:  linear;
+    }
+  @-webkit-keyframes breathe
+    {
+      from  { -webkit-transform: scale(1); }
+      to    { -webkit-transform: scale(1.25); }
+    }
+
+/* =============================================================================
+
+  Content
+
+ ============================================================================ */
+
+  #content
+    {
+      padding:                0 2rem 1rem;
+      min-width:              30rem;
+      max-width:              30rem;
+    }
+  .pageHeading
+    {
+      width:                  50rem;
+      max-width:              none;
+      min-width:              none;
+    }
+  #sttbModeForm
+    {
+      margin:                 1rem 0;
+    }
+  .pwLabel
+    {
+      display:                block;
+    }
+  .sttbModeTabAddress
+    {
+      display:                block;
+      margin:                 -1rem 0 0 2.2rem;
+      color:                  #bbb;
+      white-space:            nowrap;
+      overflow:               hidden;
+      text-overflow:          ellipsis;
+    }
+  #browserActionReloadActiveTabCta
+    {
+      margin-bottom:          1.8rem;
+    }

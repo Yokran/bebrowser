@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Pielāgojiet iestatījumus, lai uzlabotu savu pieredzi."
+   },
+   "affected_page": {
+      "message": "Ietekmētā lapa"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly var tikt bloķēts ar citu paplašinājumu, ko esat instalējis, piemēram, reklāmu bloķētāju. Lūdzu, uz laiku atspējojiet citus paplašinājumus un mēģiniet vēlreiz izveidot PDF."
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "capture_screenshot_manually": {
+      "message": "Izmantojiet mūsu ekrānuzņēmuma funkciju, lai nofotografētu šo lapu, un pēc tam eksportējiet to kā attēlu vai PDF."
+   },
+   "capturing": {
+      "message": "Notiek tveršana"
+   },
+   "capturing_desc": {
+      "message": "Uzņemts ekrāns…"
+   },
+   "choose_paper_size": {
+      "message": "Izvēlieties vēlamo papīra izmēru PDF failiem."
+   },
+   "compress_pdf": {
+      "message": "Saspiest PDF"
+   },
+   "contact_us": {
+      "message": "Sazinieties ar mums:"
+   },
+   "convert_pdf": {
+      "message": "Konvertēt PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Skata ekrānuzņēmums"
+   },
+   "default_button": {
+      "message": "Noklusējuma poga"
+   },
+   "default_mode": {
+      "message": "Noklusējuma režīms"
+   },
+   "default_mode_checkbox": {
+      "message": "Vairs nerādiet šīs opcijas. Iespējojiet tās Iestatījumos."
+   },
+   "default_mode_desc": {
+      "message": "Izvēlieties darbību, kas automātiski tiek izvēlēta, noklikšķinot uz pogas."
+   },
+   "delete": {
+      "message": "Noklikšķiniet lai dzēstu"
+   },
+   "dialog_close": {
+      "message": "Aizvērt"
+   },
+   "dialog_text": {
+      "message": "Nosūta uz jūsu printeri."
+   },
+   "dialog_text_btn": {
+      "message": "Nosūtīt vēlreiz"
+   },
+   "dialog_title": {
+      "message": "Drukā jūsu lapu"
+   },
+   "dont_show_again": {
+      "message": "Vairs nerādīt"
+   },
+   "edit_pdf": {
+      "message": "Rediģēt PDF"
+   },
+   "email": {
+      "message": "E-pasts"
+   },
+   "email_article_sent": {
+      "message": "nosūtīja jums rakstu"
+   },
+   "email_from": {
+      "message": "No"
+   },
+   "email_message": {
+      "message": "Ziņojums"
+   },
+   "email_product_sent_message": {
+      "message": "Jūsu e-pasta ziņojums ir nosūtīts. Jūs varat aizvērt lapu."
+   },
+   "email_send": {
+      "message": "Sūtīt"
+   },
+   "email_sent_message": {
+      "message": "Jūsu e-pasta ziņojums ir nosūtīts"
+   },
+   "email_title": {
+      "message": "Nosūtīt šo lapu pa e-pastu"
+   },
+   "email_to": {
+      "message": "Kam"
+   },
+   "full_page_screenshot": {
+      "message": "Pilnas ekrāns"
+   },
+   "get_pro": {
+      "message": "Iegūt Pro versiju"
+   },
+   "got_it": {
+      "message": "Sapratu"
+   },
+   "image": {
+      "message": "Attēls"
+   },
+   "image_size_pref": {
+      "message": "Attēla izmēra iestatījums"
+   },
+   "image_size_pref_desc": {
+      "message": "Iestatiet attēlu lielumu, skatot lapas ar paplašinājumu."
+   },
+   "images": {
+      "message": "Attēli"
+   },
+   "lang_display_name": {
+      "message": "Latviešu (Latvian)"
+   },
+   "language_setting": {
+      "message": "Valoda"
+   },
+   "language_setting_desc": {
+      "message": "Izvēlieties vēlamo valodu."
+   },
+   "letter_paper_size": {
+      "message": "Vēstule"
+   },
+   "login": {
+      "message": "Pieslēgties"
+   },
+   "margin": {
+      "message": "Mala"
+   },
+   "no": {
+      "message": "Nē"
+   },
+   "off": {
+      "message": "Izslēgts"
+   },
+   "other_tools": {
+      "message": "Citi rīki"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Šī lapa bloķē PrintFriendly"
+   },
+   "page_size": {
+      "message": "Lapas izmērs"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Lejupielādējiet savu PDF"
+   },
+   "pdf_generation_error": {
+      "message": "PDF ģenerēšanas kļūda"
+   },
+   "pdf_head": {
+      "message": "Ģenerē jūsu PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF papīra izmērs"
+   },
+   "print": {
+      "message": "Drukāt"
+   },
+   "print_pdf": {
+      "message": "Drukāt un PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Noņemiet reklāmas un navigāciju no tīmekļa lapām. Darbojas labi ar rakstiem un tekstiem."
+   },
+   "printer_friendly_page": {
+      "message": "Drukai draudzīga lapa"
+   },
+   "printer_friendly_suggestion": {
+      "message": "kokio tikėjotės? Pabandykite padaryti ekrano kopiją."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly lapa"
+   },
+   "pro_alert": {
+      "message": "Pro funkcija"
+   },
+   "reach_out_for_support": {
+      "message": "Lai iegūtu sīkāku informāciju vai atbalstu, lūdzu, sazinieties ar mums"
+   },
+   "read_more": {
+      "message": "Lasīt vairāk"
+   },
+   "remove_ads_description": {
+      "message": "Noņemt reklāmas un navigāciju no tīmekļa lapām. Labi darbojas ar rakstiem un uz tekstu orientētām lapām."
+   },
+   "remove_images": {
+      "message": "Noņemt attēlus"
+   },
+   "report": {
+      "message": "Ziņot"
+   },
+   "resolve_issue": {
+      "message": "un mēs palīdzēsim atrisināt šo problēmu."
+   },
+   "save_as_image": {
+      "message": "Saglabāt kā attēlu"
+   },
+   "save_as_pdf": {
+      "message": "Saglabāt kā PDF"
+   },
+   "save_changes": {
+      "message": "Saglabāt"
+   },
+   "screenshot": {
+      "message": "Ekrānuzņēmums"
+   },
+   "screenshot_image_format": {
+      "message": "Ekrānuzņēmuma attēla formāts"
+   },
+   "screenshot_ready_soon": {
+      "message": "Jūsu ekrānuzņēmums būs gatavs pēc mirkļa."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly darbojas lielākajā daļā vietņu, atvieglojot tīrāku, printeriem draudzīgu lapu un ekrānuzņēmumu izveidi. Tomēr noteiktas lapas—piemēram, pārlūkprogrammas iestatījumi, paplašinājumu veikali un citas ierobežotas zonas—nav pieejamas pārlūkprogrammas politiku dēļ. Lūdzu, sazinieties ar mums, ja jums ir kādi jautājumi."
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "settings_saved": {
+      "message": "Jūsu iestatījumi ir saglabāti."
+   },
+   "show_screenshot_message": {
+      "message": "Rādīt ekrānuzņēmuma ziņojumu printerim draudzīgā skatā"
+   },
+   "something_went_wrong": {
+      "message": "Kaut kas nogāja greizi"
+   },
+   "still_does_not_work": {
+      "message": "Ja tas joprojām nedarbojas, lūdzu, sazinieties ar mums"
+   },
+   "stop_capturing": {
+      "message": "Pārtraukt tveršanu"
+   },
+   "strict_security_settings": {
+      "message": "Atvainojiet, bet šai lapai ir stingri drošības iestatījumi (Satura drošības politika), kas liedz mums izveidot PrintFriendly versiju lapai."
+   },
+   "style": {
+      "message": "Stils"
+   },
+   "take_screenshot": {
+      "message": "Uzņemiet ekrānuzņēmumu:"
+   },
+   "text_size_pref": {
+      "message": "Teksta izmēra iestatījums"
+   },
+   "text_size_pref_desc": {
+      "message": "Iestatiet teksta lielumu, skatot lapas ar paplašinājumu."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly var būt beidzies laiks PDF ģenerēšanas laikā. Tas varēja būt pārāk liels, lai mūsu sistēma to apstrādātu."
+   },
+   "txt_size": {
+      "message": "Teksta izmērs"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Mēs nevarējām ģenerēt PDF šai lapai."
+   },
+   "undo": {
+      "message": "Atsaukt"
+   },
+   "what_you_can_do": {
+      "message": "Ko jūs varat darīt"
+   },
+   "yes": {
+      "message": "Jā"
+   }
+}

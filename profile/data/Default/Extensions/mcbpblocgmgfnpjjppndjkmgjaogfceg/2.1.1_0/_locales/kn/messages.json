@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "ಕುರಿತು"
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "ಬ್ರೌಸರ್ ವಿಂಡೋ ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು"
+   },
+   "action_capture_entire": {
+      "message": "ಸಂಪೂರ್ಣ ಪುಟವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು"
+   },
+   "action_capture_entire_lite": {
+      "message": "ಸಂಪೂರ್ಣ ಪುಟವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ"
+   },
+   "action_capture_selection": {
+      "message": "ಆಯ್ಕೆ/ಅಂಶವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು"
+   },
+   "action_capture_selection_lite": {
+      "message": "ಆಯ್ಕೆಯನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ"
+   },
+   "action_capture_tabs": {
+      "message": "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು"
+   },
+   "action_capture_visible": {
+      "message": "ಕಾಣುವ ಭಾಗವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು"
+   },
+   "action_capture_visible_lite": {
+      "message": "ಕಾಣುವ ಭಾಗವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ"
+   },
+   "action_copy": {
+      "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ"
+   },
+   "action_edit": {
+      "message": "ಸಂಪಾದಿಸಿ"
+   },
+   "action_email": {
+      "message": "ಇ-ಮೇಲ್"
+   },
+   "action_enter_license": {
+      "message": "ಪರವಾನಗಿ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಿ"
+   },
+   "action_external": {
+      "message": "ಬಾಹ್ಯ ಸಂಪಾದಕದಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "action_install_native": {
+      "message": "ಸುಧಾರಿತ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "action_license_info": {
+      "message": "ಪರವಾನಗಿ ಮಾಹಿತಿ..."
+   },
+   "action_micsellaneous": {
+      "message": "ಇತರೆ"
+   },
+   "action_onenote": {
+      "message": "OneNote ಗೆ ಕಳುಹಿಸಿ"
+   },
+   "action_open_clipboard": {
+      "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ನಿಂದ ತೆರೆಯಿರಿ"
+   },
+   "action_open_file": {
+      "message": "ಫೈಲ್ ತೆರೆಯಿರಿ"
+   },
+   "action_options": {
+      "message": "ಆಯ್ಕೆಗಳು"
+   },
+   "action_print": {
+      "message": "ಮುದ್ರಿಸಿ"
+   },
+   "action_register": {
+      "message": "ನೋಂದಾಯಿಸಿ"
+   },
+   "action_resume": {
+      "message": "ಸಂಪಾದನೆಯನ್ನು ಪುನರಾರಂಭಿಸಿ"
+   },
+   "action_save": {
+      "message": "ಉಳಿಸಿ"
+   },
+   "action_save_pdf": {
+      "message": "PDF ಆಗಿ ಉಳಿಸಿ"
+   },
+   "action_save_pdf_single": {
+      "message": "ಒಂದೇ PDF ಆಗಿ ಉಳಿಸಿ"
+   },
+   "action_support": {
+      "message": "ಬೆಂಬಲ"
+   },
+   "action_switch_pro": {
+      "message": "Pro ಗೆ ಬದಲಾಯಿಸಿ"
+   },
+   "action_switch_pro_tabs": {
+      "message": "ಮುಂದುವರಿಯಲು Pro ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "action_upload": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಮಾಡಿ"
+   },
+   "action_view_demo": {
+      "message": "ಡೆಮೊ ವೀಕ್ಷಿಸಿ"
+   },
+   "application_description": {
+      "message": "ವೆಬ್‌ಪುಟದ ಪೂರ್ಣ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ. ಸೆರೆಹಿಡಿಯಿರಿ, ಸಂಪಾದಿಸಿ ಮತ್ತು PDF/JPEG/GIF/PNG ಆಗಿ ಉಳಿಸಿ, ಅಪ್‌ಲೋಡ್ ಮಾಡಿ, ಮುದ್ರಿಸಿ, OneNote, ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಅಥವಾ ಇಮೇಲ್‌ಗೆ ಕಳುಹಿಸಿ"
+   },
+   "application_title": {
+      "message": "ವೆಬ್‌ಪುಟದ ಸಂಪೂರ್ಣ ಸ್ಕ್ರೀನ್‌ಶಾಟ್‌ಗಳನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Pro ಆವೃತ್ತಿಯನ್ನು ಖರೀದಿಸಿ"
+   },
+   "captured_copy_clipboard": {
+      "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "ಈಗ ಕಲಿಯಿರಿ"
+   },
+   "captured_get_free_button": {
+      "message": "ಇದನ್ನು ಉಚಿತವಾಗಿ ಪ್ರಯತ್ನಿಸಿ"
+   },
+   "captured_print": {
+      "message": "ಮುದ್ರಿಸಿ"
+   },
+   "captured_print_button": {
+      "message": "ಮುದ್ರಿಸಿ"
+   },
+   "captured_recommend_us": {
+      "message": "FileShot ಅನ್ನು ಶಿಫಾರಸು ಮಾಡಿ"
+   },
+   "captured_save_as_image": {
+      "message": "ಚಿತ್ರದಂತೆ ಉಳಿಸಿ"
+   },
+   "captured_save_as_image_button": {
+      "message": "ಚಿತ್ರದಂತೆ ಉಳಿಸಿ"
+   },
+   "captured_save_as_pdf": {
+      "message": "PDF ಆಗಿ ಉಳಿಸಿ"
+   },
+   "captured_save_panel_title": {
+      "message": "ಸ್ಕ್ರೀನ್ಶಾಟ್ ಅನ್ನು ಉಳಿಸಿ"
+   },
+   "captured_saving_options": {
+      "message": "ಇದನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸಿ"
+   },
+   "captured_setup_hotkeys": {
+      "message": "ಹಾಟ್‌ಕೀಗಳು ಮತ್ತು ಫೈಲ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಸೆಟಪ್ ಮಾಡಿ"
+   },
+   "captured_upgrade_link_1": {
+      "message": "ಸೆರೆಹಿಡಿಯಿರಿ, ಟಿಪ್ಪಣಿ ಮಾಡಿ, ಮುದ್ರಿಸಿ ಮತ್ತು ಉಳಿಸಿ. ಸಂಪಾದಿಸಿ, ಅಪ್‌ಲೋಡ್ ಮಾಡಿ, ಇಮೇಲ್ / OneNote ಗೆ ಕಳುಹಿಸಿ, ಅಥವಾ ಮತ್ತೊಂದು ಪ್ರೋಗ್ರಾಂಗೆ ರಫ್ತು ಮಾಡಿ."
+   },
+   "captured_upgrade_link_2": {
+      "message": "FileShot Pro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+   },
+   "captured_upgrade_link_3": {
+      "message": "ನಾನು FireShot ನ ಮತ್ತೊಂದು ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿದ್ದೇನೆ"
+   },
+   "captured_upgrade_link_4": {
+      "message": "ನಾನು ಅದನ್ನು ಮರಳಿ ಪಡೆಯಬಹುದೇ?"
+   },
+   "enable_checkbox": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "options_button_apply": {
+      "message": "ಅನ್ವಯಿಸು"
+   },
+   "options_button_save_close": {
+      "message": "ಉಳಿಸಿ ಮತ್ತು ಮುಚ್ಚಿ"
+   },
+   "options_button_setup": {
+      "message": "ಸೆಟಪ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "options_label_and": {
+      "message": "ಮತ್ತು"
+   },
+   "options_label_capturing": {
+      "message": "ಸೆರೆಹಿಡಿಯಲಾಗುತ್ತಿದೆ"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "ಉಳಿಸಿದ ನಂತರ ಟ್ಯಾಬ್ ಮುಚ್ಚಿ"
+   },
+   "options_label_customize_saving": {
+      "message": "ಉಳಿಸುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸಿ"
+   },
+   "options_label_default_filename_template": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಫೈಲ್ ಹೆಸರು ಟೆಂಪ್ಲೆಟ್:"
+   },
+   "options_label_default_folder": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಔಟ್ಪುಟ್ ಫೋಲ್ಡರ್"
+   },
+   "options_label_default_folder_hint": {
+      "message": ""
+   },
+   "options_label_editor_options": {
+      "message": "ಸಂಪಾದಕ ಆಯ್ಕೆಗಳು"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FileShot ಅನ್ನು ಸಂದರ್ಭ ಮೆನುವಿನಲ್ಲಿ ಸಂಯೋಜಿಸಿ"
+   },
+   "options_label_file_settings": {
+      "message": "ಫೈಲ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot ಆಯ್ಕೆಗಳು"
+   },
+   "options_label_hotkey": {
+      "message": "ಹಾಟ್‌ಕೀಗಳು"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "ಕೊನೆಯದಾಗಿ ಬಳಸಿದ ಕ್ರಿಯೆ"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "‘ಹೀಗೆ ಉಳಿಸಿ’ ಸಂವಾದವನ್ನು ತೋರಿಸಬೇಡ"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿದ ಫೈಲ್ ಅನ್ನು ಉಳಿಸಿದ ನಂತರ ಅದರ ಫೋಲ್ಡರ್‌ನಲ್ಲಿ ತೋರಿಸು"
+   },
+   "options_label_save_image_as": {
+      "message": "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸಿ:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "ಸಂಪಾದಕ ಮತ್ತು ಉಳಿಸುವ ಆಯ್ಕೆಗಳನ್ನು, ಫೈಲ್ ಹೆಸರಿಸುವ ಆದ್ಯತೆಗಳನ್ನು, ಶೈಲಿಗಳು, ಇತ್ಯಾದಿಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ  "
+   },
+   "options_label_specify_hotkey": {
+      "message": "FireShot ಅನ್ನು ಆರಂಭಿಸುವ ಕೀ ಸಂಯೋಜನೆಯನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ:"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "ಮರುಗಾತ್ರಗೊಳಿಸುವ ಆಯ್ಕೆಗಳು ಮತ್ತು ಶಬ್ದಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ"
+   },
+   "options_label_template_day": {
+      "message": "ದಿನ"
+   },
+   "options_label_template_hour": {
+      "message": "ಗಂಟೆ"
+   },
+   "options_label_template_limit_1": {
+      "message": "ಫೈಲ್ ಹೆಸರಿನ ಉದ್ದವನ್ನು ಈ ಮಟ್ಟಕ್ಕೆ ಮಿತಿಗೊಳಿಸಿ"
+   },
+   "options_label_template_limit_2": {
+      "message": "ಅಕ್ಷರಗಳು"
+   },
+   "options_label_template_minutes": {
+      "message": "ನಿಮಿಷಗಳು"
+   },
+   "options_label_template_month": {
+      "message": "ತಿಂಗಳು"
+   },
+   "options_label_template_pad_1": {
+      "message": "ಸಂಖ್ಯೆಯನ್ನು ಇದರೊಂದಿಗೆ ಜೋಡಿಸಿ"
+   },
+   "options_label_template_pad_2": {
+      "message": "ಸೊನ್ನೆಗಳು"
+   },
+   "options_label_template_seconds": {
+      "message": "ಸೆಕೆಂಡ್‌‌ಗಳು"
+   },
+   "options_label_template_title": {
+      "message": "ಪುಟ ಶೀರ್ಷಿಕೆ"
+   },
+   "options_label_template_url": {
+      "message": "ಪುಟ URL"
+   },
+   "options_label_template_website": {
+      "message": "ಡೊಮೇನ್ ಹೆಸರು"
+   },
+   "options_label_template_year": {
+      "message": "ವರ್ಷ"
+   },
+   "options_link_filename_template_settings": {
+      "message": "ಫೈಲ್ ಹೆಸರಿನ ಟೆಂಪ್ಲೆಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೋರಿಸಿ"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "ಫೈಲ್ ಹೆಸರಿನ ಟೆಂಪ್ಲೆಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರೆಮಾಡಿ"
+   }
+}

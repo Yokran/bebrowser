@@ -1,0 +1,33 @@
+{
+   "author": "PoziWorld, Inc.",
+   "background": {
+      "persistent": false,
+      "scripts": [ "global/js/browser-polyfill.min.js", "global/js/bowser.js", "global/js/punycode.min.js", "global/js/global.js", "global/js/event.js", "global/js/utils.js", "global/js/const.js", "global/js/log.js", "global/js/i18next/i18next.min.js", "global/js/i18next/i18nextXHRBackend.js", "shared/legacy/i18n.js", "shared/legacy/context-menus.js", "shared/legacy/background.js", "global/js/tabs.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "icons/Icon-16.png",
+         "32": "icons/Icon-32.png"
+      }
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_extensionDescription__",
+   "homepage_url": "https://scroll-to-top-button.com",
+   "icons": {
+      "128": "icons/Icon-128.png",
+      "16": "icons/Icon-16.png",
+      "32": "icons/Icon-32.png",
+      "48": "icons/Icon-48.png",
+      "64": "icons/Icon-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpv0IUlflxGmXaZDsqTiqXTLC9rgG0WzRgQtXPBdby5kccooCTR0VUH009gLjZLVeM9KSxhBEOW/GNgJc3FfmlM/CG++RbyFHD4IwPR2mmgZ6E0jyhLkFwF92GcW2sUfC8wM/4WyvP8hKCxRozde/xKM1kObBxHLHOL16YFfxsvL/EWZG05MuyCNd9h1Gc0/m61nyAiaYU6eK4j2MuUgzIRl4aR/Q5fic9OEjnZvSGL1vLd5L2Y7S5AxWpBf8mnaTalpcYmWtuWnjxQpamdzxuUUFKpdN10h6gSoLMgFqq9rbh8kEh3UqRqHiWb7jM9+KN2lWULhD5qJ0eNq1tO4WQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extensionName__",
+   "optional_permissions": [ "\u003Call_urls>", "*://*/*", "tabs" ],
+   "options_page": "options/index.html",
+   "permissions": [ "activeTab", "contextMenus", "storage" ],
+   "short_name": "STTB",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "12.2.0",
+   "web_accessible_resources": [ "shared/elements/scroll-to-top-button.css", "shared/buttons/buttons.css", "shared/buttons/*.svg", "content-scripts.css", "*.json" ]
+}

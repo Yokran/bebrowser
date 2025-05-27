@@ -1,0 +1,2231 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "استخدم مُترجِم ‎DeepL‏، المُترجِم الأدقّ في العالم، لترجمة ما تقرأه وتكتبه."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "‎DeepL‏: أداة الترجمة والكتابة بالذكاء الاصطناعي"
+   },
+   "autologin_notification_content": {
+      "message": "Translate and improve text right in your browser with all the benefits of your plan."
+   },
+   "autologin_notification_title": {
+      "message": "You're logged in to the DeepL extension"
+   },
+   "config_tab_click_icon": {
+      "message": "انقر على \u003Cstrong>أيقونة ‎DeepL‏\u003C/strong>"
+   },
+   "config_tab_customize_link": {
+      "message": "تخصيص المُختصَر"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "لتفعيل مُترجم DeepL، يُرجى الاتصال بالمسؤول."
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "لتفعيل DeepL Write، يُرجى الاتصال بالمسؤول."
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "ترجمة النص المختار"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "شعار DeepL"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "تمّ"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "رصد اللغة"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "عذراً، لكن تعذّرت ترجمة نصك. يُرجى المحاولة لاحقاً."
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "تعذّر علينا إجراء تحسينات على نصك. يُرجى المحاولة لاحقاً."
+   },
+   "error_message_internet_connection": {
+      "message": "عذراً، وقعت مشكلة عند محاولة الاتصال بالإنترنت. يُرجى المحاولة مرة أخرى."
+   },
+   "error_message_please_login": {
+      "message": "يُرجى تسجيل الدخول مجدداً لترجمة هذا النص. "
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "لقد بلغت حدود الاستخدام."
+   },
+   "error_message_session_expired": {
+      "message": "عذراً، انقضت مدة صلاحية جلستك. يُرجى تسجيل الدخول من جديد."
+   },
+   "error_message_technical_issue": {
+      "message": "تعذّر علينا ترجمة نصّك نظراً لمشكلة تقنية معروفة. نحن بصدد العمل على إصلاح هذه المشكلة قريباً."
+   },
+   "error_message_text_not_recognized_error": {
+      "description": "Error if the screen capture and text detection feature is used, but no text is detected in the captured portion of the screen",
+      "message": "The captured screen doesn't contain any text to translate. Please try again."
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "عذراً، لكن تعذّرت ترجمة نصك. يبدو أن شبكتك ترسل حالياً عدداً كبيراً جداً من الطلبات إلى خوادمنا."
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "تعديل اللغة"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "ترجمة النصوص"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "With the DeepL for Chrome extension, you can enjoy DeepL’s unbeatable translation quality without ever leaving your browser.\n\nYou’ll be able to effortlessly and instantly translate as you’re reading or writing within Chrome. If you’re a DeepL Pro user, that includes entire web pages. \nIf you’re a free user, we’re working on releasing this feature for you too. Until then, you can simply select any text and the DeepL icon will appear. To translate your selection, click on the icon. If you want to translate even faster, set up your own shortcuts in the settings, for both reading or writing with DeepL on Chrome.\n\nNow you no longer have to worry about missing out on any information throughout the web due to a language barrier. \n\nDownload DeepL for Chrome for free to start translating today.\n\nTranslate while reading\nYou won’t have to skip emails, articles, or websites anymore. You can view the content you’re browsing in Chrome in your chosen language, in its original context. \n\nTranslate your writing\nWhether you’re writing a social media post, chat message, or email, you can translate your own words immediately after you type them. This means you no longer have to copy, paste, retype, or leave Chrome to communicate in another language.\n\nFull-page translations\nIf you’re a DeepL Pro user, you can translate entire web pages into your desired language with just one click. To make things even easier, you can choose to have all websites in specific languages automatically translated for a seamless browsing experience. We’re working on releasing this feature for free users too. \n\nDeepL Pro login \nDeepL Pro users can log in to their accounts through the extension.\n\nShortcuts\nUse simple shortcuts to make translation quicker and easier. You can set your own shortcuts in the settings.\n\nUnparalleled accuracy\nYou can rest assured that you’re getting the best possible translations on the website or application you’re using. DeepL translations consistently outperform the competition and are proven to be three times more accurate than translations from major tech companies.\n\nLoved by millions of users\nMillions of people around the world use DeepL every day to improve their communication.\n\nChoose between 27 languages\nFor a list of the languages available in the extension, check out this article in our Help Center: https://support.deepl.com/hc/en-us/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "استخدم مُترجِم DeepL، المُترجِم الأدقّ في العالم، لترجمة ما تقرأه وتكتبه."
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "مُترجِم DeepL: اقرأ واكتب في أيّ لغة تشاء"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "ساعدنا على تحسين ملحق ‎DeepL‏ لمتصفّح ‎Firefox‏ من خلال \u003CfeedbackLink>مشاركة تعقيباتك معنا\u003C/feedbackLink>"
+   },
+   "firefox_browser_permissions_popup_body": {
+      "message": "Allow your Firefox browser to give DeepL access to the websites you visit."
+   },
+   "firefox_browser_permissions_popup_button": {
+      "message": "Manage permissions"
+   },
+   "firefox_browser_permissions_popup_title": {
+      "message": "Firefox needs your permission"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "السماح والمتابعة"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>إذا كنت تريد استخدام ملحق DeepL لمتصفح Firefox، نحتاج إلى إذن منك \u003Cstrong>للوصول إلى النصوص التي تودّ ترجمتها أو تحسينها ولمعالجتها أثناء التصفح\u003C/strong>. لا يمكن لملحق DeepL معالجة محتوى صفحات إلكترونية كاملة إلا إذا شغّلتَ ميزة ترجمة الصفحة بكاملها.\u003C/p>\n\u003Cp>عندما تسجل الدخول إلى ملحق DeepL لمتصفح Firefox باستخدام حسابك، نعالج بياناتك الشخصية اللازمة لتوفير الميزات التي يمكنك الاستفادة منها في إطار خطتك.\u003C/p>\n\u003Cp>ونجمع أيضاً بيانات تقنية وبيانات متعلقة بالجهاز وبالاستخدام من أجل ضمان تشغيل ملحق DeepL لمتصفح Firefox بشكل صحيح ضمن المتصفح ورصد أيّ سلوك الاحتيالي ومنعه.\u003C/p> \n\u003Cp>يمكنك الاطّلاع على مزيد من المعلومات عن سياساتنا في الرابطين التاليين:\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "عدم السماح وإزالة التثبيت"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "سياسة الخصوصية"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>شروط الخدمة\u003C/termsLink> للمستخدمين الذين ليس لديهم حساب DeepL (Pro)\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "DeepL تحتاج إلى إذن منك"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "كيف تُدار المختصرات"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "رصد اللغة جارٍ..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "ترجمة الصفحات تلقائياً إلى هذه اللغة"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "مُترجَم تلقائياً من:"
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "يتعذّر علينا ترجمة هذه الصفحة لأنها تتجاوز الحدّ الأقصى من عدد الأحرف."
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "عذراً، لكن خدمة ترجمة الصفحات بكاملها غير متوفّرة حالياً. نحن بصدد العمل على إصلاحها في أقرب مهلة."
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "يبدو أنك تستخدم ملحق ترجمة ‎Google‏ أيضاً. يُرجى تعطيله كي يؤدي ملحقنا وظيفته على النحو المرجوّ."
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "ترجمة اللغة التالية بصورة دائمة:"
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "لا، شكراً"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "عدم ترجمة اللغة التالية:"
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "عدم ترجمة هذا الموقع الإلكتروني"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "أتودّ ترجمة هذا الموقع؟"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "ترجمة النص"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "تعديل"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "لقد اخترت عدم الترجمة من:"
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "تعديل"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "لقد اخترت عدم ترجمة:"
+   },
+   "full_page_translation_no_website_data": {
+      "message": "تعذّر علينا استخراج أيّ بيانات من هذا الموقع الإلكتروني. يُرجى إعادة إطلاق الصفحة إذا أمكن."
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "الترجمة جارية"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "إلغاء"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "حفظ"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "تمّ"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "الإعدادات"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "الترجمة تلقائياً من"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "عدم الترجمة من اللغات التالية"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "عدم ترجمة المواقع التالية"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "ترجمة الصفحات"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "الترجمة إلى"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "ترجمة كتاباتك"
+   },
+   "full_page_translation_show_original": {
+      "message": "عرض النص الأصلي"
+   },
+   "full_page_translation_target_label": {
+      "message": "الزوج اللغوي:"
+   },
+   "full_page_translation_translate_button": {
+      "message": "ترجمة الصفحة"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "لم نتمكن من تحميل مسارد المصطلحات الخاصة بك."
+   },
+   "glossary_failed_try_again": {
+      "message": "حاول مجدداً"
+   },
+   "glossary_label": {
+      "message": "مسرد المصطلحات"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "إنشاء مسرد المصطلحات الأول"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "حدد مسرد مصطلحات لتطبيق قواعد الترجمة الخاصة به تلقائيًا على النصوص التي تقرأها وتكتبها."
+   },
+   "glossary_settings_log_in_link": {
+      "message": "هل قمت بالتسجيل بالفعل في DeepL Pro؟ \u003CloginLink>تسجيل الدخول\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "هل تريد وضع قواعد لترجمة كلماتك وعباراتك الرئيسية؟ جرب مسرد المصطلحات \u003Cstrong>مجانًا لمدة 30 يومًا\u003C/strong> مع خطة تجريبية DeepL Pro."
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "ليس لديك مسرد مصطلحات حتى الآن. قم بإنشاء أول قاعدة لتحديد قواعد ترجمة الكلمات والعبارات الرئيسية الخاصة بك."
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "عرض المزيد"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "جرّبه مجاناً"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "لا يمكن لك ترجمة ما يزيد على \u003Cstrong>1500 حرف\u003C/strong> دُفعةً واحدة.\nأنشئ \u003Cstrong>حساب DeepL\u003C/strong> لترجمة المزيد."
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "تسجيل الدخول"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "إنشاء حساب مجاني"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "لا يمكن تخطّي الحدّ أقصى لعدد الأحرف"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "لا يمكن لك ترجمة ما يزيد على \u003Cstrong>5000 حرف\u003C/strong> دُفعةً واحدة.\n\u003Cstrong>جرب DeepL Pro، مجاناً لمدة 30 يوماً،\u003C/strong> لترجمة عدد غير محدود من النصوص."
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "جرّب Pro مجاناً"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "جرِّب DeepL Pro لاستخدام غير محدود"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "اشترك في DeepL Pro لترجمة نصوص يزيد عدد أحرفها الإجمالي على 5000 حرف."
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "لاحقاً"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "لقد بلغت حدود الاستخدام"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "قبول"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "ترجمة النص أو تنقيحه"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "تنقيح النص"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "تنقيح النص"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "تصحيح الأخطاء وإتقان الكتابة،\nباللغتين الإنكليزية والألمانية فقط."
+   },
+   "gmail_compose_translate_button": {
+      "message": "ترجمة النص"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "من:"
+   },
+   "gmail_compose_translate_icon": {
+      "message": "ترجمة النص"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "إلى:"
+   },
+   "gmail_compose_undo_icon": {
+      "message": "تراجع"
+   },
+   "gmail_forwarding_link": {
+      "message": "نزِّل ملحق ‎DeepL‏ لبريد ‎Gmail‏ مجاناً"
+   },
+   "gmail_forwarding_title": {
+      "message": "تُرجِم هذا البريد الإلكتروني بواسطة ملحق ‎DeepL‏ لبريد ‎Gmail‏."
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "(مرصودة)"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "ترجِم رسائل بريدك الإلكتروني بنقرة واحدة"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "اكتب رسائل بريدك الإلكتروني بلغات أخرى"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "نقِّح أسلوبك واكتب رسائل بريد إلكتروني بسرعة أكبر"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "اشترك في DeepL Pro لترجمة نصوص يزيد عدد أحرفها الإجمالي على 5000 حرف."
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "لقد بلغت حدود الاستخدام"
+   },
+   "gmail_onboarding_title": {
+      "message": "أهلاً بك في ملحق ‎DeepL‏ لبريد ‎Gmail‏!"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "نشِّط ‎DeepL‏ لأنظمة"
+   },
+   "gmail_reading_forward_button": {
+      "message": "تحويل البريد الإلكتروني المُترجَم"
+   },
+   "gmail_reading_translate_button": {
+      "message": "ترجِم البريد الإلكتروني"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "عرض النص الأصلي"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "اختر قدراً أقل من النص، أو اشترك في خدمة ‎DeepL Pro‏ لترجمة قدر غير محدود من النصوص."
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "اختر نصاً أصغر حجماً، أو اشترك في خدمة DeepL Pro لتحسين صياغة قدر غير محدود من النصوص."
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "لا يمكن لمستخدمي الإصدار المجاني تحسين صياغة ما يزيد على 2000 حرف دُفعةً واحدة"
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "لا يمكن لمستخدمي المُترجِم المجاني ترجمة ما يزيد على 5000 حرف دُفعةً واحدة."
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "استخدِم DeepL \u003Cb>مباشرةً في Microsoft 365\u003C/b>"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "معلومات أساسية "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "ترجمة النص المختار بفضل ‎DeepL‏"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "ما عليك إلّا اختيار نصّك والنقر على أيقونة ‎DeepL‏ لترجمته!"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "عرض أيقونة ‎DeepL‏ للقراءة"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "ترجمة النص المختار إلى"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "مزيدٌ من الإعدادات"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "موافق"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "إيقاف تشغيل الأيقونة"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "إيقاف تشغيل أيقونة ‎DeepL‏ للقراءة"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "عدم إيقاف التشغيل"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": " بصورة دائمة، على المواقع كلها"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "على هذا الموقع فقط"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "للقراءة"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "نقر بزرّ الماوس الأيمن للترجمة إلى"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "عرض المزيد"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "إيقاف التشغيل"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "انقر على الأيقونات لفتح نافذة الوضع المتقدّم. يمكنك إجراء تعديلات مدروسة ومقارنة التراجم."
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "ترجمة النصوص وتنقيحها في الصفحة باستخدام DeepL"
+   },
+   "input_selection_alternatives_label": {
+      "message": "الاقتراحات البديلة"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "عرض المزيد"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "صيغة النص المُترجَم"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "اطّلع على الاقتراحات البديلة"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "ترجمة النص"
+   },
+   "input_selection_tab_button_write": {
+      "message": "Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "ترجمة النص"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "ترجمة آنيّة وكتابة أفضل"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "متاحتان هنا. انقر على الأيقونة وأنجز ما تشاء!"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "عرض أيقونة ‎DeepL‏ للكتابة"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "مزيدٌ من الإعدادات"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "اختيار اللغة الهدف كل مرة"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "الترجمة دائماً إلى هذه اللغة"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "موافق"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "إيقاف تشغيل الأيقونة"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "إيقاف تشغيل أيقونة ‎DeepL‏ للكتابة"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "عدم إيقاف التشغيل"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": " بصورة دائمة، على المواقع كلها"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "على هذا الموقع فقط"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "للكتابة"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "ترجمة ما تكتبه إلى"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "تغيير اللغة الهدف"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "إيقاف التشغيل"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "لتمكين DeepL Write، اتصل بالمسؤول"
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "تحسين النص. متوفر باللغتين الألمانية والإنجليزية."
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "تحسين النص"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "اختيار اللغة الهدف"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "الإعدادات"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "ترجمة النص"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "ترجمة النص..."
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "الترجمة إلى..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "إيقاف التشغيل"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "الترجمة إلى:"
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "الترجمة إلى:"
+   },
+   "layout_header_settings_icon": {
+      "message": "توجّه إلى الإعدادات"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "مترجِم DeepL"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "DeepL Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "تسجيل الدخول"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "التسجيل مجاناً"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "أنشئ حساباً \u003Cstrong>مجانياً\u003C/strong> لترجمة ما يزيد على 1500 حرف دفعةً واحدة في DeepL!"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "سجِّل لزيادة الحدّ الأقصى من عدد الأحرف"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "لترجمة ما يزيد على 5000 حرف دفعةً واحدة في \u003Cstrong>مترجِم DeepL\u003C/strong>، جرّب الخطة المدفوعة مجاناً لمدة 30 يوماً!"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "ترجم نصوصك من دون التقيّد بعدد أحرف محدود"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "اشترك بخطة مدفوعة لترجمة ما يزيد على 5000 حرف دفعةً واحدة في مترجِم DeepL."
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "التجربة مجاناً"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "ترقية الخطة"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "الترقية إلى Write Pro"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "يمكنك تنقيح ما لا يزيد على 2000 حرف دفعةً واحدة. نقِّح نصك بالكامل باستخدام \u003Cstrong>DeepL Write Pro\u003C/strong>."
+   },
+   "limit_popup_write_title": {
+      "message": "حسّن نصوصك من دون التقيّد بعدد أحرف محدود"
+   },
+   "link_get_pro_license": {
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "link_try_deepl": {
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "ترجمة النصوص في DeepL"
+   },
+   "login_error_default_message": {
+      "message": "فشل تسجيل الدخول."
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "تسجيل الدخول إلى خدمة ‎DeepL Pro‏"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "جرّب Write Pro مجاناً"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "ترجمة الصفحات"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "‎PRO‏"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "تسجيل الدخول"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>يمكن للمشتركين في خدمة ‎Pro‏\u003C/strong> ترجمة صفحات بكاملها بنقرة واحدة."
+   },
+   "login_widget_try_pro_label": {
+      "message": "أما زلت لم تشترك في خدمة ‎Pro‏؟ \u003CtryOutLink>جرّبها مجاناً\u003C/tryOutLink>"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "ترقية إلى خدمة ‎Pro‏"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>ترجمة الصفحة بكاملها\u003C/strong>بنقرة واحدة فقط\u003C/li>\n\u003Cli>ترجمة\u003Cstrong>مقدار غير محدود من النصوص\u003C/strong>\u003C/li>\n\u003Cli>\u003Cstrong>أقصى درجة من أمن البيانات\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "استفِد من ميزات \u003Cstrong>DeepL Pro\u003C/strong> القيّمة، مجاناً لمدة 30 يوماً!"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "طرق استخدام سهلة"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "تغيير إعدادات الأيقونة"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "عرض أيقونة DeepL العائمة"
+   },
+   "main_popup_info_box_translator": {
+      "message": "بياناتك محمية بأقصى درجة من أمن البيانات بفضل اشتراكك بخطة \u003Cstrong>DeepL Pro\u003C/strong>."
+   },
+   "main_popup_info_box_write": {
+      "message": "بياناتك محمية بأقصى درجة من أمن البيانات بفضل اشتراكك بخطة \u003Cstrong>Write Pro\u003C/strong>."
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "بدء التجربة المجانية"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "ترجمة صفحات بكاملها"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "ترجمة النص المختار إلى"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "ترجمة كتاباتك إلى"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "استفِد من \u003Cstrong>عدد غير محدود من التنقيحات\u003C/strong> ومن \u003Cstrong>أقصى درجة من أمن البيانات\u003C/strong> بفضل DeepL .Write Pro"
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "الترقية إلى Write Pro"
+   },
+   "main_popup_write_target_language": {
+      "message": "تحسين الكتابة باللغة"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "تسجيل الدخول إلى خدمة ‎DeepL Pro‏"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "تسجيل الخروج"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "القائمة"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "الإعدادات"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "الإعدادات"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "مشاركة التعقيبات"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "ترجِم واكتب باستخدام DeepL في Microsoft 365"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "مزيد من المعلومات"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "تساعدك الوظائف الإضافية في Outlook وWord وPowerPoint على ترجمة كتاباتك وتنقيحها مباشرةً داخل التطبيق بسرعة وفعالية."
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "أنشئ حسابك \u003Cstrong>مجاناً\u003C/strong> لترجمة ما يزيد على ‎$limit$‎‏ حرف دفعةً واحدة في ‎DeepL‏!",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "سجِّل لزيادة الحدّ الأقصى من عدد الأحرف"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "تسجيل الدخول"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "سجِّل مجاناً"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "اشترك بخطة من خطط Pro لترجمة ما يزيد على $limit$ حرف دفعةً واحدة في DeepL. \u003Cstrong>جرِّبها مجاناً لمدة 30 يوماً!\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "اشترك في ‎DeepL Pro‏ لزيادة الحدّ الأقصى من عدد الأحرف"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "جرّب خدمة ‎Pro‏ مجاناً"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "نجح تعطيل أيقونة ‎DeepL‏ للقراءة. يمكن لك تعديل اختيارك في ‎$linkToSettings$‎‏",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "نجح تعطيل أيقونة ‎DeepL‏ للقراءة على موقع ‎$currentWebsite$‎‏. يمكن لك تعديل اختيارك في ‎$linkToSettings$‎‏",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "الإعدادات"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "لقد اخترت عدم عرض أيقونة الكتابة. بإمكانك تعديل اختيارك على موقع ‎$currentWebsite$‎‏",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "لقد اخترت عدم عرض أيقونة الكتابة على ‎$currentWebsite$‎‏. بإمكانك تعديل اختيارك على موقع ‎$currentWebsite$‎‏",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "الإعدادات"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "اختر مُختصَرك الخاص لترجمة النصوص في ‎$settings$‎‏.",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "الإعدادات"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "أنشِئ الحساب بنجاح!"
+   },
+   "onboarding_back_button": {
+      "message": "عودة"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "أتُفضّل عدم استخدام ملحق ‎DeepL‏ على صفحات معيّنة؟ الحلّ بسيط! عطِّله لأوضاع محددة من خلال الإعدادات."
+   },
+   "onboarding_disable_pages_title": {
+      "message": "تعطيل صفحات محددة"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "ترجِم صفحات ويب بكاملها في أيّ لغة تشاء بنقرة واحدة. "
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "جرّبه مجاناً"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "استفد أيضاً من ميزات إضافية في المُترجِم الإلكتروني والتطبيقات:"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "ترجمة ملفات بكاملها"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "مسرد مصطلحات (لعدد محدود من اللغات)"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "صيغة المتكلّف/غير المتكلّف"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "مجاناً لمدة 30 يوماً. ألغِ اشتراكك متى شئت."
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "وغيرها المزيد"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "ترجمة صفحات بكاملها"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "ترجمة أيّ نص تختاره بالنقر على أيقونة ‎DeepL‏ أو بتنشيط المُختصَر."
+   },
+   "onboarding_inline_translation_title": {
+      "message": "ترجمة النص المختار"
+   },
+   "onboarding_input_translation_description": {
+      "message": "ترجمة أيّ نص تكتبه ضمن آلاف الأنظمة بمجرّد النقر على أيقونة ‎DeepL‏ أو تنشيط المُختصَر."
+   },
+   "onboarding_input_translation_title": {
+      "message": "ترجمة كتاباتك بنقرة واحدة"
+   },
+   "onboarding_last_step_description": {
+      "message": "انضمّ إلى آلاف الأشخاص الذين يستفيدون من جودة ترجمات ‎DeepL‏ بينما يتصفّحون الإنترنت."
+   },
+   "onboarding_last_step_title": {
+      "message": "جرّبه اليوم!"
+   },
+   "onboarding_next_button": {
+      "message": "التالي"
+   },
+   "onboarding_pin_extension": {
+      "message": "تثبيت ملحق ‎DeepL‏ هنا للوصول الفوري إليه"
+   },
+   "onboarding_promotion_body": {
+      "message": "صُمِّم ملحق DeepL للمتصفح بطريقة تتيح استخدامه في أدوات الإنتاجية الأكثر شيوعاً في العالم. "
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>اختَر أداتك المفضلة\u003C/strong> لكي تتمكّن من تضمين DeepL بكل سلاسة في سير عملك."
+   },
+   "onboarding_promotion_header": {
+      "message": "ترجم نصوصك وحسّن كتابتك بفضل أداتك المفضلة"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "جرّبه في Gmail"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "جرّبه في Google Docs"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "جرّبه في Google Slides"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "استكشاف جميع التكامُلات"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "لقد سجّلتَ الدخول إلى حسابك الجديد في DeepL."
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "ترجم نصوصك وتواصل بطلاقة من دون مغادرة علامة التبويب."
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "احصل على الوظيفة الإضافية"
+   },
+   "onboarding_signup_body": {
+      "message": "أنشئ حساب DeepL لتحقيق أقصى استفادة من ملحق DeepL، مجاناً!"
+   },
+   "onboarding_signup_cta": {
+      "message": "إنشاء حساب مجاني"
+   },
+   "onboarding_signup_header": {
+      "message": "إنشاء حساب"
+   },
+   "onboarding_signup_login_option": {
+      "message": "هل لديك حساب؟ \u003CloginLink>تسجيل الدخول\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "تخطّي"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "نجح تسجيل الدخول!"
+   },
+   "onboarding_title_free": {
+      "message": "مجاني"
+   },
+   "onboarding_title_pro": {
+      "message": "متاح للمشتركين في خدمة ‎PRO‏"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "انقر على أيقونة DeepL أو شغّل المختصر لترجمة النص الذي تودّ قراءته أو إنشاءه. يمكن تفعيله في آلاف المنصات المختلفة."
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "ترجم النصوص التي تقرأها أو تكتبها"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "صحّح النص أو أعِد صياغته باستخدام أيقونة DeepL ليصبح أسلوبك متلائماً مع الجمهور الذي تتوجّه إليه والأهداف التي تصبو إليها."
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "هذه الميزة متوفرة باللغات الإنكليزية والألمانية والفرنسية والإسبانية وغيرها."
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "اكتب بثقة"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "إدارة الأذون"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "من الضروري منح ‎DeepL‏ إذناً بالوصول إلى المواقع الإلكترونية وترجمتها في متصفّحك."
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "السماح لملحق ‎DeepL‏ بالعمل في ‎Firefox‏"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "وفقاً لتعليمات مؤسستك، أنت ملزم بتسجيل الدخول إلى DeepL Pro للحصول على درجة أعلى من الأمان."
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "سجّل دخولك إلى حسابك"
+   },
+   "position_options_bottom": {
+      "message": "الأسفل"
+   },
+   "position_options_left": {
+      "message": "اليسار"
+   },
+   "position_options_right": {
+      "message": "اليمين"
+   },
+   "position_options_top": {
+      "message": "الأعلى"
+   },
+   "reading_config_tab_description": {
+      "message": "ترجمة النص المختار إلى"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "عرض أيقونة ‎DeepL‏ للقراءة"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "\u003Cstrong>انقر بزرّ الماوس الأيمن\u003C/strong>"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "استخدم \u003Cstrong>المُختصَر\u003C/strong>"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "القراءة"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "إعداداتك"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "الكتابة"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "استبدال في حقل النص"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "يمكن إيقاف عرض هذه النافذة من خلال الإعدادات"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "يمكنك إيقاف/تفعيل هذه النافذة في أي وقت في إعدادات الملحق."
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "ألا تحتاج دائمًا إلى الوضع المتقدّم؟"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "تنقيح النص باستخدام DeepL"
+   },
+   "right_click_menu_capture_and_translate": {
+      "description": "right-click DeepL context menu, allows users to select a portion of their screen and trigger a translation for any text within the selection",
+      "message": "Translate via screen capture"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "ترجمة النصوص في DeepL"
+   },
+   "segmentation_survey_button": {
+      "message": "شارك في الاستبيان"
+   },
+   "segmentation_survey_copy": {
+      "message": "ساعدنا على مواصلة تحسين DeepL من خلال الردّ على بعض الأسئلة."
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "اختيار اللغة"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "الإنكليزية (المملكة المتحدة‏)‏"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "الإنكليزية (الولايات المتحدة‏)‏"
+   },
+   "selected_languages_PT_BR": {
+      "message": "البرتغالية (البرازيلية‏)‏"
+   },
+   "selected_languages_PT_PT": {
+      "message": "البرتغالية"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "إظهار نافذة الوضع المتقدّم للترجمة/التنقيح في الصفحة"
+   },
+   "settings_aknowledgements": {
+      "message": "إقرارات"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "قريباً"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "صياغة نصوص واضحة ودقيقة وترجمتها بسهولة."
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "جرّبه في ‎Google Docs‏"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "ترجمة الرسائل الإلكترونية بسهولة وتحسين كتاباتك في ثوانٍ."
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "جرّبه في ‎Gmail‏"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "تصميم شرائح عرض متقنة بلغات أخرى لكي تقدّم عملك بكل ثقة."
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "جرّبه في ‎Google Slides‏"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "اترك الانطباع الأمثل لدى أرباب العمل والموظفين."
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "جرّبه في LinkedIn"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "ترجمة أيّ تغريدات تكتبها أو تقرأها بسرعة وسهولة."
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "جرّبه في منصّة X"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X (Twitter سابقاً)"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "ترجمة رسائلك والتواصل على الفور في مختلف اللغات."
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "جرِّبه في ‎WhatsApp‏"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "يمكنك ترجمة تعليقات المستخدمين الآخرين للبقاء على تواصل معهم."
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "تجربة الميزة في YouTube"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "عرض أيقونة DeepL العائمة"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "ترجمة اللغات التالية تلقائياً بصورة دائمة"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "ترجمة الصفحات بكاملها تلقائياً إلى"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "عدم عرض نافذة ترجمة الصفحات بكاملها المنبثقة"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "عدم عرض نافذة ترجمة الصفحات بكاملها المنبثقة للّغات التالية"
+   },
+   "settings_fpt_lang_select": {
+      "message": "ترجمة المواقع الإلكترونية إلى"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "عدم الترجمة التلقائية من اللغات التالية"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "عدم ترجمة المواقع التالية تلقائياً"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "لا زلت لم تُضِف أيّ مواقع."
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "يمكن لك استخدام أيقونة القراءة والكتابة لإضافة المواقع التي لا تودّ ترجمتها."
+   },
+   "settings_fpt_popup_heading": {
+      "message": "عرض نافذة ترجمة الصفحة بكاملها المنبثقة"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "تظهر النافذة المنبثقة حين يكون مم الممكن ترجمة الصفحة بكاملها"
+   },
+   "settings_fpt_reset": {
+      "message": "إعادة ضبط إعدادات نافذة ترجمة الصفحة بكاملها المنبثقة"
+   },
+   "settings_fpt_reset_button": {
+      "message": "إعادة ضبط الكل"
+   },
+   "settings_language_selector_empty": {
+      "message": "اللغة"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "إضافة لغة أخرى"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "ترجمة صفحات بكاملها"
+   },
+   "settings_menu_reading": {
+      "message": "القراءة"
+   },
+   "settings_menu_writing": {
+      "message": "الكتابة"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "التكاملات"
+   },
+   "settings_navigation_general_settings": {
+      "message": "الإعدادات العامة"
+   },
+   "settings_reading_adjust_position": {
+      "message": "تعديل النافذة إلى"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "الوضعية الافتراضية"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "ترجمة النص المختار بصورة دائمة إلى"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "عدم عرض أيقونة ‎DeepL‏ للقراءة على هذه المواقع"
+   },
+   "settings_reading_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "لا زلت لم تُضِف أيّ مواقع. يمكن لك استخدام أيقونة القراءة والكتابة لإضافة المواقع التي لا تودّ ترجمتها."
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "تظهر الأيقونة عندما تختار النص"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "عرض أيقونة ‎DeepL‏ للقراءة بصورة دائمة"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "انقر هنا لتغيير مُختصَرك"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "استخدام المُختصَر التالي لترجمة ما تقرأه"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "المُختصَرات"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "انقر هنا لإعداد مُختصَراتك"
+   },
+   "settings_title": {
+      "message": "الإعدادات"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "ترجمة ما تكتبه بصورة دائمة إلى"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "عدم عرض أيقونة ‎DeepL‏ للكتابة على هذه المواقع"
+   },
+   "settings_writing_disable_icon_per_site_tooltip": {
+      "description": "Tooltip displayed when there are no sites added to the list yet.",
+      "message": "لا زلت لم تُضِف أيّ مواقع. يمكن لك استخدام أيقونة القراءة والكتابة لإضافة المواقع التي لا تودّ ترجمتها."
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "تظهر الأيقونة عندما تكتب"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "عرض أيقونة DeepL للكتابة بصورة دائمة"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "إعداد مُختصَر آخر"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "انقر هنا لتغيير مُختصَرك"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "استخدام المُختصَر التالي لترجمة ما تقرأه"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "استخدام المُختصَر التالي لتبديل اللغة الهدف"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "استخدام المُختصَر التالي لترجمة كتاباتك"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "عرض أيقونة ‎DeepL‏ للكتابة بصورة دائمة"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "تظهر الأيقونة عندما تكتب"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "اطبع نصّك هنا لترجمته."
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "ستظهر الترجمة أدناه."
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "شارك في الاستطلاع"
+   },
+   "sidepanel_survey_content": {
+      "message": "يستغرق إكمال هذا الاستطلاع دقيقتين فقط."
+   },
+   "sidepanel_survey_header": {
+      "message": "شارك تعقيباتك حول تحديثاتنا"
+   },
+   "supported_languages_AR": {
+      "message": "العربية"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "البلغارية"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "التشيكية"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "الدنماركية"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "الألمانية"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "اليونانية"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "الإنكليزية"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "الإنكليزية (البريطانية‏)‏"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "الإنكليزية (الأميركية‏)‏"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "الإسبانية"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "الإستونية"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "الفنلندية"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "الفرنسية"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "الهنغارية"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "الإندونيسية"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "الإيطالية"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "اليابانية"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "الكورية"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "اللتوانية"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "اللاتفية"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "النرويجية (بوكمال‏)‏"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "الهولندية"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "البولندية"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "البرتغالية"
+   },
+   "supported_languages_PT_BR": {
+      "message": "البرتغالية (البرازيلية‏)‏"
+   },
+   "supported_languages_PT_PT": {
+      "message": "البرتغالية"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "الرومانية"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "الروسية"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "السلوفاكية"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "السلوفينية"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "السويدية"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "التركية"
+   },
+   "supported_languages_UK": {
+      "message": "الأوكرانية"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "الصينية (المبسّطة‏)‏"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "الصينية (التقليدية)"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "يُرجى الاختيار"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "شارك في الاستبيان"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "نودّ سماع رأيك"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "يستغرق إكمال هذا الاستبيان دقيقتين فقط"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "نعم"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "لا"
+   },
+   "test_split_translation": {
+      "message": "\u003CloginLink>سجّل دخولك\u003C/loginLink> إلى خدمة ‎DeepL Pro‏ \u003CtryLink>أو جرّبها مجاناً\u003C/tryLink> لترجمة صفحات بكاملها"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "إيقاف التشغيل"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "تشغيل"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "ترقية فئة الاشتراك"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "يقتصر الإصدار المجاني لمترجِم DeepL على حدد محدود من الأحرف"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "ترجماتك مشفّرة بالكامل"
+   },
+   "tooltip_write_free_limited": {
+      "message": "يقتصر الإصدار المجاني لـ DeepL Write على عدد محدود من الأحرف"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "نصوصك مشفّرة بالكامل"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "هذه اللغة غير متاحة في DeepL Translate بعد."
+   },
+   "twitter_web_alternatives_link": {
+      "message": "فتح في ‎DeepL.com‏"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "ترجمة نصوصك في ‎DeepL‏"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "الجملة بكاملها"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "الكلمة"
+   },
+   "ui_alternatives_title": {
+      "message": "الاقتراحات البديلة"
+   },
+   "ui_auto_translate_label": {
+      "message": "الترجمة تلقائياً"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "ستُترجَم أيّ صفحة في اللغة ‎$sourceLang$‎‏ تزورها",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "ترجمة مستندات بكاملها على \u003CdeeplLink>‎DeepL.com‏\u003C/deeplLink>"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "تلقائي"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "متكلّف"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "غير متكلّف"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "عودة"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "عدم عرض ذلك عليّ"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "موافق"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "عدم عرض نافذة ترجمة الصفحات بكاملها المنبثقة:"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "على هذا الموقع فقط"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "بصورة دائمة، على المواقع كلها"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "فقط لهذه اللغة"
+   },
+   "ui_fpt_translate_button": {
+      "message": "ترجمة الصفحة"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "ترجمة صفحات بكاملها"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "تحسين النص المختار"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "اختر النص وانقر على الأيقونة."
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "ترجِم عملك\u003Cbr> بدقة في ‎Google Docs‏"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "\u003Cstrong>طالع المعنى\u003C/strong> ضمن السياق"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>استبدل النص\u003C/strong> بترجمته، \u003C/strong>وحافظ على تنسيقه بالكامل\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "\u003Cstrong>تعلَّم بسرعة وسهولة\u003C/strong> بفضل ميزتَي اللفظ والقاموس"
+   },
+   "ui_gdocs_replace": {
+      "message": "استبدال"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "استبدال في المستند"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "استبدال النص المختار بهذه الترجمة"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "تشغيل/إيقاف تشغيل DeepL لـ Google Slides"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "ترجمة نصوصك في ‎DeepL‏"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "ترجمة النص المختار"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "إيقاف تشغيل ‎DeepL‏"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "استفِد من DeepL لـ Google Slides"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>ترجمة النص المختار\u003C/strong> بنقرة واحدة فقط"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>تحسين الكتابة\u003C/strong> للحصول على مستندات واضحة وخالية من الأخطاء"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "استخدام \u003Cstrong>الاقتراحات البديلة\u003C/strong> للاطلاع على صياغات مختلفة"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "استبدال في المستند"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "تجاهل"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "انتهينا من تحسين كتاباتك:"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "نحن بصدد العمل على تحسين كتاباتك..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "قبول التعديلات"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "خصص دقيقتين لإطلاعنا على ما يمكننا فعله تحسين لخدمتك بشكل أفضل. "
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "بدء الاستبيان"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "ما رأيك في DeepL؟"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "لا يمكن لك ترجمة ما يزيد على 1500 حرف دُفعةً واحدة. أنشئ حساب DeepL لترجمة المزيد."
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "تسجيل الدخول"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "إنشاء حساب مجاني"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "لا يمكن تخطّي الحدّ أقصى لعدد الأحرف"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "لا يمكن لك ترجمة ما يزيد على 5000 حرف دُفعةً واحدة. جرب DeepL Pro، مجاناً لمدة 30 يوماً، لترجمة عدد غير محدود من النصوص. "
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "جرّب Pro مجاناً"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "جرِّب DeepL Pro لاستخدام غير محدود"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "إصدار بيتا"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "أهلاً بك في ملحق DeepL لـ Google Slides"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "ترجمة نص محدد أو شرائح كاملة على الفور"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "تحقق من كتابتك وحسّنها للحصول على شرائح خالية من أي شوائب"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "عودة إلى النسخة الأصلية"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "تشغيل/إيقاف تشغيل DeepL لـ Google Slides"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "ترجمة"
+   },
+   "ui_gslides_translate_from": {
+      "message": "من:"
+   },
+   "ui_gslides_translate_into": {
+      "message": "إلى:"
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "سيحول هذا دون فقدان أي صورة أو فيديو أو مقطع صوتي أضيف مؤخراً إلى شريحتك."
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "أولاً، اختَر النص الذي تودّ ترجمته أو تنقيحه."
+   },
+   "ui_gslides_write_cta": {
+      "message": "تنقيح النص"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "تصحيح الأخطاء وإتقان الكتابة، باللغتين الإنكليزية والألمانية فقط. "
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "سرِّع ترجماتك وحسِّن صياغة كتاباتك في ثوانٍ \u003Cspan>في كلٍّ من ‎Gmail‏ و‎Google Docs‏.\u003C/span>"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "عرض التكاملات"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "عدم عرض هذه النصيحة مجدداً"
+   },
+   "ui_hub_tip_badge": {
+      "message": "نصيحة"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "ترجمة النص المختار"
+   },
+   "ui_inline_translation_copied": {
+      "message": "نجح نسخ الترجمة"
+   },
+   "ui_inline_translation_copy": {
+      "message": "نسخ إلى الحافظة"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "القاموس"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "استماع"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "إيقاف الاستماع"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "استمع إلى النسخة الجديدة"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "استماع إلى النص الأصلي"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "استماع إلى الترجمة"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "تعذّر العثور على أيّ إدخالات لعبارة \"\u003Cstrong>‎$originalSnippet$‎‏\u003C/strong>\".",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "تعذّر تحميل إدخال القاموس. حاول مرة أخرى."
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "عرض الاقتراحات البديلة على ‎DeepL.com‏"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "فتح في ‎DeepL.com‏"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "جرِّب مزيداً من الميزات"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "(مرصودة)"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "لغة غير متاحة"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "ترجِم كلماتٍ منفصلةً لعرض إدخالات القاموس."
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "القاموس غير متوفّر لزوج اللغات الذي اخترته."
+   },
+   "ui_input_translate_widget_text": {
+      "message": "ترجمة كتاباتك بنقرة واحدة"
+   },
+   "ui_login_body": {
+      "message": "\u003CloginLink>سجّل دخولك\u003C/loginLink> إلى خدمة ‎DeepL Pro‏ \u003CtryLink>أو جرّبها مجاناً\u003C/tryLink> لترجمة صفحات بكاملها"
+   },
+   "ui_login_header": {
+      "message": "أتودّ ترجمة هذه الصفحة؟ \u003Cbadge>‎PRO‏\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "عدم الترجمة من ‎$sourceLang$‎‏",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "عدم ترجمة الموقع التالي"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "يمكن لك تعديل اختيارك في \u003CsettingsLink>الإعدادات\u003C/settingsLink>"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "لقد اخترت عدم الترجمة من \u003Cstrong>‎$sourceLang$‎‏\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "لقد اخترت عدم ترجمة موقع \u003Cstrong>‎$website$‎‏\u003C/strong>",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": "لقد اخترت عدم ترجمة موقع \u003Cstrong>‎$website$‎‏\u003C/strong> وعدم الترجمة من \u003Cstrong>‎$sourceLang$‎‏\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "لقد اخترت عدم عرض نافذة ترجمة الصفحات بكاملها المنبثقة. يمكن لك تعديل اختيارك في الإعدادات"
+   },
+   "ui_read_more": {
+      "message": "المزيد"
+   },
+   "ui_share_button": {
+      "message": "نسخ"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "نجح النسخ"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "نسخ الرابط"
+   },
+   "ui_share_error": {
+      "message": "وقع خطأ في أثناء نسخ النص"
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "شارك تعقيباتك"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "نجح النسخ! جاهز للمشاركة!"
+   },
+   "ui_share_title": {
+      "message": "شارك ‎DeepL‏ مع أصدقائك"
+   },
+   "ui_target_language_select": {
+      "message": "إلى أيّ لغة تودّ ترجمة نصّك؟"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "نشكرك على مشاركتنا رأيك"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "هلّا ساعدتنا على تحسين خدمتنا من خلال المشاركة في استفتاء لا يستغرق إلّا دقيقة واحدة؟ "
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "بدء الاستبيان"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "خصص دقيقتين لإطلاعنا على ما يمكننا فعله تحسين لخدمتك بشكل أفضل."
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "ما رأيك في DeepL؟"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "دون المستوى"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "رائع"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "نودّ سماع تعقيباتك على ملحق ‎DeepL‏ لمتصفّح ‎Chrome‏."
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "نودّ معرفة رأيك بملحق DeepL لمتصفّح Edge."
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "نودّ سماع تعقيباتك على ملحق ‎DeepL‏ لمتصفّح ‎Firefox‏."
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "كيف تصف تجربتك حتى الآن؟"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "كيف تصف تجربتك حتى الآن؟"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "كيف تصف تجربتك حتى الآن؟"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "شارك مراجعتك"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "شكراً لك. يُسرّنا سماع ذلك!"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "أتودّ مشاركتنا تعقيباتك في سوق ‎Chrome‏ الإلكتروني؟"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "هل تودّ مشاركة تعقيباتك في سوق ملحقات Edge الإلكتروني؟"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "أتودّ مراجعة ملحقنا؟"
+   },
+   "ui_translated_automatically": {
+      "message": "مُترجَم من \u003Cstrong>‎$sourceLang$‎‏\u003C/strong>",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "جرّبه مجاناً"
+   },
+   "ui_widget_feature_free": {
+      "message": "مجاناً"
+   },
+   "ui_widget_feature_pro": {
+      "message": "متاح للمشتركين في خدمة ‎PRO‏"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "ترجمة سلسلة الرسائل الإلكترونية"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "وقف الترجمة"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "لا تتوافق لغة هذه الرسالة مع لغة مُستلِمها. أتريد إرسالها؟"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "ترجمة النص"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "(مرصودة)"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "ترجمة هذه التذكرة"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "‎DeepL‏، ترجِم نصّي إلى:"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "لا تزال لغتك غير متوفّرة في ‎DeepL‏"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "سنُعلِمك فور توفُّرها."
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "موافق"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "إيقاف تشغيل ‎DeepL‏"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "تشغيل ‎DeepL‏"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "أهلاً بك في ملحق ‎DeepL‏ لنظام ‎Zendesk‏"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "ما لغتك الأولى؟"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "هذا الملحق \u003Cstrong>مجاني لمدة محدودة\u003C/strong>. جرّبه و\u003CloginLink>شاركنا تعقيباتك\u003C/loginLink>"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "إدارة تذاكرك\u003Cbr> في لغاتٍ عدّة"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>ترجِم رسائل فردية أو سلاسل رسائل بكاملها\u003C/strong> بسرعة وسهولة"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "\u003Cstrong>ردّ على الرسائل\u003C/strong> في لغة عملائك"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "\u003Cstrong>اكتب بطلاقة ومهنية\u003C/strong> في كل مرة"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "لغة المُرسِل"
+   },
+   "user_profiling_survey_popup_main_text": {
+      "description": "Main text instruction in the annual user profiling survey popup",
+      "message": "Help shape DeepL's product strategy by taking our survey."
+   },
+   "user_profiling_survey_popup_remind_later_button": {
+      "description": "Secondary button in the annual user profiling survey popup",
+      "message": "Remind me later"
+   },
+   "user_profiling_survey_popup_survey_button": {
+      "description": "Main CTA button in the annual user profiling survey popup",
+      "message": "Take survey"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "لقد بلغت حدود الاستخدام. يُرجى التواصل مع \u003CdeeplSupportLink>فريق المساعدة في ‎DeepL‏\u003C/deeplSupportLink> لرفع سقف الحدّ الأقصى."
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "عذراً، لا تتيح خطتك إمكانية الاستفادة من هذه الميزة."
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "لقد بلغت حدود الاستخدام المجاني. أترغب في مواصلة الترجمة؟"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "ترجمة دردشتك إلى"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "الإعدادات"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "ترجمة الدردشة"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "ترجمة رسالتك إلى"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "عرض الاقتراحات البديلة على ‎DeepL.com‏"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "الإعدادات"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "ترجمة النص"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "هذه اللغة غير مُعتمَدة في DeepL Write بعد."
+   },
+   "write_not_supported_language_message": {
+      "message": "يبدو أنّ هذه اللغة لا تزال غير مُعتمَدة في DeepL Write"
+   },
+   "write_see_language_supported": {
+      "message": "عرض جميع اللغات المُعتمَدة"
+   },
+   "write_style_options_button_label": {
+      "message": "الأسلوب"
+   },
+   "write_style_options_cta_apply": {
+      "message": "تأكيد الاختيار"
+   },
+   "write_style_options_cta_reset": {
+      "message": "إعادة الضبط"
+   },
+   "write_style_options_description_style": {
+      "message": "سنخصص نصك حسب جمهورك وأهدافك"
+   },
+   "write_style_options_description_tone": {
+      "message": "سنطبّق الصيغة التي اخترتها على نصّك"
+   },
+   "write_style_options_headline_style": {
+      "message": "اختر أسلوبك الكتابي"
+   },
+   "write_style_options_headline_tone": {
+      "message": "اختر الصيغة الأنسب لك"
+   },
+   "writing_config_tab_description": {
+      "message": "ترجمة كتاباتك إلى"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "اختيار اللغة"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "عرض أيقونة ‎DeepL‏ للكتابة"
+   },
+   "writing_style_academic": {
+      "message": "الأكاديمي"
+   },
+   "writing_style_business": {
+      "message": "التجاري"
+   },
+   "writing_style_casual": {
+      "message": "غير الرسمي"
+   },
+   "writing_style_simple": {
+      "message": "البسيط"
+   },
+   "writing_tone_confident": {
+      "message": "الواثقة"
+   },
+   "writing_tone_diplomatic": {
+      "message": "الدبلوماسية"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "الحماسية"
+   },
+   "writing_tone_friendly": {
+      "message": "الودية"
+   },
+   "youtube_alternatives_link": {
+      "message": "فتح في ‎DeepL.com‏"
+   },
+   "youtube_translate_comment_link": {
+      "message": "ترجمة النص في DeepL"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "حذف"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "مسرد المصطلحات"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "لترجمة عدد غير محدود من النصوص، جرّب DeepL Pro Advanced مجاناً لمدة 30 يوماً."
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "تستخدم الآن الإصدار المجاني من DeepL"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "لترجمة عدد عير محدود من النصوص، اشترِك في DeepL Pro Advanced أو Ultimate."
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "خطتك لا تشمل عدداً غير محدود من الترجمات في Zendesk"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "لمواصلة الترجمة، \u003Cstrong>اشترك في DeepL Pro Advanced\u003C/strong> مجاناً لمدة 30 يوماً."
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "تستخدم الآن الإصدار المجاني من DeepL "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "لقد بلغت الحدّ الأقصى المسموح لك بترجمته."
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "لمواصلة الترجمة، \u003Cstrong>اشترِك في DeepL Pro Advanced أو Ultimate.\u003C/strong>\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "خطتك لا تشمل عدداً غير محدود من الترجمات في Zendesk"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "لم نعثر على أي مسرد مصطلحات متعلق بحسابك."
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "خدمة مسرد المصطلحات متوفرة لمستخدمي DeepL Pro فقط."
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "ترجمة محتوى المهام التي ترِدك أثناء التنقل\u003Cstrong> - الحدّ الأقصى للترجمات المجانية: $translationLimit$\u003C/strong>",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "\u003Cstrong>اكتب بطلاقة واحترافية\u003C/strong> كل مرة"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "\u003Cstrong>ردّ على الرسائل\u003C/strong> بلغة عملائك"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "ترجِم عملك في لمح البصر بينما تقرأ تذاكرك أو تكتبها."
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "أصبح ‎DeepL‏ جاهزاً"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "لقد استبدلنا المكوّن الإضافي بملحق متكامل تماماً."
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "نزّله مجاناً"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "تجربة ترجمة فضلى"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "لترجمة عدد غير محدود من النصوص، جرّب DeepL Pro Advanced مجاناً لمدة 30 يوماً."
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "عدد الترجمات المتبقية لديك: $remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "تشغيل/إيقاف تشغيل ملحق DeepL لنظام Zendesk"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>عدد الترجمات المتبقية:\u003C/strong>$remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "جرّب Pro Advanced مجاناً"
+   },
+   "zendesk_try_pro_link": {
+      "message": "جرّب خدمة ‎DeepL Pro‏ مجاناً"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "هل لديك حساب \u003Cstrong>Pro Advanced أو Ultimate؟\u003C/strong> \u003CloginLink>تسجيل الدخول إلى حسابك\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "ندعوك إلى ترقية فئة اشتراكك"
+   }
+}

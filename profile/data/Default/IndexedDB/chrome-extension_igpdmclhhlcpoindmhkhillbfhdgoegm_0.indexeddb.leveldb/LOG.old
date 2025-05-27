@@ -1,0 +1,14 @@
+2025/05/04-12:36:54.054 1d60 Reusing MANIFEST C:\Users\yokra\Desktop\FORMACION_CEUTA\BROWSER_LAB\00.MADRE\profile\data\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/04-12:36:54.065 1d60 Recovering log #133
+2025/05/04-12:36:54.065 1d60 Reusing old log C:\Users\yokra\Desktop\FORMACION_CEUTA\BROWSER_LAB\00.MADRE\profile\data\Default\IndexedDB\chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000133.log 
+2025/05/04-12:36:54.066 1d60 Delete type=2 #131
+2025/05/04-12:36:54.079 d3c Level-0 table #138: started
+2025/05/04-12:36:54.085 d3c Level-0 table #138: 5130 bytes OK
+2025/05/04-12:36:54.088 d3c Delete type=0 #133
+2025/05/04-12:36:54.089 1d60 Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x00\x00\x05' @ 2306 : 1
+2025/05/04-12:36:54.090 1d60 Compacting 1@0 + 1@1 files
+2025/05/04-12:36:54.093 1d60 Generated table #139@0: 212 keys, 6977 bytes
+2025/05/04-12:36:54.093 1d60 Compacted 1@0 + 1@1 files => 6977 bytes
+2025/05/04-12:36:54.094 1d60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/04-12:36:54.095 1d60 Delete type=2 #138
+2025/05/04-12:36:54.095 1d60 Manual compaction at level-0 from '\x00)\x00\x00\x05' @ 2306 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)

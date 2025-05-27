@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "ปรับการตั้งค่าของคุณเพื่อเพิ่มประสบการณ์ของคุณ"
+   },
+   "affected_page": {
+      "message": "หน้าที่ได้รับผลกระทบ"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly อาจถูกบล็อกโดยส่วนขยายอื่นที่คุณติดตั้งไว้ เช่น ตัวบล็อกโฆษณา กรุณาปิดการใช้งานส่วนขยายอื่นของคุณชั่วคราวและลองสร้าง PDF ใหม่อีกครั้ง"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "capture_screenshot_manually": {
+      "message": "ใช้คุณสมบัติการจับภาพหน้าจอของเราเพื่อจับหน้านี้แล้วส่งออกเป็นภาพหรือ PDF"
+   },
+   "capturing": {
+      "message": "กำลังจับภาพ"
+   },
+   "capturing_desc": {
+      "message": "กำลังจับภาพหน้าจอของคุณ…"
+   },
+   "choose_paper_size": {
+      "message": "เลือกขนาดกระดาษที่คุณต้องการสำหรับ PDF"
+   },
+   "compress_pdf": {
+      "message": "บีบอัด PDF"
+   },
+   "contact_us": {
+      "message": "ติดต่อเรา:"
+   },
+   "convert_pdf": {
+      "message": "แปลง PDF"
+   },
+   "current_view_screenshot": {
+      "message": "ภาพหน้าจอ"
+   },
+   "default_button": {
+      "message": "ปุ่มเริ่มต้น"
+   },
+   "default_mode": {
+      "message": "โหมดเริ่มต้น"
+   },
+   "default_mode_checkbox": {
+      "message": "อย่าแสดงตัวเลือกเหล่านี้อีก คุณสามารถเปิดใช้งานตัวเลือกเหล่านี้ใหม่ได้ในการตั้งค่า."
+   },
+   "default_mode_desc": {
+      "message": "เลือกการกระทำที่จะถูกเลือกโดยอัตโนมัติเมื่อคุณคลิกปุ่ม."
+   },
+   "delete": {
+      "message": "คลิกเพื่อลบ"
+   },
+   "dialog_close": {
+      "message": "ปิด"
+   },
+   "dialog_text": {
+      "message": "กำลังดำเนินการส่งไปยังเครื่องพิมพ์"
+   },
+   "dialog_text_btn": {
+      "message": "ส่งอีกครั้ง"
+   },
+   "dialog_title": {
+      "message": "สั่งพิมพ์หน้านี้"
+   },
+   "dont_show_again": {
+      "message": "อย่าแสดงสิ่งนี้อีก"
+   },
+   "edit_pdf": {
+      "message": "แก้ไข PDF"
+   },
+   "email": {
+      "message": "อีเมล์"
+   },
+   "email_article_sent": {
+      "message": "ส่งบทความ"
+   },
+   "email_from": {
+      "message": "จาก"
+   },
+   "email_message": {
+      "message": "ข่าวสาร"
+   },
+   "email_product_sent_message": {
+      "message": "ข้อความอีเมลของคุณได้ถูกส่ง คุณอาจปิดหน้า"
+   },
+   "email_send": {
+      "message": "ส่ง"
+   },
+   "email_sent_message": {
+      "message": "ข้อความอีเมลของคุณได้ถูกส่ง"
+   },
+   "email_title": {
+      "message": "ส่งหน้านี้"
+   },
+   "email_to": {
+      "message": "ไปยัง"
+   },
+   "full_page_screenshot": {
+      "message": "ภาพหน้าจอเต็มหน้า"
+   },
+   "get_pro": {
+      "message": "อัพเกรด"
+   },
+   "got_it": {
+      "message": "เข้าใจแล้ว"
+   },
+   "image": {
+      "message": "ภาพ"
+   },
+   "image_size_pref": {
+      "message": "การตั้งค่าขนาดภาพ"
+   },
+   "image_size_pref_desc": {
+      "message": "ตั้งค่าขนาดภาพเมื่อดูหน้าเว็บด้วยส่วนขยาย"
+   },
+   "images": {
+      "message": "ภาพ"
+   },
+   "lang_display_name": {
+      "message": "ไทย (Thai)"
+   },
+   "language_setting": {
+      "message": "ภาษา"
+   },
+   "language_setting_desc": {
+      "message": "เลือกภาษาที่คุณต้องการ"
+   },
+   "letter_paper_size": {
+      "message": "จดหมาย"
+   },
+   "login": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "margin": {
+      "message": "ขอบ"
+   },
+   "no": {
+      "message": "ไม่"
+   },
+   "off": {
+      "message": "ปิด"
+   },
+   "other_tools": {
+      "message": "เครื่องมืออื่นๆ"
+   },
+   "page_blocking_printfriendly": {
+      "message": "หน้านี้กำลังบล็อก PrintFriendly"
+   },
+   "page_size": {
+      "message": "ขนาดหน้า"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "ดาวน์โหลดไฟล์ PDF ของคุณ"
+   },
+   "pdf_generation_error": {
+      "message": "ข้อผิดพลาดในการสร้าง PDF"
+   },
+   "pdf_head": {
+      "message": "สร้างไฟล์ PDF"
+   },
+   "pdf_paper_size": {
+      "message": "ขนาดกระดาษ PDF"
+   },
+   "print": {
+      "message": "พิมพ์"
+   },
+   "print_pdf": {
+      "message": "พิมพ์และ PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "ลบโฆษณาและการนำทางจากหน้าเว็บ ใช้งานได้ดีกับบทความและหน้าเน้นข้อความ."
+   },
+   "printer_friendly_page": {
+      "message": "หน้าที่เหมาะสำหรับการพิมพ์"
+   },
+   "printer_friendly_suggestion": {
+      "message": "เวอร์ชันที่เหมาะสำหรับการพิมพ์ไม่เป็นไปตามที่คุณคาดหวังใช่ไหม? ลองถ่ายภาพหน้าจอดู"
+   },
+   "printfriendly_page": {
+      "message": "หน้าพิมพ์เป็นมิตร PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "คุณสมบัตินี้ต้องมีการอัพเกรด"
+   },
+   "reach_out_for_support": {
+      "message": "สำหรับรายละเอียดเพิ่มเติมหรือการสนับสนุน โปรดติดต่อเราที่"
+   },
+   "read_more": {
+      "message": "อ่านเพิ่มเติม"
+   },
+   "remove_ads_description": {
+      "message": "వెబ్ పేజీల నుండి ప్రకటనలు మరియు నావిగేషన్‌ను తొలగించండి. వ్యాసాలు మరియు పాఠ్య-కేంద్రీకృత పేజీలతో బాగా పనిచేస్తుంది."
+   },
+   "remove_images": {
+      "message": "ลบภาพ"
+   },
+   "report": {
+      "message": "รายงาน"
+   },
+   "resolve_issue": {
+      "message": "และเราจะช่วยคุณแก้ปัญหา"
+   },
+   "save_as_image": {
+      "message": "บันทึกเป็นรูปภาพ"
+   },
+   "save_as_pdf": {
+      "message": "บันทึกเป็น PDF"
+   },
+   "save_changes": {
+      "message": "บันทึก"
+   },
+   "screenshot": {
+      "message": "ภาพหน้าจอ"
+   },
+   "screenshot_image_format": {
+      "message": "รูปแบบภาพของภาพหน้าจอ"
+   },
+   "screenshot_ready_soon": {
+      "message": "ภาพหน้าจอของคุณจะพร้อมในอีกสักครู่"
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly ทำงานบนเว็บไซต์ส่วนใหญ่ ทำให้การสร้างหน้าเว็บและภาพหน้าจอที่สะอาดและเหมาะสำหรับเครื่องพิมพ์เป็นเรื่องง่าย อย่างไรก็ตาม หน้าบางหน้า—เช่น การตั้งค่าเบราว์เซอร์ ร้านค้าเสริม และพื้นที่จำกัดอื่นๆ—ไม่สามารถเข้าถึงได้เนื่องจากนโยบายของเบราว์เซอร์ โปรดติดต่อเราหากคุณมีคำถามใดๆ"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "settings_saved": {
+      "message": "การตั้งค่าของคุณได้รับการบันทึกแล้ว"
+   },
+   "show_screenshot_message": {
+      "message": "แสดงข้อความภาพหน้าจอในมุมมองที่เหมาะกับเครื่องพิมพ์"
+   },
+   "something_went_wrong": {
+      "message": "มีบางอย่างผิดพลาด"
+   },
+   "still_does_not_work": {
+      "message": "หากยังใช้งานไม่ได้ โปรดติดต่อเราที่"
+   },
+   "stop_capturing": {
+      "message": "หยุดการจับภาพ"
+   },
+   "strict_security_settings": {
+      "message": "ขออภัย หน้านี้มีการตั้งค่าความปลอดภัยที่เข้มงวด (นโยบายความปลอดภัยของเนื้อหา) ซึ่งทำให้เราไม่สามารถสร้างเวอร์ชัน PrintFriendly ของหน้านี้ได้"
+   },
+   "style": {
+      "message": "สไตล์"
+   },
+   "take_screenshot": {
+      "message": "ถ่ายภาพหน้าจอ:"
+   },
+   "text_size_pref": {
+      "message": "การตั้งค่าขนาดข้อความ"
+   },
+   "text_size_pref_desc": {
+      "message": "ตั้งค่าขนาดข้อความเมื่อดูหน้าเว็บด้วยส่วนขยาย"
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly อาจหมดเวลาขณะสร้าง PDF ซึ่งอาจมีขนาดใหญ่เกินไปสำหรับระบบของเราในการจัดการ"
+   },
+   "txt_size": {
+      "message": "ขนาดตัวอักษร"
+   },
+   "unable_to_generate_pdf": {
+      "message": "เราไม่สามารถสร้าง PDF สำหรับหน้านี้ได้"
+   },
+   "undo": {
+      "message": "เรียกคืน"
+   },
+   "what_you_can_do": {
+      "message": "สิ่งที่คุณสามารถทำได้"
+   },
+   "yes": {
+      "message": "ใช่"
+   }
+}

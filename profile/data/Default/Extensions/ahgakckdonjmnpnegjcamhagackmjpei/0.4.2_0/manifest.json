@@ -1,0 +1,46 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+      },
+      "edit-page": {
+         "description": "Toggle Edit Mode"
+      },
+      "reader-view": {
+         "description": "Open in Reader View (declutter)"
+      },
+      "simplify": {
+         "description": "Keep Selection Only"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://webextension.org/listing/save-as-mhtml.html",
+   "icons": {
+      "128": "/data/icons/128.png",
+      "16": "/data/icons/16.png",
+      "256": "/data/icons/256.png",
+      "32": "/data/icons/32.png",
+      "48": "/data/icons/48.png",
+      "512": "/data/icons/512.png",
+      "64": "/data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxlNz8C+euLWtMJStcrpVCJq2Ge1gxki7JwTRNesS4qq3tBqRomZSXQCIAyQsDD3wYQORJ36AhjDanVWbJpuIYdc4M7cYBqbmpKsf2oJWC6V3ha7z7IjSXqu0KJ5/dfyqQEMhzTMGgprqwwH922mS6FgI9YkekIHkmWCuVfpmRdkGfs+gJXuwJy6RWMYO/t15JH7MCtzi49WlKv/mAqwVSLcJ0a1xQqRfRK3StZKjYKjaIj05YiXq+IX6Rccib2KANllKAJOSfd67j6AAcpBByLaQ1wYGtXmg3P57ahaR+GMiK+79ymSQDP92KCMrwzYWvZR1PkF0cICV4VKgFzxkUQIDAQAB",
+   "manifest_version": 3,
+   "name": "Save as MHTML",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "/data/options/index.html"
+   },
+   "permissions": [ "storage", "pageCapture", "activeTab", "downloads", "contextMenus", "notifications", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.4.2",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "/data/toolbar/index.html" ]
+   } ]
+}

@@ -1,0 +1,43 @@
+{
+   "action": {
+      "default_icon": "src/assets/logo/favicon-128.png",
+      "default_popup": "src/pages/popup/index.html"
+   },
+   "author": {
+      "email": "fbesuit@gmail.com",
+      "name": "William Chen"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "externally_connectable": {
+      "matches": [ "https://www.facebook.com/*", "https://web.facebook.com/*", "https://www.instagram.com/*", "https://*.esuit.dev/*" ]
+   },
+   "host_permissions": [ "https://www.facebook.com/*", "https://web.facebook.com/*", "https://www.instagram.com/*", "https://*.esuit.dev/*" ],
+   "icons": {
+      "128": "src/assets/logo/favicon-128.png",
+      "16": "src/assets/logo/favicon-16.png",
+      "19": "src/assets/logo/favicon-19.png",
+      "32": "src/assets/logo/favicon-32.png",
+      "38": "src/assets/logo/favicon-38.png",
+      "48": "src/assets/logo/favicon-48.png"
+   },
+   "incognito": "not_allowed",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkjRvLpyhpr4X272kAtJyrSGSsR57E5GWUiWVJ/03epOOiBLesYrjjxZPq6A7TATUslHc/btjGXtFiVzvmRmNWlKgBor7TSFSSEDdygRgSm+snVKyMwjbX5ouJb7AO3THGuC4Ccd0XMFrN5B7SyhesP+1t1QF/06u3Vo1Dx4QaikRF8iXw8G171BxKOJ6k1QyF5CbNR6l3LBnDZqgvSrN6ioa7szeMrioQOzvB1hBKCr7u850uSefO2/FDFAI2uBeM5DHN5ofOb3NjCPM2oBAvoarpX9UT2H/qRp+eloHsr+XYh5PprW4cAqldwGqZ+mVlHW5NQas7McPvFcka8P6AQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "103",
+   "name": "__MSG_name__",
+   "options_page": "src/pages/options/index.html",
+   "permissions": [ "scripting", "storage", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.5",
+   "version_name": "1.9.5",
+   "web_accessible_resources": [ {
+      "matches": [ "https://*.esuit.dev/*", "https://web.facebook.com/*", "https://www.facebook.com/*", "https://www.instagram.com/*" ],
+      "resources": [ "*" ],
+      "use_dynamic_url": false
+   } ]
+}

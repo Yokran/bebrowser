@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "നിങ്ങളുടെ അനുഭവം മെച്ചപ്പെടുത്താൻ നിങ്ങളുടെ ക്രമീകരണങ്ങൾ ക്രമീകരിക്കുക."
+   },
+   "affected_page": {
+      "message": "ബാധിച്ച പേജ്"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly PDF സൃഷ്ടിക്കുന്നതിനുള്ള നീക്കം ഒരു അഡ്ബ്ലോക്കർ പോലെയുള്ള മറ്റേതെങ്കിലും എക്സ്റ്റൻഷൻ മൂലം തടയപ്പെട്ടിരിക്കാം. ദയവായി താത്കാലികമായി നിങ്ങളുടെ മറ്റ് എക്സ്റ്റൻഷനുകൾ അപ്രാപ്തമാക്കുക, PDF വീണ്ടും സൃഷ്ടിക്കാൻ ശ്രമിക്കുക."
+   },
+   "cancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "capture_screenshot_manually": {
+      "message": "ഞങ്ങളുടെ സ്ക്രീൻഷോട്ട് ഫീച്ചർ ഉപയോഗിച്ച് ഈ പേജ് പിടിച്ച് അത് ഒരു ചിത്രം അല്ലെങ്കിൽ PDF ആയി എക്സ്പോർട്ട് ചെയ്യുക."
+   },
+   "capturing": {
+      "message": "പകർത്തുന്നു"
+   },
+   "capturing_desc": {
+      "message": "സ്ക്രീൻഷോട്ട് പിടിക്കുന്നു…"
+   },
+   "choose_paper_size": {
+      "message": "PDF-കൾക്കായി നിങ്ങൾക്ക് ഇഷ്ടമുള്ള പേപ്പർ വലുപ്പം തിരഞ്ഞെടുക്കുക."
+   },
+   "compress_pdf": {
+      "message": "PDF കംപ്രസ്സ് ചെയ്യുക"
+   },
+   "contact_us": {
+      "message": "ഞങ്ങളെ ബന്ധപ്പെടുക:"
+   },
+   "convert_pdf": {
+      "message": "PDF പരിവർത്തനം ചെയ്യുക"
+   },
+   "current_view_screenshot": {
+      "message": "നിലവിലെ സ്ക്രീൻഷോട്ട്"
+   },
+   "default_button": {
+      "message": "സ്ഥിര ബട്ടൺ"
+   },
+   "default_mode": {
+      "message": "ഡീഫോൾട്ട് മോഡ്"
+   },
+   "default_mode_checkbox": {
+      "message": "ഈ ഓപ്ഷനുകൾ വീണ്ടും കാണിക്കരുത്. ക്രമീകരണങ്ങളിൽ പ്രാപ്തമാക്കുക."
+   },
+   "default_mode_desc": {
+      "message": "എക്സ്റ്റെൻഷൻ ബട്ടൺ ക്ലിക്കിൽ സ്വയം തിരഞ്ഞെടുക്കുന്ന പ്രവർത്തനം തിരഞ്ഞെടുക്കുക."
+   },
+   "delete": {
+      "message": "ഇല്ലാതാക്കാൻ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "dialog_close": {
+      "message": "അടയ്ക്കുക"
+   },
+   "dialog_text": {
+      "message": "നിങ്ങളുടെ പ്രിന്ററിലേക്ക് അയയ്ക്കുന്നു."
+   },
+   "dialog_text_btn": {
+      "message": "വീണ്ടും അയയ്ക്കുക"
+   },
+   "dialog_title": {
+      "message": "നിങ്ങളുടെ പേജ് പ്രിന്റ് ചെയ്യുന്നു"
+   },
+   "dont_show_again": {
+      "message": "ഇത് വീണ്ടും കാണിക്കരുത്."
+   },
+   "edit_pdf": {
+      "message": "PDF എഡിറ്റ് ചെയ്യുക"
+   },
+   "email": {
+      "message": "ഇമെയിൽ"
+   },
+   "email_article_sent": {
+      "message": "നിങ്ങൾക്ക് ഒരു ലേഖനം അയച്ചു"
+   },
+   "email_from": {
+      "message": "അയച്ചയാൾ"
+   },
+   "email_message": {
+      "message": "സന്ദേശം"
+   },
+   "email_product_sent_message": {
+      "message": "നിങ്ങളുടെ ഇമെയിൽ സന്ദേശം അയച്ചു. നിങ്ങൾക്ക് പേജ് അടയ്ക്കാം."
+   },
+   "email_send": {
+      "message": "അയയ്ക്കുക"
+   },
+   "email_sent_message": {
+      "message": "നിങ്ങളുടെ ഇമെയിൽ സന്ദേശം അയച്ചു"
+   },
+   "email_title": {
+      "message": "ഈ പേജ് ഇമെയിൽ ചെയ്യുക"
+   },
+   "email_to": {
+      "message": "വിലാസം"
+   },
+   "full_page_screenshot": {
+      "message": "പേജ് സ്ക്രീൻഷോട്ട്"
+   },
+   "get_pro": {
+      "message": "പ്രോ പതിപ്പ് നേടുക"
+   },
+   "got_it": {
+      "message": "മനസ്സിലായി"
+   },
+   "image": {
+      "message": "ചിത്രം"
+   },
+   "image_size_pref": {
+      "message": "ചിത്ര വലുപ്പം മുൻഗണന"
+   },
+   "image_size_pref_desc": {
+      "message": "വിപുലീകരണത്തോടെ പേജുകൾ കാണുമ്പോൾ ചിത്ര വലുപ്പം സജ്ജമാക്കുക."
+   },
+   "images": {
+      "message": "ചിത്രങ്ങൾ"
+   },
+   "lang_display_name": {
+      "message": "മലയാളം (Malayalam)"
+   },
+   "language_setting": {
+      "message": "ഭാഷ"
+   },
+   "language_setting_desc": {
+      "message": "നിങ്ങളുടെ ഇഷ്ടഭാഷ തിരഞ്ഞെടുക്കുക."
+   },
+   "letter_paper_size": {
+      "message": "കത്ത്"
+   },
+   "login": {
+      "message": "ലോഗിൻ"
+   },
+   "margin": {
+      "message": "മാർജിൻ"
+   },
+   "no": {
+      "message": "ഇല്ല"
+   },
+   "off": {
+      "message": "ഓഫാണ്"
+   },
+   "other_tools": {
+      "message": "ഉപകരണങ്ങൾ"
+   },
+   "page_blocking_printfriendly": {
+      "message": "ഈ പേജ് PrintFriendly ബ്ലോക്ക് ചെയ്യുന്നു"
+   },
+   "page_size": {
+      "message": "പേജ് വലുപ്പം"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "നിങ്ങളുടെ PDF ഡൗൺലോഡ് ചെയ്യുക"
+   },
+   "pdf_generation_error": {
+      "message": "PDF ജനറേഷൻ പിശക്"
+   },
+   "pdf_head": {
+      "message": "നിങ്ങളുടെ PDF സൃഷ്ടിക്കുന്നു"
+   },
+   "pdf_paper_size": {
+      "message": "PDF പേപ്പർ വലുപ്പം"
+   },
+   "print": {
+      "message": "പ്രിന്റ്"
+   },
+   "print_pdf": {
+      "message": "പ്രിന്റ് & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "പരസ്യങ്ങളും നാവിഗേഷനും നീക്കം ചെയ്യുക. ലേഖനങ്ങൾക്കും ടെക്സ്റ്റിനും ഉത്തമം."
+   },
+   "printer_friendly_page": {
+      "message": "പ്രിന്റർ സൗഹൃദ പേജ്"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Drukai draudzīgā versija nav tāda"
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly പേജ്"
+   },
+   "pro_alert": {
+      "message": "പ്രോ സവിശേഷത"
+   },
+   "reach_out_for_support": {
+      "message": "കൂടുതൽ വിശദാംശങ്ങൾക്കോ പിന്തുണയ്ക്കോ, ദയവായി ഞങ്ങളെ ബന്ധപ്പെടുക"
+   },
+   "read_more": {
+      "message": "കൂടുതൽ വായിക്കുക"
+   },
+   "remove_ads_description": {
+      "message": "വെബ് പേജുകളിൽ നിന്ന് പരസ്യങ്ങളും നാവിഗേഷനും നീക്കംചെയ്യുക. ലേഖനങ്ങൾക്കും ടെക്സ്റ്റ് കേന്ദ്രീകരിച്ചുള്ള പേജുകൾക്കും നന്നായി പ്രവർത്തിക്കുന്നു."
+   },
+   "remove_images": {
+      "message": "ചിത്രങ്ങൾ നീക്കംചെയ്യുക"
+   },
+   "report": {
+      "message": "റിപ്പോർട്ട്"
+   },
+   "resolve_issue": {
+      "message": ", ഞങ്ങൾ നിങ്ങൾക്ക് പ്രശ്നം പരിഹരിക്കാൻ സഹായിക്കാം."
+   },
+   "save_as_image": {
+      "message": "ചിത്രമായി സേവ് ചെയ്യുക"
+   },
+   "save_as_pdf": {
+      "message": "PDF ആയി സേവ് ചെയ്യുക"
+   },
+   "save_changes": {
+      "message": "സംരക്ഷിക്കുക"
+   },
+   "screenshot": {
+      "message": "സ്ക്രീൻഷോട്ട്"
+   },
+   "screenshot_image_format": {
+      "message": "സ്ക്രീൻഷോട്ട് ഇമേജ് ഫോർമാറ്റ്"
+   },
+   "screenshot_ready_soon": {
+      "message": "നിങ്ങളുടെ സ്ക്രീൻഷോട്ട് ഉടൻ തയ്യാറാകും."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly മിക്ക വെബ്സൈറ്റുകളിലും പ്രവർത്തിക്കുന്നു, വൃത്തിയായ, പ്രിന്ററിന് അനുയോജ്യമായ പേജുകളും സ്‌ക്രീൻഷോട്ടുകളും ഉണ്ടാക്കാൻ എളുപ്പമാക്കുന്നു. എന്നിരുന്നാലും, ബ്രൗസർ നയങ്ങളാൽ നിർബന്ധിതമായ, ബ്രൗസർ ക്രമീകരണങ്ങൾ, വിപുലീകരണ സ്റ്റോറുകൾ, മറ്റ് നിയന്ത്രിത പ്രദേശങ്ങൾ പോലുള്ള ചില പേജുകൾ നിരോധിക്കപ്പെടുന്നു. നിങ്ങളുടെ ഏതെങ്കിലും ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ ഞങ്ങളെ ബന്ധപ്പെടുക."
+   },
+   "settings": {
+      "message": "ക്രമീകരണം"
+   },
+   "settings_saved": {
+      "message": "നിങ്ങളുടെ ക്രമീകരണങ്ങൾ സേവ് ചെയ്തിരിക്കുന്നു."
+   },
+   "show_screenshot_message": {
+      "message": "പ്രിന്റർ-സൗഹൃദ കാഴ്ചയിൽ സ്ക്രീൻഷോട്ട് സന്ദേശം കാണിക്കുക"
+   },
+   "something_went_wrong": {
+      "message": "ഒന്നും തെറ്റി"
+   },
+   "still_does_not_work": {
+      "message": "ഇത് പ്രവർത്തിക്കുന്നില്ലെങ്കിൽ, ദയവായി ഞങ്ങളെ ബന്ധപ്പെടുക"
+   },
+   "stop_capturing": {
+      "message": "പകർത്തൽ നിർത്തുക"
+   },
+   "strict_security_settings": {
+      "message": "ക്ഷമിക്കൂ, ഈ പേജ് കർശനമായ സുരക്ഷാ ക്രമീകരണങ്ങൾ (ഉൾക്കുറിപ്പിന്റെ സുരക്ഷാ നയം) ഉൾക്കൊള്ളുന്നതുകൊണ്ട് പേജിന്റെ PrintFriendly പതിപ്പ് സൃഷ്ടിക്കാൻ കഴിയില്ല."
+   },
+   "style": {
+      "message": "സ്റ്റൈൽ"
+   },
+   "take_screenshot": {
+      "message": "സ്ക്രീൻഷോട്ട് എടുക്കുക:"
+   },
+   "text_size_pref": {
+      "message": "ടെക്സ്റ്റ് വലുപ്പം മുൻഗണന"
+   },
+   "text_size_pref_desc": {
+      "message": "വിപുലീകരണത്തോടെ പേജുകൾ കാണുമ്പോൾ ടെക്സ്റ്റ് വലുപ്പം സജ്ജമാക്കുക."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly PDF സൃഷ്ടിക്കുന്നതിനിടെ സമയാവധി കഴിഞ്ഞേക്കാം. ഞങ്ങളുടെ സിസ്റ്റം കൈകാര്യം ചെയ്യാൻ ഇതിന് വലിയതായിരിക്കും."
+   },
+   "txt_size": {
+      "message": "വാചക വലുപ്പം"
+   },
+   "unable_to_generate_pdf": {
+      "message": "ഈ പേജിനായി PDF സൃഷ്ടിക്കാൻ ഞങ്ങൾ പരാജയപ്പെട്ടു."
+   },
+   "undo": {
+      "message": "മടക്കുക"
+   },
+   "what_you_can_do": {
+      "message": "നിങ്ങൾക്ക് എന്ത് ചെയ്യാൻ കഴിയും"
+   },
+   "yes": {
+      "message": "അതെ"
+   }
+}

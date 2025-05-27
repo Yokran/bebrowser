@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Về"
+   },
+   "action_api": {
+      "message": "API FireShot"
+   },
+   "action_capture_browser": {
+      "message": "Chụp trình duyệt cửa sổ và"
+   },
+   "action_capture_entire": {
+      "message": "Chụp toàn bộ trang và"
+   },
+   "action_capture_entire_lite": {
+      "message": "Chụp toàn bộ trang"
+   },
+   "action_capture_selection": {
+      "message": "Chụp phần tự chọn/ yếu tố chụp và"
+   },
+   "action_capture_selection_lite": {
+      "message": "Lựa chọn cách chụp"
+   },
+   "action_capture_tabs": {
+      "message": "Chụp tất cả chuyển hướng"
+   },
+   "action_capture_visible": {
+      "message": "Chụp phần nhìn thấy và"
+   },
+   "action_capture_visible_lite": {
+      "message": "Chụp một phần bạn lựa chọn"
+   },
+   "action_copy": {
+      "message": "Sao chép đến Clipboard"
+   },
+   "action_edit": {
+      "message": "Sửa"
+   },
+   "action_email": {
+      "message": "E-mail"
+   },
+   "action_enter_license": {
+      "message": "Nhập thông tin giấy phép"
+   },
+   "action_external": {
+      "message": "Mở trong trình chỉnh sửa bên ngoài"
+   },
+   "action_install_native": {
+      "message": "Hãy thử các tính năng nâng cao"
+   },
+   "action_license_info": {
+      "message": "Thông tin cấp phép"
+   },
+   "action_micsellaneous": {
+      "message": "Linh tinh"
+   },
+   "action_onenote": {
+      "message": "Gửi đến OneNote"
+   },
+   "action_open_clipboard": {
+      "message": "Mở với Clipboard"
+   },
+   "action_open_file": {
+      "message": "Mở tập tin"
+   },
+   "action_options": {
+      "message": "Tùy chọn"
+   },
+   "action_print": {
+      "message": "In"
+   },
+   "action_register": {
+      "message": "Ghi danh"
+   },
+   "action_resume": {
+      "message": "Tiếp tục chỉnh sửa"
+   },
+   "action_save": {
+      "message": "Lưu"
+   },
+   "action_save_pdf": {
+      "message": "Lưu dạng PDF"
+   },
+   "action_save_pdf_single": {
+      "message": "Lưu dưới dạng PDF"
+   },
+   "action_support": {
+      "message": "Hỗ trợ"
+   },
+   "action_switch_pro": {
+      "message": "Chuyển sang Pro"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Kích hoạt đăc tính pro đến"
+   },
+   "action_upload": {
+      "message": "Tải lên"
+   },
+   "action_view_demo": {
+      "message": "Bản xem thử"
+   },
+   "application_description": {
+      "message": "Chụp Full màn hình trang web. Chụp, chỉnh sửa và lưu dưới dạng PDF/JPEG/GIF,PNG, tải lên, in, gửi đến Onenote, clipboard hoặc email."
+   },
+   "application_title": {
+      "message": "Chụp ảnh màn trang Web hoàn toàn bằng FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Mua pro"
+   },
+   "captured_copy_clipboard": {
+      "message": "Sao chép với clipboard"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Tìm hiểu cách"
+   },
+   "captured_get_free_button": {
+      "message": "Dùng miễn phí"
+   },
+   "captured_print": {
+      "message": "In"
+   },
+   "captured_print_button": {
+      "message": "In"
+   },
+   "captured_recommend_us": {
+      "message": "Giới thiệu FireShot"
+   },
+   "captured_save_as_image": {
+      "message": "Lưu dạng hình ảnh"
+   },
+   "captured_save_as_image_button": {
+      "message": "Với hình ảnh"
+   },
+   "captured_save_as_pdf": {
+      "message": "Lưu với PDF"
+   },
+   "captured_save_panel_title": {
+      "message": "Lưu màn hình"
+   },
+   "captured_saving_options": {
+      "message": "điều chỉnh nó"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Chạy với mật mã và tệp chạy"
+   },
+   "captured_upgrade_link_1": {
+      "message": "Chụp, chú thích,in và lưu tốt hơn, sủa, tải lên, gửi qua email, onenote, hoặc xuất sang chương trình khác"
+   },
+   "captured_upgrade_link_2": {
+      "message": "Cập nhật FireShot Pro"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Tôi đã sử dụng phiên bản khác của FireShot"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Tôi có thể lấy lại không"
+   },
+   "enable_checkbox": {
+      "message": "Xác nhận"
+   },
+   "options_button_apply": {
+      "message": "Xác nhận"
+   },
+   "options_button_save_close": {
+      "message": "Lưu và thoát"
+   },
+   "options_button_setup": {
+      "message": "Nhấn vào tùy chọn"
+   },
+   "options_label_and": {
+      "message": "và"
+   },
+   "options_label_capturing": {
+      "message": "Chụp"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Thoát ra  lưu sau"
+   },
+   "options_label_customize_saving": {
+      "message": "Không có kết nối"
+   },
+   "options_label_default_filename_template": {
+      "message": "Mẫu tên tệp mặc định"
+   },
+   "options_label_default_folder": {
+      "message": "Tự do ra thư mục"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Đường dẫn tệp có liên quan đến thư mục Tải xuống để chứa tệp được lưu trữ, có thể chứa các thư mục con.\n Các đường dẫn trống, đường dẫn trống và đường dẫn chứa tham chiếu ngược «..» sẽ gây ra lỗi."
+   },
+   "options_label_editor_options": {
+      "message": "Sửa tùy chọn"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Tích hợp FireShot vào menu"
+   },
+   "options_label_file_settings": {
+      "message": "Tập tin tùy chọn"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot tùy chọn"
+   },
+   "options_label_hotkey": {
+      "message": "Mật mã"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Hành động được sử dụng làn cuối"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Không phải vấn đề lưu dưới dạng nhật ký"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Làm thế nào tôi có thể tải về thư mục và lưu lại"
+   },
+   "options_label_save_image_as": {
+      "message": "Lưu tệp mới"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Tùy chọn chỉnh sửa và lưu, tập tin, đặt tên tệp, định dạng tệp"
+   },
+   "options_label_specify_hotkey": {
+      "message": "Chỉ định tổ hợp phím chạy Fire Shot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Chỉ định thay đổi hình ảnh âm thanh"
+   },
+   "options_label_template_day": {
+      "message": "Ngày "
+   },
+   "options_label_template_hour": {
+      "message": "Giờ"
+   },
+   "options_label_template_limit_1": {
+      "message": "Giới hạ độ dài tên tệp đến"
+   },
+   "options_label_template_limit_2": {
+      "message": "nhân vật "
+   },
+   "options_label_template_minutes": {
+      "message": "Phút"
+   },
+   "options_label_template_month": {
+      "message": "Tháng"
+   },
+   "options_label_template_pad_1": {
+      "message": "Số máy tính"
+   },
+   "options_label_template_pad_2": {
+      "message": "không"
+   },
+   "options_label_template_seconds": {
+      "message": "Giây"
+   },
+   "options_label_template_title": {
+      "message": "Tiêu đề trang"
+   },
+   "options_label_template_url": {
+      "message": "Tiêu đề url"
+   },
+   "options_label_template_website": {
+      "message": "Tên miền"
+   },
+   "options_label_template_year": {
+      "message": "Năm"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Hiển thị kí tự tùy chọn"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Ẩn cài đặt tùy chọn"
+   }
+}

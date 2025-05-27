@@ -1,0 +1,2188 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "世界最高レベルの精度を誇るDeepL翻訳で、テキストを読みながら、または書きながら訳せます。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store. ",
+      "message": "DeepL：AI翻訳と文章作成ツール"
+   },
+   "config_tab_click_icon": {
+      "message": "\u003Cstrong>DeepLのアイコン\u003C/strong>をクリック"
+   },
+   "config_tab_customize_link": {
+      "message": "ショートカットキーをカスタマイズする"
+   },
+   "contact_admin_info_translate_disabled": {
+      "message": "DeepL翻訳を有効にするには管理者にご連絡ください。"
+   },
+   "contact_admin_info_write_disabled": {
+      "message": "DeepL Writeを有効にするには管理者にご連絡ください。"
+   },
+   "context_menus_translate_section": {
+      "description": "The right click context menu action to trigger an inline translation",
+      "message": "DeepLで翻訳"
+   },
+   "deepl_logo": {
+      "description": "DeepL Logo label in extension popup",
+      "message": "DeepLロゴ"
+   },
+   "default_popup_button_done": {
+      "description": "Button to close the default popup of the extension (settings)",
+      "message": "確定"
+   },
+   "dropdown_detect_language": {
+      "description": "Default dropdown value for source language dropdown to detect text language automatically",
+      "message": "言語を自動検出"
+   },
+   "error_message_generic_error": {
+      "description": "Genric error to tell the user that there is a technical problem",
+      "message": "テキストを翻訳できませんでした。時間をおいてもう一度お試しください。"
+   },
+   "error_message_generic_write_error": {
+      "description": "Generic error for DeepL Write to tell the user that there is a technical problem",
+      "message": "文章を推敲できませんでした。時間をおいてもう一度お試しください。"
+   },
+   "error_message_internet_connection": {
+      "message": "インターネット接続に問題があります。もう一度お試しください。"
+   },
+   "error_message_please_login": {
+      "message": "テキストを翻訳するには再度ログインしてください。"
+   },
+   "error_message_quota_has_been_reached": {
+      "description": "There is an API error when the user reaches his quota and therefore is not longer able to use the pro endpoint and if does not get logged out he can not longer use the extension. We need to show him a message so the user knows why he logged out",
+      "message": "アカウントの利用上限に達しました。"
+   },
+   "error_message_session_expired": {
+      "message": "セッションの有効期間が切れました。もう一度ログインしてください。"
+   },
+   "error_message_technical_issue": {
+      "message": "技術的な問題により、テキストを翻訳できませんでした。問題は既知であり、近いうちに解決策を講じられるよう準備を進めています。"
+   },
+   "error_message_too_many_requests": {
+      "description": "Info for free users that too many requests are triggered",
+      "message": "テキストを翻訳できませんでした。ご利用のネットワークから大量のリクエストが送信されているようです。"
+   },
+   "extension_settings_keyboard_shortcut_change_language": {
+      "message": "言語の変更"
+   },
+   "extension_settings_keyboard_shortcut_perform_translation": {
+      "description": "This text will be displayed in the settings screen of the browser (we can only set the label here).",
+      "message": "テキストの翻訳"
+   },
+   "firefox_add_on_store_body_content": {
+      "message": "DeepLのFirefox拡張機能を使えば、ブラウザを開いたまま高精度のDeepL翻訳にアクセスできます。\n\nFirefoxで読みながらまたは書きながら、簡単に訳せます。DeepL Proではページ全体も翻訳できます。\n無料版でもこの機能をご利用いただけるように準備中です。準備が整うまでは、テキストを選択後、DeepLのアイコンをクリックして翻訳してください。設定画面でオリジナルのショートカットキーを指定すると、Firefoxで読みながら書きながら、さらにスピーディに翻訳できます。\n\nもう言葉の壁のせいでウェブ上の情報を見逃す心配はありません。\n\nDeepLのFirefox拡張機能を無料でインストールして、早速翻訳をお試しください。\n\n読みながら翻訳\nもうメールや記事、ウェブサイトを読み飛ばさなくても大丈夫です。Firefoxを開いたまま、閲覧中のコンテンツをご希望の言語にできます。\n\n入力テキストの翻訳\nソーシャルメディアでもチャットメッセージでもメールでも、テキスト入力後すぐに翻訳できます。別の言語でコミュニケーションする際に、Firefoxを一時的に離れたり、コピー＆ペーストや打ち直しをしたりする必要はありません。\n\nページ全体の翻訳\nDeepL Proでは、ワンクリックでウェブページをご希望の言語に翻訳できます。すべてのサイトを特定の言語に自動で翻訳するように設定すれば、さらに便利かつスムーズにページを閲覧できます。無料版でもご利用いただけるように準備中です。\n\nDeepL Proへのログイン \nDeepL Proのユーザーは、拡張機能でアカウントにログインできます。\n\nショートカットキー\nシンプルなショートカットキーで、さらに手早く簡単に翻訳できます。設定画面でお好みのショートカットキーに変更できます。\n\n並外れた精度\nどのウェブサイト上でも、どのアプリケーション内でも、高精度で翻訳できます。DeepL翻訳は、競合他社と比べて格段に高精度に訳出します。主要な技術系企業の翻訳システムとの比較試験では、他社の3倍の頻度で優れているとしてDeepL翻訳が選ばれています。\n\n何百万人ものユーザーに愛されるツール\n世界各地の何百万もの人々が、DeepL翻訳を日々活用して、コミュニケーションを円滑にしています。\n\n30以上の言語に対応\n拡張機能でご利用いただける言語の一覧は、ヘルプセンターのこちらの記事をご覧ください。 https://support.deepl.com/hc/ja/articles/4407573562386-Languages-in-the-browser-extension\n"
+   },
+   "firefox_add_on_store_description": {
+      "message": "世界最高レベルの精度を誇るDeepL翻訳で、テキストを読みながら、または書きながら訳せます。"
+   },
+   "firefox_add_on_store_title": {
+      "description": "There is a character limit of 50 on the Firefox store, so many of the existing titles from Chrome will not work in other languages. \n\nNote: after trying to upload these to the store, it turns out the title cannot use \"Firefox\" or \"Mozilla\"",
+      "message": "DeepL翻訳： 読みながら、書きながら使える翻訳ツール"
+   },
+   "firefox_beta_share_feedback_link": {
+      "description": "A part of the main extension popup window that asks users to give their feedback about the extension for Firefox",
+      "message": "DeepLのFirefox拡張機能の開発を完了できるように、\u003CfeedbackLink>皆様のご意見やご感想をお聞かせください\u003C/feedbackLink>"
+   },
+   "firefox_legal_disclaimer_allow_button": {
+      "message": "許可して続行する"
+   },
+   "firefox_legal_disclaimer_body_main": {
+      "description": "To use DeepL for Firefox, we need your permission \u003Cstrong>to access and process the texts that you request to be translated or improved while browsing\u003C/strong>. Only if you turn on the full-page translation feature do you allow us to process the content of whole web pages. \n \nWhen you log in to DeepL for Firefox with your account, we will process your personal data needed to provide the features accessible under your plan. \n \nWe also collect technical, device, and usage data to make sure that the DeepL Firefox extension runs properly on your browser and to detect and prevent fraudulent behavior. \n \nYou can read more about our policies here: ",
+      "message": "\u003Cp>DeepLのFirefox拡張機能を使用するには、\u003Cstrong>ブラウザ閲覧中に翻訳または推敲するテキストに当社がアクセスして処理することを許可する必要があります。\u003C/strong>ページ全体の翻訳を有効にした場合にのみ、当社にウェブページ全体のコンテンツの処理を許可することになります。\u003C/p>\n\u003Cp>DeepLのFirefox拡張機能でアカウントにログインすると、当社はご利用のプランに含まれる機能を提供する上で必要なお客様の個人データを処理します。\u003C/p>\n\u003Cp>また、DeepLのFirefox拡張機能がブラウザ上で適切に動作することの確認、不正行為の検出や防止を目的として、当社は技術的データ、デバイスのデータ、使用状況に関するデータを収集します。\u003C/p> \n\u003Cp>当社の個人情報保護方針および利用規約については、下記をご覧ください。\u003C/p>"
+   },
+   "firefox_legal_disclaimer_disallow_and_uninstall_button": {
+      "message": "許可せずアンインストールする"
+   },
+   "firefox_legal_disclaimer_link_one": {
+      "message": "個人情報保護方針"
+   },
+   "firefox_legal_disclaimer_link_two": {
+      "description": "\u003CtermsLink>Terms of service\u003C/termsLink> for users without a DeepL (Pro) account",
+      "message": "\u003CtermsLink>DeepLまたはDeepL Proのアカウントをお持ちでないお客様向けの利用規約\u003C/termsLink>\t"
+   },
+   "firefox_legal_disclaimer_title": {
+      "message": "お客様の許可が必要です"
+   },
+   "firefox_manage_shortcuts_link": {
+      "message": "ショートカットキーの設定方法"
+   },
+   "full_page_translation_auto_detect_lang": {
+      "message": "言語を検出しています..."
+   },
+   "full_page_translation_auto_translate": {
+      "message": "この言語に自動で翻訳"
+   },
+   "full_page_translation_auto_translate_message": {
+      "message": "次の原文言語を自動で翻訳済み："
+   },
+   "full_page_translation_error_exceeds_char_limit": {
+      "description": "If a single element of the website has more than 5,500 characters, we can't translate it. And in that case there is nothing the user can do. ",
+      "message": "文字数の上限を超えているため、ページを翻訳できません。"
+   },
+   "full_page_translation_error_service_not_available": {
+      "message": "現在、ページ全体の翻訳を実行できません。修正版の準備を進めています。ご不便をおかけいたしますが、今しばらくお待ちください。"
+   },
+   "full_page_translation_info_google_translate": {
+      "message": "Google翻訳を並行して使用しているようです。DeepLの拡張機能を正常に動作させるには、Google翻訳をオフにしてください。"
+   },
+   "full_page_translation_menu_always_translate": {
+      "message": "次の原文言語を常に翻訳："
+   },
+   "full_page_translation_menu_cancel_button": {
+      "message": "翻訳しない"
+   },
+   "full_page_translation_menu_cancel_opt_lang": {
+      "message": "翻訳しない原文言語："
+   },
+   "full_page_translation_menu_cancel_opt_website": {
+      "message": "このサイトを翻訳しない"
+   },
+   "full_page_translation_menu_headline": {
+      "message": "このサイトを翻訳しますか？"
+   },
+   "full_page_translation_menu_translate_button": {
+      "message": "翻訳"
+   },
+   "full_page_translation_no_translate_lang_change": {
+      "message": "変更する"
+   },
+   "full_page_translation_no_translate_lang_message": {
+      "message": "翻訳しない原文言語："
+   },
+   "full_page_translation_no_translate_website_change": {
+      "message": "変更する"
+   },
+   "full_page_translation_no_translate_website_message": {
+      "message": "翻訳しないサイト："
+   },
+   "full_page_translation_no_website_data": {
+      "message": "ウェブサイトからデータを取得できませんでした。ページを再度読み込んでください。"
+   },
+   "full_page_translation_ongoing_translation": {
+      "message": "翻訳しています"
+   },
+   "full_page_translation_settings_button_cancel": {
+      "message": "キャンセル"
+   },
+   "full_page_translation_settings_button_save": {
+      "message": "保存"
+   },
+   "full_page_translation_settings_done_button": {
+      "description": "Done button for the settings page",
+      "message": "確定"
+   },
+   "full_page_translation_settings_headline": {
+      "message": "設定"
+   },
+   "full_page_translation_settings_list_auto_translate_from": {
+      "message": "自動で翻訳する原文言語"
+   },
+   "full_page_translation_settings_list_never_translate_from": {
+      "message": "翻訳しない原文言語"
+   },
+   "full_page_translation_settings_list_never_translate_websites": {
+      "message": "翻訳しないサイト"
+   },
+   "full_page_translation_settings_subheader_label": {
+      "description": "Translate pages sub-header label\n\nThe screenshot is outdated, \"pages\" should be in lowercase",
+      "message": "ウェブサイトの翻訳"
+   },
+   "full_page_translation_settings_target_lang": {
+      "message": "訳文言語"
+   },
+   "full_page_translation_settings_translate_writting": {
+      "message": "入力テキストの翻訳"
+   },
+   "full_page_translation_show_original": {
+      "message": "元の言語で表示する"
+   },
+   "full_page_translation_target_label": {
+      "message": "次の言語で翻訳"
+   },
+   "full_page_translation_translate_button": {
+      "message": "ページの翻訳を実行"
+   },
+   "glossary_failed_to_load_message": {
+      "message": "用語集を読み込めませんでした。"
+   },
+   "glossary_failed_try_again": {
+      "message": "再度試す"
+   },
+   "glossary_label": {
+      "message": "用語集"
+   },
+   "glossary_settings_create_first_glossary": {
+      "message": "最初の用語集を作成"
+   },
+   "glossary_settings_glossary_info": {
+      "message": "用語集を選択すると、その翻訳ルールが読み書きするテキストに自動的に適用されます。"
+   },
+   "glossary_settings_log_in_link": {
+      "message": "すでにDeepL Proアカウントをお持ちですか？ \u003CloginLink>ログイン\u003C/loginLink>"
+   },
+   "glossary_settings_logged_out_cta": {
+      "message": "キーワードや語句に翻訳ルールを設定したいとお考えですか？ DeepL Proの無料体験プランで\u003Cstrong>用語集を30日間無料\u003C/strong>でお試しください。"
+   },
+   "glossary_settings_no_glossaries_found": {
+      "message": "まだ用語集がありません。最初の用語集を作成して、キーワードや語句の翻訳ルールを設定しましょう。"
+   },
+   "glossary_settings_show_more_lang_pairs": {
+      "message": "もっと見る"
+   },
+   "glossary_settings_try_pro_button": {
+      "message": "無料で体験する"
+   },
+   "gmail_char_limit_anon_body": {
+      "message": "一度に翻訳できるのは、\u003Cstrong>1,500文字まで\u003C/strong>です。\n\u003Cstrong>DeepLアカウントを作成\u003C/strong>すると、一度に翻訳できる文字数を増やせます。"
+   },
+   "gmail_char_limit_anon_login_button": {
+      "description": "Log in",
+      "message": "ログイン"
+   },
+   "gmail_char_limit_anon_sign_up_button": {
+      "message": "無料でアカウントを作成"
+   },
+   "gmail_char_limit_anon_title": {
+      "message": "文字数制限を増やす"
+   },
+   "gmail_char_limit_logged_in_body": {
+      "message": "一度に翻訳できるのは、\u003Cstrong>5,000文字まで\u003C/strong>です。\n文字数制限なしで翻訳するには、\u003Cstrong>DeepL Proをお試しください。30日間無料です。\u003C/strong>"
+   },
+   "gmail_char_limit_logged_in_cta_button": {
+      "message": "Proを無料で体験する"
+   },
+   "gmail_char_limit_logged_in_title": {
+      "message": "文字数制限なしのDeepL Proをお試しください"
+   },
+   "gmail_char_limit_popup_body": {
+      "description": "A popup users see when they have hit the limit for free translation",
+      "message": "5,000文字以上を翻訳するには、DeepL Proのプランにご登録ください。"
+   },
+   "gmail_char_limit_popup_not_now_button": {
+      "message": "今はしない"
+   },
+   "gmail_char_limit_popup_title": {
+      "message": "翻訳できる上限に達しました"
+   },
+   "gmail_char_limit_popup_try_pro_button": {
+      "message": "DeepL Proを無料で体験"
+   },
+   "gmail_compose_accept_icon": {
+      "message": "変更を許可"
+   },
+   "gmail_compose_icon_tooltip": {
+      "message": "テキストを翻訳または推敲"
+   },
+   "gmail_compose_improve_button": {
+      "description": "\"Improve\" button for using DeepL write on EN/DE text",
+      "message": "推敲"
+   },
+   "gmail_compose_improve_icon": {
+      "message": "推敲"
+   },
+   "gmail_compose_improve_tooltip": {
+      "description": "A tooltip that lets users know we can only improve text in certain languages",
+      "message": "間違いを修正し、文章を改善します。\n対象言語は英語とドイツ語のみです。"
+   },
+   "gmail_compose_translate_button": {
+      "message": "翻訳"
+   },
+   "gmail_compose_translate_from": {
+      "description": "The \"from\" label on the toolbar that pops up when a user is writing an outgoing email in Gmail",
+      "message": "原文："
+   },
+   "gmail_compose_translate_icon": {
+      "message": "翻訳"
+   },
+   "gmail_compose_translate_into": {
+      "description": "The label showing the target language when a user composes an email in Gmail",
+      "message": "訳文："
+   },
+   "gmail_compose_undo_icon": {
+      "message": "元に戻す"
+   },
+   "gmail_forwarding_link": {
+      "message": "Gmail向けのDeepL機能を無料で入手"
+   },
+   "gmail_forwarding_title": {
+      "message": "このメールはGmail向けのDeepLで翻訳しました。"
+   },
+   "gmail_language_detected": {
+      "description": "Shown to the user when they type an email and we can automatically detect the language",
+      "message": "（自動検出）"
+   },
+   "gmail_onboarding_body_1": {
+      "message": "ワンクリックでメールを翻訳"
+   },
+   "gmail_onboarding_body_2": {
+      "message": "外国語でメールを作成"
+   },
+   "gmail_onboarding_body_3": {
+      "message": "文章に磨きをかけ、ミスのないメールを素早く作成"
+   },
+   "gmail_onboarding_char_limit_reached_body": {
+      "message": "5,000文字以上を翻訳するには、DeepL Proのプランにご登録ください。"
+   },
+   "gmail_onboarding_char_limit_reached_button": {
+      "message": "DeepL Proを無料で体験"
+   },
+   "gmail_onboarding_char_limit_reached_title": {
+      "message": "翻訳できる上限に達しました"
+   },
+   "gmail_onboarding_title": {
+      "message": "GmailでDeepLを使いましょう"
+   },
+   "gmail_onboarding_toggle": {
+      "description": "The updated copy now has \"on/off\" but otherwise, the original screenshot with the toggle has the proper context",
+      "message": "GmailでDeepLをオン/オフにする"
+   },
+   "gmail_reading_forward_button": {
+      "message": "翻訳したメールを転送"
+   },
+   "gmail_reading_translate_button": {
+      "message": "メールを翻訳"
+   },
+   "gmail_reading_view_original_button": {
+      "message": "元の言語で表示"
+   },
+   "inline_gdocs_max_chars_exceeded_body": {
+      "message": "選択中の文字数を減らすか、文字数制限なしに翻訳できるDeepL Proをお試しください。"
+   },
+   "inline_gdocs_max_chars_exceeded_body_write": {
+      "description": "\"Improve\" version of the inline_gdocs_max_chars_exceeded_body_write key",
+      "message": "選択中の文字数を減らすか、文字数制限なしに推敲できるDeepL Proをお試しください。"
+   },
+   "inline_gdocs_max_chars_exceeded_improvement_title": {
+      "description": "The screenshot is the existing copy for translation, this key is for Write/improvement. The UI/UX will be the same, just in a different use case",
+      "message": "無料版では一度に2,000文字まで推敲できます。"
+   },
+   "inline_gdocs_max_chars_exceeded_title": {
+      "message": "無料版では一度に5,000文字まで翻訳できます。"
+   },
+   "inline_translation_ads_ms_office": {
+      "message": "DeepLを\u003Cb>Microsoft 365で直接\u003C/b>使用"
+   },
+   "inline_translation_ads_ms_office_discover": {
+      "message": "使用方法を見る "
+   },
+   "inline_translation_highlighter_tooltip_headline": {
+      "description": "Translate selected text with DeepL",
+      "message": "選択したテキストをDeepLで翻訳"
+   },
+   "inline_translation_highlighter_tooltip_text": {
+      "description": "Simply select your text and click the DeepL icon - that's it",
+      "message": "テキストを選択してDeepLのアイコンをクリックするだけでOKです。"
+   },
+   "inline_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while reading.",
+      "message": "読みながら翻訳する時にDeepLのアイコンを表示"
+   },
+   "inline_translation_label_target_language": {
+      "description": "Label displayed on top of the language selector.",
+      "message": "選択したテキストを次の言語に翻訳"
+   },
+   "inline_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while reading.",
+      "message": "その他の設定"
+   },
+   "inline_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "確定"
+   },
+   "inline_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while reading.",
+      "message": "アイコンを非表示にする"
+   },
+   "inline_translation_setting_label_title_v2": {
+      "message": "読みながら翻訳をオフにする"
+   },
+   "inline_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "キャンセル"
+   },
+   "inline_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while reading everywhere",
+      "message": "どのサイトでも常に非表示"
+   },
+   "inline_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while reading only on the current website",
+      "message": "このサイトで非表示"
+   },
+   "inline_translation_settings_headline": {
+      "description": "Headline for settings section of the inline translation",
+      "message": "読む"
+   },
+   "inline_translation_settings_target_language": {
+      "description": "Label for selecting the target language for inline translation. Most often this is the user's native language.",
+      "message": "右クリックで次の言語に翻訳"
+   },
+   "inline_translation_show_more": {
+      "description": "Text for a link that opens deepl in a new tab where the selected text is prefilled",
+      "message": "もっと見る"
+   },
+   "inline_translation_tooltip_turnoff": {
+      "message": "オフにする"
+   },
+   "input_advanced_icons_onboarding_description": {
+      "description": "Instructions that appear in onboarding popup the first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "アイコンをクリックするとアドバンスモードが開きます。選択したテキストに編集を加え編集前と比較できます。"
+   },
+   "input_advanced_icons_onboarding_title": {
+      "description": "Title of onboarding popup that appears first time user selects text in an input field and sees the DeepL improve/translate icons",
+      "message": "DeepLでテキストを直接翻訳および推敲"
+   },
+   "input_selection_alternatives_label": {
+      "message": "代案の一覧"
+   },
+   "input_selection_alternatives_show_more": {
+      "message": "さらに表示"
+   },
+   "input_selection_alternatives_tone_tooltip": {
+      "message": "訳文の語調を選択"
+   },
+   "input_selection_see_alternatives_icon_trigger": {
+      "message": "代案を見る"
+   },
+   "input_selection_tab_button_translate": {
+      "message": "DeepL翻訳"
+   },
+   "input_selection_tab_button_write": {
+      "message": "DeepL Write"
+   },
+   "input_translation_button_translate": {
+      "description": "Button in the settings screen of the input translation to trigger a translation",
+      "message": "翻訳"
+   },
+   "input_translation_highlighter_tooltip_headline": {
+      "description": "Translate your writing with DeepL",
+      "message": "翻訳や文章校正機能に瞬時にアクセス"
+   },
+   "input_translation_highlighter_tooltip_text": {
+      "description": "Translate your own words with one click - right here!",
+      "message": "こちらのアイコンをクリックして、ご希望の拡張機能をお選びください。"
+   },
+   "input_translation_label_show_icon_switch": {
+      "description": "Clickable label that opens the settings to disable or enable icon for translating while writing.",
+      "message": "テキスト入力時にDeepLのアイコンを表示"
+   },
+   "input_translation_link_more_settings": {
+      "description": "Link that opens a more detailed settings page for translating while writing.",
+      "message": "その他の設定"
+   },
+   "input_translation_option_choose_language": {
+      "description": "If the user selects this option, each click on the button opens a selection to choose the target language",
+      "message": "訳文の言語を毎回指定する"
+   },
+   "input_translation_option_default_translation": {
+      "description": "If the user selects this option, each button click immediately triggers a translation into the selected target languages",
+      "message": "常にこの言語に翻訳する"
+   },
+   "input_translation_setting_button_ok": {
+      "description": "button for saving the changes done by the user.",
+      "message": "確定"
+   },
+   "input_translation_setting_label_title": {
+      "description": "Title of the setting page for enabling or disabling translation while writing.",
+      "message": "アイコンを非表示にする"
+   },
+   "input_translation_setting_label_title_v2": {
+      "message": "書きながら翻訳をオフにする"
+   },
+   "input_translation_setting_link_cancel": {
+      "description": "Link that cancels the changes by redirecting the user back.",
+      "message": "キャンセル"
+   },
+   "input_translation_setting_radio_disable_everywhere": {
+      "description": "Radio button option to disable translation while writing everywhere",
+      "message": "どのサイトでも常に非表示"
+   },
+   "input_translation_setting_radio_disable_per_site": {
+      "description": "Radio button option to disable translation while writing only on the current website",
+      "message": "このサイトで非表示"
+   },
+   "input_translation_settings_headline": {
+      "description": "Headline for settings section of the translation of user input",
+      "message": "書く"
+   },
+   "input_translation_settings_target_language": {
+      "description": "Label for selecting the target language for input translation.",
+      "message": "入力したテキストを次の言語に翻訳"
+   },
+   "input_translation_tooltip_change_target_lang": {
+      "description": "Tooltip for when a user has a language selected and wants to change it. The screenshot has the wrong text, but the correct location/context for this copy",
+      "message": "訳文の言語を変更"
+   },
+   "input_translation_tooltip_icon_turn_off": {
+      "description": "Tooltip to disable input translation feature",
+      "message": "オフにする"
+   },
+   "input_translation_tooltip_improve_disabled_by_admin": {
+      "description": "Text for when a user's plan has DeepL Write blocked by their admin",
+      "message": "DeepL Writeを有効にするには管理者にご連絡ください。"
+   },
+   "input_translation_tooltip_improve_lang_not_supported": {
+      "description": "We show this tooltip if we can not detect the language or we do not support this language (DeepL Write)",
+      "message": "文章を改善。ドイツ語と英語に対応。"
+   },
+   "input_translation_tooltip_improve_supported_lang": {
+      "description": "If the source language is detected and we support DeepL Write for this language we show this text as a tooltip",
+      "message": "文章を改善"
+   },
+   "input_translation_tooltip_select_target_lang": {
+      "description": "Tooltip for first time selection of target language for input translation",
+      "message": "訳文の言語を選択"
+   },
+   "input_translation_tooltip_settings": {
+      "description": "Tooltip to inform the user the button click open the settings for the input translation",
+      "message": "設定"
+   },
+   "input_translation_tooltip_translate": {
+      "description": "Tooltip to inform the user the button click will trigger a translation of the written text",
+      "message": "翻訳"
+   },
+   "input_translation_tooltip_translate_text": {
+      "description": "Tooltip over the input translation icon when a user has not picked a target language yet (screenshot text is not accurate, defer to Phrase text)",
+      "message": "テキストの翻訳"
+   },
+   "input_translation_tooltip_translate_to_unknown": {
+      "description": "Tooltip to inform the user that he/she must select a target language",
+      "message": "翻訳..."
+   },
+   "input_translation_tooltip_turnoff": {
+      "message": "オフにする"
+   },
+   "layout_header_label_language_switch": {
+      "description": "Label for the \"Translate to\" inline select to translate popup.",
+      "message": "訳文："
+   },
+   "layout_header_label_language_switch_v2": {
+      "description": "Label for the \"Translate into\" inline select to translate popup.",
+      "message": "訳文："
+   },
+   "layout_header_settings_icon": {
+      "message": "設定へ"
+   },
+   "layout_tab_translator": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "DeepL翻訳"
+   },
+   "layout_tab_write": {
+      "description": "This key will be used anywhere we refer to the title of the product \"Write\" ",
+      "message": "DeepL Write"
+   },
+   "limit_popup_login_cta": {
+      "message": "ログイン"
+   },
+   "limit_popup_sign_up_cta": {
+      "message": "無料でアカウントを作成"
+   },
+   "limit_popup_translator_anon_body": {
+      "message": "DeepLで一度に1,500文字以上翻訳するにはアカウントを作成してください。アカウントの作成は\u003Cstrong>無料\u003C/strong>です！"
+   },
+   "limit_popup_translator_anon_title": {
+      "message": "アカウントを作成して翻訳できる文字数を増やしましょう"
+   },
+   "limit_popup_translator_free_body": {
+      "message": "一度に5,000文字以上を翻訳するには、\u003Cstrong>DeepL翻訳\u003C/strong>の有料プランを30日間無料でお試しください！"
+   },
+   "limit_popup_translator_free_title": {
+      "message": "文字数制限を気にせずテキストを翻訳"
+   },
+   "limit_popup_translator_subscribe_to_paid_body": {
+      "message": "一度に5,000文字以上を翻訳するには、DeepL翻訳の有料プランにご登録ください。"
+   },
+   "limit_popup_try_for_free_cta": {
+      "message": "無料で試す"
+   },
+   "limit_popup_upgrade_translator_cta": {
+      "message": "DeepL翻訳をアップグレード"
+   },
+   "limit_popup_upgrade_write_cta": {
+      "message": "DeepL Write Proへアップグレード"
+   },
+   "limit_popup_write_anon_free_body": {
+      "message": "現在、一度に2,000文字までしか推敲できません。DeepL Write Proにご登録いただくと、全文を納得いくまで改善できます。"
+   },
+   "limit_popup_write_title": {
+      "message": "文字数制限を気にせずテキストを改善"
+   },
+   "link_get_pro_license": {
+      "message": "DeepL Proを無料で体験する"
+   },
+   "link_try_deepl": {
+      "message": "DeepL Proを無料で体験する"
+   },
+   "linkedin_web_translate_post_link": {
+      "message": "DeepLで翻訳"
+   },
+   "login_error_default_message": {
+      "message": "ログインに失敗しました。"
+   },
+   "login_link_label": {
+      "description": "Login to DeepL Pro link label",
+      "message": "DeepL Proにログインする"
+   },
+   "login_link_try_pro_label": {
+      "description": "Link to try DeepL Pro for free\n\nThe link to \"Try DeepL Pro Free\" leads to : https://www.deepl.com/pro",
+      "message": "DeepL Proを無料で体験する"
+   },
+   "login_link_try_write_pro_label": {
+      "description": "Call to action in the popup Write tab for anonymous/free users",
+      "message": "DeepL Write Proを無料で試す"
+   },
+   "login_translate_pages_label": {
+      "description": "Translate pages label",
+      "message": "ウェブサイトの翻訳"
+   },
+   "login_translate_pages_pro_badge": {
+      "description": "PRO badge stays in EN",
+      "message": "PRO"
+   },
+   "login_widget_login_link": {
+      "description": "The button that users can use to log in to DeepL Pro",
+      "message": "ログイン"
+   },
+   "login_widget_pro_user_label": {
+      "message": "\u003Cstrong>Proのユーザー\u003C/strong>は、ワンクリックでページ全体を翻訳できます。"
+   },
+   "login_widget_try_pro_label": {
+      "message": "まだProのユーザーでない方は、\u003CtryOutLink>無料でお試しください\u003C/tryOutLink>。"
+   },
+   "login_widget_upgrade_to_pro": {
+      "message": "Proにアップグレード"
+   },
+   "main_popup_conversion_message_body": {
+      "message": "\u003Cli>\u003Cstrong>ページ全体\u003C/strong>をワンクリックで翻訳\u003C/li>\n\u003Cli>\u003Cstrong>文字数制限なし\u003C/strong>の翻訳\u003C/li>\n\u003Cli>\u003Cstrong>万全のデータセキュリティ対策\u003C/strong>\u003C/li>"
+   },
+   "main_popup_conversion_message_title": {
+      "message": "\u003Cstrong>DeepL Pro\u003C/strong>でプレミアム機能をお楽しみください。30日間は無料でお試しいただけます。"
+   },
+   "main_popup_floating_icon_link_text": {
+      "message": "使い方のヒント"
+   },
+   "main_popup_floating_icon_settings": {
+      "message": "アイコン表示の設定"
+   },
+   "main_popup_floating_icon_toggle": {
+      "message": "DeepLのアイコンを表示"
+   },
+   "main_popup_info_box_translator": {
+      "message": "お客様は万全のセキュリティ対策を備えた\u003Cstrong>DeepL Pro\u003C/strong>をご利用中です。"
+   },
+   "main_popup_info_box_write": {
+      "message": "お客様は万全のセキュリティ対策を備えた\u003Cstrong>DeepL Write Pro\u003C/strong>をご利用中です。"
+   },
+   "main_popup_start_free_trial_cta": {
+      "message": "無料体験を開始"
+   },
+   "main_popup_translate_entire_page_promo_label": {
+      "description": "Label for DeepL Pro promo area of popup, Translator tab, showing that the full page translation feature is a pro feature",
+      "message": "ウェブページ全体の翻訳"
+   },
+   "main_popup_translator_selected_text_into": {
+      "message": "選択したテキストを次の言語に翻訳"
+   },
+   "main_popup_translator_writing_into": {
+      "message": "入力したテキストを次の言語に翻訳"
+   },
+   "main_popup_write_conversion_body": {
+      "description": "https://www.figma.com/design/gk5NT1CPVZKTQEjheaO2kA/Example-for-localization-testing?node-id=911-37&node-type=frame&t=IXRol98M1lMauqhO-0",
+      "message": "DeepL Write Proに登録されると、\u003Cstrong>文字数制限なく文章を改善\u003C/strong>でき、\u003Cstrong>万全のセキュリティ対策\u003C/strong>も得られます。"
+   },
+   "main_popup_write_existing_user_exception_cta": {
+      "description": "This is the same context as the \"Start free trial\" CTA button, except this text shows up if the user already has a paid account for Translator but not write",
+      "message": "DeepL Write Proへアップグレード"
+   },
+   "main_popup_write_target_language": {
+      "message": "改善したい文章の言語をお選びください。"
+   },
+   "menu_login_label": {
+      "description": "Log in to DeepL Pro Link label\n\nPlease check the Jira ticket for more context on this key: https://jira.deepl.dev/browse/TNL-711",
+      "message": "DeepL Proにログイン"
+   },
+   "menu_logout_label": {
+      "description": "Logout Label in the Menu",
+      "message": "ログアウト"
+   },
+   "menu_open_menu": {
+      "description": "Label for button which opens side-menu in DeepL extension",
+      "message": "メニュー"
+   },
+   "menu_open_settings": {
+      "description": "Label for button which opens settings page in DeepL extension",
+      "message": "設定"
+   },
+   "menu_settings_label": {
+      "description": "Settings Label for the Menu",
+      "message": "設定"
+   },
+   "menu_share_feedback_link": {
+      "description": "A link that sends users to a survey they can fill out about the extension",
+      "message": "フィードバックの共有"
+   },
+   "menu_trial_label": {
+      "description": "Menu Try DeepL Pro for free label",
+      "message": "DeepL Proを無料で体験"
+   },
+   "notification_ads_ms_office_headline": {
+      "message": "Microsoft 365版DeepLで翻訳および文章作成"
+   },
+   "notification_ads_ms_office_learn_more": {
+      "message": "詳細を見る"
+   },
+   "notification_ads_ms_office_text": {
+      "message": "OutlookやWord、PowerPoint用のアドインを利用すれば、アプリの切り替えなしで翻訳および多言語での文章作成を行えます。"
+   },
+   "notification_anonymous_user_limit_exceeded_description": {
+      "message": "DeepLで一度に$limit$文字以上翻訳するには、アカウントを作成してください。アカウントの作成は\u003Cstrong>無料\u003C/strong>です！",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_anonymous_user_limit_exceeded_headline": {
+      "message": "アカウントを作成して文字数制限を増やしましょう"
+   },
+   "notification_anonymous_user_limit_exceeded_login_button": {
+      "message": "ログイン"
+   },
+   "notification_anonymous_user_limit_exceeded_signup_button": {
+      "message": "無料でアカウントを作成"
+   },
+   "notification_free_account_limit_exceeded_description": {
+      "message": "DeepLで一度に$limit$文字以上翻訳するには、DeepL Proにご登録ください。\u003Cstrong>30日間無料でお試しいただけます！\u003C/strong>",
+      "placeholders": {
+         "limit": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_free_account_limit_exceeded_headline": {
+      "message": "DeepL Proに登録して文字数制限を増やしましょう"
+   },
+   "notification_free_account_limit_exceeded_signup_button": {
+      "message": "Proを無料で体験する"
+   },
+   "notification_inline_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while reading everywhere",
+      "message": "読みながら翻訳する時にDeepLのアイコンを表示しません。$linkToSettings$で変更できます。",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_inline_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while reading per website",
+      "message": "$currentWebsite$で読みながら翻訳する時にDeepLのアイコンを表示しません。$linkToSettings$で変更できます。",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_inline_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "設定"
+   },
+   "notification_input_translation_disabled_everywhere": {
+      "description": "Notification with a link to the settings page when user disables translation while writing everywhere",
+      "message": "テキスト入力時にDeepLのアイコンを表示しない設定になっています。$linkToSettings$で変更できます。",
+      "placeholders": {
+         "linkToSettings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_input_translation_disabled_per_site": {
+      "description": "Notification with a link to the settings page when user disables translation while writing per website",
+      "message": "$currentWebsite$でテキスト入力時にDeepLのアイコンを表示しない設定になっています。$linkToSettings$で変更できます。",
+      "placeholders": {
+         "currentWebsite": {
+            "content": "$1"
+         },
+         "linkToSettings": {
+            "content": "$2"
+         }
+      }
+   },
+   "notification_input_translation_link_to_settings_placeholder": {
+      "description": "Placeholder text to the settings page link",
+      "message": "設定"
+   },
+   "notification_keyboard_shortcut_hint": {
+      "description": "A notification which will be displayed for 4 seconds. It contains a link to the browser settings to set shortcut for extensions.",
+      "message": "$settings$でテキストの翻訳を実行するショートカットキーを決められます",
+      "placeholders": {
+         "settings": {
+            "content": "$1"
+         }
+      }
+   },
+   "notification_keyboard_shortcut_hint_placeholder": {
+      "description": "The placeholder text for notification_keyboard_shortcut_hint",
+      "message": "設定"
+   },
+   "onboarding_account_successfully_created": {
+      "message": "アカウントが正常に作成されました！"
+   },
+   "onboarding_back_button": {
+      "message": "戻る"
+   },
+   "onboarding_disable_pages_description": {
+      "message": "DeepLの拡張機能を適用したくないページがありますか？そんな場合は、オフにする条件を設定画面で指定できます。"
+   },
+   "onboarding_disable_pages_title": {
+      "message": "特定のページで機能をオフ"
+   },
+   "onboarding_full_page_translation_description": {
+      "message": "ワンクリックでウェブページを丸ごとお好きな言語に翻訳できます。"
+   },
+   "onboarding_full_page_translation_table_cta": {
+      "message": "無料体験"
+   },
+   "onboarding_full_page_translation_table_intro": {
+      "message": "ウェブ上の翻訳ツールとアプリでは、さらに機能が充実しています。"
+   },
+   "onboarding_full_page_translation_table_item_1": {
+      "message": "文書ファイルの丸ごと翻訳"
+   },
+   "onboarding_full_page_translation_table_item_2": {
+      "message": "用語集（一部言語のみ）"
+   },
+   "onboarding_full_page_translation_table_item_3": {
+      "message": "敬称と親称の切り替え（一部言語のみ）"
+   },
+   "onboarding_full_page_translation_table_legend": {
+      "description": "The full stop is missing in the screenshot.",
+      "message": "30日間無料で体験。いつでもキャンセル可能。"
+   },
+   "onboarding_full_page_translation_table_read_more": {
+      "message": "その他多数"
+   },
+   "onboarding_full_page_translation_title": {
+      "message": "ページ全体の翻訳"
+   },
+   "onboarding_inline_translation_description": {
+      "message": "DeepLのアイコンをクリックするかショートカットキーを使って、選択済みのテキストを翻訳しましょう。"
+   },
+   "onboarding_inline_translation_title": {
+      "message": "選択したテキストの翻訳"
+   },
+   "onboarding_input_translation_description": {
+      "message": "DeepLのアイコンをクリックするかショートカットキーを使って、何千ものプラットフォーム上で入力内容を翻訳しましょう。"
+   },
+   "onboarding_input_translation_title": {
+      "message": "ワンクリックで書きながら翻訳"
+   },
+   "onboarding_last_step_description": {
+      "message": "何千人ものユーザーに愛用されている高品質のDeepL翻訳を使って、ウェブページを閲覧しましょう。"
+   },
+   "onboarding_last_step_title": {
+      "message": "早速お試しください！"
+   },
+   "onboarding_next_button": {
+      "message": "次へ"
+   },
+   "onboarding_pin_extension": {
+      "message": "ここにDeepLの拡張機能を固定するとすぐにアクセスできます"
+   },
+   "onboarding_promotion_body": {
+      "message": "DeepLのブラウザ拡張機能は、世界で最も使用されている各種ツールと統合できるよう設計されています。"
+   },
+   "onboarding_promotion_body_2": {
+      "message": "\u003Cstrong>普段よく使用するツールを選択して\u003C/strong>、DeepLをワークフローに統合しましょう。"
+   },
+   "onboarding_promotion_header": {
+      "message": "お気に入りのツール内で翻訳と推敲を実行"
+   },
+   "onboarding_promotion_link_gmail": {
+      "message": "Gmailで試す"
+   },
+   "onboarding_promotion_link_google_docs": {
+      "message": "Google Docsで試す"
+   },
+   "onboarding_promotion_link_google_slides": {
+      "message": "Googleスライドで試す"
+   },
+   "onboarding_promotion_link_integrations": {
+      "message": "統合できるすべてのツールを表示"
+   },
+   "onboarding_promotion_login_notification": {
+      "message": "新しいDeepLアカウントにログインしています。"
+   },
+   "onboarding_promotion_ms_word_body": {
+      "message": "ブラウザのタブを離れることなく、DeepLで翻訳や文章校正を行えます。"
+   },
+   "onboarding_promotion_ms_word_header": {
+      "message": "Microsoft Word"
+   },
+   "onboarding_promotion_ms_word_link": {
+      "message": "アドインを取得"
+   },
+   "onboarding_signup_body": {
+      "message": "DeepLの拡張機能を最大限に活用するには、DeepLアカウントに登録してください。登録は無料です！"
+   },
+   "onboarding_signup_cta": {
+      "message": "無料でアカウントを作成"
+   },
+   "onboarding_signup_header": {
+      "message": "アカウントはお持ちですか？"
+   },
+   "onboarding_signup_login_option": {
+      "message": "すでにアカウントをお持ちですか？ \u003CloginLink>ログイン\u003C/loginLink>"
+   },
+   "onboarding_signup_skip_option": {
+      "message": "スキップ"
+   },
+   "onboarding_successful_login_notification": {
+      "description": "The screenshot is an example of the context and location for this copy, but referring to a new account. This key is for when a user has an account and successfully logs in, and will appear in the same place and style as the \"account created\" notification.",
+      "message": "ログインしました！"
+   },
+   "onboarding_title_free": {
+      "message": "無料"
+   },
+   "onboarding_title_pro": {
+      "message": "PROでご利用可能"
+   },
+   "onboarding_translate_description": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "目の前のテキストや作成中のテキストを翻訳できます。DeepLのアイコンをクリックするか、ショートカットキーで翻訳を起動してください。この機能は数多くのプラットフォームで使用可能です。"
+   },
+   "onboarding_translate_title": {
+      "description": "Onboarding screen promoting Translate ",
+      "message": "読みながら、書きながら翻訳"
+   },
+   "onboarding_write_description": {
+      "description": "Onboarding screen promoting Write",
+      "message": "DeepLのアイコンから文章作成ツールにもアクセスできます。文法などの誤りを修正し、読み手や目的に合った文体やトーンを用いて文章を書き換えましょう。"
+   },
+   "onboarding_write_description_2": {
+      "description": "Onboarding screen promoting Write",
+      "message": "英語やドイツ語、フランス語、スペイン語など、多数の言語に対応。"
+   },
+   "onboarding_write_title": {
+      "description": "Onboarding screen promoting Write",
+      "message": "ライティングに自信をプラス"
+   },
+   "permission_request_widget_button": {
+      "description": "A button that brings users to the built-in permissions request screen on Firefox",
+      "message": "許可の管理"
+   },
+   "permission_request_widget_description": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "FirefoxブラウザでアクセスしたウェブサイトにDeepLがアクセスすることを許可します。"
+   },
+   "permission_request_widget_title": {
+      "description": "A pop-up that replaces the main window, prompting users to manually allow the extension the permissions we need",
+      "message": "Firefoxを使用するには、お客様の許可が必要です。"
+   },
+   "policy_login_prompt_description": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "ご所属先の意向により、よりセキュアな環境で翻訳できるDeepL Proにログインが必要です。"
+   },
+   "policy_login_prompt_title": {
+      "description": "Shown to users who have to log in to use DeepL due to company security policy",
+      "message": "アカウントにログイン"
+   },
+   "position_options_bottom": {
+      "message": "下"
+   },
+   "position_options_left": {
+      "message": "左"
+   },
+   "position_options_right": {
+      "message": "右"
+   },
+   "position_options_top": {
+      "message": "上"
+   },
+   "reading_config_tab_description": {
+      "message": "選択したテキストを次の言語に翻訳"
+   },
+   "reading_config_tab_switch_label": {
+      "message": "読みながら翻訳のアイコンを表示"
+   },
+   "reading_writing_config_tab_right_click_label": {
+      "message": "マウスを\u003Cstrong>右クリック\u003C/strong>"
+   },
+   "reading_writing_config_tab_shortcut_label": {
+      "message": "\u003Cstrong>ショートカットキー\u003C/strong>を使用"
+   },
+   "reading_writing_select_tab_reading_label": {
+      "message": "読みながら翻訳"
+   },
+   "reading_writing_select_tab_title": {
+      "message": "設定"
+   },
+   "reading_writing_select_tab_writing_label": {
+      "message": "書きながら翻訳"
+   },
+   "replace_in_field": {
+      "description": "Text for button which allows users to replace text in an input field with improved or translated version",
+      "message": "入力欄で置換え"
+   },
+   "review_advanced_mode_disable_advanced_window_tooltip": {
+      "message": "設定でこのウィンドウを無効にする"
+   },
+   "review_advanced_mode_onboarding_text": {
+      "description": "Instructions in onboarding guidance when a user sees the advanced review window for the first time in Input fields, so they know they can disable it.",
+      "message": "アドバンスモードは拡張機能の設定でいつでも無効または有効にできます。"
+   },
+   "review_advanced_mode_onboarding_title": {
+      "description": "Title in onboarding guidance when a user sees the advanced review window for the first time in an input field, so they know they can disable it.",
+      "message": "アドバンスモードが不要の場合"
+   },
+   "review_ui_improve_selection": {
+      "description": "The context menu action to trigger inline write in Review UI",
+      "message": "DeepLでテキストを推敲"
+   },
+   "right_click_menu_translate_with_deepl": {
+      "description": "When a user right clicks they will see this menu option that lets them translate things",
+      "message": "DeepLで翻訳"
+   },
+   "segmentation_survey_button": {
+      "message": "アンケートに回答"
+   },
+   "segmentation_survey_copy": {
+      "message": "DeepLをさらに改善できるよう、簡単なアンケートにご協力ください。"
+   },
+   "select_language": {
+      "description": "Label on language selector to select language",
+      "message": "言語を選択"
+   },
+   "selected_languages_EN_UK": {
+      "description": "English (UK)",
+      "message": "英語（UK）"
+   },
+   "selected_languages_EN_US": {
+      "description": "English (US)",
+      "message": "英語（US）"
+   },
+   "selected_languages_PT_BR": {
+      "message": "ポルトガル語（BR）"
+   },
+   "selected_languages_PT_PT": {
+      "message": "ポルトガル語"
+   },
+   "setting_advanced_mode_window": {
+      "description": "Toggle to enable/disable the advanced review window for Input field translations and improvements",
+      "message": "ブラウザ上での翻訳/推敲のためにアドバンスモードのウィンドウを表示"
+   },
+   "settings_aknowledgements": {
+      "message": "謝辞"
+   },
+   "settings_customizations_coming_soon": {
+      "message": "近日中に搭載予定！"
+   },
+   "settings_customizations_gdocs_content": {
+      "message": "正確で分かりやすい文書を作成し、簡単に翻訳できます。"
+   },
+   "settings_customizations_gdocs_cta": {
+      "message": "Google Docsで試してみる"
+   },
+   "settings_customizations_gmail_content": {
+      "message": "簡単かつ瞬時に、メールを翻訳したり文章をブラッシュアップしたりできます。"
+   },
+   "settings_customizations_gmail_cta": {
+      "message": "Gmailで試してみる"
+   },
+   "settings_customizations_gslides_content": {
+      "message": "説得力のあるプレゼンを外国語で作成できます。"
+   },
+   "settings_customizations_gslides_cta": {
+      "message": "Googleスライドで試す"
+   },
+   "settings_customizations_linkedin_content": {
+      "message": "潜在的な雇用主や同僚にプロフェッショナルな印象を与えられます。"
+   },
+   "settings_customizations_linkedin_cta": {
+      "message": "LinkedInで試してみる"
+   },
+   "settings_customizations_twitter_content": {
+      "message": "スレッドのツイートや自身のツイートを瞬時に翻訳できます。"
+   },
+   "settings_customizations_twitter_cta": {
+      "message": "Xで試す"
+   },
+   "settings_customizations_twitter_title": {
+      "message": "X（旧ツイッター）"
+   },
+   "settings_customizations_whatsapp_content": {
+      "message": "メッセージを翻訳し、言語の壁を超えてコミュニケーションを取ることができます。"
+   },
+   "settings_customizations_whatsapp_cta": {
+      "message": "WhatsAppで試してみる"
+   },
+   "settings_customizations_youtube_content": {
+      "message": "ユーザーのコメントを素早く翻訳"
+   },
+   "settings_customizations_youtube_cta": {
+      "message": "YouTubeで試す"
+   },
+   "settings_floating_icon_toggle_title": {
+      "message": "DeepLのアイコンを表示"
+   },
+   "settings_fpt_always_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "常に翻訳する原文言語"
+   },
+   "settings_fpt_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "ページ全体を次の言語に自動で翻訳"
+   },
+   "settings_fpt_blacklist_domains": {
+      "message": "ページ全体の翻訳のポップアップウィンドウを非表示にするサイト"
+   },
+   "settings_fpt_blacklist_languages": {
+      "message": "ページ全体の翻訳のポップアップウィンドウを非表示にする原文言語"
+   },
+   "settings_fpt_lang_select": {
+      "message": "ウェブサイトを次の言語に翻訳"
+   },
+   "settings_fpt_never_translate_from": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "自動で翻訳しない原文言語"
+   },
+   "settings_fpt_never_translate_sites": {
+      "message": "自動で翻訳しないサイト"
+   },
+   "settings_fpt_no_sites_line_1": {
+      "message": "まだ何も追加されていません。"
+   },
+   "settings_fpt_no_sites_line_2": {
+      "message": "自動で翻訳したくないサイトがあれば、DeepLのアイコンを使ってリストに追加できます。"
+   },
+   "settings_fpt_popup_heading": {
+      "message": "ページ全体の翻訳のポップアップを表示"
+   },
+   "settings_fpt_popup_subtext": {
+      "message": "ウェブページ全体の翻訳機能を利用できる時にポップアップウィンドウを表示します。"
+   },
+   "settings_fpt_reset": {
+      "message": "ページ全体の翻訳のポップアップウィンドウ設定をリセット"
+   },
+   "settings_fpt_reset_button": {
+      "message": "すべてリセット"
+   },
+   "settings_language_selector_empty": {
+      "message": "言語をお選びください"
+   },
+   "settings_language_selector_multiple_label_default": {
+      "message": "言語を追加"
+   },
+   "settings_menu_full_page_translation": {
+      "message": "ページ全体の翻訳"
+   },
+   "settings_menu_reading": {
+      "message": "読む"
+   },
+   "settings_menu_writing": {
+      "message": "書く"
+   },
+   "settings_navigation_customizations_settings": {
+      "message": "連携"
+   },
+   "settings_navigation_general_settings": {
+      "message": "一般設定"
+   },
+   "settings_reading_adjust_position": {
+      "message": "ウィンドウの位置"
+   },
+   "settings_reading_adjust_position_default": {
+      "message": "デフォルトの位置"
+   },
+   "settings_reading_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "選択したテキストを常に次の言語に翻訳"
+   },
+   "settings_reading_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while reading will not show up.",
+      "message": "テキスト選択時にDeepLのアイコン表示をオフにするサイト"
+   },
+   "settings_reading_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while reading icon functionality",
+      "message": "テキスト選択時に表示されるアイコンです。"
+   },
+   "settings_reading_enable_icon_everywhere_label": {
+      "description": "Switch button label to toggle select to translate functionality everywhere",
+      "message": "DeepLのアイコンを常に表示"
+   },
+   "settings_reading_shortcut_change": {
+      "message": "ショートカットキーの変更はこちら"
+   },
+   "settings_reading_shortcut_label": {
+      "message": "読みながら翻訳するためのショートカットキー"
+   },
+   "settings_set_shortcuts_headline": {
+      "description": "The headline for the shortcut setting",
+      "message": "ショートカットキー"
+   },
+   "settings_set_shortcuts_link": {
+      "description": "A message which contains a link to the browser settings to set shortcut for extensions.",
+      "message": "ショートカットキーの設定はこちら"
+   },
+   "settings_title": {
+      "message": "設定"
+   },
+   "settings_writing_always_translate_into": {
+      "description": "The language list comes from this key: supported_languages_",
+      "message": "入力したテキストを常に次の言語に翻訳"
+   },
+   "settings_writing_disable_icon_per_site": {
+      "description": "Setting section title with a list of websites where the icon for translate while writing will not show up. The user can remove them from here.",
+      "message": "テキスト入力時にDeepLのアイコン表示をオフにするサイト"
+   },
+   "settings_writing_enable_icon_everywhere_description": {
+      "description": "Text describing the translate while writing icon functionality",
+      "message": "テキスト入力時に表示されるアイコンです。"
+   },
+   "settings_writing_enable_icon_everywhere_label": {
+      "message": "テキスト入力時にDeepLのアイコンを常に表示"
+   },
+   "settings_writing_set_shortcut": {
+      "description": "Set another shortcut",
+      "message": "別のショートカットキーを設定する"
+   },
+   "settings_writing_shortcut_change": {
+      "message": "ショートカットキーの変更はこちら"
+   },
+   "settings_writing_shortcut_label": {
+      "message": "読みながら翻訳するためのショートカットキー"
+   },
+   "settings_writing_shortcut_label_change_language": {
+      "message": "訳文の言語を変更するためのショートカットキー"
+   },
+   "settings_writing_shortcut_translate_writing": {
+      "message": "文章を翻訳するためのショートカットキー"
+   },
+   "settings_writing_show_icon_line_1": {
+      "message": "DeepLのアイコンを常に表示"
+   },
+   "settings_writing_show_icon_line_2": {
+      "message": "テキスト入力時に表示されるアイコンです。"
+   },
+   "side_panel_translate_input_prompt": {
+      "description": "Placeholder text in side panel translator source text field",
+      "message": "翻訳するにはテキストを入力してください。"
+   },
+   "side_panel_translate_input_prompt_description": {
+      "description": "Further placeholder description in side panel translator source text field",
+      "message": "訳文が下に表示されます。"
+   },
+   "sidepanel_survey_call_to_action": {
+      "message": "アンケートに答える"
+   },
+   "sidepanel_survey_content": {
+      "message": "アンケートの所要時間は2分ほどです。"
+   },
+   "sidepanel_survey_header": {
+      "message": "アップデートに関するご意見をお寄せください。"
+   },
+   "supported_languages_AR": {
+      "message": "アラビア語"
+   },
+   "supported_languages_BG": {
+      "description": "Name of language",
+      "message": "ブルガリア語"
+   },
+   "supported_languages_CS": {
+      "description": "Name of language",
+      "message": "チェコ語"
+   },
+   "supported_languages_DA": {
+      "description": "Name of language",
+      "message": "デンマーク語"
+   },
+   "supported_languages_DE": {
+      "description": "Name of language",
+      "message": "ドイツ語"
+   },
+   "supported_languages_EL": {
+      "description": "Name of language",
+      "message": "ギリシャ語"
+   },
+   "supported_languages_EN": {
+      "description": "Name of language",
+      "message": "英語"
+   },
+   "supported_languages_EN_UK": {
+      "description": "English (British)",
+      "message": "英語（イギリス）"
+   },
+   "supported_languages_EN_US": {
+      "description": "English (American)",
+      "message": "英語（アメリカ）"
+   },
+   "supported_languages_ES": {
+      "description": "Name of language",
+      "message": "スペイン語"
+   },
+   "supported_languages_ET": {
+      "description": "Name of language",
+      "message": "エストニア語"
+   },
+   "supported_languages_FI": {
+      "description": "Name of language",
+      "message": "フィンランド語"
+   },
+   "supported_languages_FR": {
+      "description": "Name of language",
+      "message": "フランス語"
+   },
+   "supported_languages_HU": {
+      "description": "Name of language",
+      "message": "ハンガリー語"
+   },
+   "supported_languages_ID": {
+      "description": "Name of language",
+      "message": "インドネシア語"
+   },
+   "supported_languages_IT": {
+      "description": "Name of language",
+      "message": "イタリア語"
+   },
+   "supported_languages_JA": {
+      "description": "Name of language",
+      "message": "日本語"
+   },
+   "supported_languages_KO": {
+      "description": "Name of language",
+      "message": "韓国語"
+   },
+   "supported_languages_LT": {
+      "description": "Name of language",
+      "message": "リトアニア語"
+   },
+   "supported_languages_LV": {
+      "description": "Name of language",
+      "message": "ラトビア語"
+   },
+   "supported_languages_NB": {
+      "description": "Name of language",
+      "message": "ノルウェー語（ブークモール）"
+   },
+   "supported_languages_NL": {
+      "description": "Name of language",
+      "message": "オランダ語"
+   },
+   "supported_languages_PL": {
+      "description": "Name of language",
+      "message": "ポーランド語"
+   },
+   "supported_languages_PT": {
+      "description": "Name of language",
+      "message": "ポルトガル語"
+   },
+   "supported_languages_PT_BR": {
+      "message": "ポルトガル語（ブラジル）"
+   },
+   "supported_languages_PT_PT": {
+      "message": "ポルトガル語"
+   },
+   "supported_languages_RO": {
+      "description": "Name of language",
+      "message": "ルーマニア語"
+   },
+   "supported_languages_RU": {
+      "description": "Name of language",
+      "message": "ロシア語"
+   },
+   "supported_languages_SK": {
+      "description": "Name of language",
+      "message": "スロバキア語"
+   },
+   "supported_languages_SL": {
+      "description": "Name of language",
+      "message": "スロベニア語"
+   },
+   "supported_languages_SV": {
+      "description": "Name of language",
+      "message": "スウェーデン語"
+   },
+   "supported_languages_TR": {
+      "description": "Name of language",
+      "message": "トルコ語"
+   },
+   "supported_languages_UK": {
+      "message": "ウクライナ語"
+   },
+   "supported_languages_ZH": {
+      "description": "Name of language",
+      "message": "中国語（簡体字）"
+   },
+   "supported_languages_ZH_HANT": {
+      "description": "Chinese (traditional)",
+      "message": "中国語（繁体字）"
+   },
+   "supported_languages_undefined": {
+      "description": "The user has not yet selected a target language.",
+      "message": "お選びください"
+   },
+   "survey_popup_launch_button": {
+      "description": "Opens the survey page",
+      "message": "アンケートに答える"
+   },
+   "survey_popup_primary_text": {
+      "description": "Title of survey popup on settings page",
+      "message": "ご意見をお寄せください。"
+   },
+   "survey_popup_secondary_text": {
+      "description": "Explanation on survey popup on settings page",
+      "message": "アンケートの所要時間は2分ほどです。"
+   },
+   "switch_component_off": {
+      "description": "The OFF state for the switch ui element",
+      "message": "OFF"
+   },
+   "switch_component_on": {
+      "description": "The ON state for the switch ui element",
+      "message": "ON"
+   },
+   "toggle_off": {
+      "description": "Label on a button to turn a toggle off",
+      "message": "無効にする"
+   },
+   "toggle_on": {
+      "description": "Label on button to turn a toggle on",
+      "message": "有効にする"
+   },
+   "toolbar_upgrade_to_pro_button": {
+      "description": "Button in popup toolbar to allow logged on users to upgrade to Pro - launches pricing page of DeepL Pro, or Write Pro if user already has DeepL Pro",
+      "message": "アップグレード"
+   },
+   "tooltip_translator_free_limited": {
+      "message": "DeepL翻訳の無料版には使用制限があります"
+   },
+   "tooltip_translator_fully_encrypted": {
+      "message": "訳文は完全に暗号化されます"
+   },
+   "tooltip_write_free_limited": {
+      "message": "DeepL Writeの無料版には使用制限があります"
+   },
+   "tooltip_write_fully_encrypted": {
+      "message": "テキストは完全に暗号化されます"
+   },
+   "translate_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL translate functionality and we detect that the user is writing in a language we don't support.",
+      "message": "DeepL翻訳で未対応の言語です。"
+   },
+   "twitter_web_alternatives_link": {
+      "message": "DeepL.comで見る"
+   },
+   "twitter_web_translate_tweet_link": {
+      "message": "DeepLで翻訳"
+   },
+   "ui_alternatives_segmentation_sentence": {
+      "message": "文全体"
+   },
+   "ui_alternatives_segmentation_word": {
+      "message": "単語"
+   },
+   "ui_alternatives_title": {
+      "message": "代案"
+   },
+   "ui_auto_translate_label": {
+      "message": "自動で翻訳する"
+   },
+   "ui_auto_translate_tooltip": {
+      "message": "$sourceLang$のページを訪問するたびに自動で翻訳を行います。",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_doc_trans_link": {
+      "message": "\u003CdeeplLink>DeepL.com\u003C/deeplLink>で文書ファイルを丸ごと翻訳できます。"
+   },
+   "ui_formality_automatic": {
+      "description": "For the \"formality\" dropdown. Option \"automatic\"",
+      "message": "自動"
+   },
+   "ui_formality_formal": {
+      "description": "For the \"formality\" dropdown. Option \"formal\"",
+      "message": "敬称"
+   },
+   "ui_formality_informal": {
+      "description": "For the \"formality\" dropdown. Option \"informal\"",
+      "message": "親称"
+   },
+   "ui_fpt_hide_cancel": {
+      "message": "戻る"
+   },
+   "ui_fpt_hide_checkbox": {
+      "message": "今後表示しない"
+   },
+   "ui_fpt_hide_confirm": {
+      "message": "確定"
+   },
+   "ui_fpt_hide_heading": {
+      "message": "ページ全体の翻訳のポップアップウィンドウ"
+   },
+   "ui_fpt_hide_option_domain": {
+      "message": "このサイトのみ表示しない"
+   },
+   "ui_fpt_hide_option_fpt": {
+      "message": "すべてのサイトで常に表示しない"
+   },
+   "ui_fpt_hide_option_lang": {
+      "message": "この原文言語でのみ表示しない"
+   },
+   "ui_fpt_translate_button": {
+      "message": "ページを翻訳"
+   },
+   "ui_full_page_translate_widget_text": {
+      "message": "ページ全体の翻訳"
+   },
+   "ui_gdocs_deepl_write": {
+      "message": "選択したテキストを推敲"
+   },
+   "ui_gdocs_onboarding_image_text": {
+      "message": "テキストを選択してクリックします。"
+   },
+   "ui_gdocs_onboarding_title": {
+      "message": "Google Docsを\u003Cbr>精度よく翻訳しましょう"
+   },
+   "ui_gdocs_onboarding_usp_1": {
+      "message": "ドキュメント上で\u003Cstrong>訳文を確認\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_2": {
+      "message": "\u003Cstrong>フォーマットはそのままに\u003C/strong>、\u003C/strong>テキストを訳文に置き換え\u003C/strong>"
+   },
+   "ui_gdocs_onboarding_usp_3": {
+      "message": "音声読み上げや辞書データベースで\u003Cstrong>いつでもどこでも学習\u003C/strong>"
+   },
+   "ui_gdocs_replace": {
+      "message": "置き換え"
+   },
+   "ui_gdocs_replace_cta": {
+      "message": "ファイルのテキストを訳文で置き換える"
+   },
+   "ui_gdocs_replace_tooltip": {
+      "message": "選択したテキストを訳文で置き換える"
+   },
+   "ui_gdocs_setting_switch": {
+      "description": "Toggle to allow user to show/hide the Google Docs integration",
+      "message": "GoogleドキュメントでDeepLをオン/オフにする"
+   },
+   "ui_gdocs_translate_tooltip": {
+      "message": "DeepLで翻訳"
+   },
+   "ui_gdocs_translate_tooltip_2": {
+      "message": "選択したテキストを翻訳"
+   },
+   "ui_gdocs_turn_off": {
+      "message": "DeepLをオフ"
+   },
+   "ui_gdocs_welcome_title": {
+      "description": "Visible first time user clicks on the DeepL icon in the Google Docs toolbar, along with onboarding text",
+      "message": "Googleドキュメント版DeepL"
+   },
+   "ui_gdocs_welcome_usp1": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "ワンクリックで\u003Cstrong>選択したテキストを翻訳\u003C/strong>"
+   },
+   "ui_gdocs_welcome_usp2": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>書いた文章を推敲\u003C/strong>し、明確で誤りのない文書を作成"
+   },
+   "ui_gdocs_welcome_usp3": {
+      "description": "Appears in welcome dialog in Google Docs first time user clicks on DeepL icon in toolbar",
+      "message": "\u003Cstrong>訳や言い回しに対する代案\u003C/strong>を採り入れ、表現を磨く"
+   },
+   "ui_gdocs_write_accept": {
+      "message": "文書内で置き換え"
+   },
+   "ui_gdocs_write_cancel": {
+      "description": "Dismiss",
+      "message": "閉じる"
+   },
+   "ui_gdocs_write_done": {
+      "description": "Your writing has been improved:",
+      "message": "文章を推敲しました。"
+   },
+   "ui_gdocs_write_loading": {
+      "message": "文章を推敲中です..."
+   },
+   "ui_gslides_apply_tooltip": {
+      "message": "変更を許可"
+   },
+   "ui_gslides_feedback_content": {
+      "message": "プロダクト改善のため、アンケートにご協力ください。所要時間は2分ほどです。"
+   },
+   "ui_gslides_feedback_cta": {
+      "message": "アンケートを開始"
+   },
+   "ui_gslides_feedback_title": {
+      "message": "DeepLについてご意見をお聞かせください"
+   },
+   "ui_gslides_limit_reached_anonymous_content": {
+      "message": "一度に翻訳できるのは、1,500文字までです。DeepLアカウントを作成すると、一度に翻訳できる文字数を増やせます。"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_login": {
+      "message": "ログイン"
+   },
+   "ui_gslides_limit_reached_anonymous_cta_signup": {
+      "message": "無料でアカウントを作成"
+   },
+   "ui_gslides_limit_reached_anonymous_title": {
+      "message": "文字数制限を増やす"
+   },
+   "ui_gslides_limit_reached_logged_in_content": {
+      "message": "一度に翻訳できるのは、5,000文字までです。文字数制限なしで翻訳するには、DeepL Proをお試しください。30日間無料です。"
+   },
+   "ui_gslides_limit_reached_logged_in_cta": {
+      "message": "Proを無料で体験する"
+   },
+   "ui_gslides_limit_reached_logged_in_title": {
+      "message": "文字数制限なしのDeepL Proをお試しください"
+   },
+   "ui_gslides_onboarding_label_beta": {
+      "message": "ベータ版"
+   },
+   "ui_gslides_onboarding_title": {
+      "message": "GoogleスライドでDeepLを使いましょう"
+   },
+   "ui_gslides_onboarding_ups_1": {
+      "message": "選択したテキストやスライド全体をその場で翻訳"
+   },
+   "ui_gslides_onboarding_ups_2": {
+      "message": "スライドの品質を高める文章チェックと推敲"
+   },
+   "ui_gslides_revert_tooltip": {
+      "message": "元に戻す"
+   },
+   "ui_gslides_toggle_customization": {
+      "message": "GoogleスライドでDeepLをオン/オフにする"
+   },
+   "ui_gslides_translate_cta": {
+      "message": "翻訳"
+   },
+   "ui_gslides_translate_from": {
+      "message": "原文："
+   },
+   "ui_gslides_translate_into": {
+      "message": "訳文："
+   },
+   "ui_gslides_unsaved_asset_warning_explanation": {
+      "description": "Further information on warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "そうすることで、スライドに最近追加した画像、動画、音声が失われるのを防ぐことができます。"
+   },
+   "ui_gslides_unsaved_asset_warning_main": {
+      "description": "Warning shown to users with unsaved assets that would be lost on slide translate/improve",
+      "message": "まず、翻訳または推敲したいテキストを選択してください。"
+   },
+   "ui_gslides_write_cta": {
+      "message": "推敲"
+   },
+   "ui_gslides_write_tooltip": {
+      "message": "間違いを修正し、文章を改善します。対象言語は英語とドイツ語のみです。"
+   },
+   "ui_hub_customization_promotion_content": {
+      "message": "\u003Cspan>GmailやGoogle Docs\u003C/span>上で素早く翻訳し、瞬時に文章をブラッシュアップできます。"
+   },
+   "ui_hub_customization_promotion_cta": {
+      "message": "アプリの連携を表示"
+   },
+   "ui_hub_do_not_show_again": {
+      "message": "今後表示しない"
+   },
+   "ui_hub_tip_badge": {
+      "message": "ヒント"
+   },
+   "ui_inline_translate_widget_text": {
+      "message": "選択したテキストの翻訳"
+   },
+   "ui_inline_translation_copied": {
+      "message": "訳文をコピーしました"
+   },
+   "ui_inline_translation_copy": {
+      "message": "クリップボードにコピー"
+   },
+   "ui_inline_translation_dictionary": {
+      "description": "Dictionary",
+      "message": "辞書データベース"
+   },
+   "ui_inline_translation_listen_play": {
+      "message": "音声読み上げ"
+   },
+   "ui_inline_translation_listen_stop": {
+      "message": "読み上げを停止"
+   },
+   "ui_inline_translation_listen_to_new": {
+      "description": "Option for listening to improved text",
+      "message": "推敲版の音声読み上げ"
+   },
+   "ui_inline_translation_listen_to_original": {
+      "message": "原文の音声読み上げ"
+   },
+   "ui_inline_translation_listen_to_translation": {
+      "message": "訳文の音声読み上げ"
+   },
+   "ui_inline_translation_no_entry_dictionary": {
+      "message": "'\u003Cstrong>$originalSnippet$\u003C/strong>'に一致する結果がありません。",
+      "placeholders": {
+         "originalSnippet": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_inline_translation_problem_loading_dictionary": {
+      "message": "辞書データベースを読み込めません。もう一度お試しください。"
+   },
+   "ui_inline_translation_see_alternatives": {
+      "message": "DeepL.comで訳の代案を確認する"
+   },
+   "ui_inline_translation_see_alternatives_v2": {
+      "message": "DeepL.com で見る"
+   },
+   "ui_inline_translation_see_alternatives_v3": {
+      "message": "便利な機能を試す"
+   },
+   "ui_inline_translation_source_language_detected": {
+      "description": "Suffix to the displayed language selection to show that it's been automatically \"detected\" from the text",
+      "message": "（自動検出）"
+   },
+   "ui_inline_translation_source_language_unavailable": {
+      "description": "We display this message when a user tries to translate from a source language that DeepL doesn't support yet.",
+      "message": "未対応の言語"
+   },
+   "ui_inline_translation_translate_only_one_word": {
+      "message": "単語をひとつずつ翻訳すると辞書データベースの結果が表示されます。"
+   },
+   "ui_inline_translation_unavailable_lang_pair": {
+      "message": "この言語の組み合わせでは辞書データベースをご利用になれません。"
+   },
+   "ui_input_translate_widget_text": {
+      "message": "入力内容をワンクリックで翻訳"
+   },
+   "ui_login_body": {
+      "message": "ページ全体を翻訳するにはDeepL Proに\u003CloginLink>ログイン\u003C/loginLink>するか\u003CtryLink>無料体験をお試しください\u003C/tryLink>。"
+   },
+   "ui_login_header": {
+      "message": "このページを翻訳しますか？\u003Cbadge>PRO\u003C/badge>"
+   },
+   "ui_no_translate_language": {
+      "message": "原文が$sourceLang$の時に翻訳しない",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_no_translate_website": {
+      "message": "このサイトを翻訳しない"
+   },
+   "ui_notice_no_translate_change_option": {
+      "message": "\u003CsettingsLink>settings\u003C/settingsLink>で変更できます。"
+   },
+   "ui_notice_no_translate_language": {
+      "message": "原文が\u003Cstrong>$sourceLang$\u003C/strong>の時は翻訳しない設定になっています。",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website": {
+      "message": "$website$を翻訳しない設定になっています。",
+      "placeholders": {
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notice_no_translate_website_and_language": {
+      "message": " \u003Cstrong>$website$\u003C/strong>を翻訳しない設定になっています。また原文が\u003Cstrong>$sourceLang$\u003C/strong>の時に翻訳しない設定になっています。",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$2"
+         },
+         "website": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_notification_fpt_hide": {
+      "description": "The notification that shows up when somebody decides to hide \"Full Page Translation\", letting them know they can reenable the feature on the settings page",
+      "message": "ページ全体の翻訳のポップアップウィンドウを表示しない設定になっています。設定画面で変更できます。"
+   },
+   "ui_read_more": {
+      "message": "詳細を見る"
+   },
+   "ui_share_button": {
+      "message": "コピー"
+   },
+   "ui_share_button_tooltip_copied": {
+      "message": "コピーしました"
+   },
+   "ui_share_button_tooltip_copy": {
+      "message": "リンクをコピーします"
+   },
+   "ui_share_error": {
+      "message": "コピー中に問題が発生しました"
+   },
+   "ui_share_feedback": {
+      "description": "The link to our feedback survey.",
+      "message": "ご意見をお聞かせください"
+   },
+   "ui_share_success": {
+      "description": "A button to share the link of the Chrome extension to my friends\n\nIf I click on that button:\n- The link to the Chrome Store is copied into the clipboard\n- A message is sent to the user confirming this and letting them know that they can share that link with their friends. ",
+      "message": "共有リンクをコピーしました"
+   },
+   "ui_share_title": {
+      "message": "友だちにDeepLを紹介しましょう！"
+   },
+   "ui_target_language_select": {
+      "message": "どの言語に翻訳しますか？"
+   },
+   "ui_toaster_feedback_form_line_1": {
+      "message": "ぜひご協力ください！"
+   },
+   "ui_toaster_feedback_form_line_2": {
+      "message": "1分ほどのアンケートにご回答いただけますか？"
+   },
+   "ui_toaster_gmail_feedback_button": {
+      "description": "The action button for the gmail customization survey",
+      "message": "アンケートを開始"
+   },
+   "ui_toaster_gmail_feedback_content": {
+      "description": "The content of a feedback popup for gmail users",
+      "message": "プロダクト改善のため、アンケートにご協力ください。所要時間は2分ほどです。"
+   },
+   "ui_toaster_gmail_feedback_title": {
+      "description": "The title of a popup box where we ask for a user's opinion on the Gmail customization",
+      "message": "DeepLについてご意見をお聞かせください"
+   },
+   "ui_toaster_how_was_your_experience_bad": {
+      "message": "不満がある"
+   },
+   "ui_toaster_how_was_your_experience_good": {
+      "message": "満足している"
+   },
+   "ui_toaster_how_was_your_experience_line_1": {
+      "message": "DeepLのChrome拡張機能についてご意見やご感想をお聞かせください。"
+   },
+   "ui_toaster_how_was_your_experience_line_1_edge": {
+      "message": "DeepLのEdge拡張機能についてご意見やご感想をお聞かせください。"
+   },
+   "ui_toaster_how_was_your_experience_line_1_firefox": {
+      "description": "See bottom right of the screenshot. A message pops up when the user has done a few translations, asking them to give feedback on the Firefox extension\n\nNote: The rest of the pop-up has already been translated for Chrome (e.g. \"How has your experience been?\") ",
+      "message": "DeepLのFirefox拡張機能について、ご意見やご感想をお聞かせください。"
+   },
+   "ui_toaster_how_was_your_experience_line_2": {
+      "message": "使い心地はいかがですか？"
+   },
+   "ui_toaster_how_was_your_experience_line_2_edge": {
+      "message": "使い勝手はいかがですか？"
+   },
+   "ui_toaster_how_was_your_experience_line_2_firefox": {
+      "description": "The second line of the first screen of the popup window that appears after the user has used the extension for a bit, asking for their feedback. \n\nThe source copy is identical to the original Chrome key, but this will only be used on Firefox",
+      "message": "使い心地はいかがですか？"
+   },
+   "ui_toaster_write_a_review_cta": {
+      "message": "レビューを書く"
+   },
+   "ui_toaster_write_a_review_line_1": {
+      "message": "ありがとうございます！"
+   },
+   "ui_toaster_write_a_review_line_2": {
+      "message": "Chrome ウェブストアでご意見やご感想をシェアしていただけますか？"
+   },
+   "ui_toaster_write_a_review_line_2_edge": {
+      "message": "Edge アドオンでご意見やご感想を共有していただけますか？"
+   },
+   "ui_toaster_write_a_review_line_2_firefox": {
+      "description": "Part of the flow in the pop up (see screenshot) when a user says their experience has been positive. \n\nNote: The rest of the pop-up is already translated for Chrome",
+      "message": "レビューをお願いできますか？"
+   },
+   "ui_translated_automatically": {
+      "message": "\u003Cstrong>$sourceLang$\u003C/strong>の原文を自動で翻訳しました。",
+      "placeholders": {
+         "sourceLang": {
+            "content": "$1"
+         }
+      }
+   },
+   "ui_try_button": {
+      "description": "The button leads to the document translator:  https://www.deepl.com/translator/files ",
+      "message": "無料で体験"
+   },
+   "ui_widget_feature_free": {
+      "message": "無料"
+   },
+   "ui_widget_feature_pro": {
+      "message": "PROでご利用可能"
+   },
+   "ui_zendesk_autotranslate_start": {
+      "message": "スレッドを翻訳"
+   },
+   "ui_zendesk_autotranslate_stop": {
+      "message": "翻訳を停止"
+   },
+   "ui_zendesk_input_language_mismatch": {
+      "message": "送信先の相手の使用言語と異なります。それでも送信しますか？"
+   },
+   "ui_zendesk_input_tooltip": {
+      "message": "翻訳"
+   },
+   "ui_zendesk_language_detected": {
+      "message": "（自動検出）"
+   },
+   "ui_zendesk_message_translate": {
+      "message": "このチケットを翻訳"
+   },
+   "ui_zendesk_modal_deepl_translate_into": {
+      "message": "DeepLで次の言語に翻訳"
+   },
+   "ui_zendesk_modal_language_not_supported_line_1": {
+      "message": "DeepLで未対応の言語"
+   },
+   "ui_zendesk_modal_language_not_supported_line_2": {
+      "message": "対応出来次第お知らせしますので、今しばらくお待ちください。"
+   },
+   "ui_zendesk_modal_ok": {
+      "message": "確定"
+   },
+   "ui_zendesk_modal_turn_deepl_off": {
+      "message": "DeepLをオフにする"
+   },
+   "ui_zendesk_modal_turn_deepl_on": {
+      "message": "DeepLをオンにする"
+   },
+   "ui_zendesk_modal_welcome": {
+      "message": "ZendeskでDeepLを使いましょう"
+   },
+   "ui_zendesk_modal_what_is_your_primary_language": {
+      "message": "主にどの言語を使用しますか？"
+   },
+   "ui_zendesk_onboarding_free_trial_notice": {
+      "message": "\u003Cstrong>期間限定無料\u003C/strong>でお試しいただける拡張機能です。\u003CloginLink>ご意見やご感想をお聞かせください\u003C/loginLink>！"
+   },
+   "ui_zendesk_onboarding_title": {
+      "message": "複数言語でチケットを\u003Cbr>管理しましょう"
+   },
+   "ui_zendesk_onboarding_usp_1": {
+      "message": "\u003Cstrong>メッセージやスレッドを瞬時に翻訳\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_2": {
+      "message": "\u003Cstrong>お客様の言語で返信\u003C/strong>"
+   },
+   "ui_zendesk_onboarding_usp_3": {
+      "message": "どの言語でも\u003Cstrong>自然な表現でプロフェッショナルに回答\u003C/strong>"
+   },
+   "ui_zendesk_senders_language": {
+      "message": "問い合わせの言語"
+   },
+   "warning_message_account_limit_reached": {
+      "message": "アカウントのご利用上限に達しました。上限を引き上げるには\u003CdeeplSupportLink>DeepLサポート\u003C/deeplSupportLink>までお問い合わせください。"
+   },
+   "warning_message_different_subscription_needed": {
+      "message": "ご登録のプランではこの機能をご利用いただけません。"
+   },
+   "warning_message_free_usage_limit_reached": {
+      "message": "無料でご利用いただける上限に達しました。さらに翻訳が必要ですか？"
+   },
+   "whatsapp_web_chat_settings_languageswitch_label": {
+      "message": "チャットを次の言語に翻訳"
+   },
+   "whatsapp_web_chat_translator_tooltip_settings_button": {
+      "message": "設定"
+   },
+   "whatsapp_web_chat_translator_tooltip_translate_button": {
+      "message": "チャットを翻訳"
+   },
+   "whatsapp_web_settings_languageswitch_label": {
+      "description": "Headline for the language switch",
+      "message": "メッセージを次の言語に翻訳"
+   },
+   "whatsapp_web_show_alternatives_link": {
+      "message": "DeepL.comで訳の代案を確認する"
+   },
+   "whatsapp_web_tooltip_settings_button": {
+      "message": "設定"
+   },
+   "whatsapp_web_tooltip_translate_button": {
+      "message": "翻訳"
+   },
+   "write_language_not_supported": {
+      "description": "We will show this message anywhere we have DeepL write functionality and we detect that the user is writing in a language we don't support. ",
+      "message": "DeepL Writeで未対応の言語です。"
+   },
+   "write_not_supported_language_message": {
+      "message": "DeepL Writeで未対応の言語です"
+   },
+   "write_see_language_supported": {
+      "message": "対応言語を確認する"
+   },
+   "write_style_options_button_label": {
+      "message": "文体"
+   },
+   "write_style_options_cta_apply": {
+      "message": "適用"
+   },
+   "write_style_options_cta_reset": {
+      "message": "リセット"
+   },
+   "write_style_options_description_style": {
+      "message": "読み手や目的に合わせて文章を書き換えます。"
+   },
+   "write_style_options_description_tone": {
+      "message": "選択したトーンの文章に書き換えます。"
+   },
+   "write_style_options_headline_style": {
+      "message": "文体を設定"
+   },
+   "write_style_options_headline_tone": {
+      "message": "トーンを設定"
+   },
+   "writing_config_tab_description": {
+      "message": "入力したテキストを次の言語に翻訳"
+   },
+   "writing_config_tab_language_selector_empty": {
+      "message": "言語を選択してください"
+   },
+   "writing_config_tab_switch_label": {
+      "message": "書きながら翻訳のアイコンを表示"
+   },
+   "writing_style_academic": {
+      "message": "学術"
+   },
+   "writing_style_business": {
+      "message": "ビジネス"
+   },
+   "writing_style_casual": {
+      "message": "カジュアル"
+   },
+   "writing_style_simple": {
+      "message": "一般"
+   },
+   "writing_tone_confident": {
+      "message": "自信を感じさせる"
+   },
+   "writing_tone_diplomatic": {
+      "message": "丁寧"
+   },
+   "writing_tone_enthusiastic": {
+      "message": "熱意を伝える"
+   },
+   "writing_tone_friendly": {
+      "message": "フレンドリー"
+   },
+   "youtube_alternatives_link": {
+      "message": "DeepL.comで見る"
+   },
+   "youtube_translate_comment_link": {
+      "message": "DeepLで翻訳"
+   },
+   "zendesk_glossary_remove_label": {
+      "description": "A link that allows users to disable the currently active glossary ",
+      "message": "外す"
+   },
+   "zendesk_glossary_toggle_label": {
+      "description": "This is just the word \"Glossary\" at the top of the feature. Users can click it to show or hide additional information about glossaries in the same dropdown.",
+      "message": "用語集"
+   },
+   "zendesk_limit_not_reached_free_account_content": {
+      "message": "上限なしの翻訳には、DeepL Pro Advancedにご登録ください。30日間無料です。"
+   },
+   "zendesk_limit_not_reached_free_account_infobox": {
+      "message": "DeepLの無料版を使用中です"
+   },
+   "zendesk_limit_not_reached_pro_user_content": {
+      "message": "上限なしの翻訳には、DeepL Pro AdvancedまたはUltimateにご登録ください。"
+   },
+   "zendesk_limit_not_reached_pro_user_infobox": {
+      "message": "ご登録中のプランでは、Zendeskでの翻訳に上限があります"
+   },
+   "zendesk_limit_reached_content": {
+      "message": "翻訳を続けるには、\u003Cstrong>DeepL Pro Advancedにご登録ください。\u003C/strong>30日間無料でお試しいただけます。"
+   },
+   "zendesk_limit_reached_free_account_infobox": {
+      "message": "DeepLの無料版を使用中です "
+   },
+   "zendesk_limit_reached_infobox": {
+      "message": "無料で翻訳できる上限に達しました。"
+   },
+   "zendesk_limit_reached_pro_user_content": {
+      "message": "翻訳を続けられるには、\u003Cstrong>DeepL Pro AdvancedまたはUltimateにご登録\u003C/strong>ください。\n\n"
+   },
+   "zendesk_limit_reached_pro_user_infobox": {
+      "message": "ご登録中のプランでは、Zendeskでの翻訳に上限があります"
+   },
+   "zendesk_no_glossaries_found": {
+      "message": "ご利用のアカウントで使用可能な用語集は見つかりませんでした。"
+   },
+   "zendesk_not_pro_user_body": {
+      "message": "用語集は、DeepL Proにのみ対応しています。"
+   },
+   "zendesk_onboarding_content_one": {
+      "message": "チケットを\u003Cstrong>$translationLimit$まで無料\u003C/strong>で即時翻訳",
+      "placeholders": {
+         "translationLimit": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_onboarding_content_three": {
+      "message": "常に\u003Cstrong>自然でプロフェッショナルな表現\u003C/strong>でコミュニケーション"
+   },
+   "zendesk_onboarding_content_two": {
+      "message": "顧客の言語で\u003Cstrong>回答\u003C/strong>"
+   },
+   "zendesk_plugin_extension_installed_content": {
+      "message": "チケットの問い合わせ内容を読む時、回答を作成する時に素早く翻訳できます。"
+   },
+   "zendesk_plugin_extension_installed_header": {
+      "message": "DeepLの統合完了"
+   },
+   "zendesk_plugin_extension_not_installed_content": {
+      "message": "既存のプラグインが完全統合型の拡張機能になりました。"
+   },
+   "zendesk_plugin_extension_not_installed_cta": {
+      "message": "無料でダウンロード"
+   },
+   "zendesk_plugin_extension_not_installed_header": {
+      "message": "より良い翻訳体験を"
+   },
+   "zendesk_popup_char_limit_content": {
+      "message": "無制限に翻訳するには、DeepL Pro Advancedにご登録ください。30日間無料でお試しいただけます。"
+   },
+   "zendesk_popup_char_limit_label": {
+      "message": "翻訳できるチケットは、残り$remainingTranslations$件です。",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_popup_on_off_label": {
+      "message": "ZendeskでDeepLをオン/オフにする"
+   },
+   "zendesk_translations_left_info": {
+      "message": "\u003Cstrong>残りの翻訳数：\u003C/strong>$remainingTranslations$",
+      "placeholders": {
+         "remainingTranslations": {
+            "content": "$1"
+         }
+      }
+   },
+   "zendesk_try_pro_advanced_button": {
+      "message": "Pro Advancedを無料で体験する"
+   },
+   "zendesk_try_pro_link": {
+      "message": "DeepL Proを無料で体験"
+   },
+   "zendesk_try_pro_log_in_link": {
+      "message": "すでに\u003Cstrong>Pro AdvancedまたはUltimateのアカウントをお持ちですか？\u003C/strong> \u003CloginLink>アカウントにログイン\u003C/loginLink>"
+   },
+   "zendesk_upgrade_cta": {
+      "message": "プランをアップグレード"
+   }
+}

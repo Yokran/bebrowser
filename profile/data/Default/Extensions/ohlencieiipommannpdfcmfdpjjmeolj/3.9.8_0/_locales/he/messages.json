@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "התאם את ההגדרות שלך כדי לשפר את החוויה שלך."
+   },
+   "affected_page": {
+      "message": "דף מושפע"
+   },
+   "blocked_by_extension": {
+      "message": "ייתכן ש-PDF PrintFriendly ייחסם על-ידי תוסף אחר שהתקנת, כמו חוסם פרסומות. נא השבת את התוספים האחרים באופן זמני ונסה ליצור PDF שוב."
+   },
+   "cancel": {
+      "message": "בטל"
+   },
+   "capture_screenshot_manually": {
+      "message": "השתמש בתכונת צילום המסך שלנו כדי ללכוד את הדף הזה ולאחר מכן ייצא אותו לתמונה או PDF."
+   },
+   "capturing": {
+      "message": "מצלם"
+   },
+   "capturing_desc": {
+      "message": "תופס את צילום המסך שלך…"
+   },
+   "choose_paper_size": {
+      "message": "בחר את גודל הנייר המועדף עליך עבור קבצי PDF."
+   },
+   "compress_pdf": {
+      "message": "דחיסת PDF"
+   },
+   "contact_us": {
+      "message": "צור קשר:"
+   },
+   "convert_pdf": {
+      "message": "המרת PDF"
+   },
+   "current_view_screenshot": {
+      "message": "צילום מסך"
+   },
+   "default_button": {
+      "message": "כפתור ברירת מחדל"
+   },
+   "default_mode": {
+      "message": "מצב ברירת מחדל"
+   },
+   "default_mode_checkbox": {
+      "message": "אל תציג את האפשרויות האלה שוב. ניתן להפעיל אותן מחדש בכל עת בהגדרות."
+   },
+   "default_mode_desc": {
+      "message": "בחר את הפעולה שצריכה להיבחר באופן אוטומטי בעת לחיצה על כפתור ההרחבה."
+   },
+   "delete": {
+      "message": "לחץ כדי למחוק"
+   },
+   "dialog_close": {
+      "message": "יציאה"
+   },
+   "dialog_text": {
+      "message": "שולח למדפסת שלך."
+   },
+   "dialog_text_btn": {
+      "message": "שלח שוב"
+   },
+   "dialog_title": {
+      "message": "הדף שלך תחת הדפסה"
+   },
+   "dont_show_again": {
+      "message": "אל תציג זאת שוב."
+   },
+   "edit_pdf": {
+      "message": "עריכת PDF"
+   },
+   "email": {
+      "message": "אימייל"
+   },
+   "email_article_sent": {
+      "message": "שלח לך מאמר"
+   },
+   "email_from": {
+      "message": "שולח"
+   },
+   "email_message": {
+      "message": "הודעה"
+   },
+   "email_product_sent_message": {
+      "message": "הודעת הדואר האלקטרוני שלך נשלחה. אתה יכול לסגור את הדף"
+   },
+   "email_send": {
+      "message": "שלח"
+   },
+   "email_sent_message": {
+      "message": "הודעת הדואר האלקטרוני שלך נשלחה"
+   },
+   "email_title": {
+      "message": "שלח דף זה"
+   },
+   "email_to": {
+      "message": "עבור"
+   },
+   "full_page_screenshot": {
+      "message": "צילום מסך של כל הדף"
+   },
+   "get_pro": {
+      "message": "שדרג"
+   },
+   "got_it": {
+      "message": "הבנתי"
+   },
+   "image": {
+      "message": "תמונה"
+   },
+   "image_size_pref": {
+      "message": "העדפת גודל תמונה"
+   },
+   "image_size_pref_desc": {
+      "message": "הגדר את גודל התמונות בעת צפייה בדפים עם התוסף."
+   },
+   "images": {
+      "message": "תמונות"
+   },
+   "lang_display_name": {
+      "message": "עברית (Hebrew)"
+   },
+   "language_setting": {
+      "message": "שפה"
+   },
+   "language_setting_desc": {
+      "message": "בחר את השפה המועדפת עליך."
+   },
+   "letter_paper_size": {
+      "message": "מכתב"
+   },
+   "login": {
+      "message": "התחברות"
+   },
+   "margin": {
+      "message": "שולים"
+   },
+   "no": {
+      "message": "לא"
+   },
+   "off": {
+      "message": "כבוי"
+   },
+   "other_tools": {
+      "message": "כלים נוספים"
+   },
+   "page_blocking_printfriendly": {
+      "message": "דף זה חוסם את PrintFriendly"
+   },
+   "page_size": {
+      "message": "גודל עמוד"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "הורד PDF שלך"
+   },
+   "pdf_generation_error": {
+      "message": "שגיאה ביצירת PDF"
+   },
+   "pdf_head": {
+      "message": "מכינים לך את הPDF"
+   },
+   "pdf_paper_size": {
+      "message": "גודל נייר PDF"
+   },
+   "print": {
+      "message": "הדפסה"
+   },
+   "print_pdf": {
+      "message": "הדפסה & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "הסר מודעות וניווט מדפי אינטרנט. עובד מצוין עם מאמרים ודפי טקסט."
+   },
+   "printer_friendly_page": {
+      "message": "דף ידידותי להדפסה"
+   },
+   "printer_friendly_suggestion": {
+      "message": "הגרסה הידידותית להדפסה לא כפי שציפית? נסה לעשות צילום מסך."
+   },
+   "printfriendly_page": {
+      "message": "דף PrintFriendly"
+   },
+   "pro_alert": {
+      "message": "תכונת שדרוג"
+   },
+   "reach_out_for_support": {
+      "message": "לפרטים נוספים או תמיכה, אנא פנה אלינו ב"
+   },
+   "read_more": {
+      "message": "קראו עוד"
+   },
+   "remove_ads_description": {
+      "message": "הסר פרסומות וניווט מדפי אינטרנט. עובד היטב עם מאמרים ודפים ממוקדי טקסט."
+   },
+   "remove_images": {
+      "message": "הסרת תמונות"
+   },
+   "report": {
+      "message": "דווח"
+   },
+   "resolve_issue": {
+      "message": "ונשמח לעזור בפתרון הבעיה."
+   },
+   "save_as_image": {
+      "message": "שמור כתמונה"
+   },
+   "save_as_pdf": {
+      "message": "שמור כ-PDF"
+   },
+   "save_changes": {
+      "message": "שמור"
+   },
+   "screenshot": {
+      "message": "צילום מסך"
+   },
+   "screenshot_image_format": {
+      "message": "פורמט תמונת צילום מסך"
+   },
+   "screenshot_ready_soon": {
+      "message": "צילום המסך שלך יהיה מוכן בעוד רגע."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly עובד על רוב האתרים, מה שמקל על יצירת דפים ותמונות מסך נקיים וידידותיים להדפסה. עם זאת, דפים מסוימים—כמו הגדרות דפדפן, חנויות תוספים ואזורים מוגבלים אחרים—אסורים בשל מדיניות הדפדפן. אנא צרו קשר אם יש לכם שאלות."
+   },
+   "settings": {
+      "message": "הגדרות"
+   },
+   "settings_saved": {
+      "message": "ההגדרות שלך נשמרו."
+   },
+   "show_screenshot_message": {
+      "message": "הצג הודעת צילום מסך בתצוגה ידידותית להדפסה"
+   },
+   "something_went_wrong": {
+      "message": "משהו השתבש"
+   },
+   "still_does_not_work": {
+      "message": "אם זה עדיין לא עובד, אנא צור איתנו קשר בכתובת"
+   },
+   "stop_capturing": {
+      "message": "הפסק צילום"
+   },
+   "strict_security_settings": {
+      "message": "אנו מצטערים, אך לדף זה יש הגדרות אבטחה מחמירות (מדיניות אבטחת תוכן) שמונעות מאיתנו ליצור גרסה PrintFriendly של הדף."
+   },
+   "style": {
+      "message": "סגנון"
+   },
+   "take_screenshot": {
+      "message": "צלם צילום מסך:"
+   },
+   "text_size_pref": {
+      "message": "העדפת גודל טקסט"
+   },
+   "text_size_pref_desc": {
+      "message": "הגדר את גודל הטקסט בעת צפייה בדפים עם התוסף."
+   },
+   "timed_out_pdf": {
+      "message": "ייתכן ש-PDF PrintFriendly פג בזמן יצירת ה-. ייתכן שהוא היה גדול מדי עבור המערכת שלנו לטפל בו."
+   },
+   "txt_size": {
+      "message": "גודל הגופן"
+   },
+   "unable_to_generate_pdf": {
+      "message": "לא הצלחנו ליצור PDF עבור עמוד זה."
+   },
+   "undo": {
+      "message": "ביטול פעולה"
+   },
+   "what_you_can_do": {
+      "message": "מה אתה יכול לעשות"
+   },
+   "yes": {
+      "message": "כן"
+   }
+}

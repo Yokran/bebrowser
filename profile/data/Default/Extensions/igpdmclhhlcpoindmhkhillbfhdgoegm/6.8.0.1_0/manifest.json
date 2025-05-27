@@ -1,0 +1,62 @@
+{
+   "author": "Opera Norway AS",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background_worker.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "webpage_content_reporter.js" ],
+      "matches": [ "https://*/*" ]
+   }, {
+      "all_frames": true,
+      "exclude_matches": [ "https://browserbench.org/*" ],
+      "js": [ "writing_mode_assistant.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "object-src 'self';",
+   "description": "Aria",
+   "developer": {
+      "name": "Opera Norway AS",
+      "url": "https://opera.com"
+   },
+   "externally_connectable": {
+      "ids": [ "fnmbciokibmcfamkopgdjjpmefbhbmem", "odndjkngipngdmdlfodecoelobjbidna", "enegjkbbakeegngfapepobipndnebkdk", "cgloclgndbkhmjcaddholfcgghcgmmig" ],
+      "matches": [ "*://*.devicetest.ai:*/*", "https://devicetest.ai/*", "https://aria.op-test.net/*", "http://localhost:11435/*", "https://localhost:11435/*", "https://www.opera.com/*", "*://*.opera.com:*/*", "https://www.staging.opera-website.route53.opera.com/*", "chrome://rich-hints/*", "chrome://startpage/*", "chrome://startpageshared/*" ]
+   },
+   "homepage_url": "https://opera.com",
+   "icons": {
+      "128": "favicon_opera_one.png",
+      "32": "favicon_opera_one.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwZiVKc/GXvUrqf0jHTXgNG8UQDSwdSUnrGl/CFvcA+/0K9GtuTwSTdvqPrnw9ACqX6QOIa6I36TruaB842sG+LtGvvgFeEwVuMbbmXuyYNgcfbf6IhVCZZPD7t5ygHkF1USHnw7sGCXfJ0aS4xIRlH7lA6eBYiFlz8ngMEmn2aZnxUWTVTOFpPHEwLLrlZwxngfYuyTzOaemygsi102UVDd+O5G/clRUQeam0A7hnYOu2HzmmmMQuWU0F95WpSniiDf5bUWY3OmI8dwgVei9MCHlEx6/D715PPczmfq/R5dqQ/Dj7nin+U89wNIBpGyk1HzkeYEkMu/ypm5t8V8xwwIDAQAB",
+   "manifest_version": 2,
+   "name": "Aria",
+   "page_action": {
+      "default_icon": {
+         "16": "favicon_opera_one.png",
+         "32": "favicon_opera_one.png"
+      },
+      "theme_icons": [ {
+         "dark": "favicon_opera_one.png",
+         "light": "favicon_opera_one.png",
+         "size": 16
+      }, {
+         "dark": "favicon_opera_one.png",
+         "light": "favicon_opera_one.png",
+         "size": 32
+      } ]
+   },
+   "permissions": [ "localModelsPrivate", "liveWallpaperMetricsPrivate", "workspacesPrivate", "browserSidebarPrivate", "feedbackPopupPrivate", "operaAccountPrivate", "operaBrowserPrivate", "operaIdentityPrivate", "palette", "shodanPrivate", "statsPrivate", "storage", "tabs", "windows", "topSites", "tabsPrivate", "bookmarks" ],
+   "sidebar_action": {
+      "default_icon": "favicon_opera_one.png",
+      "default_panel": "aria.html",
+      "default_panel_width": 604,
+      "default_title": "Aria",
+      "maximum_panel_width": 755,
+      "minimum_panel_width": 604,
+      "panel_width": 604
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "6.8.0.1",
+   "web_accessible_resources": [ "public/aria-icon-writing-mode-opera.svg", "public/aria-icon-writing-mode-operaGx.svg", "public/aria-icon-writing-mode-operaAir.svg" ]
+}

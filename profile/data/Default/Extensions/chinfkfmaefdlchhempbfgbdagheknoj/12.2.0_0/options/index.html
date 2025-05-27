@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../options.css">
+  </head>
+  <body class="waitingForJs">
+    <h1 class="pwVisuallyHidden" data-i18n="optionsTitle"></h1>
+    <aside class="waitingForJsMessageContainer">
+      <p class="pwText">
+        Loading... Please wait
+      </p>
+    </aside>
+    <aside id="feedbackCtasContainer">
+      <a href="#" id="rateLink" class="feedbackCta" data-i18n="like" data-i18n-tooltip="askingToRateLinkTooltip"></a>
+      <a href="#" id="issueReportingLink" class="feedbackCta" data-i18n="dislike" data-i18n-tooltip="issueReportingLinkTooltip"></a>
+    </aside>
+    <form id="settingsForm">
+      <fieldset id="button-mode" class="pwFormGroup">
+        <legend class="pwFormGroupCaption">
+          <a href="#button-mode" class="pwFormGroupCaptionLink" data-i18n="buttonMode"></a>
+        </legend>
+        <div id="buttonModeContainer" class="pwFormRow">
+          <ul id="buttonModeGroups">
+            <li class="buttonModeGroup">
+              <p class="buttonModeGroupCaption" data-i18n="buttonModeBasic"></p>
+              <p class="buttonModeGroupDescription" data-i18n="buttonModeBasicDescription"></p>
+              <a href="https://scroll-to-top-button.com/info/settings/button-mode/basic/" class="buttonModeDemoCta" data-i18n="watchDemo"></a>
+              <ul class="buttonModeGroupItemsList">
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="scrollToTopOnlyBasic" class="optionsChanger">
+                    <span class="buttonModeGroupItemText" data-i18n="scrollToTopOnly"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="scrollToBottomOnlyBasic" class="optionsChanger">
+                    <span class="buttonModeGroupItemText" data-i18n="scrollToBottomOnly"></span>
+                  </label>
+                </li>
+              </ul>
+            </li>
+            <li class="buttonModeGroup">
+              <p class="buttonModeGroupCaption" data-i18n="buttonModeAdvanced"></p>
+              <p class="buttonModeGroupDescription" data-i18n="buttonModeAdvancedDescription"></p>
+              <a href="https://scroll-to-top-button.com/info/settings/button-mode/advanced/" class="buttonModeDemoCta" data-i18n="watchDemo"></a>
+              <ul class="buttonModeGroupItemsList">
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="scrollToTopOnlyAdvanced" class="optionsChanger">
+                    <span class="buttonModeGroupItemText" data-i18n="scrollToTopOnly"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="flipBetweenTopBottomAdvanced" class="optionsChanger">
+                    <span class="buttonModeGroupItemText" data-i18n="flipBetweenTopBottom"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="dualArrowsAdvanced" class="optionsChanger">
+                    <span class="buttonModeGroupItemText" data-i18n="dualArrows"></span>
+                  </label>
+                </li>
+              </ul>
+            </li>
+            <li class="buttonModeGroup">
+              <p class="buttonModeGroupCaption" data-i18n="buttonModeExpert"></p>
+              <p class="buttonModeGroupDescription" data-i18n="buttonModeExpertDescription"></p>
+              <a href="https://scroll-to-top-button.com/info/settings/button-mode/expert/" class="buttonModeDemoCta" data-i18n="watchDemo"></a>
+              <ul class="buttonModeGroupItemsList">
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="off" class="optionsChanger" data-permissions-required="true">
+                    <span class="buttonModeGroupItemText" data-i18n="scrollToTopOnly"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="flip" class="optionsChanger" data-permissions-required="true">
+                    <span class="buttonModeGroupItemText" data-i18n="flipBetweenTopBottom"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="dual" class="optionsChanger" data-permissions-required="true">
+                    <span class="buttonModeGroupItemText" data-i18n="dualArrows"></span>
+                  </label>
+                </li>
+                <li>
+                  <label class="buttonModeGroupItemLabel">
+                    <input type="radio" name="buttonMode" value="keys" class="optionsChanger" data-permissions-required="true">
+                    <span class="buttonModeGroupItemText" data-i18n="keyboardOnly"></span>
+                  </label>
+                </li>
+              </ul>
+              <button id="disableExpertButtonModesCta" data-i18n="disableExpertButtonModes"></button>
+            </li>
+          </ul>
+        </div>
+      </fieldset>
+      <fieldset id="scroll-settings" class="pwFormGroup">
+        <legend class="pwFormGroupCaption">
+          <a href="#scroll-settings" class="pwFormGroupCaptionLink" data-i18n="scrollSettings" data-i18n-tooltip="scrollSettingsTooltip"></a>
+        </legend>
+        <div class="pwFormRow">
+          <label class="pwFormRowLabel">
+            <span class="pwFormRowText" data-i18n="scrollUpSpeed"></span>
+            <select id="scrollUpSpeed" class="optionsChanger pwSelect" data-customizable="1">
+              <option value="40000" data-i18n="slowest"></option>
+              <option value="20000" data-i18n="slower"></option>
+              <option value="2000" data-i18n="slow"></option>
+              <option value="1000" data-i18n="fast"></option>
+              <option value="100" data-i18n="faster"></option>
+              <option value="1" data-i18n="fastest"></option>
+              <option value="-1" data-i18n="custom"></option>
+            </select>
+          </label>
+          <div class="pwFormRow">
+            <label>
+              <span class="pwFormRowText" data-i18n="scrollUpSpeedCustom"></span>
+              <input type="number" min="0" step="1" pattern="\d*" placeholder="1000" value="1000" id="scrollUpSpeedCustom" class="custom optionsChanger pwInput">
+            </label>
+          </div>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="scrollDownSpeed"></span>
+            <select id="scrollDownSpeed" class="optionsChanger pwSelect" data-customizable="1">
+              <option value="40000" data-i18n="slowest"></option>
+              <option value="20000" data-i18n="slower"></option>
+              <option value="2000" data-i18n="slow"></option>
+              <option value="1000" data-i18n="fast"></option>
+              <option value="100" data-i18n="faster"></option>
+              <option value="1" data-i18n="fastest"></option>
+              <option value="-1" data-i18n="custom"></option>
+            </select>
+          </label>
+          <div class="pwFormRow">
+            <label>
+              <span class="pwFormRowText" data-i18n="scrollDownSpeedCustom"></span>
+              <input type="number" min="0" step="1" pattern="\d*" placeholder="1000" value="1000" id="scrollDownSpeedCustom" class="custom optionsChanger pwInput">
+            </label>
+          </div>
+        </div>
+        <div class="pwFormRow">
+          <label data-i18n data-i18n-tooltip="infiniteScrollDownTooltip">
+            <span class="pwFormRowText" data-i18n="infiniteScrollDown"></span>
+            <select id="infiniteScrollDown" class="optionsChanger pwSelect" data-customizable="1">
+              <option value="-1" data-i18n="on"></option>
+              <option value="off" data-i18n="off"></option>
+            </select>
+          </label>
+          <div class="pwFormRow">
+            <label data-i18n data-i18n-tooltip="infiniteScrollDownRecheckDelayTooltip">
+              <span class="pwFormRowText" data-i18n="infiniteScrollDownRecheckDelay"></span>
+              <input type="number" min="0" step="1" pattern="\d*" placeholder="2000" value="2000" id="infiniteScrollDownRecheckDelay" class="custom optionsChanger pwInput">
+            </label>
+          </div>
+          <div class="pwFormRow">
+            <label data-i18n data-i18n-tooltip="infiniteScrollDownRecheckDelayActiveIndicatorTooltip">
+              <span class="pwFormRowText" data-i18n="infiniteScrollDownRecheckDelayActiveIndicator"></span>
+              <select id="infiniteScrollDownRecheckDelayActiveIndicator" class="custom optionsChanger pwSelect">
+                <option value="on" data-i18n="on"></option>
+                <option value="off" data-i18n="off"></option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" id="distanceType" data-i18n="appearDistance"></span>
+            <select id="distanceLength" class="optionsChanger pwSelect">
+              <option value="100" data-i18n="barelyAny"></option>
+              <option value="275" data-i18n="aLittle"></option>
+              <option value="400" data-i18n="medium"></option>
+              <option value="700" data-i18n="moreThanAverage"></option>
+              <option value="1000" data-i18n="aLot"></option>
+              <option value="2500" data-i18n="aTon"></option>
+            </select>
+          </label>
+        </div>
+      </fieldset>
+      <fieldset id="button-display-settings" class="pwFormGroup">
+        <legend class="pwFormGroupCaption">
+          <a href="#button-display-settings" class="pwFormGroupCaptionLink" data-i18n="buttonDisplaySettings" data-i18n-tooltip="buttonDisplaySettingsTooltip"></a>
+        </legend>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="buttonSize"></span>
+            <select id="buttonSize" class="optionsChanger pwSelect" data-customizable="1">
+              <option value="35px" data-i18n="buttonSizeInPixels" data-i18n-parameters="35|35"></option>
+              <option value="40px" data-i18n="buttonSizeInPixels" data-i18n-parameters="40|40"></option>
+              <option value="45px" data-i18n="buttonSizeInPixels" data-i18n-parameters="45|45"></option>
+              <option value="50px" data-i18n="buttonSizeInPixels" data-i18n-parameters="50|50"></option>
+              <option value="-1" data-i18n="custom"></option>
+            </select>
+          </label>
+          <div class="pwFormRow">
+            <label>
+              <span class="pwFormRowText" data-i18n="buttonWidthCustom"></span>
+              <input type="number" min="1" max="500" step="1" pattern="\d*" placeholder="60" value="60" id="buttonWidthCustom" class="custom optionsChanger pwInput">
+            </label>
+          </div>
+          <div class="pwFormRow">
+            <label>
+              <span class="pwFormRowText" data-i18n="buttonHeightCustom"></span>
+              <input type="number" min="1" max="500" step="1" pattern="\d*" placeholder="60" value="60" id="buttonHeightCustom" class="custom optionsChanger pwInput">
+            </label>
+          </div>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="buttonDesign"></span>
+            <select id="buttonDesign" class="optionsChanger pwSelect">
+              <optgroup data-i18n="colors">
+                <option value="arrow_blue" data-i18n="tumblerBlue"></option>
+                <option value="arrow_grey" data-i18n="grey"></option>
+                <option value="arrow_black" data-i18n="black"></option>
+                <option value="arrow_red" data-i18n="red"></option>
+                <option value="arrow_orange" data-i18n="orange"></option>
+                <option value="arrow_yellow" data-i18n="yellow"></option>
+                <option value="arrow_green" data-i18n="green"></option>
+                <option value="arrow_blue2" data-i18n="blue"></option>
+                <option value="arrow_purple" data-i18n="purple"></option>
+                <option value="arrow_pink" data-i18n="pink"></option>
+              </optgroup>
+              <optgroup data-i18n="arrowOnly">
+                <option value="arrow_only_blue" data-i18n="tumblerBlue"></option>
+                <option value="arrow_only_grey" data-i18n="grey"></option>
+              </optgroup>
+              <optgroup data-i18n="alternateDesigns">
+                <option value="arrow_pixel_blue" data-i18n="pixelDesign"></option>
+              </optgroup>
+            </select>
+          </label>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="notActiveButtonOpacity"></span>
+            <select id="notActiveButtonOpacity" class="optionsChanger pwSelect">
+              <option value="0.0" data-i18n="invisible"></option>
+              <option value="0.5" data-i18n="transparent"></option>
+              <option value="1.0" data-i18n="opaque"></option>
+            </select>
+          </label>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="buttonLocation"></span>
+            <select id="buttonLocation" class="optionsChanger pwSelect">
+              <option value="TR" data-i18n="topRight"></option>
+              <option value="TL" data-i18n="topLeft"></option>
+              <option value="TC" data-i18n="topCenter"></option>
+              <option value="CR" data-i18n="centerRight"></option>
+              <option value="CL" data-i18n="centerLeft"></option>
+              <option value="BR" data-i18n="bottomRight"></option>
+              <option value="BL" data-i18n="bottomLeft"></option>
+              <option value="BC" data-i18n="bottomCenter"></option>
+            </select>
+          </label>
+        </div>
+      </fieldset>
+      <fieldset id="keyboard-settings" class="pwFormGroup">
+        <legend class="pwFormGroupCaption">
+          <a href="#keyboard-settings" class="pwFormGroupCaptionLink" data-i18n="keyboardSettings"></a>
+        </legend>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="keyboardShortcuts"></span>
+            <select id="keyboardShortcuts" class="optionsChanger pwSelect">
+              <option value="arrows" data-i18n="altUpDownArrows"></option>
+              <option value="tb" data-i18n="altTB"></option>
+              <option value="off" data-i18n="off"></option>
+            </select>
+          </label>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="homeEndKeysControlledBy"></span>
+            <select id="homeEndKeysControlledBy" class="optionsChanger pwSelect">
+              <option value="sttb" data-i18n="extensionName"></option>
+              <option value="system" data-i18n="operatingSystem"></option>
+            </select>
+          </label>
+        </div>
+        <div class="pwFormRow">
+          <label data-i18n data-i18n-tooltip="clickthroughKeysTooltip">
+            <span class="pwFormRowText" data-i18n="clickthroughKeys"></span>
+            <select id="clickthroughKeys" class="optionsChanger pwSelect">
+              <option value="ctrl" data-i18n="ctrlKey"></option>
+              <option value="shift" data-i18n="shiftKey"></option>
+              <option value="ctrl|shift" data-i18n="ctrlKeyOrShiftKey"></option>
+            </select>
+          </label>
+        </div>
+      </fieldset>
+      <fieldset id="other-settings" class="pwFormGroup">
+        <legend class="pwFormGroupCaption">
+          <a href="#other-settings" class="pwFormGroupCaptionLink" data-i18n="otherSettings"></a>
+        </legend>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="uiLanguage"></span>
+            <select id="uiLanguage" class="optionsChanger pwSelect">
+              <option value="browserDefault" data-i18n="language_browserDefault" data-i18n-tooltip="language_browserDefault_tooltip"></option>
+              <option value="bg" data-i18n="language_bg"></option>
+              <option value="cs" data-i18n="language_cs"></option>
+              <option value="da" data-i18n="language_da"></option>
+              <option value="en_US" data-i18n="language_en_US"></option>
+              <option value="gl" data-i18n="language_gl"></option>
+              <option value="ja" data-i18n="language_ja"></option>
+              <option value="nl" data-i18n="language_nl"></option>
+              <option value="pl" data-i18n="language_pl"></option>
+              <option value="ru" data-i18n="language_ru"></option>
+              <option value="tr" data-i18n="language_tr"></option>
+              <option value="zh_CN" data-i18n="language_zh_CN"></option>
+            </select>
+          </label>
+        </div>
+        <div class="pwFormRow">
+          <label>
+            <span class="pwFormRowText" data-i18n="contextRightClickMenu"></span>
+            <select id="contextMenu" class="optionsChanger pwSelect">
+              <option value="on" data-i18n="on"></option>
+              <option value="off" data-i18n="off"></option>
+            </select>
+          </label>
+        </div>
+        <div id="settingsOverrideCtasContainer" class="pwFormRow">
+          <button id="restore" class="pwCta" data-i18n="restoreDefaults"></button>
+          <button id="author" class="pwCta" data-i18n="authorsSettings"></button>
+          <button id="export" class="pwCta" data-i18n="exportSettings"></button>
+        </div>
+      </fieldset>
+      <div id="saveSettings" class="pwFormControls">
+        <button id="save" class="pwCta" data-i18n="save"></button>
+        <p id="status" class="pwText"></p>
+      </div>
+    </form>
+    <aside class="secondaryInfoContainer">
+      <ul class="links">
+        <li class="linkWrapper">
+          <a id="genericContactFormLink" href="#" data-i18n="genericContactFormLinkText"></a>
+        </li>
+        <li class="linkWrapper" data-i18n="helpTranslate"></li>
+        <li class="linkWrapper" id="translatedBy" data-i18n="translatedBy" hidden></li>
+        <li class="linkWrapper" data-i18n="releaseNotes"></li>
+        <li class="linkWrapper" data-i18n="officialWebsite"></li>
+      </ul>
+    </aside>
+    <aside id="hadVersion8InstalledBeforeMessageContainer" hidden>
+      <p id="hadVersion8InstalledBeforeMessage" data-i18n="hadVersion8InstalledBeforeMessage" data-i18n-parameters="extensionName"></p>
+      <button id="hadVersion8InstalledBeforeMessageAcknowledgmentCta" type="button" data-i18n="hadVersion8InstalledBeforeMessageAcknowledgment"></button>
+      <br>
+      <button id="hadVersion8InstalledBeforeMessageRemovalCta" type="button" data-i18n="hadVersion8InstalledBeforeMessageRemoval"></button>
+    </aside>
+    <aside id="permissionsPrivacyDetailsContainer" hidden>
+      <p class="permissionsPrivacyDetails" data-i18n="permissionsListExplanation"></p>
+      <ul>
+        <li class="permissionsPrivacyDetails" data-i18n="permissionDetailsOrigins" data-i18n-parameters="permissionNameOrigins%BROWSER_TYPE%"></li>
+        <li class="permissionsPrivacyDetails" data-i18n="permissionDetailsTabs" data-i18n-parameters="permissionNameTabs%BROWSER_TYPE%"></li>
+      </ul>
+      <p class="permissionsPrivacyDetails" data-i18n="privacyDetails"></p>
+      <p class="permissionsPrivacyDetails" data-i18n="sourceCodeOpenlyAvailableDetails"></p>
+    </aside>
+    <footer id="versionAndLicenseContainer">
+      <p id="versionAndLicenseText" class="pwText" data-i18n="versionAndLicense" data-i18n-parameters="extensionName|%EXTENSION_VERSION%|%FAIR_CODE_URL%|%SUSTAINABLE_USE_LICENSE_URL%"></p>
+    </footer>
+    <dialog id="exportedSettingsDialog">
+      <h2 id="exportedSettingsTitle" class="pwText" data-i18n="exportedSettingsTitle"></h2>
+      <textarea id="exportedSettingsPreviewText" class="pwText" wrap="soft" readonly></textarea>
+      <p id="exportedSettingsStatusText" class="pwText"></p>
+      <button id="exportedSettingsCopyToClipboardCta" class="pwCta" data-i18n="copyToClipboard"></button>
+      <button id="exportedSettingsSaveToFileCta" class="pwCta" data-i18n="saveToFile"></button>
+      <button class="pwCta pwCloseModalCta" data-i18n="closeModal"></button>
+    </dialog>
+    <script src="/global/js/browser-polyfill.min.js"></script>
+    <script src="/global/js/bowser.js"></script>
+    <script src="/global/js/global.js"></script>
+    <script src="/global/js/utils.js"></script>
+    <script src="/global/js/const.js"></script>
+    <script src="/global/js/log.js"></script>
+    <script src="/global/js/i18next/i18next.min.js"></script>
+    <script src="/global/js/i18next/i18nextXHRBackend.js"></script>
+    <script src="/shared/legacy/i18n.js"></script>
+    <script src="/shared/legacy/context-menus.js"></script>
+    <script src="../options.js"></script>
+  </body>
+</html>

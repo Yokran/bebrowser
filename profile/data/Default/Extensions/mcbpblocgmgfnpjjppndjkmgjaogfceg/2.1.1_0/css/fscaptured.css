@@ -1,0 +1,294 @@
+/* Single file both for Chromium and FX */
+@media (min-width: 1199px) {
+    .fsButton {width: 120px; word-wrap:break-word; white-space: normal}
+}
+
+@media (min-width: 1600px) {
+    .fsButton {width: 135px; word-wrap:break-word; white-space: normal}
+    .container {width: 1360px;}
+}
+
+div.fsButton {float: __MSG_@@bidi_end_edge__}
+
+.col-xs-6, .col-sm-8, .col-sm-4 {
+    float: __MSG_@@bidi_start_edge__;
+}
+
+#btnSendEmail > li, #menuPDFFeatures > li {text-align: __MSG_@@bidi_start_edge__;}
+
+#menuPDFFeatures label {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+button {outline: 0 !important;}
+
+body {direction: __MSG_@@bidi_dir__;} 
+.btn {border-radius: 3px;}
+
+.hiddenInitially {display:none !important}
+
+#logo {vertical-align:middle;}
+.starRating {font-size: 2em; cursor: pointer; width:1.2em;}
+.starHighlighted {color:#ffd026}
+
+#divRatingContainer {text-align: center}
+
+#divTest {
+    position: absolute; 
+    right: 180px; 
+    top: 0px;
+    display: none;
+}
+
+.modal {
+    text-align: center;
+    padding: 0!important;
+}
+
+.modal:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.close { outline: 0 !important; }
+
+#divDownloadedInfoText, #spnOpenInFinder {
+    cursor: pointer;
+}
+
+#divDownloadedInfoText:hover, #spnOpenInFinder:hover {
+    color: #fff;
+}
+
+#divClipboardMessage, #divErrorMessage, #divDownloadedInfo, #divProcessing {
+    position: fixed; 
+    right:10px; 
+    bottom:10px; 
+    padding: 10px 20px; 
+}
+
+#divClipboardMessage, #divDownloadedInfo {
+    background-color: green;
+}
+
+#divProcessing {
+    background-color: #485563;
+}
+
+#divErrorMessage {
+    background-color: rgb(192, 82, 82);
+}
+
+#divImgResult {
+    border: 10px solid #4e5d6c;
+    background-color: transparent;
+}
+
+#divImgResult > img {
+    padding:0px;
+    width:100%; 
+    margin:auto; 
+    display:block;
+}
+
+div.row {padding-top: 10px}
+
+@media (max-width: 1199px) {
+    .fsButton {width: 100px; word-wrap:break-word; white-space: normal}
+    .hiddenWhenAdShown {opacity: 0;}
+}
+
+@media (max-width: 767px) {
+    .fsButton {width: 140px; word-wrap:break-word; white-space: normal}
+}
+
+.link1 {display:inline-block; padding-left: 5px; padding-right: 5px}
+
+.fixed {
+    position:fixed;
+}
+
+.splashIn {
+    opacity: 1 !important;
+    transition: all 0.5s ease-out;
+}
+
+@media (max-width: 767px) {
+    .fixed {
+        position:initial;
+    }    
+}
+
+.imgForPrinting, #divPrinting {display:none;}
+
+@media print {
+    .noPrint {
+        display: none !important;
+    }
+
+    .container, .row {
+        padding: 0 !important;
+        margin: 0 !important;
+        width: unset !important;
+    }
+
+    #divLeftCol, #divImgResult {
+        zoom: 1 !important;
+        width: auto !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        border: 0px;
+       
+    }
+
+    #divImgResult {
+        break-inside: avoid;
+        display: inline-block;
+    }
+
+    #divPrinting {
+        margin: 0;
+        padding: 0;
+        display: inline-block !important;
+    }
+    
+    .imgForPrinting {
+        display: initial;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+    }
+}
+
+/* #divCanBeBetterPromo {
+    position: sticky;
+    top: -1px;    
+    background-color: #2b3e50;
+    padding-top: 15px;
+    margin-top: -15px;
+    padding-bottom: 1px;
+} */
+
+#divCanBeBetterPromo, #divLimitedSavingFunctionality {
+   display: none;
+}
+
+#divCBBMessage, #divLimitedSavingFunctionalityMsg {
+    /* background-color: #3a5162; */
+    background-color: #1c706d;
+    font-size: 17px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#divTryAdvancedFeatures-1, #divTryAdvancedFeatures-2 {
+    padding: 7px;
+    /* color: #333;
+    font-weight: bold; */
+}
+
+#menuPDFFeatures input {
+    vertical-align: text-bottom;
+}
+
+.mnuItemDisabled {
+    transition: all 0.3s ease-out;
+}
+
+#menuPDFFeatures li:not(#mnuPDFUpgrade) a, #menuPDFFeatures li label {
+    cursor: default;
+} 
+
+
+#divUpgradeMsg {
+    display: none; 
+    position: absolute;
+    z-index: 9999; 
+    background: repeating-linear-gradient(
+        145deg,
+        rgba(57, 68, 78, 0.8),
+        rgba(57, 68, 78, 0.8) 2px,
+        rgba(39, 46, 54, 0.8) 2px,
+        rgba(39, 46, 54, 0.8) 4px
+    );
+}
+
+#divUpgradeMsg > div {
+    width: 100%; 
+    height:100%; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+}
+
+#divUpgradeMsg > div > div {
+    text-align: center; 
+    background: rgba(0, 0, 0, 0.38); 
+    padding:10px 10px 15px;
+}
+
+#divUpgradeMsg  a, #lnkUpgradeFromPDF {
+    color: #fff;
+    cursor: pointer;
+}
+
+#lnkUpgradeFromPDF {padding: 7px;}
+
+
+#mnuPDFUpgrade {display: none;}
+
+#mnuPDFUpgrade a {cursor: pointer; font-size: 14px; color: #fff;}
+
+
+
+/* #upgradeItem {
+    font-size: 14px;
+} */
+
+#pdfCaret, #pdfSettings {
+    display: inline;
+    padding: 5px 5px 5px 0
+}
+
+#divPreviewWarning, #divBackToLiteWarning {
+    font-size: 12px; 
+    margin-bottom: 0; 
+    padding: 10px 35px 10px 15px;
+    font-weight: bolder;
+}
+
+#divPreviewWarning {
+    transition: all 0.2s ease-out;
+}
+
+.warningCollapsed {
+    height: 10px;
+    cursor: pointer;
+    padding: 0 !important;
+}
+
+#divPreviewWarning.warningCollapsed > * {
+    display: none !important;
+}
+
+.fsSpacer {
+    padding:0 0.3em 0 0.3em
+}
+
+.bidi-__MSG_@@bidi_dir__ {right: 0 !important}
+
+
+
+/*#divCBBMessage > a {    text-decoration: underline}*/
+

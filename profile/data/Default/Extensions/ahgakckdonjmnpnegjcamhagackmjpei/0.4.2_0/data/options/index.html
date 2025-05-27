@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Save as MHTML :: Options Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+  <p class="grid">
+    <input type="checkbox" id="notify">
+    <label for="notify">Display desktop notifications</label>
+    <input type="checkbox" id="saveAs">
+    <label for="saveAs">Display the file-chooser to allow the user to select the file location (note: <b>uncheck if downloading failed</b>)</label>
+    <input type="checkbox" id="capture">
+    <label for="capture">Open the capture window</label>
+    <input type="checkbox" id="save-cm">
+    <label for="save-cm">Show "Save as MHTML" context menu on page context menu</label>
+    <input type="checkbox" id="edit-cm">
+    <label for="edit-cm">Show "Toggle Edit Mode" context menu on page context menu</label>
+    <input type="checkbox" id="reader-cm">
+    <label for="reader-cm">Show "Reader View (declutter)" context menu on page context menu</label>
+    <input type="checkbox" id="simple-cm">
+    <label for="simple-cm">Show "Keep Selection Only" context menu on selection context menu</label>
+  </p>
+  <p class="grid">
+    <label class="nospace" for="filename">Filename <a data-href="faq10" target="_blank">Format</a></label>
+    <input type="text" id="filename">
+    <label class="nospace" for="title-length"><a data-href="faq13" target="_blank">Max "[title]"</a> Length</label>
+    <input type="number" id="title-length">
+    <label class="nospace" for="filename-length">Max "filename" Length</label>
+    <input type="number" id="filename-length">
+    <label class="nospace" for="extension">File <a data-href="faq5" target="_blank">Extension</a></label>
+    <input type="text" id="extension">
+    <label class="nospace" for="mime">Mime Type</label>
+    <select id="mime">
+      <option value="multipart/related">multipart/related</option>
+      <option value="application/x-mimearchive">application/x-mimearchive</option>
+      <option value="message/rfc822">message/rfc822</option>
+    </select>
+  </p>
+
+  <p>
+    <b>Custom Styling on Reader View</b>
+    <textarea rows="20" id="custom-styling"></textarea>
+  </p>
+
+  <p>
+    <input type="button" id="support" value="Support Development">
+    <input type="button" id="usage" value="Usage Instructuction">
+  </p>
+  <p>
+    <input type="button" id="reset" value="Factory Reset">
+    <input type="button" id="save" value="Save Options">
+    <span id="toast"></span>
+  </p>
+  <script type="text/javascript" src="index.js"></script>
+</body>
+</html>

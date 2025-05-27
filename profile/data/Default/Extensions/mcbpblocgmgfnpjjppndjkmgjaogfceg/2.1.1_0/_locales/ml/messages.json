@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "കുറിച്ച്"
+   },
+   "action_api": {
+      "message": "FireShot എ.പി.ഐ"
+   },
+   "action_capture_browser": {
+      "message": "ബ്രൗസർ വിൻഡോ ക്യാപ്‌ചർ ചെയ്യുക"
+   },
+   "action_capture_entire": {
+      "message": "മുഴുവൻ പേജും ക്യാപ്‌ചർ ചെയ്യുക."
+   },
+   "action_capture_entire_lite": {
+      "message": "മുഴുവൻ പേജും ക്യാപ്‌ചർ ചെയ്യുക"
+   },
+   "action_capture_selection": {
+      "message": "ക്യാപ്ചർ സെലക്ഷൻ / എലമെന്റ്"
+   },
+   "action_capture_selection_lite": {
+      "message": "ക്യാപ്ചർ സെലക്ഷൻ"
+   },
+   "action_capture_tabs": {
+      "message": "എല്ലാ ബ്രൗസർ ടാബുകളും ക്യാപ്‌ചർ ചെയ്യുക"
+   },
+   "action_capture_visible": {
+      "message": "ദൃശ്യമായ ഭാഗം ക്യാപ്‌ചർ ചെയ്യുക"
+   },
+   "action_capture_visible_lite": {
+      "message": "ദൃശ്യമായ ഭാഗം ക്യാപ്‌ചർ ചെയ്യുക"
+   },
+   "action_copy": {
+      "message": "ക്ലിപ്പ്ബോർഡിലേയ്ക്ക് പകർത്തുക"
+   },
+   "action_edit": {
+      "message": "എഡിറ്റുചെയ്യുക"
+   },
+   "action_email": {
+      "message": "ഇമെയിൽ"
+   },
+   "action_enter_license": {
+      "message": "ലൈസൻസ് വിവരങ്ങൾ നൽകുക"
+   },
+   "action_external": {
+      "message": "ബാഹ്യ എഡിറ്ററിൽ തുറക്കുക"
+   },
+   "action_install_native": {
+      "message": "വിപുലമായ സവിശേഷതകൾ പരീക്ഷിക്കുക"
+   },
+   "action_license_info": {
+      "message": "ലൈസൻസിംഗ് വിവരങ്ങൾ"
+   },
+   "action_micsellaneous": {
+      "message": "പലവക"
+   },
+   "action_onenote": {
+      "message": "വനോട്ടിലേക്ക് അയയ്‌ക്കുക"
+   },
+   "action_open_clipboard": {
+      "message": "ക്ലിപ്പ്ബോർഡിൽ നിന്ന് തുറക്കുക"
+   },
+   "action_open_file": {
+      "message": "ഫയൽ തുറക്കുക"
+   },
+   "action_options": {
+      "message": "ഓപ്ഷനുകൾ"
+   },
+   "action_print": {
+      "message": "പ്രിന്റ് ചെയ്യുക"
+   },
+   "action_register": {
+      "message": "രജിസ്റ്റർ ചെയ്യുക"
+   },
+   "action_resume": {
+      "message": "എഡിറ്റിംഗ് പുനരാരംഭിക്കുക"
+   },
+   "action_save": {
+      "message": "സേവ്"
+   },
+   "action_save_pdf": {
+      "message": "പി.ഡി.എഫ്  ആയി സേവ്  ചെയ്യുക"
+   },
+   "action_save_pdf_single": {
+      "message": "സിംഗിൾ പിഡിഎഫായി സംരക്ഷിക്കുക"
+   },
+   "action_support": {
+      "message": "പിന്തുണ"
+   },
+   "action_switch_pro": {
+      "message": "പ്രോയിലേക്ക് മാറുക"
+   },
+   "action_switch_pro_tabs": {
+      "message": "തുടരുന്നതിന് പ്രോ സവിശേഷതകൾ സജീവമാക്കുക"
+   },
+   "action_upload": {
+      "message": "അപ്‌ലോഡുചെയ്യുക"
+   },
+   "action_view_demo": {
+      "message": "ഡെമോ കാണുക"
+   },
+   "application_description": {
+      "message": "പൂർണ്ണ വെബ്‌പേജ് സ്‌ക്രീൻ‌ഷോട്ടുകൾ‌ എടുക്കുക, എഡിറ്റുചെയ്യുക, പി‌ഡി‌എഫ് / ജെ‌പി‌ജി / ജി‌ഐ‌എഫ് / പി‌എൻ‌ജിയിലേക്ക് സംരക്ഷിക്കുക. ONENOTE, / ക്ലിപ്പ്ബോർഡ് / ഇമെയിൽ എന്നിവയിലേക്ക് അയയ്ക്കുക."
+   },
+   "application_title": {
+      "message": "വെബ്‌പേജ് സ്‌ക്രീൻ‌ഷോട്ടുകൾ‌ പൂർണ്ണമായും എടുക്കുക - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "പ്രോ വാങ്ങുക"
+   },
+   "captured_copy_clipboard": {
+      "message": "ക്ലിപ്പ്ബോർഡിലേയ്ക്ക് പകർത്തുക"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "എങ്ങനെയെന്ന് അറിയുക"
+   },
+   "captured_get_free_button": {
+      "message": "ഇത് സൗജന്യമായി പരീക്ഷിക്കുക"
+   },
+   "captured_print": {
+      "message": "അച്ചടിക്കുക"
+   },
+   "captured_print_button": {
+      "message": "അച്ചടിക്കുക"
+   },
+   "captured_recommend_us": {
+      "message": "FireShot ശുപാർശ ചെയ്യുക"
+   },
+   "captured_save_as_image": {
+      "message": "ചിത്രമായി സംരക്ഷിക്കുക"
+   },
+   "captured_save_as_image_button": {
+      "message": "ചിത്രമായി സംരക്ഷിക്കുക"
+   },
+   "captured_save_as_pdf": {
+      "message": "പി‌ഡി‌എഫിലേക്ക് സംരക്ഷിക്കുക"
+   },
+   "captured_save_panel_title": {
+      "message": "സ്ക്രീൻഷോട്ട് സംരക്ഷിക്കുക"
+   },
+   "captured_saving_options": {
+      "message": "ഇത് ഇഷ്ടാനുസൃതമാക്കുക"
+   },
+   "captured_setup_hotkeys": {
+      "message": "ഹോട്ട്‌കീകളും ഫയൽ ക്രമീകരണങ്ങളും സജ്ജമാക്കുക"
+   },
+   "captured_upgrade_link_1": {
+      "message": "ക്യാപ്‌ചർ ചെയ്യുക, വ്യാഖ്യാനിക്കുക, അച്ചടിക്കുക, സംരക്ഷിക്കുക, എഡിറ്റുചെയ്യുക, അപ്‌ലോഡുചെയ്യുക, ഇമെയിൽ / വൺ‌നോട്ടിലേക്ക് അയയ്‌ക്കുക, അല്ലെങ്കിൽ മറ്റൊരു പ്രോഗ്രാമിലേക്ക് എക്‌സ്‌പോർട്ടു ചെയ്യുക"
+   },
+   "captured_upgrade_link_2": {
+      "message": "FirrShot പ്രോയിലേക്ക് അപ്‌ഡേറ്റുചെയ്യുക"
+   },
+   "captured_upgrade_link_3": {
+      "message": "ഞാൻ FireShot പ്രോ - ന്റെ മറ്റൊരു പതിപ്പ് ഉപയോഗിക്കുന്നു"
+   },
+   "captured_upgrade_link_4": {
+      "message": "എനിക്ക് അത് തിരികെ ലഭിക്കുമോ?"
+   },
+   "enable_checkbox": {
+      "message": "പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "options_button_apply": {
+      "message": "പ്രയോഗിക്കുക"
+   },
+   "options_button_save_close": {
+      "message": "സേവ് ചെയ്യൂ, അടയ്‌ക്കുക"
+   },
+   "options_button_setup": {
+      "message": "സജ്ജീകരിക്കുന്നതിന് ക്ലിക്കുചെയ്യുക"
+   },
+   "options_label_and": {
+      "message": "ഒപ്പം"
+   },
+   "options_label_capturing": {
+      "message": "ക്യാപ്‌ചർ ചെയ്യുന്നു"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "സംരക്ഷിച്ചതിന് ശേഷം  ടാബ് അടയ്ക്കുക"
+   },
+   "options_label_customize_saving": {
+      "message": "സംരക്ഷിക്കൽ പ്രോസസ്സ് ഇച്ഛാനുസൃതമാക്കുക"
+   },
+   "options_label_default_filename_template": {
+      "message": "സ്ഥിരസ്ഥിതി ഫയൽനാമ ടെംപ്ലേറ്റ്"
+   },
+   "options_label_default_folder": {
+      "message": "സ്ഥിരസ്ഥിതി  ഔട്ട്‌പുട്ട് ഫോൾഡർ"
+   },
+   "options_label_default_folder_hint": {
+      "message": "ഡൗൺ‌ലോഡുകൾ‌ ഡയറക്ടറിയുമായി ബന്ധപ്പെട്ട ഒരു പാത്ത് ഫയലിൽ സംഭരിച്ച ഫയൽ‌ അടങ്ങിയിരികൂം, സബ്‌ ഡയറക്ടറികൾ‌ അടങ്ങിയിരിക്കാം. കേവല പാതകൾ, ശൂന്യമായ പാതകൾ, ബാക്ക് റഫറൻസുകൾ അടങ്ങിയ പാതകൾ എന്നിവ ഒരു പിശകിന് കാരണമാകും"
+   },
+   "options_label_editor_options": {
+      "message": "എഡിറ്റർ ഓപ്ഷനുകൾ"
+   },
+   "options_label_enable_context_menu": {
+      "message": "സന്ദർഭ മെനുവിലേക്ക് FireShot സംയോജിപ്പിക്കുക"
+   },
+   "options_label_file_settings": {
+      "message": "ഫയൽ ക്രമീകരണങ്ങൾ"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot ക്രമീകരണങ്ങൾ"
+   },
+   "options_label_hotkey": {
+      "message": "ഹോട്ട്‌കീകൾ"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "അവസാനം ഉപയോഗിച്ച പ്രവർത്തനം"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "'സേവ് ആസ് ' ഡയലോഗ് കാണിക്കരുത്"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "സംരക്ഷിച്ച ശേഷം ഡൗൺലോഡ് ചെയ്ത ഫയൽ അതിന്റെ ഫോൾഡറിൽ കാണിക്കുക"
+   },
+   "options_label_save_image_as": {
+      "message": "ചിത്രം ഇതായി സംരക്ഷിക്കുക:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "എഡിറ്റർ, സേവിംഗ് ഓപ്ഷൻ, ഫയൽ നാമകരണ മുൻ‌ഗണനകൾ, ശൈലികൾ തുടങ്ങിയവ വ്യക്തമാക്കുക"
+   },
+   "options_label_specify_hotkey": {
+      "message": "FireShot സമാരംഭിക്കുന്നതിന് കീ കോമ്പിനേഷൻ വ്യക്തമാക്കുക"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "വലുപ്പം മാറ്റാനുള്ള ഓപ്‌ഷനുകളും ശബ്‌ദങ്ങളും വ്യക്തമാക്കുക"
+   },
+   "options_label_template_day": {
+      "message": "ദിവസം"
+   },
+   "options_label_template_hour": {
+      "message": "മണിക്കൂർ"
+   },
+   "options_label_template_limit_1": {
+      "message": "ഫയലിന്റെ പേരിന്റെ ദൈർഘ്യം പരിമിതപ്പെടുത്തുക"
+   },
+   "options_label_template_limit_2": {
+      "message": "അക്ഷരങ്ങള്‍"
+   },
+   "options_label_template_minutes": {
+      "message": "മിനിറ്റ്"
+   },
+   "options_label_template_month": {
+      "message": "മാസം"
+   },
+   "options_label_template_pad_1": {
+      "message": "പാഡ് നമ്പറിനൊപ്പം"
+   },
+   "options_label_template_pad_2": {
+      "message": "പൂജ്യങ്ങൾ "
+   },
+   "options_label_template_seconds": {
+      "message": "സെക്കൻഡ്"
+   },
+   "options_label_template_title": {
+      "message": "പേജ് ശീർഷകം"
+   },
+   "options_label_template_url": {
+      "message": "പേജ് യു.ആർ.എൽ"
+   },
+   "options_label_template_website": {
+      "message": "ഡൊമെയ്ൻ പേര്"
+   },
+   "options_label_template_year": {
+      "message": "വർഷം"
+   },
+   "options_link_filename_template_settings": {
+      "message": "ഫയൽനാമ ടെംപ്ലേറ്റ് ക്രമീകരണങ്ങൾ കാണിക്കുക"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "ഫയൽനാമ ടെംപ്ലേറ്റ് ക്രമീകരണങ്ങൾ മറയ്‌ക്കുക"
+   }
+}

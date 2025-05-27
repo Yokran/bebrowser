@@ -1,0 +1,56 @@
+#pratikabuSTTDiv {
+	background: none !important;
+    z-index: 2147483647 !important;
+	position: fixed !important;
+	display: none;
+	padding: 0px !important;
+	margin: 0px !important;
+	line-height: 0 !important;
+	min-width: 24px !important;
+	min-height: 24px !important;
+}
+
+#pratikabuSTTDiv2 {
+	background: none !important;
+    z-index: 2147483647 !important;
+	position: fixed !important;
+	display: none;
+	padding: 0px !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	margin-right: 0px !important;
+	margin-left: 0px;
+	line-height: 0 !important;
+	width: 48px;
+	min-width: 24px !important;
+	min-height: 24px !important;
+}
+
+.pratikabuSTTImg {
+	padding: 0px !important;
+	margin: 0px !important;
+	border: 0px !important;
+	display: inline;
+	width: auto;
+	height: auto;
+}
+
+.pratikabuSTTBlackAndWhite {
+	filter: gray !important; /* IE6-9 */
+	filter: grayscale(1) !important; /* Firefox 35+ */
+	-webkit-filter: grayscale(1) !important; /* Google Chrome, Safari 6+ & Opera 15+ */
+}
+
+@media print {
+	.pratikabusttdiv-no-print {
+		display: none !important;
+	}
+}
+
+.pratikabuSTTRotate180 {
+	transform: rotate(180deg) !important;
+}
+
+#pratikabuSTTSettings, #pratikabuSTTArrowUp {
+	transition: transform 1s !important;
+}

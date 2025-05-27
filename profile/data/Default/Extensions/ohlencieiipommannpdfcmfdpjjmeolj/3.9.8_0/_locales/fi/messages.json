@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Säädä asetuksiasi parantaaksesi kokemustasi."
+   },
+   "affected_page": {
+      "message": "Vaikuttanut sivu"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly saattaa olla toisen asentamasi laajennuksen, kuten mainosten estäjän, estämä. Poista muut laajennukset tilapäisesti käytöstä ja yritä luoda PDF-tiedosto uudelleen."
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "capture_screenshot_manually": {
+      "message": "Käytä Screenshot-toimintoamme tämän sivun tallentamiseen ja vie se sitten kuvaksi tai PDF-tiedostoksi."
+   },
+   "capturing": {
+      "message": "Kaappaus käynnissä"
+   },
+   "capturing_desc": {
+      "message": "Tallennetaan kuvaa…"
+   },
+   "choose_paper_size": {
+      "message": "Valitse haluamasi paperikoko PDF-tiedostoille."
+   },
+   "compress_pdf": {
+      "message": "Pakkaa PDF"
+   },
+   "contact_us": {
+      "message": "Ota yhteyttä:"
+   },
+   "convert_pdf": {
+      "message": "Muunna PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Nykyinen kuvakaappaus"
+   },
+   "default_button": {
+      "message": "Oletusnäppäin"
+   },
+   "default_mode": {
+      "message": "Oletustila"
+   },
+   "default_mode_checkbox": {
+      "message": "Älä näytä näitä vaihtoehtoja uudelleen. Voit ottaa ne käyttöön asetuksissa."
+   },
+   "default_mode_desc": {
+      "message": "Valitse toiminto, joka valitaan automaattisesti, kun napsautat laajennuspainiketta."
+   },
+   "delete": {
+      "message": "Napsauta poistaaksesi"
+   },
+   "dialog_close": {
+      "message": "Sulje"
+   },
+   "dialog_text": {
+      "message": "Lähetetään tulostimeen."
+   },
+   "dialog_text_btn": {
+      "message": "re-send"
+   },
+   "dialog_title": {
+      "message": "Tulostetaan"
+   },
+   "dont_show_again": {
+      "message": "Älä näytä tätä uudelleen"
+   },
+   "edit_pdf": {
+      "message": "Muokkaa PDF:ää"
+   },
+   "email": {
+      "message": "Sähköposti"
+   },
+   "email_article_sent": {
+      "message": "Lähetä artikkeli"
+   },
+   "email_from": {
+      "message": "Lähettäjä"
+   },
+   "email_message": {
+      "message": "Viesti"
+   },
+   "email_product_sent_message": {
+      "message": "Sähköpostiviesti on lähetetty. Voit sulkea tämän sivun"
+   },
+   "email_send": {
+      "message": "Lähetä"
+   },
+   "email_sent_message": {
+      "message": "Sähköpostiviesti on lähetetty"
+   },
+   "email_title": {
+      "message": "Lähetä sähköpostilla"
+   },
+   "email_to": {
+      "message": "Vastaanottaja"
+   },
+   "full_page_screenshot": {
+      "message": "Koko sivun kuva"
+   },
+   "get_pro": {
+      "message": "Parantaa"
+   },
+   "got_it": {
+      "message": "Ymmärrän"
+   },
+   "image": {
+      "message": "Kuva"
+   },
+   "image_size_pref": {
+      "message": "Kuvan koon asetus"
+   },
+   "image_size_pref_desc": {
+      "message": "Aseta kuvien koko, kun katsot sivuja laajennuksella."
+   },
+   "images": {
+      "message": "kuvat"
+   },
+   "lang_display_name": {
+      "message": "Suomi (Finnish)"
+   },
+   "language_setting": {
+      "message": "Kieli"
+   },
+   "language_setting_desc": {
+      "message": "Valitse haluamasi kieli."
+   },
+   "letter_paper_size": {
+      "message": "Letter"
+   },
+   "login": {
+      "message": "Kirjaudu sisään"
+   },
+   "margin": {
+      "message": "Marginaali"
+   },
+   "no": {
+      "message": "Ei"
+   },
+   "off": {
+      "message": "Pois"
+   },
+   "other_tools": {
+      "message": "Muut työkalut"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Tämä sivu estää PrintFriendlyn toiminnan"
+   },
+   "page_size": {
+      "message": "Sivun koko"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Lataa PDF"
+   },
+   "pdf_generation_error": {
+      "message": "Virhe PDF:n luomisessa"
+   },
+   "pdf_head": {
+      "message": "Luodaan PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF:n paperikoko"
+   },
+   "print": {
+      "message": "Tulosta"
+   },
+   "print_pdf": {
+      "message": "Tulosta & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Poista mainokset ja navigointi verkkosivuilta. Toimii hyvin artikkelien ja tekstisivujen kanssa."
+   },
+   "printer_friendly_page": {
+      "message": "Tulostusystävällinen sivu"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Eikö tulostusystävällinen versio ollut sitä mitä odotit? Kokeile ottaa kuvakaappaus."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly-sivu"
+   },
+   "pro_alert": {
+      "message": "Päivitä ominaisuus"
+   },
+   "reach_out_for_support": {
+      "message": "Lisätietoja tai tukea varten ota yhteyttä meihin osoitteessa"
+   },
+   "read_more": {
+      "message": "Lue lisää"
+   },
+   "remove_ads_description": {
+      "message": "Poistaa mainokset ja navigoinnin verkkosivuilta. Toimii hyvin artikkeleiden ja tekstikeskeisten sivujen kanssa."
+   },
+   "remove_images": {
+      "message": "Poista kuvat"
+   },
+   "report": {
+      "message": "Ilmoita"
+   },
+   "resolve_issue": {
+      "message": "ja autamme sinua ratkaisemaan ongelman."
+   },
+   "save_as_image": {
+      "message": "Tallenna kuvana"
+   },
+   "save_as_pdf": {
+      "message": "Tallenna PDF:nä"
+   },
+   "save_changes": {
+      "message": "Tallenna"
+   },
+   "screenshot": {
+      "message": "Kuvakaappaus"
+   },
+   "screenshot_image_format": {
+      "message": "Kuvakaappauksen tiedostomuoto"
+   },
+   "screenshot_ready_soon": {
+      "message": "Kuvakaappauksesi on valmis hetken kuluttua."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly toimii useimmilla verkkosivustoilla, mikä tekee siistimpien, tulostusystävällisten sivujen ja kuvakaappausten luomisesta helppoa. Tietyt sivut - kuten selaimen asetukset, laajennuskaupat ja muut rajoitetut alueet - ovat kuitenkin kiellettyjä selainkäytäntöjen vuoksi. Ota yhteyttä, jos sinulla on kysyttävää."
+   },
+   "settings": {
+      "message": "Asetukset"
+   },
+   "settings_saved": {
+      "message": "Asetuksesi on tallennettu."
+   },
+   "show_screenshot_message": {
+      "message": "Näytä kuvakaappausviesti tulostusystävällisessä näkymässä"
+   },
+   "something_went_wrong": {
+      "message": "Jokin meni pieleen"
+   },
+   "still_does_not_work": {
+      "message": "Jos se ei vieläkään toimi, ota meihin yhteyttä osoitteessa"
+   },
+   "stop_capturing": {
+      "message": "Lopeta kaappaus"
+   },
+   "strict_security_settings": {
+      "message": "Olemme pahoillamme, mutta tällä sivulla on tiukat suojausasetukset (Content Security Policy), jotka estävät meitä luomasta PrintFriendly-versiota sivusta."
+   },
+   "style": {
+      "message": "Tyyli"
+   },
+   "take_screenshot": {
+      "message": "Ota kuvakaappaus:"
+   },
+   "text_size_pref": {
+      "message": "Tekstin koon asetus"
+   },
+   "text_size_pref_desc": {
+      "message": "Aseta tekstin koko, kun katsot sivuja laajennuksella."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly saattaa olla aikakatkaistu PDF-tiedostoa luotaessa. Se saattaa olla liian suuri järjestelmämme käsiteltäväksi."
+   },
+   "txt_size": {
+      "message": "Tekstin koko"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Emme pystyneet luomaan PDF-tiedostoa tälle sivulle."
+   },
+   "undo": {
+      "message": "Kumoa"
+   },
+   "what_you_can_do": {
+      "message": "Mitä voit tehdä"
+   },
+   "yes": {
+      "message": "Kyllä"
+   }
+}

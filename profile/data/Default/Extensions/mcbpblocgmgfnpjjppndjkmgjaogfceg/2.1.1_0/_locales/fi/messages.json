@@ -1,0 +1,936 @@
+{
+   "action_about": {
+      "message": "Noin"
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_batch": {
+      "message": "Kaappaa luettelo URL-osoitteista"
+   },
+   "action_capture_browser": {
+      "message": "Siepata selainikkuna ja"
+   },
+   "action_capture_entire": {
+      "message": "Siepata koko sivu ja"
+   },
+   "action_capture_entire_lite": {
+      "message": "Siepata koko sivu"
+   },
+   "action_capture_selection": {
+      "message": "Talteenotto /sieppauselementti ja"
+   },
+   "action_capture_selection_lite": {
+      "message": "Talteenotto"
+   },
+   "action_capture_stop": {
+      "message": "Lopeta sieppaus"
+   },
+   "action_capture_stop_short": {
+      "message": "Stop"
+   },
+   "action_capture_tabs": {
+      "message": "Kaapata kaikki välilehdet ja"
+   },
+   "action_capture_visible": {
+      "message": "Kaapata näkyvää osaa ja"
+   },
+   "action_capture_visible_lite": {
+      "message": "Kaapata näkyvää osaa"
+   },
+   "action_copy": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "action_edit": {
+      "message": "Muokata"
+   },
+   "action_email": {
+      "message": "E-M​a​​i​l"
+   },
+   "action_enter_license": {
+      "message": "Sisällysluettelot"
+   },
+   "action_external": {
+      "message": "Avaa ulkoisessa editorissa"
+   },
+   "action_install_native": {
+      "message": "Kokeile etukäteen liittyviä ominaisuuksia"
+   },
+   "action_license_info": {
+      "message": "Lisenssitiedot"
+   },
+   "action_micsellaneous": {
+      "message": "Sekalainen"
+   },
+   "action_ok": {
+      "message": "OK"
+   },
+   "action_onenote": {
+      "message": "Lähetä Nᴏt e"
+   },
+   "action_open_clipboard": {
+      "message": "Avataan leikepöydältä"
+   },
+   "action_open_file": {
+      "message": "Avaa tiedosto"
+   },
+   "action_options": {
+      "message": "Vaihtoehtoja"
+   },
+   "action_print": {
+      "message": "Tulosta"
+   },
+   "action_register": {
+      "message": "Ilmoittautua"
+   },
+   "action_resume": {
+      "message": "Jatka muokkausta"
+   },
+   "action_save": {
+      "message": "Tallentaa"
+   },
+   "action_save_pdf": {
+      "message": "PDF Tallenna nimellä"
+   },
+   "action_save_pdf_single": {
+      "message": "Tallenna yhtenä PDF-tiedostona"
+   },
+   "action_show": {
+      "message": "Näytä..."
+   },
+   "action_support": {
+      "message": "Tuki"
+   },
+   "action_switch_pro": {
+      "message": "Vaihtaa Prᴏ"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Aktivoi Pro-toiminnot jatkaaksesi"
+   },
+   "action_upload": {
+      "message": "Lataa"
+   },
+   "action_view_demo": {
+      "message": "Katso demoa"
+   },
+   "alert_thanks_for_granting_permissions": {
+      "message": "Kiitos lupien myöntämisestä! Käsittelemme niitä huolellisesti."
+   },
+   "application_description": {
+      "message": "Ota täysi verkkosivun kuvakaappauksia. Voit tallentaa, muokata ja tallentaa ne, lähettää, tulostaa, lähettää OneNote-palveluun, leikepöydälle tai sähköpostille"
+   },
+   "application_title": {
+      "message": "Ota verkkosivun kuvakaappauksia kokonaan - FireShot"
+   },
+   "automation_banner_locale_string_1": {
+      "message": "FireShot-erätila"
+   },
+   "automation_banner_locale_string_2": {
+      "message": "kaappaus Sivu"
+   },
+   "automation_banner_locale_string_3": {
+      "message": "odottamaan sivun renderöitymistä..."
+   },
+   "automation_banner_locale_string_4": {
+      "message": "Seuraava sivu"
+   },
+   "automation_banner_locale_string_5": {
+      "message": "Keskeytä tehtävä"
+   },
+   "automation_banner_locale_string_6": {
+      "message": "of"
+   },
+   "button_dismiss": {
+      "message": "Ymmärretty"
+   },
+   "captured_ads_button_lifetime_license": {
+      "message": "Elinikäinen lisenssi ja 30 päivän palautustakuu"
+   },
+   "captured_ads_button_purchase_fireshot_pro": {
+      "message": "Osta FireShot Pro"
+   },
+   "captured_ads_feature_1": {
+      "message": "Kehittyneet tallennusominaisuudet"
+   },
+   "captured_ads_feature_2": {
+      "message": "Muokkaa kuvakaappauksia"
+   },
+   "captured_ads_feature_3_1": {
+      "message": "Tekstin avulla haettavissa olevat PDF-tiedostot,"
+   },
+   "captured_ads_feature_3_2": {
+      "message": "otsikot ja alatunnisteet"
+   },
+   "captured_ads_label_compare_lite_pro": {
+      "message": "vertaa FireShot Lite ja FireShot Pro..."
+   },
+   "captured_ads_label_more_premium": {
+      "message": "enemmän premium-ominaisuuksia"
+   },
+   "captured_ads_title": {
+      "message": "Poista mainokset"
+   },
+   "captured_ads_title_desc_1": {
+      "message": "Ryhdy PRO-jäseneksi ja osallistu aktiivisesti kehittämiseen."
+   },
+   "captured_ads_title_desc_2": {
+      "message": "tämän laajennuksen osalta"
+   },
+   "captured_beta_disabled": {
+      "message": "Kiitos. Kaikki beta-ominaisuudet on poistettu käytöstä."
+   },
+   "captured_button_continue": {
+      "message": "Jatkaa"
+   },
+   "captured_button_free_10_day_trial": {
+      "message": "Ilmainen 10 päivän kokeilu"
+   },
+   "captured_button_no_credit_card": {
+      "message": "Luottokorttia ei tarvita"
+   },
+   "captured_button_rate_dont_like": {
+      "message": "En pidä"
+   },
+   "captured_button_rate_later": {
+      "message": "Ehkä myöhemmin"
+   },
+   "captured_button_rate_like": {
+      "message": "Pidän siitä"
+   },
+   "captured_buy_pro_button": {
+      "message": "Osta Pro"
+   },
+   "captured_can_switch_back": {
+      "message": "Voit vaihtaa takaisin Lite-palveluun milloin tahansa."
+   },
+   "captured_checkbox_custom_page_size": {
+      "message": "Mukautettu sivukoko"
+   },
+   "captured_checkbox_direct_links": {
+      "message": "Suorat linkit"
+   },
+   "captured_checkbox_disable_text_selection": {
+      "message": "Poista tekstin valinta käytöstä"
+   },
+   "captured_checkbox_split_to_pages": {
+      "message": "Jaa sivuiksi"
+   },
+   "captured_checkbox_text_searchable": {
+      "message": "Tekstihaku"
+   },
+   "captured_copy_clipboard": {
+      "message": "Kopioi leikepöydälle"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Opi kuinka"
+   },
+   "captured_error_pdf": {
+      "message": "Anteeksi, PDF-tiedoston luomisessa tapahtui odottamaton virhe"
+   },
+   "captured_exit_beta_program": {
+      "message": "Poistu Insider-ohjelmasta"
+   },
+   "captured_follow_the_instructions": {
+      "message": "Asenna lisäominaisuudet noudattamalla ohjeita"
+   },
+   "captured_get_free_button": {
+      "message": "Kokeile sitä ilmaiseksi"
+   },
+   "captured_how_to_copy": {
+      "message": "Kuinka kopioida kuvakaappaus leikepöydälle"
+   },
+   "captured_information": {
+      "message": "Tiedot"
+   },
+   "captured_label_actions": {
+      "message": "toimet"
+   },
+   "captured_label_advanced_features_preview": {
+      "message": "Lisäominaisuuksien esikatselu"
+   },
+   "captured_label_can_be_captured_better": {
+      "message": "Tämä sivu voidaan kuvata paremmin asennettujen lisäominaisuuksien avulla."
+   },
+   "captured_label_limited_functionality": {
+      "message": "Vain pieni osa tästä sivusta voidaan tallentaa selaimen rajoitusten vuoksi. Voit käyttää FireShot Pro -ohjelmaa koko sivun tallentamiseen PDF-tiedostoksi."
+   },
+   "captured_label_new": {
+      "message": "uusi"
+   },
+   "captured_label_participate_beta": {
+      "message": "Liity FireShot Pro Insider -ohjelmaan"
+   },
+   "captured_label_progress_sign": {
+      "message": "Melkein valmis"
+   },
+   "captured_label_remove_adv": {
+      "message": "Poista mainonta"
+   },
+   "captured_label_try_enchancements": {
+      "message": "Testausjakson aikana tarjoamme sen ILMAISEKSI. Kokeile seuraavia parannuksia"
+   },
+   "captured_label_using_beta_version": {
+      "message": "Käytät Insider-versiota FireShot Pro -ominaisuuksista: edistyneet kuvakaappausominaisuudet ja PDF-ominaisuudet (sivujen asetukset, otsikot/jalustat/vesimerkit, suorat linkit ja hakukelpoinen teksti)."
+   },
+   "captured_li_1": {
+      "message": "Luo tekstihakukelpoisia PDF-tiedostoja suorilla linkeillä."
+   },
+   "captured_li_2": {
+      "message": "Lisää mukautettuja otsikoita, alatunnisteita ja vesileimoja."
+   },
+   "captured_li_3": {
+      "message": "Sivun koon mukauttaminen, monisivuiset vaihtoehdot"
+   },
+   "captured_li_4": {
+      "message": "Edistynyt kaappaus: monimutkainen sisältö, kohteen valinta"
+   },
+   "captured_link_get_fireshot_for": {
+      "message": "Hanki FireShot"
+   },
+   "captured_link_read_more": {
+      "message": "Lue lisää"
+   },
+   "captured_link_report_problem": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "captured_link_see_terms_conditions": {
+      "message": "Katso ehdot ja edellytykset"
+   },
+   "captured_link_upgrade_for_extras": {
+      "message": "Päivitä Pro-versioon, jotta extrat ovat käytettävissä"
+   },
+   "captured_print": {
+      "message": "Tulosta"
+   },
+   "captured_print_button": {
+      "message": "Tulosta"
+   },
+   "captured_purchase_license": {
+      "message": "Lisenssin ostaminen"
+   },
+   "captured_rate_button": {
+      "message": "Arvostele FireShot"
+   },
+   "captured_rate_line1": {
+      "message": "FireShot-kehitys vie paljon henkilökohtaista aikaa"
+   },
+   "captured_rate_line2": {
+      "message": "Tuo aika voidaan käyttää perheeseen tai lepoon"
+   },
+   "captured_rate_line3": {
+      "message": "Arvosana ponnistuksistamme, olisitko niin kiltti arvioimaan FireShotia?"
+   },
+   "captured_rate_line4": {
+      "message": "Tämä auttaisi ihmisiä löytämään FireShot nopeammin"
+   },
+   "captured_rate_question": {
+      "message": "Voisitko jakaa kanssamme, pidätkö FireShotista vai et?"
+   },
+   "captured_recommend_us": {
+      "message": "Suosittele FireShot"
+   },
+   "captured_report_problem": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "captured_save_as_image": {
+      "message": "Tallenna kuvaksi"
+   },
+   "captured_save_as_image_button": {
+      "message": "Tallenna kuvaksi"
+   },
+   "captured_save_as_pdf": {
+      "message": "Tallenna PDF-tiedostoon"
+   },
+   "captured_save_panel_title": {
+      "message": "Tallenna kuvakaappaus"
+   },
+   "captured_saving_options": {
+      "message": "muokkaa sitä"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Asenna tiedostonimen malli ..."
+   },
+   "captured_step1_right_click": {
+      "message": "Napsauta kuvaa hiiren kakkospainikkeella"
+   },
+   "captured_step2_copy": {
+      "message": "Valitse ponnahdusvalikosta 'Kopioi kuva'."
+   },
+   "captured_success": {
+      "message": "Menestys"
+   },
+   "captured_upgrade_features_list": {
+      "message": "saat lisäominaisuuksia, joilla voit tehdä merkintöjä, tulostaa ja tallentaa paremmin, muokata, ladata, lähettää sähköpostiin tai OneNoteen tai viedä toiseen ohjelmaan."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Siepata, kommentoida, tulostaa ja tallentaa paremmin, muokata, lähettää, lähettää sähköpostia / onenote tai tutustua toiseen ohjelmaan"
+   },
+   "captured_upgrade_link_2": {
+      "message": "Päivitä FireShot Pro ohjelmaan"
+   },
+   "captured_upgrade_link_3": {
+      "message": "Käytin toista FireShot-versiota"
+   },
+   "captured_upgrade_link_4": {
+      "message": "Voinko saada sen takaisin"
+   },
+   "collapse": {
+      "message": "romahdus"
+   },
+   "enable_checkbox": {
+      "message": "Ota käyttöön"
+   },
+   "history_banner_line1": {
+      "message": "Jos haluat jatkaa, vapauta tilaa poistamalla tarpeettomat kaappaukset historiasta."
+   },
+   "history_banner_line2": {
+      "message": "FireShot on kätevästi valinnut etukäteen kohteet, joilla on merkittävin vaikutus tallennuskoon pienentämiseen."
+   },
+   "history_banner_title": {
+      "message": "Tallennuskoko on ylittänyt kiintiönsä."
+   },
+   "history_btn_delete_selected": {
+      "message": "Poista valittu"
+   },
+   "history_button_select_all": {
+      "message": "Valitse/ poista kaikki"
+   },
+   "history_clear_filter_button": {
+      "message": "Tyhjennä suodatin"
+   },
+   "history_dlg_confirm_deletion": {
+      "message": "Poista valitut kohteet? Tätä toimintoa ei voi peruuttaa."
+   },
+   "history_filter_text": {
+      "message": "Suodatin"
+   },
+   "history_promo_title": {
+      "message": "FireShot Lite tarjoaa historian viimeisten 7 päivän ajalta. Täysi historia on saatavilla FireShot Pro -ohjelmassa."
+   },
+   "infinite_mode_warning": {
+      "message": "Ääretön vieritystila havaittu. Pysäytä FireShot tarvittaessa."
+   },
+   "label_processing": {
+      "message": "Käsittely..."
+   },
+   "label_start": {
+      "message": "Aloita"
+   },
+   "label_total": {
+      "message": "Yhteensä"
+   },
+   "licensing_popup_cofirm_removal": {
+      "message": "Haluatko todella poistaa tämän selaimen lisenssin käytöstä?"
+   },
+   "licensing_popup_licensing_info": {
+      "message": "Lisensointitiedot"
+   },
+   "licensing_popup_registered_to": {
+      "message": "Rekisteröitynyt"
+   },
+   "licensing_popup_remove_key": {
+      "message": "Poista lisenssi tästä selaimesta"
+   },
+   "options_allow_infinite_scrolling": {
+      "message": "Salli loputtomasti vieritettäviä sivuja"
+   },
+   "options_api_hint": {
+      "message": "Käynnistä ja määritä FireShot JavaScriptin avulla."
+   },
+   "options_button_apply": {
+      "message": "Käytä"
+   },
+   "options_button_pdf_settings_caption": {
+      "message": "Määritä PDF-tiedostojen tallennusasetukset"
+   },
+   "options_button_save_close": {
+      "message": "Tallenna ja sulje"
+   },
+   "options_button_setup": {
+      "message": "Napsauta asennusta"
+   },
+   "options_capture_all_tabs_only_visible": {
+      "message": "Komento 'Capture all tabs' (Ota kaikki välilehdet talteen) ottaa talteen vain näkyvän osan sivusta."
+   },
+   "options_checkbox_limit_scrolling": {
+      "message": "Suurin sallittu aika sivun nappaamiseen:"
+   },
+   "options_history_confirm_erase": {
+      "message": "Vahvista historian poistaminen. Tätä toimintoa ei voi kumota."
+   },
+   "options_history_delete_all": {
+      "message": "Poista kaikki historia..."
+   },
+   "options_label_and": {
+      "message": "ja"
+   },
+   "options_label_capturing": {
+      "message": "Syömällä"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "sulje välilehti tallennuksen jälkeen"
+   },
+   "options_label_customize_saving": {
+      "message": "Muokata tallennusprosessia"
+   },
+   "options_label_default_filename_template": {
+      "message": "Oletustiedoston malli"
+   },
+   "options_label_default_folder": {
+      "message": "Oletuskansio"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Tiedostopolku, joka on ladattujen tiedostojen sisältävään tiedostoon, joka sisältää mahdollisesti alihakemistoja.\nAbsoluuttiset reitit, tyhjät polut ja polut, jotka sisältävät takaisinviittauksia «..» aiheuttaa virheen"
+   },
+   "options_label_editor_options": {
+      "message": "Editori"
+   },
+   "options_label_enable_context_menu": {
+      "message": "Integroi FireShot kontekstivalikkoon"
+   },
+   "options_label_enable_error_reporting": {
+      "message": "Kun FireShot on rikki, ilmoita virheistä automaattisesti, jotta FireShotia voidaan parantaa."
+   },
+   "options_label_enable_google_analytics": {
+      "message": "Lähetä nimettömiä käyttötietoja Google Analyticsille FireShotin parantamista varten."
+   },
+   "options_label_file_saving": {
+      "message": "Tallentaa"
+   },
+   "options_label_file_settings": {
+      "message": "Tiedostoasetukset"
+   },
+   "options_label_fireshot_options": {
+      "message": "Fireshot vaihtoehtoja"
+   },
+   "options_label_history": {
+      "message": "Historia"
+   },
+   "options_label_hotkey": {
+      "message": "Pikanäppäimet"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Viimeksi käytetty toiminto"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "Älä näytä \"Tallenna nimellä\" - valintaikkuna"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "Näytä ladattu tiedosto kansiossaan tallennuksen jälkeen"
+   },
+   "options_label_pdf_settings": {
+      "message": "PDF-asetukset"
+   },
+   "options_label_save_image_as": {
+      "message": "Tallenna kuva"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Määritä editori ja tallennusvaihtoehdot, tiedostonimitysasetukset, tyyli jne"
+   },
+   "options_label_specify_hotkey": {
+      "message": "Määritä käynnistysavain FireShot"
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Määritä koon muutosasetukset ja äänet"
+   },
+   "options_label_template_day": {
+      "message": "Päivä"
+   },
+   "options_label_template_hour": {
+      "message": "Tunnin"
+   },
+   "options_label_template_limit_1": {
+      "message": "Rajoita tiedostonimen pituus"
+   },
+   "options_label_template_limit_2": {
+      "message": "merkkiä"
+   },
+   "options_label_template_minutes": {
+      "message": "Minuutit"
+   },
+   "options_label_template_month": {
+      "message": "Kuukausi"
+   },
+   "options_label_template_pad_1": {
+      "message": "Tyynyn numero"
+   },
+   "options_label_template_pad_2": {
+      "message": "nollat"
+   },
+   "options_label_template_seconds": {
+      "message": "Sekuntia"
+   },
+   "options_label_template_title": {
+      "message": "Sivun otsikko"
+   },
+   "options_label_template_url": {
+      "message": "Sivun URL-osoite"
+   },
+   "options_label_template_website": {
+      "message": "Verkkotunnus"
+   },
+   "options_label_template_year": {
+      "message": "Vuosi"
+   },
+   "options_label_update_notifications_pro": {
+      "message": "Ilmoita minulle, kun FireShot päivitetään."
+   },
+   "options_link_filename_template_settings": {
+      "message": "Näytä tiedostonimen mallien asetukset"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Näyttää folename-mallin asetukset"
+   },
+   "options_open_new_tab_next_to_the_source": {
+      "message": "Avaa kuvakaappaus-välilehti lähde-välilehden vierestä"
+   },
+   "options_option_history_180": {
+      "message": "6 kuukautta"
+   },
+   "options_option_history_30": {
+      "message": "30 päivää"
+   },
+   "options_option_history_365": {
+      "message": "Vuosi"
+   },
+   "options_option_history_7": {
+      "message": "Viikko"
+   },
+   "options_option_history_90": {
+      "message": "3 kuukautta"
+   },
+   "options_option_history_all": {
+      "message": "Ikuisesti"
+   },
+   "options_page_delay_screenshot": {
+      "message": "Viive ennen kuvakaappauksen ottamista:"
+   },
+   "options_page_delay_screenshot_hint": {
+      "message": "Aktivoi tämä tila pitämällä Alt-näppäintä painettuna FireShotia käynnistettäessä."
+   },
+   "options_page_scrolling_speed": {
+      "message": "Sivun vieritysnopeuden muuttaminen:"
+   },
+   "options_retain_history": {
+      "message": "Aika tallentaa kaapatut kuvakaappaukset historiaan"
+   },
+   "pdf_dialog_align": {
+      "message": "Kohdista"
+   },
+   "pdf_dialog_bg_color": {
+      "message": "Taustan väri"
+   },
+   "pdf_dialog_bottom": {
+      "message": "pohja"
+   },
+   "pdf_dialog_bottom_center": {
+      "message": "Alhaalla keskellä"
+   },
+   "pdf_dialog_bottom_left": {
+      "message": "Alhaalla vasemmalla"
+   },
+   "pdf_dialog_bottom_right": {
+      "message": "Alhaalla oikealla"
+   },
+   "pdf_dialog_cancel": {
+      "message": "Peruuta"
+   },
+   "pdf_dialog_center": {
+      "message": "Keskusta"
+   },
+   "pdf_dialog_centered": {
+      "message": "Keskitetty"
+   },
+   "pdf_dialog_click_to_configure_template": {
+      "message": "Napsauta määrittääksesi mallin"
+   },
+   "pdf_dialog_color": {
+      "message": "Väri"
+   },
+   "pdf_dialog_configure_template": {
+      "message": "Määritä malli"
+   },
+   "pdf_dialog_confirm": {
+      "message": "Vahvista"
+   },
+   "pdf_dialog_create_text_searchable_pdfs": {
+      "message": "Luo tekstin valinnan ja haun mahdollistava PDF-tiedosto"
+   },
+   "pdf_dialog_defaults": {
+      "message": "Palauta oletusasetukset"
+   },
+   "pdf_dialog_enable_smart_pagebreaks": {
+      "message": "Ota älykkäät sivukatkot käyttöön"
+   },
+   "pdf_dialog_enable_web_links": {
+      "message": "Ota web-linkit käyttöön"
+   },
+   "pdf_dialog_extras": {
+      "message": "Lisävarusteet"
+   },
+   "pdf_dialog_font": {
+      "message": "Fontti"
+   },
+   "pdf_dialog_footers": {
+      "message": "Alatunnisteet"
+   },
+   "pdf_dialog_frame": {
+      "message": "kehys"
+   },
+   "pdf_dialog_headers": {
+      "message": "Otsikot"
+   },
+   "pdf_dialog_height": {
+      "message": "Korkeus"
+   },
+   "pdf_dialog_inches": {
+      "message": "tuumaa"
+   },
+   "pdf_dialog_label_template_values": {
+      "message": "Seuraavia ennalta määritettyjä arvoja voidaan käyttää (klikkaa lisätäksesi)."
+   },
+   "pdf_dialog_left": {
+      "message": "Vasen"
+   },
+   "pdf_dialog_margin": {
+      "message": "Marginaali"
+   },
+   "pdf_dialog_margin_pixels": {
+      "message": "Marginaali pikseleinä"
+   },
+   "pdf_dialog_middle_left": {
+      "message": "Keskellä vasemmalla"
+   },
+   "pdf_dialog_middle_right": {
+      "message": "Keskellä oikealla"
+   },
+   "pdf_dialog_month_name": {
+      "message": "Kuukauden nimi"
+   },
+   "pdf_dialog_opacity": {
+      "message": "Opasiteetti"
+   },
+   "pdf_dialog_orientation": {
+      "message": "Orientaatio"
+   },
+   "pdf_dialog_orientation_landscape": {
+      "message": "Maisema"
+   },
+   "pdf_dialog_orientation_portrait": {
+      "message": "Muotokuva"
+   },
+   "pdf_dialog_page_number": {
+      "message": "PDF Sivunumero"
+   },
+   "pdf_dialog_page_size": {
+      "message": "Sivukoko"
+   },
+   "pdf_dialog_pagesize_auto": {
+      "message": "Auto"
+   },
+   "pdf_dialog_pagesize_custom_wh": {
+      "message": "Mukautettu leveys ja korkeus"
+   },
+   "pdf_dialog_pagesize_custom_width": {
+      "message": "Mukautettu leveys"
+   },
+   "pdf_dialog_paging_options": {
+      "message": "Hakusanavaihtoehdot"
+   },
+   "pdf_dialog_placeholder_select": {
+      "message": "Valitse"
+   },
+   "pdf_dialog_placement": {
+      "message": "sijoitus"
+   },
+   "pdf_dialog_please_specify_template": {
+      "message": "Määritä malli"
+   },
+   "pdf_dialog_position": {
+      "message": "asema"
+   },
+   "pdf_dialog_right": {
+      "message": "Oikea"
+   },
+   "pdf_dialog_screenshot_height": {
+      "message": "kuvakaappaus Korkeus"
+   },
+   "pdf_dialog_screenshot_width": {
+      "message": "kuvakaappaus Leveys"
+   },
+   "pdf_dialog_setup_footer_template": {
+      "message": "Setup Footer malli"
+   },
+   "pdf_dialog_setup_fs": {
+      "message": "Setup Footer Style (Alatunnisteen tyyli)"
+   },
+   "pdf_dialog_setup_header_template": {
+      "message": "Setup Header-malli"
+   },
+   "pdf_dialog_setup_hs": {
+      "message": "Setup Header Style (Otsikkotyyli)"
+   },
+   "pdf_dialog_setup_watermark_template": {
+      "message": "Vesileiman mallin määrittäminen"
+   },
+   "pdf_dialog_setup_ws": {
+      "message": "Vesileiman tyyli"
+   },
+   "pdf_dialog_size": {
+      "message": "Koko"
+   },
+   "pdf_dialog_specify_font_style": {
+      "message": "Määritä fonttityyli"
+   },
+   "pdf_dialog_split_screenshots": {
+      "message": "Pitkien kuvakaappausten jakaminen sivuille"
+   },
+   "pdf_dialog_style": {
+      "message": "Tyyli"
+   },
+   "pdf_dialog_template": {
+      "message": "malli"
+   },
+   "pdf_dialog_text": {
+      "message": "Teksti"
+   },
+   "pdf_dialog_top": {
+      "message": "Top"
+   },
+   "pdf_dialog_top_center": {
+      "message": "Top Keskusta"
+   },
+   "pdf_dialog_top_left": {
+      "message": "Ylhäällä vasemmalla"
+   },
+   "pdf_dialog_top_right": {
+      "message": "Ylhäällä oikealla"
+   },
+   "pdf_dialog_units": {
+      "message": "yksiköt"
+   },
+   "pdf_dialog_watermarks": {
+      "message": "Vesileimat"
+   },
+   "pdf_dialog_weekday": {
+      "message": "Arkipäivä"
+   },
+   "pdf_dialog_width": {
+      "message": "Leveys"
+   },
+   "pdf_page_size_warning_1": {
+      "message": "Sivukoko asetetaan siten, että se sopii kaappaukseen kokonaan."
+   },
+   "pdf_page_size_warning_2": {
+      "message": "Sivun korkeus asetetaan siten, että se sopii kaappaukseen kokonaan."
+   },
+   "pdf_page_size_width_warning_1": {
+      "message": "Sivun leveys asetetaan siten, että se mahtuu kokonaan sivulle, ja sivun korkeus asetetaan A4-kokosuhteen mukaisesti."
+   },
+   "pdf_page_size_width_warning_2": {
+      "message": "Jos tuloksena oleva asiakirja koostuu kahdesta sivusta ja viimeinen sivu on vähintään 50 % tyhjä, sivut liitetään yhteen."
+   },
+   "popup_action_required": {
+      "message": "Tarvittavat toimet"
+   },
+   "popup_label_10_seconds": {
+      "message": "10 sekuntia"
+   },
+   "popup_label_30_seconds": {
+      "message": "30 sekuntia"
+   },
+   "popup_label_5_seconds": {
+      "message": "5 sekuntia"
+   },
+   "popup_label_60_seconds": {
+      "message": "60 sekuntia"
+   },
+   "popup_label_additional_options": {
+      "message": "Lisävaihtoehdot"
+   },
+   "popup_label_create_separate_folder": {
+      "message": "Luo tätä tehtävää varten erillinen kansio"
+   },
+   "popup_label_do_not_wait": {
+      "message": "Älä odota"
+   },
+   "popup_label_how_to_save_captures": {
+      "message": "Valitse tallennusmuoto"
+   },
+   "popup_label_long_batch": {
+      "message": "Pitkäaikaisissa tehtävissä varmista, että tietokone ei nukahda - se keskeyttää tehtävän suorittamisen."
+   },
+   "popup_label_max_time_to_wait": {
+      "message": "Maksimi odotusaika, kunnes sivu on ladattu"
+   },
+   "popup_label_only_visible_part_available": {
+      "message": "Lite-versio on rajoitettu kaappaamaan vain näkyvä osa sivuista."
+   },
+   "popup_label_override_scrolling_speed": {
+      "message": "Ohita vieritysnopeus"
+   },
+   "popup_label_show_files_in_folder": {
+      "message": "Näytä tiedostot kansiossa valmistumisen jälkeen"
+   },
+   "popup_label_specify_mode": {
+      "message": "Määritä tila"
+   },
+   "popup_label_specify_urls": {
+      "message": "Määritä kaapattavat URL-osoitteet"
+   },
+   "popup_label_unlimited": {
+      "message": "Ei rajoitettu"
+   },
+   "popup_label_when_loaded": {
+      "message": "Kun se on ladattu, odota, että se renderöityy kokonaan."
+   },
+   "popup_tabs_permission_learn_more": {
+      "message": "Lue lisää"
+   },
+   "popup_tabs_permission_line1": {
+      "message": "Paremman kuvauskokemuksen tarjoamiseksi FireShot tarvitsee lisäoikeuksia."
+   },
+   "popup_tabs_permission_line2": {
+      "message": "Voit jättää tämän pyynnön huomiotta, jos haluat tallentaa tämän sivun oletusarvoisesti, mutta jotkin sivun elementit saatetaan tallentaa virheellisesti."
+   },
+   "popup_tabs_permission_line3": {
+      "message": "miksi FireShot pyytää lisäoikeuksia ja miten se vaikuttaa käyttökokemukseesi."
+   },
+   "promo_enable_history": {
+      "message": "Pääsy historiaan"
+   },
+   "scrolling_content_hint_banner": {
+      "message": "Paina $key$ ottaaksesi kiinni tietystä HTML-elementistä.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "scrolling_content_hint_div": {
+      "message": "Pidä $key$ ja napsauta tätä aluetta ottaaksesi tämän elementin kokonaan kiinni",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "selection_from_this_point_to_bottom": {
+      "message": "Napsauta kaapataksesi tästä kohdasta sivun loppuun"
+   },
+   "selection_from_top_to_this_point": {
+      "message": "Napsauta kaapataksesi sivun alusta tähän kohtaan"
+   },
+   "selection_hint": {
+      "message": "VINKKI:"
+   },
+   "selection_scroll_and_capture": {
+      "message": "Tallenna vierittämällä:"
+   },
+   "title_suppress_warning": {
+      "message": "Sulje tämä varoitus 10 päivän ajaksi"
+   },
+   "void": {
+      "message": ""
+   }
+}

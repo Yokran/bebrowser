@@ -1,0 +1,272 @@
+{
+   "action_about": {
+      "message": "Hakkında..."
+   },
+   "action_api": {
+      "message": "FireShot API"
+   },
+   "action_capture_browser": {
+      "message": "Tarayıcı penceresinin ekran görüntüsünü al"
+   },
+   "action_capture_entire": {
+      "message": "Tam sayfa ekran görüntüsünü al ve"
+   },
+   "action_capture_entire_lite": {
+      "message": "Tam sayfa ekran görüntüsünü al"
+   },
+   "action_capture_selection": {
+      "message": "Seçili ekran görüntüsü al ve"
+   },
+   "action_capture_selection_lite": {
+      "message": "Seçili ekran görüntüsü al"
+   },
+   "action_capture_tabs": {
+      "message": "Bütün sekmelerin ekran görüntüsünü al"
+   },
+   "action_capture_visible": {
+      "message": "Görünür kısmın ekran görüntüsünü al ve"
+   },
+   "action_capture_visible_lite": {
+      "message": "Görünür kısmın ekran görüntüsünü al"
+   },
+   "action_copy": {
+      "message": "Panoya kopyala"
+   },
+   "action_edit": {
+      "message": "Düzenle"
+   },
+   "action_email": {
+      "message": "E-Posta"
+   },
+   "action_enter_license": {
+      "message": "Lisans bilgisi girin"
+   },
+   "action_external": {
+      "message": "Başka editörle aç"
+   },
+   "action_install_native": {
+      "message": "Gelişmiş özellikleri deneyin"
+   },
+   "action_license_info": {
+      "message": "Lisans bilgisi..."
+   },
+   "action_micsellaneous": {
+      "message": "Çeşitli"
+   },
+   "action_onenote": {
+      "message": "OneNote'a gönder"
+   },
+   "action_open_clipboard": {
+      "message": "Panodan aç"
+   },
+   "action_open_file": {
+      "message": "Dosya aç"
+   },
+   "action_options": {
+      "message": "Ayarlar"
+   },
+   "action_print": {
+      "message": "Yazdır"
+   },
+   "action_register": {
+      "message": "Kayıt ol"
+   },
+   "action_resume": {
+      "message": "Düzenlemeye devam et"
+   },
+   "action_save": {
+      "message": "Kaydet"
+   },
+   "action_save_pdf": {
+      "message": "PDF olarak Kaydet"
+   },
+   "action_save_pdf_single": {
+      "message": "Tek bir pdf olarak kaydet"
+   },
+   "action_support": {
+      "message": "Destek"
+   },
+   "action_switch_pro": {
+      "message": "Pro'ya geç"
+   },
+   "action_switch_pro_tabs": {
+      "message": "Devam etmek için Pro özellikleri etkinleştir..."
+   },
+   "action_upload": {
+      "message": "Yükle"
+   },
+   "action_view_demo": {
+      "message": "Demoyu görüntüle"
+   },
+   "application_description": {
+      "message": "Web sayfasının tamamının ekran görüntüsünü al. Çek, düzenle, kaydet (PDF/JPEG/GIF/PNG), yükle, yazdır veya gönder (OneNote, pano, e-posta)."
+   },
+   "application_title": {
+      "message": "Tam Sayfa Ekran Görüntüsü Al - FireShot"
+   },
+   "captured_buy_pro_button": {
+      "message": "Pro'yu Satın Al"
+   },
+   "captured_copy_clipboard": {
+      "message": "Panoya kopyala"
+   },
+   "captured_copy_clipboard_learn_button": {
+      "message": "Nasıl öğren..."
+   },
+   "captured_get_free_button": {
+      "message": "Bedava dene"
+   },
+   "captured_print": {
+      "message": "Yazdır"
+   },
+   "captured_print_button": {
+      "message": "Yazdır"
+   },
+   "captured_recommend_us": {
+      "message": "FireShot'ı tavsiye et"
+   },
+   "captured_save_as_image": {
+      "message": "Resim olarak Kaydet"
+   },
+   "captured_save_as_image_button": {
+      "message": "Resim olarak Kaydet"
+   },
+   "captured_save_as_pdf": {
+      "message": "PDF olarak Kaydet"
+   },
+   "captured_save_panel_title": {
+      "message": "Ekran Görüntüsünü Kaydet"
+   },
+   "captured_saving_options": {
+      "message": "özelleştir"
+   },
+   "captured_setup_hotkeys": {
+      "message": "Kısayol tuşları ve dosya ayarı kurulumu..."
+   },
+   "captured_upgrade_link_1": {
+      "message": "Yakala, Açıklama Ekle, Yazdır ve Kaydet, Düzenle, Yükle, E-Posta gönder, OneNote'a yükle veya başka programa aktar."
+   },
+   "captured_upgrade_link_2": {
+      "message": "FireShot Pro'ya Yükselt"
+   },
+   "captured_upgrade_link_3": {
+      "message": "FireShot'ın başka bir sürümünü kullanıyordum."
+   },
+   "captured_upgrade_link_4": {
+      "message": "Geri alabilir miyim?"
+   },
+   "enable_checkbox": {
+      "message": "Etkinleştir"
+   },
+   "options_button_apply": {
+      "message": "Uygula"
+   },
+   "options_button_save_close": {
+      "message": "Kaydet ve Kapat"
+   },
+   "options_button_setup": {
+      "message": "Kurulum için tıkla"
+   },
+   "options_label_and": {
+      "message": "ve"
+   },
+   "options_label_capturing": {
+      "message": "Ekran görüntüsü"
+   },
+   "options_label_close_tab_after_saving": {
+      "message": "Kaydettikten sonra sekmeyi kapat"
+   },
+   "options_label_customize_saving": {
+      "message": "Kaydetme işlemini özelleştir"
+   },
+   "options_label_default_filename_template": {
+      "message": "Varsayılan dosya adı şablonu:"
+   },
+   "options_label_default_folder": {
+      "message": "Varsayılan kayıt klasörü"
+   },
+   "options_label_default_folder_hint": {
+      "message": "Saklanan dosyayı içeren indirme dizinine göre bir dosya yolu muhtemelen alt dizinleri içermektedir.\nMutlak yollar, boş yollar ve geri-referans içeren yollar bir hataya neden olur."
+   },
+   "options_label_editor_options": {
+      "message": "Editör ayarları"
+   },
+   "options_label_enable_context_menu": {
+      "message": "FireShot'ı içerik menüsünde göster"
+   },
+   "options_label_file_settings": {
+      "message": "Dosya seçenekleri"
+   },
+   "options_label_fireshot_options": {
+      "message": "FireShot ayarları"
+   },
+   "options_label_hotkey": {
+      "message": "Kısayollar"
+   },
+   "options_label_last_action_hotkey": {
+      "message": "Son kullanılan işlem"
+   },
+   "options_label_no_saveas_dialog": {
+      "message": "'Farklı Kaydet' mesajını gösterme"
+   },
+   "options_label_open_folder_after_saving": {
+      "message": "İndirilen dosyayı kaydettikten sonra klasörde göster"
+   },
+   "options_label_save_image_as": {
+      "message": "Resmi farklı kaydet:"
+   },
+   "options_label_specify_editor_options": {
+      "message": "Editör ve kaydetme seçeneklerini, dosya adlandırma tercihlerini, stilleri vb. belirle."
+   },
+   "options_label_specify_hotkey": {
+      "message": "FireShot'ı başlatmak için tuş kombinasyonunu belirle."
+   },
+   "options_label_specify_resizing_options": {
+      "message": "Yeniden boyutlandırma seçenekleri ve seslerini belirle."
+   },
+   "options_label_template_day": {
+      "message": "Gün"
+   },
+   "options_label_template_hour": {
+      "message": "Saat"
+   },
+   "options_label_template_limit_1": {
+      "message": "Dosya adı uzunluğunu"
+   },
+   "options_label_template_limit_2": {
+      "message": "karakter ile sınırla"
+   },
+   "options_label_template_minutes": {
+      "message": "Dakika"
+   },
+   "options_label_template_month": {
+      "message": "Ay"
+   },
+   "options_label_template_pad_1": {
+      "message": "Ped numarası"
+   },
+   "options_label_template_pad_2": {
+      "message": "sıfır ile"
+   },
+   "options_label_template_seconds": {
+      "message": "Saniye"
+   },
+   "options_label_template_title": {
+      "message": "Sayfa Başlığı"
+   },
+   "options_label_template_url": {
+      "message": "Sayfa URL"
+   },
+   "options_label_template_website": {
+      "message": "Alan Adı"
+   },
+   "options_label_template_year": {
+      "message": "Yıl"
+   },
+   "options_link_filename_template_settings": {
+      "message": "Dosya adı şablonu seçenekleri"
+   },
+   "options_link_filename_template_settings_hide": {
+      "message": "Dosya adı şablonu seçeneklerini gizle"
+   }
+}

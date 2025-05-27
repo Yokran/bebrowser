@@ -1,0 +1,8 @@
+{
+   "extDesc": {
+      "message": "ページ上の変更に向けてウェブページとフィードをモニター。変更が検知され次第、SMSとEメール通知を入手。"
+   },
+   "extName": {
+      "message": "Distill Web Monitor"
+   }
+}

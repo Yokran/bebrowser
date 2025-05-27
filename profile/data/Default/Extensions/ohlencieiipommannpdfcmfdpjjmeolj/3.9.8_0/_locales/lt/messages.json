@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "Sureguliuokite nustatymus, kad pagerintumėte savo patirtį."
+   },
+   "affected_page": {
+      "message": "Paveiktas puslapis"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly gali būti užblokuotas kito jūsų įdiegto plėtinio, pavyzdžiui, reklamų blokavimo įrankio. Laikinai išjunkite kitus plėtinius ir bandykite dar kartą sukurti PDF."
+   },
+   "cancel": {
+      "message": "Atšaukti"
+   },
+   "capture_screenshot_manually": {
+      "message": "Naudokite mūsų ekrano kopijos funkciją, kad užfiksuotumėte šį puslapį, o tada eksportuokite jį kaip vaizdą arba PDF."
+   },
+   "capturing": {
+      "message": "Fiksuojama"
+   },
+   "capturing_desc": {
+      "message": "Fiksuojama ekrano kopija…"
+   },
+   "choose_paper_size": {
+      "message": "Pasirinkite norimą popieriaus dydį PDF failams."
+   },
+   "compress_pdf": {
+      "message": "Suglaudinti PDF"
+   },
+   "contact_us": {
+      "message": "Susisiekite su mumis:"
+   },
+   "convert_pdf": {
+      "message": "Konvertuoti PDF"
+   },
+   "current_view_screenshot": {
+      "message": "Vaizdo ekrano kopija"
+   },
+   "default_button": {
+      "message": "Numatytasis mygtukas"
+   },
+   "default_mode": {
+      "message": "Numatytas režimas"
+   },
+   "default_mode_checkbox": {
+      "message": "Nebekurkite šių parinkčių. Galite jas nustatymuose iš naujo įgalinti."
+   },
+   "default_mode_desc": {
+      "message": "Pasirinkite veiksmą, kuris automatiškai pasirenkamas spustelėjus mygtuką."
+   },
+   "delete": {
+      "message": "Spustelėkite norėdami ištrinti"
+   },
+   "dialog_close": {
+      "message": "Uždaryti"
+   },
+   "dialog_text": {
+      "message": "Siunčiama į jūsų spausdintuvą."
+   },
+   "dialog_text_btn": {
+      "message": "Siųsti iš naujo"
+   },
+   "dialog_title": {
+      "message": "Spausdinama jūsų puslapį"
+   },
+   "dont_show_again": {
+      "message": "Daugiau nerodyti"
+   },
+   "edit_pdf": {
+      "message": "Redaguoti PDF"
+   },
+   "email": {
+      "message": "El. paštas"
+   },
+   "email_article_sent": {
+      "message": "išsiuntė jums straipsnį"
+   },
+   "email_from": {
+      "message": "Nuo"
+   },
+   "email_message": {
+      "message": "Žinutė"
+   },
+   "email_product_sent_message": {
+      "message": "Jūsų el. laiškas išsiųstas. Galite uždaryti puslapį."
+   },
+   "email_send": {
+      "message": "Siųsti"
+   },
+   "email_sent_message": {
+      "message": "Jūsų el. laiškas išsiųstas"
+   },
+   "email_title": {
+      "message": "Siųsti šį puslapį el. paštu"
+   },
+   "email_to": {
+      "message": "Kam"
+   },
+   "full_page_screenshot": {
+      "message": "Pilnas ekranas"
+   },
+   "get_pro": {
+      "message": "Gauti Pro versiją"
+   },
+   "got_it": {
+      "message": "Supratau"
+   },
+   "image": {
+      "message": "Vaizdas"
+   },
+   "image_size_pref": {
+      "message": "Vaizdo dydžio nustatymas"
+   },
+   "image_size_pref_desc": {
+      "message": "Nustatykite vaizdų dydį, kai peržiūrite puslapius su plėtiniu."
+   },
+   "images": {
+      "message": "Paveikslėliai"
+   },
+   "lang_display_name": {
+      "message": "Lietuvių (Lithuanian)"
+   },
+   "language_setting": {
+      "message": "Kalba"
+   },
+   "language_setting_desc": {
+      "message": "Pasirinkite pageidaujamą kalbą."
+   },
+   "letter_paper_size": {
+      "message": "Laiškas"
+   },
+   "login": {
+      "message": "Prisijungti"
+   },
+   "margin": {
+      "message": "Paraštė"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "off": {
+      "message": "Išjungta"
+   },
+   "other_tools": {
+      "message": "Kiti įrankiai"
+   },
+   "page_blocking_printfriendly": {
+      "message": "Šis puslapis blokuoja PrintFriendly"
+   },
+   "page_size": {
+      "message": "Puslapio dydis"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "Atsisiųskite savo PDF"
+   },
+   "pdf_generation_error": {
+      "message": "PDF generavimo klaida"
+   },
+   "pdf_head": {
+      "message": "Generuojamas jūsų PDF"
+   },
+   "pdf_paper_size": {
+      "message": "PDF popieriaus dydis"
+   },
+   "print": {
+      "message": "Spausdinti"
+   },
+   "print_pdf": {
+      "message": "Spausdinti ir PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "Pašalinkite skelbimus ir naršymą iš tinklalapių. Puikiai tinka straipsniams ir tekstams."
+   },
+   "printer_friendly_page": {
+      "message": "Spausdinimui pritaikytas puslapis"
+   },
+   "printer_friendly_suggestion": {
+      "message": "Spausdinimui pritaikytas puslapis ne toks"
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly puslapis"
+   },
+   "pro_alert": {
+      "message": "Pro funkcija"
+   },
+   "reach_out_for_support": {
+      "message": "Dėl išsamesnės informacijos ar pagalbos, prašome kreiptis į mus adresu"
+   },
+   "read_more": {
+      "message": "Skaityti daugiau"
+   },
+   "remove_ads_description": {
+      "message": "Pašalinti reklamas ir navigaciją iš tinklalapių. Gerai veikia su straipsniais ir į tekstą orientuotais puslapiais."
+   },
+   "remove_images": {
+      "message": "Pašalinti paveikslėlius"
+   },
+   "report": {
+      "message": "Pranešti"
+   },
+   "resolve_issue": {
+      "message": "ir mes padėsime išspręsti šią problemą."
+   },
+   "save_as_image": {
+      "message": "Išsaugoti kaip paveikslėlį"
+   },
+   "save_as_pdf": {
+      "message": "Išsaugoti kaip PDF"
+   },
+   "save_changes": {
+      "message": "Išsaugoti"
+   },
+   "screenshot": {
+      "message": "Ekrano kopija"
+   },
+   "screenshot_image_format": {
+      "message": "Ekrano kopijos vaizdo formatas"
+   },
+   "screenshot_ready_soon": {
+      "message": "Jūsų ekrano kopija netrukus bus paruošta."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly veikia daugumoje svetainių, palengvindamas švaresnių, spausdinimui tinkamų puslapių ir ekrano nuotraukų kūrimą. Tačiau tam tikri puslapiai—pvz., naršyklės nustatymai, plėtinių parduotuvės ir kitos ribotos vietos—yra neprieinami dėl naršyklės politikos. Jei turite klausimų, susisiekite su mumis."
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "settings_saved": {
+      "message": "Jūsų nustatymai buvo išsaugoti."
+   },
+   "show_screenshot_message": {
+      "message": "Rodyti ekrano kopijos pranešimą spausdinimui pritaikytame rodinyje"
+   },
+   "something_went_wrong": {
+      "message": "Kažkas nepavyko"
+   },
+   "still_does_not_work": {
+      "message": "Jei vis tiek neveikia, susisiekite su mumis adresu"
+   },
+   "stop_capturing": {
+      "message": "Stabdyti fiksavimą"
+   },
+   "strict_security_settings": {
+      "message": "Atsiprašome, tačiau šis puslapis turi griežtus saugumo nustatymus (Turinio saugumo politika), kurie trukdo mums sukurti PrintFriendly puslapio versiją."
+   },
+   "style": {
+      "message": "Stilius"
+   },
+   "take_screenshot": {
+      "message": "Padarykite ekrano nuotrauką:"
+   },
+   "text_size_pref": {
+      "message": "Teksto dydžio nustatymas"
+   },
+   "text_size_pref_desc": {
+      "message": "Nustatykite teksto dydį, kai peržiūrite puslapius su plėtiniu."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly galėjo baigtis laikas kuriant PDF. Gali būti, kad jis buvo per didelis mūsų sistemai apdoroti."
+   },
+   "txt_size": {
+      "message": "Teksto dydis"
+   },
+   "unable_to_generate_pdf": {
+      "message": "Mes nesugebėjome sugeneruoti šiam puslapiui PDF."
+   },
+   "undo": {
+      "message": "Atšaukti"
+   },
+   "what_you_can_do": {
+      "message": "Ką galite padaryti"
+   },
+   "yes": {
+      "message": "Taip"
+   }
+}

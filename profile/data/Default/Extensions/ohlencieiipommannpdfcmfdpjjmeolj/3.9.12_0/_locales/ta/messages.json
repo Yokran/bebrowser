@@ -1,0 +1,281 @@
+{
+   "a4_paper_size": {
+      "message": "A4"
+   },
+   "adjust_settings": {
+      "message": "உங்கள் அனுபவத்தை மேம்படுத்த உங்கள் அமைப்புகளைச் சரிசெய்யவும்."
+   },
+   "affected_page": {
+      "message": "பாதிக்கப்பட்ட பக்கம்"
+   },
+   "blocked_by_extension": {
+      "message": "PrintFriendly உங்கள் நிறுவியுள்ள மற்றொரு நீட்டிப்பால் தடையுற்றிருக்கலாம், உதாரணமாக, ஒரு விளம்பர தடுப்பான். உங்கள் பிற நீட்டிப்புகளை தற்காலிகமாக முடக்கி, PDF ஐ மீண்டும் உருவாக்க முயற்சிக்கவும்."
+   },
+   "cancel": {
+      "message": "ரத்து செய்"
+   },
+   "capture_screenshot_manually": {
+      "message": "எங்கள் ஸ்கிரீன்ஷாட் அம்சத்தை பயன்படுத்தி இந்தப் பக்கத்தைப் பிடித்து, பின்னர் அதை படமாக அல்லது PDF ஆக ஏற்றுமதி செய்யவும்."
+   },
+   "capturing": {
+      "message": "கைப்பற்றுகிறது"
+   },
+   "capturing_desc": {
+      "message": "ஸ்கிரீன்ஷாட் பிடிக்கும்…"
+   },
+   "choose_paper_size": {
+      "message": "PDF-களுக்கான உங்கள் விருப்பமான தாள் அளவைத் தேர்வுசெய்க."
+   },
+   "compress_pdf": {
+      "message": "PDF ஐ சுருக்கு"
+   },
+   "contact_us": {
+      "message": "எங்களை தொடர்பு கொள்ளவும்:"
+   },
+   "convert_pdf": {
+      "message": "PDF ஐ மாற்று"
+   },
+   "current_view_screenshot": {
+      "message": "காட்சி ஸ்கிரீன்ஷாட்"
+   },
+   "default_button": {
+      "message": "இயல்புநிலை பொத்தான்"
+   },
+   "default_mode": {
+      "message": "இயல்புநிலை முறையில்"
+   },
+   "default_mode_checkbox": {
+      "message": "இந்த விருப்பங்களை மீண்டும் காண்பிக்க வேண்டாம். அமைப்புகளில் இயக்கவும்."
+   },
+   "default_mode_desc": {
+      "message": "நீக்கு பட்டனை அழுத்தும் போது தானாக தேர்ந்தெடுக்கப்படும் செயல்பாட்டை தேர்ந்தெடுக்கவும்."
+   },
+   "delete": {
+      "message": "நீக்க கிளிக் செய்யவும்"
+   },
+   "dialog_close": {
+      "message": "மூடு"
+   },
+   "dialog_text": {
+      "message": "உங்கள் பிரிண்டருக்கு அனுப்புகிறது."
+   },
+   "dialog_text_btn": {
+      "message": "மீண்டும் அனுப்பு"
+   },
+   "dialog_title": {
+      "message": "உங்கள் பக்கத்தை அச்சிடுகிறது"
+   },
+   "dont_show_again": {
+      "message": "இதை மீண்டும் காட்ட வேண்டாம்."
+   },
+   "edit_pdf": {
+      "message": "PDF ஐத் திருத்து"
+   },
+   "email": {
+      "message": "மின்னஞ்சல்"
+   },
+   "email_article_sent": {
+      "message": "உங்களுக்கு ஒரு கட்டுரையை அனுப்பினார்"
+   },
+   "email_from": {
+      "message": "அனுப்புனர்"
+   },
+   "email_message": {
+      "message": "செய்தி"
+   },
+   "email_product_sent_message": {
+      "message": "உங்கள் மின்னஞ்சல் அனுப்பப்பட்டது. பக்கத்தை மூடலாம்."
+   },
+   "email_send": {
+      "message": "அனுப்பு"
+   },
+   "email_sent_message": {
+      "message": "உங்கள் மின்னஞ்சல் அனுப்பப்பட்டது"
+   },
+   "email_title": {
+      "message": "இந்தப் பக்கத்தை மின்னஞ்சலில் அனுப்பு"
+   },
+   "email_to": {
+      "message": "பெறுநர்"
+   },
+   "full_page_screenshot": {
+      "message": "முழு பக்கம் ஸ்கிரீன்ஷாட்"
+   },
+   "get_pro": {
+      "message": "புரோ பதிப்பைப் பெறுக"
+   },
+   "got_it": {
+      "message": "புரிந்தது"
+   },
+   "image": {
+      "message": "படம்"
+   },
+   "image_size_pref": {
+      "message": "படத்தின் அளவு விருப்பம்"
+   },
+   "image_size_pref_desc": {
+      "message": "நீட்சியுடன் பக்கங்களைப் பார்க்கும் போது படங்களின் அளவை அமைக்கவும்."
+   },
+   "images": {
+      "message": "படங்கள்"
+   },
+   "lang_display_name": {
+      "message": "தமிழ் (Tamil)"
+   },
+   "language_setting": {
+      "message": "மொழி"
+   },
+   "language_setting_desc": {
+      "message": "உங்கள் விருப்பமான மொழியைத் தேர்வுசெய்க."
+   },
+   "letter_paper_size": {
+      "message": "கடிதம்"
+   },
+   "login": {
+      "message": "உள்நுழைய"
+   },
+   "margin": {
+      "message": "விளிம்பு"
+   },
+   "no": {
+      "message": "இல்லை"
+   },
+   "off": {
+      "message": "அணை"
+   },
+   "other_tools": {
+      "message": "கருவிகள்"
+   },
+   "page_blocking_printfriendly": {
+      "message": "இந்தப் பக்கம் PrintFriendly-ஐத் தடுக்கிறது"
+   },
+   "page_size": {
+      "message": "பக்க அளவு"
+   },
+   "pdf": {
+      "message": "PDF"
+   },
+   "pdf_download": {
+      "message": "உங்கள் PDF ஐ பதிவிறக்கவும்"
+   },
+   "pdf_generation_error": {
+      "message": "PDF உருவாக்கும் பிழை"
+   },
+   "pdf_head": {
+      "message": "உங்கள் PDF ஐ உருவாக்குகிறது"
+   },
+   "pdf_paper_size": {
+      "message": "PDF தாள் அளவு"
+   },
+   "print": {
+      "message": "அச்சிடு"
+   },
+   "print_pdf": {
+      "message": "அச்சிடு & PDF"
+   },
+   "printer_friendly_desc": {
+      "message": "விளம்பரங்களையும் வழிசெலுத்தலையும் அகற்றவும். உரைக்கும் கட்டுரைக்கும் சிறந்தது."
+   },
+   "printer_friendly_page": {
+      "message": "அச்சிடுவதற்கு ஏற்ற பக்கம்"
+   },
+   "printer_friendly_suggestion": {
+      "message": "அச்சிடுவதற்கு ஏற்ற பதிப்பு நீங்கள் எதிர்பார்த்தது போல் இல்லையா? திரைப்பிடிப்பு எடுக்க முயற்சிக்கவும்."
+   },
+   "printfriendly_page": {
+      "message": "PrintFriendly பக்கம்"
+   },
+   "pro_alert": {
+      "message": "புரோ அம்சம்"
+   },
+   "reach_out_for_support": {
+      "message": "மேலும் விவரங்கள் அல்லது ஆதரவிற்கு, எங்களை தொடர்பு கொள்ளவும்"
+   },
+   "read_more": {
+      "message": "மேலும் படிக்க"
+   },
+   "remove_ads_description": {
+      "message": "Ondoa matangazo na urambazaji kutoka kwenye kurasa za wavuti. Inafanya kazi vizuri na makala na kurasa zinazolenga maandishi."
+   },
+   "remove_images": {
+      "message": "படங்களை அகற்று"
+   },
+   "report": {
+      "message": "அறிக்கை"
+   },
+   "resolve_issue": {
+      "message": ", மற்றும் பிரச்சினையைத் தீர்க்க நாங்கள் உங்களுக்கு உதவுவோம்."
+   },
+   "save_as_image": {
+      "message": "படமாக சேமி"
+   },
+   "save_as_pdf": {
+      "message": "PDF-ஆக சேமி"
+   },
+   "save_changes": {
+      "message": "சேமிக்க"
+   },
+   "screenshot": {
+      "message": "திரைப்பிடிப்பு"
+   },
+   "screenshot_image_format": {
+      "message": "திரைப்பிடிப்பு பட வடிவம்"
+   },
+   "screenshot_ready_soon": {
+      "message": "உங்கள் திரைப்பிடிப்பு சிறிது நேரத்தில் தயாராகும்."
+   },
+   "screenshot_restriction_message": {
+      "message": "PrintFriendly பெரும்பாலான இணையதளங்களில் செயல்படுகிறது, சுத்தமான, அச்சு நட்பு பக்கங்களையும் திரைப்படங்களையும் உருவாக்க எளிதாக்குகிறது. இருப்பினும், உலாவி கொள்கைகள் காரணமாக சில பக்கங்கள்—உலாவி அமைப்புகள், நீட்டிப்பு கடைகள், மற்றும் பிற வரையறுக்கப்பட்ட பகுதிகள்—வரையறுக்கப்பட்டுள்ளன. உங்கள் கேள்விகள் இருந்தால் தயவுசெய்து எங்களை தொடர்பு கொள்ளவும்."
+   },
+   "settings": {
+      "message": "அமைப்புகள்"
+   },
+   "settings_saved": {
+      "message": "உங்கள் அமைப்புகள் சேமிக்கப்பட்டன."
+   },
+   "show_screenshot_message": {
+      "message": "அச்ச-friendly காட்சியில் ஸ்கிரீன்ஷாட் செய்தியை காட்டு"
+   },
+   "something_went_wrong": {
+      "message": "ஏதோ தவறாகிவிட்டது"
+   },
+   "still_does_not_work": {
+      "message": "இன்னும் இது வேலைசெய்யாவிட்டால், தயவுசெய்து எங்களை தொடர்பு கொள்ளவும்"
+   },
+   "stop_capturing": {
+      "message": "கைப்பற்றுவதை நிறுத்து"
+   },
+   "strict_security_settings": {
+      "message": "மன்னிக்கவும், ஆனால் இந்தப் பக்கம் கடுமையான பாதுகாப்பு அமைப்புகளை (உள்ளடக்க பாதுகாப்பு கொள்கை) கொண்டுள்ளது, இது பக்கத்தின் PrintFriendly பதிப்பை உருவாக்குவதில் தடை செய்கிறது."
+   },
+   "style": {
+      "message": "பாணி"
+   },
+   "take_screenshot": {
+      "message": "ஸ்கிரீன்ஷாட் எடுக்கவும்:"
+   },
+   "text_size_pref": {
+      "message": "உரை அளவு விருப்பம்"
+   },
+   "text_size_pref_desc": {
+      "message": "நீட்சியுடன் பக்கங்களைப் பார்க்கும் போது உரையின் அளவை அமைக்கவும்."
+   },
+   "timed_out_pdf": {
+      "message": "PrintFriendly PDF உருவாக்கும் போது நேரம் கடந்து விட்டது. இது எங்கள் அமைப்பிற்கு செயல்படுத்த முடியாத அளவிற்கு பெரியதாக இருக்கலாம்."
+   },
+   "txt_size": {
+      "message": "உரை அளவு"
+   },
+   "unable_to_generate_pdf": {
+      "message": "இந்தப் பக்கத்திற்கான PDF ஐ உருவாக்க எங்களால் முடியவில்லை."
+   },
+   "undo": {
+      "message": "செயல்தவிர்"
+   },
+   "what_you_can_do": {
+      "message": "நீங்கள் என்ன செய்யலாம்"
+   },
+   "yes": {
+      "message": "ஆம்"
+   }
+}

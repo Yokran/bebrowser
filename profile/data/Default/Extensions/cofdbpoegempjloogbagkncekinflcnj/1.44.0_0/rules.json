@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        {
+          "header": "referer",
+          "operation": "set",
+          "value": "https://www.deepl.com/"
+        }
+      ]
+    },
+    "condition": {
+      "excludedDomains": ["deepl.com"],
+      "urlFilter": "*://*.deepl.com/jsonrpc?client=chrome-extension,*",
+      "resourceTypes": ["xmlhttprequest"]
+    }
+  }
+]

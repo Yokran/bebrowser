@@ -1,0 +1,1 @@
+import{j as e,v as t,c as r}from"./index-DrfNI-Yq.js";import{p as o}from"./const-AjciyqwA.js";function n(){return e.jsx(t,{projectId:o,extId:chrome.runtime.id,callbackExtId:chrome.runtime.id,showNoNeedLoginWarning:!1})}r.createRoot(document.getElementById("app")).render(e.jsx(n,{}));
